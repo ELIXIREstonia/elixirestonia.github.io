@@ -81,17 +81,22 @@ footer {
   box-shadow: 0 -3px 3px #bbb;
 }
 
-footer section:first-child img {
+footer section + section {
+  margin: 2em 0;
+}
+
+footer section:first-child p.logos {
+  background-color: #fff;
+  border-radius: 3px;
+  opacity: 0.9;
+  width: fit-content;
+  padding: 0.3em 1em;
+}
+
+footer section:last-child img {
   float: left;
   margin: 5px 10px 0 0;
   opacity: 0.8;
-}
-
-footer section:last-child p.logos {
-  background-color: #fff;
-  border-radius: 3px;
-  text-align: center;
-  opacity: 0.9;
 }
 
 footer a, footer a:link, footer a:visited {
