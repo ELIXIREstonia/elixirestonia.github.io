@@ -5,7 +5,7 @@ hide:
 ---
 # Contact
 
-!!! note
+!!! note ""
     If you would like to be notified about the events, trainings and workshops
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
