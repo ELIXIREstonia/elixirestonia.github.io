@@ -1,0 +1,44 @@
+{% block footer %}
+<footer>
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+        <div class="md-copyright__highlight">
+          <section>
+            <p><img alt="EU flag" width="48" height="32" src="{{ 'assets/images/eu-flag-bw.jpg' | url }}"/>
+              ELIXIR is partly funded by the European Commission <br> within the
+              Research Infrastructures programme of Horizon 2020.</p>
+
+            <p><small>The sole responsibility for the content of this webpage
+              lies with ELIXIR Estonia.
+              <br>
+              It does not necessarily reflect the opinion of the European Union,
+              and the European Commission is not responsible for any use that
+              may be made of the information contained therein.</small>
+            </p>
+          </section>
+
+          <section>
+            <p>ELIXIR Estonia follows ELIXIR
+              <a target="_blank" href="https://drive.google.com/file/d/1IM5ePgR2JI48gU_Sgow5n2HTb28NTbl0/view">Code
+              of Conduct</a> when organising events.</p>
+            <p>ELIXIR Estonia Services <a href="{{ 'terms/' | url }}">Terms of Use</a>.</p>
+
+            <p class="logos">
+              <a href="https://www.etag.ee">
+                <img alt="ETAG logo" width="234" height="58" src="{{ 'assets/images/etag-logo.png' | url }}"/>
+              </a>
+              <a href="http://adm.archimedes.ee/str/toetuse-edenemine/periood-2014-2020/projektid/riiklik-infrastruktuur/">
+                <img alt="Funded by EU and Estonia" width="100" height="58" src="{{ 'assets/images/eu-ee-logos.jpg' | url }}"/>
+              </a>
+            </p>
+          </section>
+        </div>
+        <div style="text-align: center">
+          Made with <a href="https://squidfunk.github.io/mkdocs-material/"
+            target="_blank" rel="noopener">Material for MkDocs</a>
+      </div>
+    </div>
+  </div>
+</footer>
+{% endblock footer %}

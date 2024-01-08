@@ -1,0 +1,1165 @@
+# This file is manually edited. "entries" must be root element, article IDs
+# (last-name of first author + year) as child-elements (must be unique).
+# The rest follows standard BibTeX field names:
+# https://www.bibtex.com/e/article-entry/
+#
+# NOTES:
+# - use quotes for titles containing colon, or multiline it using pipe symbol.
+# - specify link to tool using 'url' element (title will link to that url).
+# - specify DOI links: only the path (without forward-slash as prefix).
+# - specify "elixir: true" to refer to ELIXIR collaboration.
+# - specify months using 3 letters: Jan, Feb, Mar, Apr, Jun, ...
+# - default order: years descending, months ascending.
+
+entries:
+
+  Kolberg2023:
+    type: article
+    title: |
+      g: Profiler—interoperable web service for functional enrichment
+      analysis and gene identifier mapping (2023 update)
+    author:
+    - first: L.
+      last: Kolberg
+    - first: U.
+      last: Raudvere
+    - first: I.
+      last: Kuzmin
+    - first: P.
+      last: Adler
+    - first: J.
+      last: Vilo
+    - first: H.
+      last: Peterson
+    year: 2023
+    month: Jul
+    journal: Nucleic Acids Research
+    volume: 51
+    number: W1
+    pages: W207--W212
+    doi: 10.1093/nar/gkad347
+    url: https://academic.oup.com/nar/article/51/W1/W207/7152869
+
+  Kerimov2023:
+    type: article
+    title: |
+      eQTL Catalogue 2023: New datasets, X chromosome QTLs, and improved
+      detection and visualisation of transcript-level QTLs
+    author:
+    - first: N.
+      last: Kerimov
+    - first: R.
+      last: Tambets
+    - first: J.
+      middle: D.
+      last: Hayhurst
+    - first: I.
+      last: Rahu
+    - first: P.
+      last: Kolberg
+    - first: U.
+      last: Raudvere
+    - first: I.
+      last: Kuzmin
+    - first: A.
+      last: Chowdhary
+    - first: A.
+      last: Vija
+    - first: H.
+      middle: J.
+      last: Teras
+    - first: M.
+      last: Kanai
+    - first: J.
+      last: Ulirsch
+    - first: M.
+      last: Ryten
+    - first: J.
+      last: Hardy
+    - first: S.
+      last: Guelfi
+    - first: D.
+      last: Trabzuni
+    - first: S.
+      last: Kim-Hellmuth
+    - first: W.
+      last: Rayner
+    - first: H.
+      last: Finucane
+    - first: H.
+      last: Peterson
+    - first: A.
+      last: Mosaku
+    - first: H.
+      last: Parkinson
+    - first: K.
+      last: Alasoo
+    year: 2023
+    month: Sep
+    journal: PLoS Genetics
+    doi: 10.1371/journal.pgen.1010932
+
+  Koeppel2023:
+    type: article
+    title: Prediction of prime editing insertion efficiencies using sequence
+      features and DNA repair determinants
+    author:
+    - first: J.
+      last: Koeppel
+    - first: J.
+      last: Weller
+    - first: E.
+      middle: M.
+      last: Peets
+    - first: A.
+      last: Pallaseni
+    - first: I.
+      last: Kuzmin
+    - first: U.
+      last: Raudvere
+    - first: H.
+      last: Peterson
+    - first: F.
+      middle: G.
+      last: Liberante
+    - first: L.
+      last: Parts
+    year: 2023
+    month: Oct
+    journal: Nature Biotechnology
+    volume: 41
+    pages: 1446--1456
+    doi: 10.1038/s41587-023-01678-y
+    url: https://www.nature.com/articles/s41587-023-01678-y
+
+  Uusküla:
+    type: article
+    title: |
+      The 1st year of the COVID-19 epidemic in Estonia: a population-based
+      nationwide sequential/consecutive cross-sectional study
+    author:
+    - first: A.
+      last: Uusküla
+    - first: R.
+      last: Kalda
+    - first: M.
+      last: Solvak
+    - first: M.
+      last: Jürisson
+    - first: M.
+      last: Käärik
+    - first: K.
+      last: Fischer
+    - first: A.
+      last: Keis
+    - first: U.
+      last: Raudvere
+    - first: J.
+      last: Vilo
+    - first: H.
+      last: Peterson
+    - first: E.
+      last: Käärik
+    - first: M.
+      last: Metspalu
+    - first: T.
+      last: Jürgenson
+    - first: L.
+      last: Milani
+    - first: L.
+      last: Kolberg
+    - first: E.-M.
+      last: Tiit
+    - first: K.
+      last: Vassil
+    year: 2022
+    month: Apr
+    journal: Public Health
+    volume: 205
+    pages: 150--156
+    doi: 10.1016/j.puhe.2022.02.004
+
+  Kerimov2021:
+    type: article
+    title: A compendium of uniformly processed human gene expression and
+      splicing quantitative trait loci
+    author:
+    - first: N.
+      last: Kerimov
+    - first: J.
+      middle: D.
+      last: Hayhurst
+    - first: K.
+      last: Peikova
+    - first: J.
+      middle: R.
+      last: Manning
+    - first: P.
+      last: Walter
+    - first: L.
+      last: Kolberg
+    - first: M.
+      last: Samoviča
+    - first: M.
+      middle: P.
+      last: Sakthivel
+    - first: I.
+      last: Kuzmin
+    - first: S.
+      middle: J.
+      last: Trevanion
+    - first: T.
+      last: Burdett
+    - first: S.
+      last: Jupp
+    - first: H.
+      last: Parkinson
+    - first: I.
+      last: Papatheodorou
+    - first: A.
+      middle: D.
+      last: Yates
+    - first: D.
+      middle: R.
+      last: Zerbino
+    - first: K.
+      last: Alasoo
+    year: 2021
+    month: Sep
+    journal: Nature genetics
+    volume: 53
+    pages: 1290--1299
+    doi: 10.1038/s41588-021-00924-w
+    url: https://elixir.ut.ee/eqtl/
+
+  Gurwitz2020:
+    type: article
+    elixir: true
+    title: A framework to assess the quality and impact of bioinformatics
+      training across ELIXIR
+    author:
+    - first: K.
+      middle: T.
+      last: Gurwitz
+    - first: P
+      middle: S.
+      last: Gaur
+    - first: L.
+      middle: J.
+      last: Bellis
+    - first: L.
+      last: Larcombe
+    - first: E.
+      last: Alloza
+    - first: B.
+      middle: L.
+      last: Balint
+    - first: A.
+      last: Botzki
+    - first: J.
+      last: Dimec
+    - first: V.
+      middle: D.
+      last: Angel
+    - first: P.
+      middle: L.
+      last: Fernandes
+    - first: E.
+      last: Korpelainen
+    - first: R.
+      last: Krause
+    - first: M.
+      last: Kuzak
+    - first: L.
+      last: Le Pera
+    - first: B.
+      last: Leskošek
+    - first: J.
+      middle: M.
+      last: Lindvall
+    - first: J.
+      middle: D.
+      last: Marek
+    - first: P.
+      middle: A.
+      last: Martinez
+    - first: T.
+      last: Muyldermans
+    - first: S.
+      last: Nygård
+    - first: P.
+      middle: M.
+      last: Palagi
+    - first: H.
+      last: Peterson
+    - first: F.
+      last: Psomopoulos
+    - first: V.
+      last: Spiwok
+    - first: C.
+      middle: W. G.
+      last: van Gelder
+    - first: A.
+      last: Via
+    - first: M.
+      last: Vidak
+    - first: D.
+      last: Wibberg
+    - first: S.
+      middle: L.
+      last: Morgan
+    - first: G.
+      last: Rustici
+    year: 2020
+    month: Jul
+    journal: PLoS Computational Biolology
+    doi: 10.1371/journal.pcbi.1007976
+
+  Fishman2020:
+    type: article
+    title: 'PAWER: Protein Array Web ExploreR'
+    author:
+    - first: D.
+      last: Fishman
+    - first: I.
+      last: Kuzmin
+    - first: P.
+      last: Adler
+    - first: J.
+      last: Vilo
+    - first: H.
+      last: Peterson
+    year: 2020
+    month: Sep
+    journal: BMC Bioinformatics
+    volume: 21
+    number: 411
+    doi: 10.1186/s12859-020-03722-z
+    url: https://biit.cs.ut.ee/pawer/
+
+  Ison2020:
+    type: article
+    elixir: true
+    title: Community curation of bioinformatics software and data resources
+    author:
+    - first: J.
+      last: Ison
+    - first: H.
+      last: Ménager
+    - first: B.
+      last: Brancotte
+    - first: E.
+      last: Jaaniso
+    - first: A.
+      last: Salumets
+    - first: T.
+      last: Raček
+    - first: A.-L.
+      last: Lamprecht
+    - first: M.
+      last: Palmblad
+    - first: M.
+      last: Kalaš
+    - first: P.
+      last: Chmura
+    - first: J.
+      middle: M.
+      last: Hancock
+    - first: V.
+      last: Schwämmle
+    - first: H.-I.
+      last: Ienasescu
+    year: 2020
+    month: Sep
+    journal: Briefings in Bioinformatics
+    volume: 21
+    number: 5
+    pages: 1697--1705
+    doi: 10.1093/bib/bbz075
+
+  Kolberg2020:
+    type: article
+    title: |
+      gprofiler2 -- an R package for gene list functional enrichment analysis
+      and namespace conversion toolset g:Profiler [version 2; peer review: 2
+      approved]
+    author:
+    - first: L.
+      last: Kolberg
+    - first: U.
+      last: Raudvere
+    - first: I.
+      last: Kuzmin
+    - first: J.
+      last: Vilo
+    - first: H.
+      last: Peterson
+    year: 2020
+    month: Nov
+    journal: F1000Res
+    volume: 9(ELIXIR)
+    number: 709
+    doi: 10.12688/f1000research.24956.2
+    url: https://cran.r-project.org/web/packages/gprofiler2/index.html
+
+  Raudvere2019:
+    type: article
+    title: |
+      g:Profiler: a web server for functional enrichment analysis, conversions of
+      gene lists (2019 update)
+    author:
+    - first: U.
+      last: Raudvere
+    - first: L.
+      last: Kolberg
+    - first: I.
+      last: Kuzmin
+    - first: T.
+      last: Arak
+    - first: P.
+      last: Adler
+    - first: H.
+      last: Peterson
+    - first: J.
+      last: Vilo
+    year: 2019
+    month: May
+    journal: Nucleic Acids Research
+    volume: 47
+    number: W1
+    pages: W191--W198
+    doi: 10.1093/nar/gkz369
+    url: https://biit.cs.ut.ee/gprofiler/
+
+  Ison2019:
+    type: article
+    elixir: true
+    title: |
+      The bio.tools registry of software tools and data resources for the life
+      sciences
+    author:
+    - first: J.
+      last: Ison
+    - first: H.
+      last: Ienasescu
+    - first: P.
+      last: Chmura
+    - first: E.
+      last: Rydza
+    - first: H.
+      last: Ménager
+    - first: M.
+      last: Kalaš
+    - first: V.
+      last: Schwämmle
+    - first: B.
+      last: Grüning
+    - first: N.
+      last: Beard
+    - first: R.
+      last: Lopez
+    - first: S.
+      last: Duvaud
+    - first: H.
+      last: Stockinger
+    - first: B.
+      last: Persson
+    - first: R.
+      middle: S.
+      last: Vařeková
+    - first: T.
+      last: Raček
+    - first: J.
+      last: Vondrášek
+    - first: H.
+      last: Peterson
+    - first: A.
+      last: Salumets
+    - first: I.
+      last: Jonassen
+    - first: R.
+      last: Hooft
+    - first: T.
+      last: Nyrönen
+    - first: A.
+      last: Valencia
+    - first: S.
+      last: Capella
+    - first: J.
+      last: Gelpí
+    - first: F.
+      last: Zambelli
+    - first: B.
+      last: Savakis
+    - first: B.
+      last: Leskošek
+    - first: K.
+      last: Rapacki
+    - first: C.
+      last: Blanchet
+    - first: R.
+      last: Jimenez
+    - first: A.
+      last: Oliveira
+    - first: G.
+      last: Vriend
+    - first: O.
+      last: Collin
+    - first: J.
+      last: van Helden
+    - first: P.
+      last: Løngreen
+    - first: S.
+      last: Brunak
+    year: 2019
+    month: Aug
+    journal: Genome Biology
+    volume: 20
+    number: 164
+    doi: 10.1186/s13059-019-1772-6
+
+  Kõressaar2018:
+    type: article
+    title: |
+      Primer3_masker: integrating masking of template sequence with primer design
+      software
+    author:
+    - first: T.
+      last: Kõressaar
+    - first: M.
+      last: Lepamets
+    - first: L.
+      last: Kaplinski
+    - first: K.
+      last: Raime
+    - first: R.
+      last: Andreson
+    - first: M.
+      last: Remm
+    year: 2018
+    month: Jun
+    journal: Bioinformatics
+    volume: 34
+    number: 11
+    pages: 1937--1938
+    doi: 10.1093/bioinformatics/bty036
+    url: https://bioinfo.ut.ee/primer3/
+
+  Kolberg2018:
+    type: article
+    title: |
+      funcExplorer: a tool for fast data-driven functional characterisation of
+      high-throughput expression data
+    author:
+    - first: L.
+      last: Kolberg
+    - first: I.
+      last: Kuzmin
+    - first: P.
+      last: Adler
+    - first: J.
+      last: Vilo
+    - first: H.
+      last: Peterson
+    year: 2018
+    month: Nov
+    journal: BMC Genomics volume
+    volume: 19
+    number: 817
+    doi: 10.1186/s12864-018-5176-x
+    url: https://biit.cs.ut.ee/funcexplorer/
+
+  Jiménez2017:
+    type: article
+    elixir: true
+    title: |
+      Four simple recommendations to encourage best practices in research software
+      [version 1; peer review: 3 approved]
+    author:
+    - first: R.
+      middle: C.
+      last: Jiménez
+    - first: M.
+      last: Kuzak
+    - first: M.
+      last: Alhamdoosh
+    - first: M.
+      last: Barker
+    - first: B.
+      last: Batut
+    - first: M.
+      last: Borg
+    - first: S.
+      last: Capella-Gutierrez
+    - first: N.
+      middle: C.
+      last: Hong
+    - first: M.
+      last: Cook
+    - first: M.
+      last: Corpas
+    - first: M.
+      last: Flannery
+    - first: L.
+      last: Garcia
+    - first: J.
+      middle: L.
+      last: Gelpí
+    - first: S.
+      last: Gladman
+    - first: C.
+      last: Goble
+    - first: M.
+      middle: G.
+      last: Ferreiro
+    - first: A.
+      last: Gonzalez-Beltran
+    - first: P.
+      middle: C.
+      last: Griffin
+    - first: B.
+      last: Grüning
+    - first: J.
+      last: Hagberg
+    - first: P.
+      last: Holub
+    - first: R.
+      last: Hooft
+    - first: J.
+      last: Ison
+    - first: D.
+      middle: S.
+      last: Katz
+    - first: B.
+      last: Leskošek
+    - first: F.
+      middle: L.
+      last: Gómez
+    - first: L.
+      middle: J.
+      last: Oliveira
+    - first: D.
+      last: Mellor
+    - first: R.
+      last: Mosbergen
+    - first: N.
+      last: Mulder
+    - first: Y.
+      last: Perez-Riverol
+    - first: R.
+      last: Pergl
+    - first: H.
+      last: Pichler
+    - first: B.
+      last: Pope
+    - first: F.
+      last: Sanz
+    - first: M.
+      middle: V.
+      last: Schneider
+    - first: V.
+      last: Stodden
+    - first: R.
+      last: Suchecki
+    - first: R.
+      middle: S.
+      last: Vařeková
+    - first: H.-A.
+      last: Talvik
+    - first: I.
+      last: Todorov
+    - first: A.
+      last: Treloar
+    - first: S.
+      last: Tyagi
+    - first: M.
+      middle: ''
+      last: van Gompel
+    - first: D.
+      last: Vaughan
+    - first: A.
+      last: Via
+    - first: X.
+      last: Wang
+    - first: N.
+      middle: S.
+      last: Watson-Haigh
+    - first: S.
+      last: Crouch
+    year: 2017
+    month: Jun
+    journal: F1000Research
+    volume: 6
+    number: 876
+    doi: 10.12688/f1000research.11407.1
+
+  Hillion2017:
+    type: article
+    elixir: true
+    title: |
+      Using bio.tools to generate, annotate workbench tool descriptions
+      [version 1; peer review: 4 approved]
+    author:
+    - first: K.-H.
+      last: Hillion
+    - first: I.
+      last: Kuzmin
+    - first: A.
+      last: Khodak
+    - first: E.
+      last: Rasche
+    - first: M.
+      last: Crusoe
+    - first: H.
+      last: Peterson
+    - first: J.
+      last: Ison
+    - first: H.
+      last: Ménager
+    year: 2017
+    month: Nov
+    journal: F1000Research
+    volume: 6(ELIXIR)
+    number: 2074
+    doi: 10.12688/f1000research.12974.1
+
+  Modhukur2017:
+    type: article
+    title: |
+      MethSurv: a web tool to perform multivariable survival analysis using DNA
+      methylation data
+    author:
+    - first: V.
+      last: Modhukur
+    - first: T.
+      last: Iljasenko
+    - first: T.
+      last: Metsalu
+    - first: K.
+      last: Lokk
+    - first: T.
+      last: Laisk-Podar
+    - first: J.
+      last: Vilo
+    year: 2017
+    month: Dec
+    journal: Epigenomics
+    volume: 10
+    number: 3
+    doi: 10.2217/epi-2017-0118
+    url: https://biit.cs.ut.ee/methsurv/
+
+  Ison2016:
+    type: article
+    elixir: true
+    title: |
+      Tools and data services registry: a community effort to document
+      bioinformatics resources
+    author:
+    - first: J.
+      last: Ison
+    - first: K.
+      last: Rapacki
+    - first: H.
+      last: Ménager
+    - first: M.
+      last: Kalaš
+    - first: E.
+      last: Rydza
+    - first: P.
+      last: Chmura
+    - first: C.
+      last: Anthon
+    - first: N.
+      last: Beard
+    - first: K.
+      last: Berka
+    - first: D.
+      last: Bolser
+    - first: T.
+      last: Booth
+    - first: A.
+      last: Bretaudeau
+    - first: J.
+      last: Brezovsky
+    - first: R.
+      last: Casadio
+    - first: G.
+      last: Cesareni
+    - first: F.
+      last: Coppens
+    - first: M.
+      last: Cornell
+    - first: G.
+      last: Cuccuru
+    - first: K.
+      last: Davidsen
+    - first: G.
+      middle: D.
+      last: Vedova
+    - first: T.
+      last: Dogan
+    - first: O.
+      last: Doppelt-Azeroual
+    - first: L.
+      last: Emery
+    - first: E.
+      last: Gasteiger
+    - first: T.
+      last: Gatter
+    - first: T.
+      last: Goldberg
+    - first: M.
+      last: Grosjean
+    - first: B.
+      last: Grüning
+    - first: M.
+      last: Helmer-Citterich
+    - first: H.
+      last: Ienasescu
+    - first: V.
+      last: Ioannidis
+    - first: M.
+      middle: C.
+      last: Jespersen
+    - first: R.
+      last: Jimenez
+    - first: N.
+      last: Juty
+    - first: P.
+      last: Juvan
+    - first: M.
+      last: Koch
+    - first: C.
+      last: Laibe
+    - first: J.-W.
+      last: Li
+    - first: L.
+      last: Licata
+    - first: F.
+      last: Mareuil
+    - first: I.
+      last: Mičetić
+    - first: R.
+      middle: M.
+      last: Friborg
+    - first: S.
+      last: Moretti
+    - first: C.
+      last: Morris
+    - first: S.
+      last: Möller
+    - first: A.
+      last: Nenadic
+    - first: H.
+      last: Peterson
+    - first: G.
+      last: Profiti
+    - first: P.
+      last: Rice
+    - first: P.
+      last: Romano
+    - first: P.
+      last: Roncaglia
+    - first: R.
+      last: Saidi
+    - first: A.
+      last: Schafferhans
+    - first: V.
+      last: Schwämmle
+    - first: C.
+      last: Smith
+    - first: M.
+      middle: M.
+      last: Sperotto
+    - first: H.
+      last: Stockinger
+    - first: R.
+      middle: S.
+      last: Vařeková
+    - first: S.
+      middle: C.
+      last: Tosatto
+    - first: V.
+      middle: d.
+      last: la Torre
+    - first: P.
+      last: Uva
+    - first: A.
+      last: Via
+    - first: G.
+      last: Yachdav
+    - first: F.
+      last: Zambelli
+    - first: G.
+      last: Vriend
+    - first: B.
+      last: Rost
+    - first: H.
+      last: Parkinson
+    - first: P.
+      last: Løngreen
+    - first: S.
+      last: Brunak
+    year: 2016
+    month: Jan
+    journal: Nucleic Acids Research
+    volume: 44
+    number: D1
+    pages: D38--D47
+    doi: 10.1093/nar/gkv1116
+
+  Reimand2016:
+    type: article
+    title: |
+      g:Profiler—a web server for functional interpretation of gene lists
+      (2016 update)
+    author:
+    - first: J.
+      last: Reimand
+    - first: T.
+      last: Arak
+    - first: P.
+      last: Adler
+    - first: L.
+      last: Kolberg
+    - first: S.
+      last: Reisberg
+    - first: H.
+      last: Peterson
+    - first: J.
+      last: Vilo
+    year: 2016
+    month: Apr
+    journal: Nucleic Acids Research
+    volume: 44
+    number: W1
+    pages: W83--W89
+    doi: 10.1093/nar/gkw199
+    url: https://biit.cs.ut.ee/gprofiler/page/archives/
+
+  Metsalu2015:
+    type: article
+    title: |
+      ClustVis: a web tool for visualizing clustering of multivariate data using
+      Principal Component Analysis and heatmap
+    author:
+    - first: T.
+      last: Metsalu
+    - first: J.
+      last: Vilo
+    year: 2015
+    month: Jul
+    journal: Nucleic Acids Research
+    volume: 43
+    number: W1
+    pages: W566--W570
+    doi: 10.1093/nar/gkv468
+    url: https://biit.cs.ut.ee/clustvis/
+
+  Untergasser2012:
+    type: article
+    title: Primer3—new capabilities and interfaces
+    author:
+    - first: A.
+      last: Untergasser
+    - first: I.
+      last: Cutcutache
+    - first: T.
+      last: Koressaar
+    - first: J.
+      last: Ye
+    - first: B.
+      middle: C.
+      last: Faircloth
+    - first: M.
+      last: Remm
+    - first: S.
+      middle: G.
+      last: Rozen
+    year: 2012
+    month: Aug
+    journal: Nucleic Acids Research
+    volume: 40
+    number: 15
+    pages: e115
+    doi: 10.1093/nar/gks596
+    url: https://bioinfo.ut.ee/primer3/
+
+  Reimand2011:
+    type: article
+    title: |
+      g:Profiler—a web server for functional interpretation of gene lists
+      (2011 update)
+    author:
+    - first: J.
+      last: Reimand
+    - first: T.
+      last: Arak
+    - first: J.
+      last: Vilo
+    year: 2011
+    month: Jun
+    journal: Nucleic Acids Research
+    volume: 39
+    number: suppl_2
+    pages: W307--W315
+    doi: 10.1093/nar/gkr378
+    url: https://biit.cs.ut.ee/gprofiler/page/archives/
+
+  Adler2009:
+    type: article
+    title: |
+      Mining for coexpression across hundreds of datasets using novel rank
+      aggregation and visualization methods
+    author:
+    - first: P.
+      last: Adler
+    - first: R.
+      last: Kolde
+    - first: M.
+      last: Kull
+    - first: A.
+      last: Tkachenko
+    - first: H.
+      last: Peterson
+    - first: J.
+      last: Reimand
+    - first: J.
+      last: Vilo
+    year: 2009
+    month: Dec
+    journal: Genome Biology
+    volume: 10
+    number: R139
+    doi: 10.1186/gb-2009-10-12-r139
+    url: https://biit.cs.ut.ee/mem/
+
+  Adler2008:
+    type: article
+    title: 'KEGGanim: pathway animations for high-throughput data'
+    author:
+    - first: P.
+      last: Adler
+    - first: J.
+      last: Reimand
+    - first: J.
+      last: Janes
+    - first: R.
+      last: Kolde
+    - first: H.
+      last: Peterson
+    - first: J.
+      last: Vilo
+    year: 2008
+    month: Feb
+    journal: Bioinformatics
+    volume: 24
+    number: 4
+    pages: 588--590
+    doi: 10.1093/bioinformatics/btm581
+    url: https://biit.cs.ut.ee/kegganim/
+
+  Reimand2008:
+    type: article
+    title: |
+      GraphWeb: mining heterogeneous biological networks for gene modules with
+      functional significance
+    author:
+    - first: J.
+      last: Reimand
+    - first: L.
+      last: Tooming
+    - first: H.
+      last: Peterson
+    - first: P.
+      last: Adler
+    - first: J.
+      last: Vilo
+    year: 2008
+    month: Jul
+    journal: Nucleic Acids Research
+    volume: 36
+    number: suppl_2
+    pages: W452--W459
+    doi: 10.1093/nar/gkn230
+    url: https://biit.cs.ut.ee/graphweb/
+
+  Kaplinski2007:
+    type: article
+    title: 'MultiPLX: Automatic Grouping and Evaluation of PCR Primers'
+    author:
+    - first: L.
+      last: Kaplinski
+    - first: M.
+      last: Remm
+    year: 2007
+    journal: |
+      In: Yuryev, A. (eds) PCR Primer Design. Methods in Molecular Biology™.
+      Humana Press
+    volume: 402
+    pages: 287--303
+    doi: 10.1007/978-1-59745-528-2_14
+    url: https://bioinfo.ut.ee/multiplx/
+
+  Koressaar2007:
+    type: article
+    title: Enhancements and modifications of primer design program Primer3
+    author:
+    - first: T.
+      last: Koressaar
+    - first: M.
+      last: Remm
+    year: 2007
+    month: May
+    journal: Bioinformatics
+    volume: 23
+    number: 10
+    pages: 1289--1291
+    doi: 10.1093/bioinformatics/btm091
+    url: https://bioinfo.ut.ee/primer3/
+
+  Reimand2007:
+    type: article
+    title: |
+      g:Profiler—a web-based toolset for functional profiling of gene lists from
+      large-scale experiments
+    author:
+    - first: J.
+      last: Reimand
+    - first: M.
+      last: Kull
+    - first: H.
+      last: Peterson
+    - first: J.
+      last: Hansen
+    - first: J.
+      last: Vilo
+    year: 2007
+    month: Jul
+    journal: Nucleic Acids Research
+    volume: 35
+    number: suppl_2
+    pages: W193--W200
+    doi: 10.1093/nar/gkm226
+    url: https://biit.cs.ut.ee/gprofiler/page/archives/
+
+  Andreson2006:
+    type: article
+    title: |
+      SNPmasker: automatic masking of SNPs and repeats across eukaryotic genomes
+    author:
+    - first: R.
+      last: Andreson
+    - first: T.
+      last: Puurand
+    - first: M.
+      last: Remm
+    year: 2006
+    month: Jul
+    journal: Nucleic Acids Research
+    volume: 34
+    number: suppl_2
+    pages: W651--W655
+    doi: 10.1093/nar/gkl125
+    url: https://www.bioinfo.ut.ee/snpmasker/

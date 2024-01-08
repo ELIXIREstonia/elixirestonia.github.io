@@ -1,0 +1,78 @@
+docs_dir: content
+site_dir: site
+site_name: ELIXIR Estonia
+site_description: Official information about ELIXIR Estonia.
+site_author: ELIXIR Estonia
+
+nav:
+  - news/index.md
+  - people/index.md
+  - services/index.md
+  - publications/index.md
+  - Training:
+    - training/upcoming.md
+    - training/past.md
+    - training/other.md
+    - training/instructors.md
+  - Data Management:
+    - data_management/introduction.md
+    - data_management/terminology.md
+    - data_management/fair-principles.md
+  - projects/index.md
+  - contact/index.md
+
+not_in_nav: |
+  index.md
+  terms.md
+  data_management/index.md
+  data_management/sensitive-data.md
+
+theme:
+  name: material
+  logo: assets/images/white-orange-logo.png
+  favicon: assets/images/elixir_favicon.ico
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+  font:
+    text: Lato
+
+extra_css:
+  - assets/stylesheets/extra.css
+  - assets/stylesheets/neoteroi-mkdocs.css
+
+extra_javascript:
+  - assets/javascripts/tiles.js
+
+plugins:
+  - blog:
+      blog_dir: news
+      post_url_format: "{date}/{file}"
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - codehilite:
+      guess_lang: false
+  - def_list
+  - footnotes
+  - neoteroi.cards
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - sane_lists
+  - smarty
+  - tables
+  - toc:
+      toc_depth: 3

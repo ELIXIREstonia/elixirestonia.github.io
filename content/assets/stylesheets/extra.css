@@ -1,0 +1,99 @@
+:root {
+  --md-primary-fg-color: #0c3450ff;
+  --md-primary-fg-color--light: #0c3450ff;
+  --md-primary-fg-color--dark: #0c3450ff;
+  --md-primary-bg-color: #fff;
+  --md-primary-bg-color--light: #ffffffb3;
+
+  --md-accent-fg-color: #5e8bde;
+  --md-accent-fg-color--transparent: #eb83391a;
+  --md-accent-bg-color: #fff;
+  --md-accent-bg-color--light:#ffffffb3;
+  --md-typeset-a-color: #5e8bde;
+}
+
+:root, [data-md-color-scheme=default] {
+  --md-footer-fg-color: #fff;
+  --md-footer-fg-color--light: #fff;
+  --md-footer-fg-color--lighter: #fff;
+  --md-footer-bg-color: #023452ff;
+  --md-footer-bg-color--dark: #023452ff;
+}
+
+.md-container .md-tabs__link {
+  text-transform: uppercase;
+}
+
+/* These are social card options for authors and contributors sections */
+.nt-card {
+    text-align: center;
+}
+
+.members .nt-card-text {
+    font-size: 0.7rem;
+}
+
+.members .nt-card .nt-card-image img {
+    height: 100px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px #bbb;
+}
+
+.members .nt-card .nt-card-image {
+    min-height: 60px;
+}
+
+/* This makes the normal admonition blocks have the same font size as normal text */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: 18px;
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+  fill: currentcolor;
+  display: block;
+  height: 60px;
+  width: auto;
+}
+
+/* These are options to create a new admonition class for the overview section in About */
+.md-typeset .admonition.overview,
+.md-typeset details.overview {
+  border-color: rgb(77, 77, 77);
+}
+.md-typeset .overview > .admonition-title,
+.md-typeset .overview > summary {
+  background-color: rgba(77, 77, 77, 0.1);
+}
+.md-typeset .overview > .admonition-title::before,
+.md-typeset .overview > summary::before {
+  background-color: rgb(77, 77, 77);
+  -webkit-mask-image: var(--md-admonition-icon--overview);
+          mask-image: var(--md-admonition-icon--overview);
+}
+
+.md-typeset .overview {
+  /* line-height: 1; */
+  font-size: 14px;
+}
+
+footer {
+  box-shadow: 0 -3px 3px #bbb;
+}
+
+footer section:first-child img {
+  float: left;
+  margin: 5px 10px 0 0;
+  opacity: 0.8;
+}
+
+footer section:last-child p.logos {
+  background-color: #fff;
+  border-radius: 3px;
+  text-align: center;
+  opacity: 0.9;
+}
+
+footer a, footer a:link, footer a:visited {
+  text-decoration: underline;
+}
