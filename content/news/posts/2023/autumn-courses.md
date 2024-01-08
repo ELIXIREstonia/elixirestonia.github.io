@@ -2,7 +2,7 @@
 draft: false
 date: 2023-09-12
 authors:
-  - diana
+  - Diana
 categories:
   - data management
   - RStudio

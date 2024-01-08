@@ -1,5 +1,17 @@
 authors:
-  diana:
+  Diana:
     name: Diana Pilvar
     description: ELIXIR Data Manager
     avatar: /assets/images/people/diana.jpg
+  Heleri:
+    name: Heleri
+    description: ELIXIR Data Manager
+    avatar: /assets/images/people/heleri.jpg
+  elixir:
+    name: ELIXIR Estonia
+    description: ELIXIR Estonia
+    avatar: /assets/images/people/user.png
+  a71870:
+    name: ELIXIR Estonia
+    description: ELIXIR Estonia
+    avatar: /assets/images/people/user.png
