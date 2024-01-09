@@ -11,6 +11,7 @@ ELIXIR Train-the-Trainer course alumni:
 * Liis Kolberg
 * Ivan Kuzmin
 * Heleri Inno
+* Diana Pilvar
 
 Training ELIXIR Node services:
 
