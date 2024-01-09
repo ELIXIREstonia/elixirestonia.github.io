@@ -23,7 +23,7 @@ December 2013. The Estonian node focuses on developing and maintaining software
 tools and databases, linking of bioinformatics and biobanking, and last but not
 least, training researchers across borders.
 
-Estonian ELIXIR Node is led by **[University of Tartu](http://www.ut.ee/en)**.
+Estonian ELIXIR Node is led by **[University of Tartu](https://www.ut.ee/en)**.
 Other partners are
 **[Tallinn University of Technology](https://taltech.ee/en)**,
 **[National Institute for Physics and Biophysics](https://kbfi.ee/?lang=en)**,
