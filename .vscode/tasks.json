@@ -11,7 +11,7 @@
         {
             "label": "Run mkdocs serve",
             "type": "shell",
-            "command": "source venv/bin/activate; mkdocs serve"
+            "command": "source venv/bin/activate; venv/bin/mkdocs serve"
         }
     ]
 }
