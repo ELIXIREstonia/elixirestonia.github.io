@@ -40,9 +40,11 @@ Other partners are
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
 
 
-## [Autumn semester ELIXIR courses](news/posts/2023/autumn-courses.md)
+##  [Autumn semester ELIXIR courses](news/posts/2023/autumn-courses.md)
 
+<!---
 ELIXIR Estonia is continuing with the data management-related lectures and
 workshops this semester. To get more information about these courses, read below
 and visit https://elixir.ut.ee/training.
+-->
 [Read more](news/posts/2023/autumn-courses.md)
