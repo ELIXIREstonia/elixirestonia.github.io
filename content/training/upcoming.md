@@ -18,19 +18,21 @@ We are willing to train researchers on the following topics:
 
 * Data management
 * Python programming for biologists
-* R basics
+* RStudio basics
 * R Bioconductor
-* R visualisations
+* RStudio visualisations
 * Linux command line
-* MEM tool
 * g:Profiler toolset
 * Intro to Cytoscape
+* Nextflow
+* Tableau
+* Data visualisation (theory)
 
-From the 2021 year, we have added data management-related training into our portfolio:
+Data management-related training:
 
 * The FAIR Principles
+* Crash course into data management
 * Metadata and README files
 * Licensing
 * Cleaning Messy Data with OpenRefine software
-* Data visualisation
 * How to write Data Management Plan
