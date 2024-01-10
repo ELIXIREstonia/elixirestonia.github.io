@@ -16,9 +16,8 @@ The courses for the year 2024 (more to come).
 
 We are willing to train researchers on the following topics:
 
-* Data management
-* Python programming for biologists
-* RStudio basics
+* Python programming for beginners
+* RStudio for beginners
 * R Bioconductor
 * RStudio visualisations
 * Linux command line
