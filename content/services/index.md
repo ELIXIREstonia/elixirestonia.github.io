@@ -24,7 +24,7 @@ The Estonian ELIXIR node offers various data analysis services and tools for the
 </div>
 
 <div class="tool-tiles">
-<tool-tile description="a web tool for mining large biological networks" doi="http://dx.doi.org/10.1093/nar/gkn230" href="https://biit.cs.ut.ee/gprofiler/" name="GraphWeb" src="/assets/images/tools/GraphWeb.png" tags="networks"></tool-tile>
+<tool-tile description="a web tool for mining large biological networks" doi="http://dx.doi.org/10.1093/nar/gkn230" href="https://biit.cs.ut.ee/graphweb/" name="GraphWeb" src="/assets/images/tools/GraphWeb.png" tags="networks"></tool-tile>
 <tool-tile description="visualisation of high-throughput data on biological pathway charts" doi="http://dx.doi.org/10.1093/bioinformatics/btm581" href="https://biit.cs.ut.ee/kegganim" name="KEGGanim" src="/assets/images/tools/KEGG.png" tags="visualisation, high-throughput data, pathways"></tool-tile>
 <tool-tile description="large-scale query facilities for mining across hundreds of datasets" doi="http://dx.doi.org/10.1186/gb-2009-10-12-r139" href="https://biit.cs.ut.ee/mem" name="MEM" src="/assets/images/tools/MEM.png" tags="rank aggregation, visualisation"></tool-tile>
 </div>

@@ -40,7 +40,7 @@ Other partners are
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
 
 
-## Spring semester free ELIXIR courses
+## Spring semester 2024 free ELIXIR courses
 <!---
 ##  [Autumn semester ELIXIR courses](news/posts/2023/autumn-courses.md)
 
@@ -50,4 +50,4 @@ and visit https://elixir.ut.ee/training.
 
 [Read more](news/posts/2023/autumn-courses.md)
 -->
-* [Python for beginners](https://elixirestonia.github.io/news/2024/01/09/Python_for_beginners_Tartu/)
+* [Python for beginners – 9.02.2024, Tartu – Registration OPEN](news/posts/2024/Python_for_beginners_Tartu.md)
