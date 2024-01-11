@@ -12,7 +12,7 @@ hands-on courses in the life science community on various topics.
 
 The courses for the year 2024 (more to come).
 
-* [9.02.2024 - Python for beginners (F2F, Tartu)](https://elixirestonia.github.io/news/2024/01/09/Python_for_beginners_Tartu/)
+* [9.02.2024 - Python for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/01/09/Python_for_beginners_Tartu/)
 
 We are willing to train researchers on the following topics:
 
