@@ -1,4 +1,4 @@
-English version below.
+[English version below.](#personal-data)
 
 ## Isikuandmed
 Isikuandmed on mistahes andmed tuvastatud või tuvastatava isiku kohta. Isik on tuvastatav, kui teda on võimalik mingil moel tema andmetega siduda. Kui andmed ei ole seostatavad või neid on anonüümitud ehk töödeldud selliselt, et seostamine ei ole enam võimalik, siis ei ole tegemist isikuandmetega ja neile andmekaitse ei laiene. Seega, kas teadlane peab järgima andmekaitse nõudeid või mitte, sõltub eelkõige sellest, kas isiku tuvastamine on võimalik ning milliseid andmeid teadlane oma töös kasutab.
