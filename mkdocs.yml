@@ -18,6 +18,7 @@ nav:
     - data_management/introduction.md
     - data_management/terminology.md
     - data_management/fair-principles.md
+    - data_management/sensitive-data.md
   - projects/index.md
   - contact/index.md
 

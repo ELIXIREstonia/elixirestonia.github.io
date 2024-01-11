@@ -4,6 +4,7 @@ English version below.
 Isikuandmed on mistahes andmed tuvastatud või tuvastatava isiku kohta. Isik on tuvastatav, kui teda on võimalik mingil moel tema andmetega siduda. Kui andmed ei ole seostatavad või neid on anonüümitud ehk töödeldud selliselt, et seostamine ei ole enam võimalik, siis ei ole tegemist isikuandmetega ja neile andmekaitse ei laiene. Seega, kas teadlane peab järgima andmekaitse nõudeid või mitte, sõltub eelkõige sellest, kas isiku tuvastamine on võimalik ning milliseid andmeid teadlane oma töös kasutab.
 
 Isikuandmed:
+
 * Nimi
 * Isikukood
 * Aadress
@@ -20,6 +21,7 @@ Isikuandmed:
 Tavaliste isikuandmete kõrval eristatakse GDPR üldmääruses [artiklis 9](https://gdpr.algolia.com/et/gdpr-article-9) eriliiki isikuandmeid.
 
 Eriliiki isikuandmed:
+
 * Rassiline või etniline päritolu
 * Poliitilised vaated 
 * Usulised või filosoofilised veendumused
@@ -32,6 +34,7 @@ Eriliiki isikuandmed:
 Üldjuhul on eriliiki isikuandmete töötlemine keelatud, st kehtib töötlemispiirang. Selliseid andmeid on lubatud töödelda vaid isiku nõusolekul või muude üldmääruse artikli [9 lg-s 2](https://gdpr.algolia.com/et/gdpr-article-9) sätestatud erandite korral. Samuti peab töötlemiseks olema õiguslik alus.
 
 ## Viited õigusalastele dokumentidele
+
 * Euroopa Liidu üldmäärus (General Data Protection Regulation) - [GDPR](https://gdpr.algolia.com/et/gdpr-article-1)
 * Isikuandmete kaitse seadus Eestis - [IKS](https://www.riigiteataja.ee/akt/104012019011?leiaKehtiv)
 * Inimgeeniuuringute seadus - [IGUS](https://www.riigiteataja.ee/akt/113032019064)
@@ -52,6 +55,7 @@ Eriliiki isikuandmed:
 Personal data is any information relating to an identified or identifiable individual human being. A person is identifiable if they can be associated in any way with the data. If the data cannot be associated or they are anonymised, i.e. processed in such a manner that identification is no longer possible, the data is no longer personal data and are not covered by the data protection laws. The obligation of a researcher to adhere to data protection requirements is contingent upon the identifiability associated with the data.
 
 Personal data:
+
 * Name
 * Personal identification code
 * Address
@@ -68,6 +72,7 @@ General Data Protection Regulation  ([GDPR](https://gdpr.algolia.com)) states, t
 Besides personal data, GDPR [Article 9](https://gdpr.algolia.com/gdpr-article-9) distinguishes special categories of personal data.
 
 Special categories of personal data:
+
 * Racial or ethnic origin 
 * Political views
 * Religious or philosophical beliefs
