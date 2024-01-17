@@ -87,8 +87,8 @@ Generally, the processing of special categories of personal data is prohibited, 
 ### Relevant regulations
 
 * General Data Protection Regulation - [GDPR](https://gdpr.algolia.com)
-* Personal Data Protection Act - [IKS](www.riigiteataja.ee/en/eli/507112023002/consolide)
-* Human Genes Research Act - [IGUS](www.riigiteataja.ee/en/eli/508042019001/consolide)
+* Personal Data Protection Act - [IKS](https://www.riigiteataja.ee/en/eli/507112023002/consolide)
+* Human Genes Research Act - [IGUS](https://www.riigiteataja.ee/en/eli/508042019001/consolide)
 * Data Protection Inspectorate (all documents only in Estonian, English page under construction)
     * [Principles of data processing](https://www.aki.ee/isikuandmed/andmetootlejale/andmetootluse-pohimotted)
     * [Data Protection and Data Security Self-Help Questionnaire.](https://www.aki.ee/sites/default/files/dokumendid/andmekaitse_ja_andmeturbe_eneseabi_kusimustik_1.pdf)

@@ -32,7 +32,7 @@ The Estonian ELIXIR node offers various data analysis services and tools for the
 <div class="tool-tiles">
 <tool-tile description="a tool for grouping PCR primers by various compatibility criteria" doi="http://dx.doi.org/10.1007/978-1-59745-528-2_14" href="https://bioinfo.ut.ee/multiplx" name="MultiPLX" src="/assets/images/tools/MultiPLX.png" tags="PCR"></tool-tile>
 <tool-tile description="a program for designing PCR primers and oligos" doi="http://dx.doi.org/10.1093/nar/gks596" href="https://bioinfo.ut.ee/primer3" name="Primer3" src="/assets/images/tools/Primer3.png" tags="PCR"></tool-tile>
-<tool-tile description="automatic masking of SNPs and repeats across eukaryotic genomes" doi="http://dx.doi.org/10.1093/nar/gkl125" href="https://bioinfo.ut.ee/snpmasker" name="SNPmasker" src="//elixir.ut.ee/sites/default/files/SNPmasker.png" tags="SNP"></tool-tile>
+<tool-tile description="automatic masking of SNPs and repeats across eukaryotic genomes" doi="http://dx.doi.org/10.1093/nar/gkl125" href="https://bioinfo.ut.ee/snpmasker" name="SNPmasker" src="/assets/images/tools/SNPmasker.png" tags="SNP"></tool-tile>
 </div>
 
 ### Emerging services
@@ -50,34 +50,3 @@ The Estonian ELIXIR node offers various data analysis services and tools for the
 <tool-tile description="a tool for predicting the distribution of mutations at a CRISPR/Cas9 cut" doi="https://github.com/ananth-pallaseni/FORECasT-repair" href="https://elixir.ut.ee/forecast-repair/" name="FORECasT-repair" src="/assets/images/tools/forecast-repair.png" tags="CRISPR/Cas9"></tool-tile>
 <tool-tile description="a tool for predicting base editing outcomes using position-specific sequence determinants" doi="https://academic.oup.com/nar/article/50/6/3551/6548303" href="https://elixir.ut.ee/forecast-be/" name="FORECasT-be" src="/assets/images/tools/forecast-be.png" tags="CRISPR/Cas9"></tool-tile>
 </div>
-
-### Training
-
-We are willing to train researchers on the following topics:
-
-- Python programming for biologists;
-- RNA-seq analysis;
-- R basics;
-- R bioconductor;
-- R visualisations;
-- Linux command line;
-- MEM tool;
-- g:Profiler toolset;
-- ClustVis data visualisation;
-- data integration;
-- introduction to Cytoscape;
-- Primer design;
-- hands-on training of the services mentioned above.
-
-### Our instructors
-
-#### Training ELIXIR Node services:
-
-- Priit Adler
-- Reidar Anderson
-- Hedi Peterson
-
-#### Certified Data and Software carpentry instructors:
-
-- Dmytro Fishman
-- Elena Sügis
