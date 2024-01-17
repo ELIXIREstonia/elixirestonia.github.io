@@ -48,6 +48,7 @@ The Estonian ELIXIR node offers various data analysis services and tools for the
 <div class="tool-tiles">
 <tool-tile description="prediction of prime editing insertion efficiencies using sequence features and DNA repair determinants" doi="https://www.nature.com/articles/s41587-023-01678-y" href="https://elixir.ut.ee/minsepie/" name="MinsePIE" src="/assets/images/tools/minsepie.png" tags="CRISPR/Cas9"></tool-tile>
 <tool-tile description="a tool for predicting the distribution of mutations at a CRISPR/Cas9 cut" doi="https://github.com/ananth-pallaseni/FORECasT-repair" href="https://elixir.ut.ee/forecast-repair/" name="FORECasT-repair" src="/assets/images/tools/forecast-repair.png" tags="CRISPR/Cas9"></tool-tile>
+<tool-tile description="a tool for predicting base editing outcomes using position-specific sequence determinants" doi="https://academic.oup.com/nar/article/50/6/3551/6548303" href="https://elixir.ut.ee/forecast-be/" name="FORECasT-be" src="/assets/images/tools/forecast-be.png" tags="CRISPR/Cas9"></tool-tile>
 </div>
 
 ### Training
