@@ -39,6 +39,17 @@ Other partners are
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
 
+## Course at EMBL-EBI: Summer school in bioinformatics
+
+European Bioinformatics Institute United Kingdom in association with Elixir Estonia are organising summer school in bioinformatics. This course provides an introduction to the use of bioinformatics in biological research, giving you guidance for using bioinformatics in your work whilst also providing hands-on training in tools and resources appropriate to your research.
+
+Applicants are expected to be at an early stage of using bioinformatics in their research with the need to develop their knowledge and skills further. No previous knowledge of programming is required for this course.
+
+Applications close: 25 February 2024
+
+[More Info and Registration](https://www.ebi.ac.uk/training/events/summer-school-bioinformatics-1/) 
+
+[Continue Reading](news/posts/2024/Summer_school_in_bioinformatics.md) 
 
 ## Spring semester 2024 free ELIXIR courses
 <!---
