@@ -5,7 +5,8 @@ site_description: Official information about ELIXIR Estonia.
 site_author: ELIXIR Estonia
 
 nav:
-  - news/index.md
+  - News:
+    - news/index.md
   - people/index.md
   - services/index.md
   - publications/index.md
@@ -34,6 +35,8 @@ theme:
   favicon: assets/images/elixir_favicon.ico
   custom_dir: overrides
   features:
+    - navigation.indexes
+    - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
