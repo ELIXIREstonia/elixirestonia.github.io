@@ -81,16 +81,30 @@ footer {
   box-shadow: 0 -3px 3px #bbb;
 }
 
-footer section + section {
-  margin: 2em 0;
+footer .md-copyright__highlight {
+  display: flex;
+  flex-direction: row;
+  gap: 2em;
 }
 
-footer section:first-child p.logos {
+@media (max-width: 800px) {
+  footer .md-copyright__highlight {
+    flex-direction: column;
+    gap: 1em;
+  }
+}
+
+footer p.logos {
   background-color: #fff;
   border-radius: 3px;
   opacity: 0.9;
-  width: fit-content;
   padding: 0.3em 1em;
+  white-space: nowrap;
+  width: max-content;
+}
+
+footer section {
+  flex: 1;
 }
 
 footer section:last-child img {
