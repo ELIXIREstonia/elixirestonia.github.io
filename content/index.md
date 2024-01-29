@@ -31,6 +31,17 @@ Other partners are
 **[Estonian University of Life Sciences](https://www.emu.ee/en)**.
 
 ---
+## Spring semester 2024 free ELIXIR courses in Estonia
+<!---
+##  [Autumn semester ELIXIR courses](news/posts/2023/autumn-courses.md)
+
+ELIXIR Estonia is continuing with the data management-related lectures and
+workshops this semester. To get more information about these courses, read below
+and visit https://elixir.ut.ee/training.
+
+[Read more](news/posts/2023/autumn-courses.md)
+-->
+* [Python for beginners – 9.02.2024, Tartu – Registration OPEN](news/posts/2024/Python_for_beginners_Tartu.md)
 
 # Latest news and announcements
 
@@ -61,6 +72,16 @@ Applications close: 25 February 2024
 
 [Continue Reading](news/posts/2024/Summer_school_in_bioinformatics.md) 
 
+## Online course: Enrichment Analysis
+
+Experiments designed to quantify gene expression often yield hundreds of genes that show statistically significant differences between groups of interest. Once differentially expressed genes are identified, enrichment analysis (EA) methods can be used to explore the biological functions associated with these genes. EA methods allow us to identify groups of genes (e.g. particular pathways) that are over-represented, thereby offering insights into biological mechanisms. One of the EA methods frequently used for high-throughput gene expression data analysis is Gene Set Enrichment Analysis (GSEA). This course will cover GSEA and alternative enrichment methods. Because the implementation of GSEA is directly linked to databases that annotate the function of genes in a cell, the course will also give an overview of functional annotation databases such as Gene Ontology.
+
+Application deadline: 26 February 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240311_ENRIC) 
+
+[Continue Reading](news/posts/2024/Enrichment_Analysis.md) 
+
 ## Course at  Breda, The Netherlands: RNA-seq data analysis
 
 The 9th edition of the RNA-seq Data Analysis course will be held on 8-12 April – 2024 in Breda, The Netherlands. This course covers the basic concepts and methods required for RNA-seq analysis. Particular attention is given to the data analysis pipelines for differential transcript expression and variant calling. The course consists of a mixture of lectures and Galaxy, Linux and R practicals. Also the potential of long-read based RNA-seq and AI based analysis enrichments will be explored.
@@ -70,14 +91,4 @@ The 9th edition of the RNA-seq Data Analysis course will be held on 8-12 April �
 [Continue Reading](news/posts/2024/RNA-seq_data_analysis.md) 
 
 
-## Spring semester 2024 free ELIXIR courses in Estonia
-<!---
-##  [Autumn semester ELIXIR courses](news/posts/2023/autumn-courses.md)
 
-ELIXIR Estonia is continuing with the data management-related lectures and
-workshops this semester. To get more information about these courses, read below
-and visit https://elixir.ut.ee/training.
-
-[Read more](news/posts/2023/autumn-courses.md)
--->
-* [Python for beginners – 9.02.2024, Tartu – Registration OPEN](news/posts/2024/Python_for_beginners_Tartu.md)
