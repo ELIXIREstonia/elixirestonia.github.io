@@ -82,6 +82,16 @@ Application deadline: 26 February 2024
 
 [Continue Reading](news/posts/2024/Enrichment_Analysis.md) 
 
+## Course at  Bern, Switzerland: Single-Cell Transcriptomics with R
+
+Single-cell RNA sequencing (scRNAseq) allows researchers to study gene expression at the single cell level. For example, scRNAseq can help to identify expression patterns that differ between conditions within a cell-type. To generate and analyze scRNAseq data, several methods are available, all with their strengths and weaknesses depending on the researchers’ needs. This 3-day course will cover the main technologies as well as the main aspects to consider while designing a scRNAseq experiment. In addition, it will cover the theoretical background of analysis methods with hands-on practical data analysis sessions applied to droplet-based methods.
+
+Application deadline: 06 March 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240318_ISCTR) 
+
+[Continue Reading](news/posts/2024/Single-Cell_Transcriptomics_with_R.md) 
+
 ## Course at  Breda, The Netherlands: RNA-seq data analysis
 
 The 9th edition of the RNA-seq Data Analysis course will be held on 8-12 April – 2024 in Breda, The Netherlands. This course covers the basic concepts and methods required for RNA-seq analysis. Particular attention is given to the data analysis pipelines for differential transcript expression and variant calling. The course consists of a mixture of lectures and Galaxy, Linux and R practicals. Also the potential of long-read based RNA-seq and AI based analysis enrichments will be explored.
