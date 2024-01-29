@@ -51,7 +51,15 @@ Applications close: 25 February 2024
 
 [Continue Reading](news/posts/2024/Summer_school_in_bioinformatics.md) 
 
-## Spring semester 2024 free ELIXIR courses
+## Course at  Breda, The Netherlands: RNA-seq data analysis
+
+The 9th edition of the RNA-seq Data Analysis course will be held on 8-12 April – 2024 in Breda, The Netherlands. This course covers the basic concepts and methods required for RNA-seq analysis. Particular attention is given to the data analysis pipelines for differential transcript expression and variant calling. The course consists of a mixture of lectures and Galaxy, Linux and R practicals. Also the potential of long-read based RNA-seq and AI based analysis enrichments will be explored.
+
+[More Info and Registration](https://www.dtls.nl/courses/rna-seq-data-analysis-2024/) 
+
+[Continue Reading](news/posts/2024/RNA-seq_data_analysis.md) 
+
+## Spring semester 2024 free ELIXIR courses in Estonia
 <!---
 ##  [Autumn semester ELIXIR courses](news/posts/2023/autumn-courses.md)
 
