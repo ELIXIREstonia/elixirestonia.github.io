@@ -7,8 +7,6 @@ This project is the source code for the website of https://elixir.ut.ee/.
 Changes to the `main` branch will be automatically deployed (after some delay,
 mostly during local working hours) to the hosting server.
 
-The official website is independendent of https://elixirestonia.github.io/.
-
 
 ## Getting Started
 
