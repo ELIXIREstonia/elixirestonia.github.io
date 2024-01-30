@@ -6,12 +6,16 @@
         {
             "label": "Install pip dependencies",
             "type": "shell",
-            "command": "[ -d venv ] || python -m venv venv; source venv/bin/activate; pip install -r requirements.txt"
+            "command": "[ -d venv ] || python -m venv venv; source venv/bin/activate; pip install -r requirements.txt",
+            "detail": "Updates pip dependencies in the virtual environment.",
+            "problemMatcher": []
         },
         {
             "label": "Run mkdocs serve",
             "type": "shell",
-            "command": "source venv/bin/activate; venv/bin/mkdocs serve"
+            "command": "source venv/bin/activate; venv/bin/mkdocs serve",
+            "detail": "Runs the mkdocs server at http://localhost:8080/",
+            "problemMatcher": []
         }
     ]
 }
