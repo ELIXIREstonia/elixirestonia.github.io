@@ -3,8 +3,6 @@
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
-![GitHub Actions CI Status](https://github.com/ELIXIREstonia/elixirestonia.github.io/actions/workflows/deploy_website.yml/badge.svg?branch=main)
-
 This project is the source code for the website of https://elixir.ut.ee/.
 Changes to the `main` branch will be automatically deployed (after some delay,
 mostly during local working hours) to the hosting server.
