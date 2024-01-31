@@ -25,6 +25,28 @@ Computing Infrastructure ([ETAIS](https://etais.ee/)).
 
 ---
 
+## [European Genomic Data Infrastructure](https://gdi.onemilliongenomes.eu/)
+
+The Genomic Data Infrastructure (GDI) project is enabling access to genomic and
+related phenotypic and clinical data across Europe. It is doing this by
+establishing a federated, sustainable and secure infrastructure to access the
+data. It builds on the outputs of the
+[Beyond 1 Million Genomes (B1MG)](https://b1mg-project.eu/)
+project and is realising the ambition of the[1+ Million Genomes
+(1+MG)](https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes)
+initiative.
+
+The GDI project aims to unlock a data network of over one million genome
+sequences for research and clinical reference. This will create unprecedented
+opportunities for transnational and multi-stakeholder actions in personalised
+medicine for cancer, common, rare and infectious diseases as well as access to
+a reference genome collection representing the European population ([Genome of
+Europe](https://b1mg-project.eu/1mg/genome-europe)).
+
+01.11.2022 - 31.10.2026
+
+---
+
 ## [BY-COVID](https://by-covid.org/)
 
 BY-COVID will build and expand upon the successful [COVID-19 Data
