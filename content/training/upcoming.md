@@ -13,6 +13,11 @@ hands-on courses in the life science community on various topics.
 The courses for the year 2024 (more to come).
 
 * [9.02.2024 - Python for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/01/09/Python_for_beginners_Tartu/)
+* [22.02.2024 - Andmehaldus 101 (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/Andmehaldus_101/)
+* [23.02.2024 - Python algajatele (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/Python_algajatele/)
+* [08.03.2024 - LINUX/UNIX algajale (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/Unix/)
+* [22.03.2024 - RStudio algajale (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/RStudio_algajale/)
+
 
 We are willing to train researchers on the following topics:
 

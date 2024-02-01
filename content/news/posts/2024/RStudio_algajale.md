@@ -36,12 +36,6 @@ Loengus saab osaleda ainult kutsega Tallinna Ülikoolilt.
 
 Sellele järgnevad kursused Andmete visualiseerimine (teooria) ja Visualisatsioonide tegemine RStudio-ga.
 
-## Kirjeldus
-
-R on tasuta tarkvarakeskkond statistilise arvutamise ja graafika jaoks. See kompileerib ja töötab erinevatel UNIX platvormidel, Windowsil ja MacOS-il.
-
-RStudio on oluline tööriist kõigile, kes tegelevad R programmeerimisega. See mängib olulist rolli andmeanalüüsis, hõlbustades andmete importimist, juurdepääsu, transformeerimist, uurimist, visualiseerimist ja modelleerimist. Kui alustate oma teekonda R-i õppimisel, siis on nüüd ideaalne hetk tutvuda RStudioga. Avastage, mis on RStudio, ja alustage selle võimaluste kasutamist oma andmeanalüüsi ja programmeerimisoskuste täiustamiseks.
-
 ## Õpitulemused
 
 * Navigeerige RStudio funktsioonide vahel, kirjutage ja käivitage R-skripte
