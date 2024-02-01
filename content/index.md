@@ -44,6 +44,8 @@ and visit https://elixir.ut.ee/training.
 * [Python for beginners – 9.02.2024, Tartu – Registration OPEN](news/posts/2024/Python_for_beginners_Tartu.md)
 * [Andmehaldus 101 - 22.02.2024, Tallinn - Kutsega](news/posts/2024/Andmehaldus_101.md)
 * [Python algajatele - 23.02.2024, Tallinn - Kutsega](news/posts/2024/Python_algajatele.md)
+* [LINUX/UNIX algajale - 08.03.2024, Tallinn - Kutsega](news/posts/2024/Unix.md)
+* [RStudio algajale - 22.03.2024, Tallinn - Kutsega](news/posts/2024/RStudio_algajale.md)
 
 # Latest news and announcements
 
