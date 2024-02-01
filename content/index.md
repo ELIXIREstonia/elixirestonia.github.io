@@ -72,6 +72,17 @@ Applications close: 25 February 2024
 
 [Continue Reading](news/posts/2024/Summer_school_in_bioinformatics.md) 
 
+## Webinar by CECAM-HQ: Awareness in Data Management and Analysis for Industry and Research
+
+Here we offer a two-day workshop with the primary aim of introducing participants to good enough practices for managing their data. On the first day, participants will learn about the basics of data management, good research practices, Common European Data Spaces, data management and governance in industry and data management plans. On the second day, participants will learn how to organise their data, how to make it FAIR, about electronic lab notebooks and how to make their computational results reproducible.
+
+Registration deadline: February 25, 2024
+
+[More Info and Registration](https://www.cecam.org/workshop-details/1349) 
+
+[Continue Reading](news/posts/2024/Awareness_DM_Analysis_Industry_Research.md) 
+
+
 ## Online course: Enrichment Analysis
 
 Experiments designed to quantify gene expression often yield hundreds of genes that show statistically significant differences between groups of interest. Once differentially expressed genes are identified, enrichment analysis (EA) methods can be used to explore the biological functions associated with these genes. EA methods allow us to identify groups of genes (e.g. particular pathways) that are over-represented, thereby offering insights into biological mechanisms. One of the EA methods frequently used for high-throughput gene expression data analysis is Gene Set Enrichment Analysis (GSEA). This course will cover GSEA and alternative enrichment methods. Because the implementation of GSEA is directly linked to databases that annotate the function of genes in a cell, the course will also give an overview of functional annotation databases such as Gene Ontology.
