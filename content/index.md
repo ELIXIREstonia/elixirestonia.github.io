@@ -51,7 +51,10 @@ Invitation only:
 * [RStudio algajale - 22.03.2024, Tallinn - Kutsega](news/posts/2024/RStudio_algajale.md)
 * [Andmete visualiseerimine (teooria) - 18.04.2024, Tallinn - Kutsega](news/posts/2024/Andmete_visualiseerimine_teooria.md)
 * [Visualisatsioonide tegemine RStudio-ga - 19.04.2024, Tallinn - Kutsega](news/posts/2024/Visualisatsioonide_tegemine_RStudio.md)
-* [Lühidalt FAIR-ist - 02.05.2024, Tallinn - kutsega](news/posts/2024/Lühidalt_FAIR.md)
+* [Lühidalt FAIR-ist - 02.05.2024, Tallinn - Kutsega](news/posts/2024/Lühidalt_FAIR.md)
+* [OpenRefine andmete puhastamiseks - 03.05.2024, Tallinn - Kutsega](news/posts/2024/OpenRefine_andmete_puhastamiseks.md)
+* [Metadata ja README - 16.05.2024, Tallinn - Kutsega](news/posts/2024/Metadata_README.md)
+* [g:Profiler: tööriist rikastatuse analüüsiks ja geeni ID konversiooniks- 17.05.2024, Tallinn - Kutsega](news/posts/2024/g_profiler.md)
 
 # Latest news and announcements
 
