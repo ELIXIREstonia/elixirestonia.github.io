@@ -24,7 +24,7 @@ Me teeme andmete visualiseerimist kasutades ggplot2 paketti, mis on R-s laialdas
 
 Loengus saab osaleda ainult kutsega Tallinna Ülikoolilt. 
 
-Koolituse läbimise eeldused on "Andmete visualiseerimine (teooria)" ja "RStudio algajale" läbimine. 
+Koolituse läbimise eeldused on ["Andmete visualiseerimine (teooria)"](https://elixir.ut.ee/news/2024/02/02/Andmete_visualiseerimine_teooria/) ja ["RStudio algajale"](https://elixir.ut.ee/news/2024/02/01/RStudio_algajale/) läbimine. 
 
 * __Aeg:__ 19.04.2024 9:00-13:00
 * __Tüüp:__  Töötuba

@@ -21,7 +21,7 @@ Seminaril käsitleme andmete visualiseerimise tähtsust ning seda, mida peaksime
 
 Loengus saab osaleda ainult kutsega Tallinna Ülikoolilt. 
 
-Koolitusele järgneb "Visualisatsioonide tegemine RStudio-ga töötuba 19.04.2024. 
+Koolitusele järgneb ["Visualisatsioonide tegemine RStudio-ga](https://elixir.ut.ee/news/2024/02/02/Visualisatsioonide_tegemine_RStudio/) töötuba 19.04.2024. 
 
 * __Aeg:__ 18.04.2024 14:00-16:00
 * __Tüüp:__  Seminar

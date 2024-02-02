@@ -34,7 +34,7 @@ Loengus saab osaleda ainult kutsega Tallinna Ülikoolilt.
     * R + RStudio https://posit.co/download/rstudio-desktop/ 
     + tidyverse library. käsu kirjeldus: https://www.tidyverse.org/packages/
 
-Sellele järgnevad kursused Andmete visualiseerimine (teooria) ja Visualisatsioonide tegemine RStudio-ga.
+Sellele järgnevad kursused [Andmete visualiseerimine (teooria)](https://elixir.ut.ee/news/2024/02/02/Andmete_visualiseerimine_teooria/) ja [Visualisatsioonide tegemine RStudio-ga](https://elixir.ut.ee/news/2024/02/02/Visualisatsioonide_tegemine_RStudio/).
 
 ## Õpitulemused
 
