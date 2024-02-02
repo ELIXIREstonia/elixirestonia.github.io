@@ -23,6 +23,9 @@ Invite only:
 * [18.04.2024 - Andmete visualiseerimine (teooria) (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Andmete_visualiseerimine_teooria/)
 * [19.04.2024 - Visualisatsioonide tegemine RStudio-ga (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Visualisatsioonide_tegemine_RStudio/)
 * [02.05.2024 - Lühidalt FAIR-ist (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/L%C3%BChidalt_FAIR/)
+* [03.05.2024 - OpenRefine andmete puhastamiseks (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/OpenRefine_andmete_puhastamiseks/)
+* [16.05.2024 - Metadata ja README (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Metadata_README/)
+* [17.05.2024 - g:Profiler: tööriist rikastatuse analüüsiks ja geeni ID konversiooniks (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/g_profiler/)
 
 
 We are willing to train researchers on the following topics:
