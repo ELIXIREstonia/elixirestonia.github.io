@@ -12,7 +12,7 @@ hide:
   - toc
 ---
 
-# Metadata ja README - 16.05.2024, Tallinn - kutsega
+# Metaandmed ja README - 16.05.2024, Tallinn - kutsega
 
 Lihtsas keeles väljendudes on metaandmed teie andmeid kirjeldav informatsioon. Kuid mida metaandmed tegelikult hõlmavad ja kui palju neid peaks teie andmetega kaasas olema?
 
