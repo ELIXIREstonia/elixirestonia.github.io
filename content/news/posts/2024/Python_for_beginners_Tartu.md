@@ -11,7 +11,7 @@ hide:
   - toc
 ---
 
-# Python for beginners - 9.02.2024, Tartu - Registration OPEN
+# Python for beginners - 9.02.2024, Tartu
 
 The "Python for Beginners" course introduces Python programming, designed for those with little to no prior experience. Upon completion, students will have a firm grasp of Python fundamentals and be equipped with the skills to start their journey in Python programming.
 
@@ -44,7 +44,7 @@ Learning outcomes for the participants:
 
 We ask you to register responsibly. If you can't attend the lecture, please let us know as soon as possible via email (elixir@ut.ee).
 
-__Register:__ https://forms.gle/LsjC1WQfwKgppHCa9
+__Register:__ Registration is closed. Course is full.
 
 In order to not miss out on a course next time, subscribe to our newsletter at  https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request
 Applications are accepted manually within a few days. 
