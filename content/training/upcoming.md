@@ -18,7 +18,11 @@ Invite only:
 
 * [22.02.2024 - Andmehaldus 101 (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/Andmehaldus_101/)
 * [23.02.2024 - Python algajatele (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/Python_algajatele/)
+* [1.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-01/)
+* [8.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-08/)
 * [08.03.2024 - LINUX/UNIX algajale (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/Unix/)
+* [15.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-15/)
+* [22.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-22/)
 * [22.03.2024 - RStudio algajale (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/RStudio_algajale/)
 * [18.04.2024 - Andmete visualiseerimine (teooria) (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Andmete_visualiseerimine_teooria/)
 * [19.04.2024 - Visualisatsioonide tegemine RStudio-ga (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Visualisatsioonide_tegemine_RStudio/)
