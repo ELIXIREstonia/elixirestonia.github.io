@@ -47,7 +47,11 @@ Invitation only:
 
 * [Andmehaldus 101 - 22.02.2024, Tallinn - Kutsega](news/posts/2024/Andmehaldus_101.md)
 * [Python algajatele - 23.02.2024, Tallinn - Kutsega](news/posts/2024/Python_algajatele.md)
+* [Bring your own DMP workshop - 1.03.2024, Tartu - Invite only](news/posts/2024/BYO_DMP_2024-03-01.md)
+* [Bring your own DMP workshop - 8.03.2024, Tartu - Invite only](news/posts/2024/BYO_DMP_2024-03-08.md)
 * [LINUX/UNIX algajale - 08.03.2024, Tallinn - Kutsega](news/posts/2024/Unix.md)
+* [Bring your own DMP workshop - 15.03.2024, Tartu - Invite only](news/posts/2024/BYO_DMP_2024-03-15.md)
+* [Bring your own DMP workshop - 22.03.2024, Tartu - Invite only](news/posts/2024/BYO_DMP_2024-03-22.md)
 * [RStudio algajale - 22.03.2024, Tallinn - Kutsega](news/posts/2024/RStudio_algajale.md)
 * [Andmete visualiseerimine (teooria) - 18.04.2024, Tallinn - Kutsega](news/posts/2024/Andmete_visualiseerimine_teooria.md)
 * [Visualisatsioonide tegemine RStudio-ga - 19.04.2024, Tallinn - Kutsega](news/posts/2024/Visualisatsioonide_tegemine_RStudio.md)
