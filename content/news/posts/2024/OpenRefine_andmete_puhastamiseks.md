@@ -23,7 +23,7 @@ Praktiline töötuba, kus puhastame käsitsi sisestatud andmeid OpenRefine tarkv
 
 Loengus saab osaleda ainult kutsega Tallinna Ülikoolilt. 
 
-* __Aeg:__ 03.05.2024 9:00-12:00
+* __Aeg:__ 03.05.2024 9:00-13:00
 * __Tüüp:__  Töötuba 
 * __Keel:__ Eesti
 * __Kestus:__ 4h
