@@ -41,7 +41,7 @@ and visit https://elixir.ut.ee/training.
 
 [Read more](news/posts/2023/autumn-courses.md)
 -->
-* [Python for beginners – 9.02.2024, Tartu – Registration closed](news/posts/2024/Python_for_beginners_Tartu.md)
+* [Python for beginners – 9.02.2024, Tartu](news/posts/2024/Python_for_beginners_Tartu.md)
 
 Invitation only: 
 
