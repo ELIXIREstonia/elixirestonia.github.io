@@ -7,7 +7,7 @@ hide:
 ELIXIR Train-the-Trainer course alumni:
 
 * Priit Adler
-* Reidar Andreson
+* _Reidar Andreson_
 * Liis Kolberg
 * Ivan Kuzmin
 * Heleri Inno
@@ -16,13 +16,16 @@ ELIXIR Train-the-Trainer course alumni:
 Training ELIXIR Node services:
 
 * Priit Adler
-* Reidar Andreson
+* _Reidar Andreson_
 * Liis Kolberg
 * Hedi Peterson
 
 Certified Data and Software carpentry instructors:
 
-* Dmytro Fishman
+* _Dmytro Fishman_
 * Nurlan Kerimov
 * Liis Kolberg
-* Elena Sügis
+* _Elena Sügis_
+
+
+\* Instructors listed in _italics_ are no longer affiliated with ELIXIR Estonia. 
