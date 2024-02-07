@@ -10,9 +10,13 @@ in Paris, and locally in Estonia. Internationally we train people how to use
 ELIXIR Estonia services in their research setting. Locally we train with
 hands-on courses in the life science community on various topics.
 
-The courses for the year 2024 (more to come).
+The courses for the year 2024.
 
 * [9.02.2024 - Python for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/01/09/Python_for_beginners_Tartu/)
+* [5.04.2024 - Data visualisation (theory) (Zoom)](https://elixir.ut.ee/news/2024/02/07/Data_visualisation_theory/)
+* [12.04.2024 - Tableau for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Tableau_for_beginners/)
+* [19.04; 26.04; 3.05 - Nextflow for beginners - 3-day course (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Nextflow/)
+* [24.05.2024 - Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/g%3Aprofiler_english/)
 
 Invite only: 
 
