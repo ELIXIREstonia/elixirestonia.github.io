@@ -44,7 +44,7 @@ Learning outcomes for the participants:
 
 We ask you to register responsibly. If you can't attend the lecture, please let us know as soon as possible via email (elixir@ut.ee).
 
-__Register:__  very few places available https://forms.gle/LsjC1WQfwKgppHCa9 
+__Register:__  registration closed
 
 In order to not miss out on a course next time, subscribe to our newsletter at  https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request
 Applications are accepted manually within a few days. 
