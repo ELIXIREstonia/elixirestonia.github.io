@@ -4,6 +4,10 @@ hide:
 ---
 # Past Trainings
 
+## 2024
+
+* **9.02.2024** - [Python for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/01/09/Python_for_beginners_Tartu/)
+
 ## 2023
 
 * **16.02.2023** – [FAIR in a Nutshell (ZOOM)](https://elixir.ut.ee/node/465)
