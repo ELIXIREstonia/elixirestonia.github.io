@@ -1,8 +1,9 @@
 docs_dir: content
 site_dir: site
+site_url: https://elixir.ut.ee/
 site_name: ELIXIR Estonia
-site_description: Official information about ELIXIR Estonia.
 site_author: ELIXIR Estonia
+site_description: Official information about ELIXIR Estonia.
 
 nav:
   - News:
