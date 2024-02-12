@@ -11,8 +11,8 @@ hide:
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
 
 
-**Phone**: +372 737 6437 <br>
-**Information enquiries**: elixir@ut.ee
+**Information enquiries**: elixir@ut.ee <br>
+**Phone**: +372 737 6437
 
 
 ### LOCATION
@@ -35,44 +35,3 @@ Estonia
 ```
 </div>
 </div>
-
----
-
-### ELIXIR Europe Job Vacancies
-
-[Submit a job on the ELIXIR Europe website.](https://elixir-europe.org/about-us/vacancies/form)
-
-<!-- START OF ELIXIR JOBS WIDGET -->
-<!--
-  For displaying jobs from https://elixir-europe.org/about-us/vacancies.
-  HTML template for the jobs listing. The default here is a table.
-  You can change this to what you want (e.g. a list) but you need to keep
-  'template-wrapper' as the id of the parent element and 'template-item'
-  as the id of the element that wraps each job.  The placeholders {{title}},
-  {{location}} and {{closingDate}} are populated by the script.
-  -->
-<table>
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Closing date</th>
-    </tr>
-  </thead>
-  <tbody id="template-wrapper">
-    <tr>
-      <td>{{title}}</td>
-      <td>{{closingDate}}</td>
-    </tr>
-  </tbody>
-</table>
-<table style="display: none;">
-  <tbody id="template-item">
-    <tr>
-      <td>{{title}}</td>
-      <td>{{closingDate}}</td>
-    </tr>
-  </tbody>
-</table>
-
-<script src="https://elixir-europe.org/sites/all/libraries/jobs/elixir-jobs.js"></script>
-<!-- END OF ELIXIR JOBS WIDGET -->
