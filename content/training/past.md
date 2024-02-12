@@ -36,7 +36,10 @@ hide:
 * **04.10.2022** – [How to Make Your Messy Data Usable? – PART 1 (ZOOM)](https://elixir.ut.ee/node/456)
 * **27.09.2022** – [Licensing Research Outputs (F2F)](https://elixir.ut.ee/node/450)
 * **13.09.2022** – [Metadata and README (F2F)](https://elixir.ut.ee/node/448)
+* **14.06.2022** – MLFPM (Machine learning frontiers in precision medicine) <br>
+  "Data Stewards in the field of data management" lecture (F2F) (by invitation only)
 * **20.05.–6.06.2022** – [How to write your DMP – BYOD workshop (ZOOM and F2F) (by invitation only)](https://elixir.ut.ee/node/444)
+* **10.–13.05.2022** – ELIXIR-GOBLET Nordic Train-the-Trainer workshop
 * **11.04.2022** – [Metadata and README (ZOOM)](https://elixir.ut.ee/node/432)
 * **04.04.2022** – [How to make your messy data usable? (ZOOM)](https://elixir.ut.ee/node/432)
 * **02.02.2022** – [The FAIR Principles (ZOOM)](https://elixir.ut.ee/node/420)
@@ -47,6 +50,7 @@ hide:
 * **25.11.2021** – [How to make your messy data usable? (ZOOM)](http://elixir.ut.ee/node/406)
 * **22.–23.11.2021** – [Nextflow basics course (F2F)](http://elixir.ut.ee/node/404)
 * **18.11.2021** – [UT HPC Usage 101 (ZOOM)](https://elixir.ut.ee/node/408)
+* **29.10.2021** – Nextflow Helper Training (by invitation only)
 * **19.10.2021** – [Unix Shell Advanced training course (F2F)](https://elixir.ut.ee/node/398)
 * **14.10.2021** – [FAIR principles lecture in English (F2F)](https://elixir.ut.ee/node/400)
 * **05.10.2021** – [Unix Shell Advanced training course (F2F)](https://elixir.ut.ee/node/398)

@@ -14,7 +14,6 @@ nav:
   - Training:
     - training/upcoming.md
     - training/past.md
-    - training/other.md
     - training/instructors.md
   - Data Management:
     - data_management/introduction.md
