@@ -131,12 +131,12 @@ The 9th edition of the RNA-seq Data Analysis course will be held on 8-12 April �
 
 [Continue Reading](news/posts/2024/RNA-seq_data_analysis.md) 
 
-## # Course at  Milano, Italy: Metabolomics Approaches for ‘One Health’
+## Course at  Milano, Italy: Metabolomics Approaches for ‘One Health’
 
 This workshop focuses on experimental design and sample preparation matrix enabling junior and senior scientists to apply metabolomics approaches to a research-based context.
 Attendees will be guided through mass spectrometry-based experiment designs, learning about cutting-edge equipment and different technical procedures for metabolomics.
 
-Application deadline: 30th April 2024_
+Application deadline: 30th April 2024
 
 [More Info and Registration](https://elixir-iib-training.github.io/site/2024-05-30-Metabolomics_Course) 
 
