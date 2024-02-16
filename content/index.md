@@ -70,16 +70,6 @@ Invitation only:
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
 
-## Course at  Bern, Switzerland: NGS - Genome Variant Analysis
-
-The detection of genetic variation is of major interest in various disciplines spanning from ecology and evolution research to inherited disease discovery and precision oncology. Next generation sequencing (NGS) methods are very powerful for the detection of genomic variants. Thanks to its throughput and cost-efficiency it enables the detection of a large number of variants in a large number of samples. In this two-day course we will cover the steps from read alignment to variant calling and annotation. We will mainly focus on the detection of germline mutations by following the GATK best practices. 
-
-Application deadline: 15 February 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240226_NGSGV) 
-
-[Continue Reading](news/posts/2024/NGS-Genome_Variant_Analysis.md) 
-
 ## Course at EMBL-EBI: Summer school in bioinformatics
 
 European Bioinformatics Institute United Kingdom in association with Elixir Estonia are organising summer school in bioinformatics. This course provides an introduction to the use of bioinformatics in biological research, giving you guidance for using bioinformatics in your work whilst also providing hands-on training in tools and resources appropriate to your research.
