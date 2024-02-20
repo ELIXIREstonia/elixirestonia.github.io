@@ -1,0 +1,232 @@
+{% extends "blog-post.html" %}
+
+{% block content %}
+{% set instance = page.meta.course.instances[0] %}
+{% if page.title %}
+<h1>{{ page.title }}</h1>
+{%- else -%}
+<h1>{{ page.meta.course.name }}
+  &ndash;
+  {{  instance.start.strftime("%d.%m.%Y") }}
+  {%- if page.meta.course.general.register %} &ndash; Registreerimine AVATUD{% endif -%}
+  {%- if page.meta.course.general.invite %} &ndash; Kutsega{% endif -%}
+</h1>
+{%- endif %}
+
+{{ page.content }}
+
+<h2>Üldinfo</h2>
+
+<ul>
+  <li><strong>Aeg:</strong>
+    {{  instance.start.strftime("%d.%m.%Y %H:%M") -}}
+    &ndash;
+    {{-  instance.end.strftime("%H:%M") -}}
+  </li>
+  <li><strong>Tüüp:</strong> töötuba</li>
+  <li><strong>Keel:</strong> eesti</li>
+  <li><strong>Kestus:</strong> {{ page.meta.course.hours }} hour{% if page.meta.course.hours != 1 %}s{% endif %}</li>
+  <li><strong>Asukoht:</strong>
+{% if instance.online %}
+  {{- instance.online -}}
+{%- elif instance.onsite.building == 'DELTA' -%}
+Delta hoone, Narva mnt 18 ruum {{ instance.onsite.room }}, Tartu
+{%- elif instance.onsite.building == 'TLU' %}
+Tallinna Ülikool, Narva mnt 25, ruum {{ instance.onsite.room }}, Tallinn
+{%- elif instance.onsite.streetAddress %}
+{{ instance.onsite.alternateName | e }},
+{{ instance.onsite.streetAddress | e }}",
+ruum {{ instance.onsite.room }},
+{{ instance.onsite.addressLocality | e -}}
+{% if instance.onsite.addressCountry != "Estonia" -%}
+, {{ instance.onsite.addressCountry -}}
+{%- endif -%}
+{%- endif -%}
+  </li>
+  <li><strong>Sihtrühm:</strong> {{ page.meta.course.general.audience }}</li>
+  <li><strong>Lektor:</strong> {{ page.meta.course.general.lecturers }}</li>
+</ul>
+
+
+{% if page.meta.course.general.topics is iterable -%}
+<h2>Key topics</h2>
+<ul>
+  {%- for item in page.meta.course.general.topics -%}
+  <li>{{ item }}</li>
+  {% endfor %}
+</ul>
+{%- endif %}
+
+
+{% if page.meta.course.general.outcomes is iterable -%}
+<h2>Õpitulemused</h2>
+<ul>
+  {%- for item in page.meta.course.general.outcomes -%}
+  <li>{{ item }}</li>
+  {% endfor %}
+</ul>
+{%- endif %}
+
+<h2>Registreeru</h2>
+<p>Kui te ei saa loengule osaleda, palun teavitage meid võimalikult kiiresti e-posti teel (elixir@ut.ee).</p>
+<p><strong>Registreeru:</strong>
+{% if page.meta.course.general.register -%}
+  {{ page.meta.course.general.register | urlize(target="_blank") }}
+{%- elif page.meta.course.general.invite -%}
+  {{ page.meta.course.general.invite }}
+{%- else -%}
+registreerimine lõppenud
+{%- endif -%}
+</p>
+
+<hr>
+
+<p>Uute kursustega kursis olemiseks 
+<a href="https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request"
+target="_blank">liituge meie uudiskirjaga meililistiga</a>.
+Taotlusi võetakse vastu mõne päeva jooksul käsitsi.</p>
+
+</div>
+</article>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@id": "{{ config.site_url }}{{ page.url }}",
+  "@type": "Course",
+  "dct:conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/Course/1.0-RELEASE"
+  },
+  "name": "{{ page.meta.course.name | e }}",
+  "url": "{{ config.site_url }}{{ page.url }}",
+  "description": "{{ page.content | e}}",
+  "timeRequired": "P{{ page.meta.course.hours }}H",
+  "keywords": [
+{%- for item in page.meta.course.keywords -%}
+    "{{- item | e -}}"
+    {%- if not loop.last %},{% endif %}
+{%- endfor -%}
+  ],
+  "provider": [
+    {
+      "@type": "Organization",
+      "name": "{{ page.meta.course.provider | e }}"
+    }
+  ],
+  "audience": [
+{%- for item in page.meta.course.audience %}
+    {
+      "@type": "Audience",
+      "audienceType": "{{ item | e }}"
+    }
+    {%- if not loop.last %},{% endif %}
+{%- endfor %}
+  ],
+{%- if page.meta.course.general.topics is iterable %}
+  "teaches": [
+{%- for item in page.meta.course.general.topics -%}
+    "{{- item | e -}}"
+    {%- if not loop.last %},{% endif %}
+{%- endfor -%}
+  ],
+{%- endif %}
+{%- if page.meta.course.about %}
+  "about": [
+{%- for item in page.meta.course.about -%}
+{%- if item.edam -%}
+{%- for key, name in item.edam.items() %}
+    {
+        "@type": "DefinedTerm",
+        "@id": "http://edamontology.org/topic_{{ key }}",
+        "inDefinedTermSet": "http://edamontology.org",
+        "name": "{{ name | e }}",
+        "url": "http://edamontology.org/topic_{{ key }}"
+    }
+    {%- if not loop.last %},{% endif %}
+{%- endfor -%}
+{%- endif -%}
+{%- endfor%}
+  ],
+{%- endif %}
+  "hasCourseInstance": [
+{%- for instance in page.meta.course.instances %}
+    {
+      "@context": "http://schema.org",
+      "@type": "CourseInstance",
+      "dct:conformsTo": {
+        "@type": "CreativeWork",
+        "@id": "https://bioschemas.org/profiles/CourseInstance/1.0-RELEASE"
+      },
+      "startDate": "{{ instance.start.astimezone().isoformat() }}",
+      "endDate": "{{ instance.end.astimezone().isoformat() }}",
+      "organizer": {
+        "@type": "Organization",
+        "name": "{{ instance.organisation | e }}"
+      },
+      "isAccessibleForFree": true,
+{%- if instance.instructor %}
+      "instructor": {
+          "@type": "Person",
+          "name": "{{ instance.instructor | e }}"
+      },
+{% endif %}
+{%- if instance.maximumAttendeeCapacity %}
+      "maximumAttendeeCapacity": {{ instance.maximumAttendeeCapacity }},
+{%- endif %}
+{%- if instance.online %}
+      "courseMode": "online",
+{%- elif instance.onsite %}
+      "courseMode": "onsite",
+{%- if instance.onsite.building == 'DELTA' %}
+      "location": {
+        "@type": "Place",
+        "latitude": "58.385253",
+        "longitude": "26.724993",
+        "alternateName": "Delta building, room {{ instance.onsite.room | e }}",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Narva mnt 18, room {{ instance.onsite.room | e }}",
+          "addressLocality": "Tartu",
+          "addressRegion": "Tartumaa",
+          "addressCountry": "Estonia",
+          "postalCode": "51009"
+        }
+      }
+{%- elif instance.onsite.building == 'TLU' %}
+      "location": {
+        "@type": "Place",
+        "latitude": "59.438732",
+        "longitude": "24.771384",
+        "alternateName": "Tallinn University, room {{ instance.onsite.room | e }}",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Narva mnt 25, room {{ instance.onsite.room | e }}",
+          "addressLocality": "Tallinn",
+          "addressCountry": "Estonia",
+          "postalCode": "10120"
+        }
+      }
+{%- elif instance.onsite.streetAddress %}
+      "location": {
+        "@type": "Place",
+        "latitude": "{{ instance.onsite.latitude | e }}",
+        "longitude": "{{ instance.onsite.longitude | e }}",
+        "alternateName": "{{ instance.onsite.alternateName | e }}",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "{{ instance.onsite.streetAddress | e }}",
+          "addressLocality": "{{ instance.onsite.addressLocality | e }}",
+          "addressCountry": "{{ instance.onsite.addressCountry | e }}",
+          "postalCode": "{{ instance.onsite.postalCode | e }}",
+        }
+      }
+{%- endif -%}
+{%- endif %}
+    }
+    {%- if not loop.last %},{% endif %}
+{%- endfor %}
+  ]
+}
+</script>
+{% endblock %}

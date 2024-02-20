@@ -64,6 +64,23 @@ use the path of the targeted file relative to the `/content/` directory (e.g.
 `[introduction](data_management/introduction.md)`). MkDocs will take care of
 rendering the correct link for the targeted resource.
 
+### Q: How to add trainings
+
+**A:** We recommend using template [training-template.md](training-template.md)
+when adding a new training: this also renders JSON-LD metadata in the HTML (so
+that [TeSS](https://tess.elixir-europe.org/events?node=Estonia) could use it).
+The steps are following:
+
+1. Copy [training-template.md](training-template.md) to
+   [content/news/posts/](content/news/posts/)`<year>/` with a custom
+   training-specific filename (it affects the _slug_ of the post-path).
+2. Update the YAML section with training-specific values.
+3. Specify training description in the Markdown section (after the
+   front-matter).
+4. Test how the news article is rendered (`mkdocs serve` and open the browser).
+5. View the page source to find `<script type="application/ld+json">` after the
+   `<article>` section.
+
 ### Q: How to update the page about people
 
 **A:** Metadata about people and their order is stored in
