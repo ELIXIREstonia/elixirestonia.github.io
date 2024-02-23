@@ -7,6 +7,8 @@ hide:
 ## 2024
 
 * **9.02.2024** - [Python for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/01/09/Python_for_beginners_Tartu/)
+* **22.02.2024** - [Andmehaldus 101 (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/Andmehaldus_101/)
+* **23.02.2024** - [Python algajatele (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/Python_algajatele/)
 
 ## 2023
 

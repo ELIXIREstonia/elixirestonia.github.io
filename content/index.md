@@ -48,8 +48,6 @@ and visit https://elixir.ut.ee/training.
 
 Invitation only: 
 
-* [Andmehaldus 101 - 22.02.2024, Tallinn - Kutsega](news/posts/2024/Andmehaldus_101.md)
-* [Python algajatele - 23.02.2024, Tallinn - Kutsega](news/posts/2024/Python_algajatele.md)
 * [Bring your own DMP workshop - 1.03.2024, Tartu - Invite only](news/posts/2024/BYO_DMP_2024-03-01.md)
 * [Bring your own DMP workshop - 8.03.2024, Tartu - Invite only](news/posts/2024/BYO_DMP_2024-03-08.md)
 * [LINUX/UNIX algajale - 08.03.2024, Tallinn - Kutsega](news/posts/2024/Unix.md)
