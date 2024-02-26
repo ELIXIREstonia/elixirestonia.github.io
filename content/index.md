@@ -88,6 +88,16 @@ Application deadline: 06 March 2024
 
 [Continue Reading](news/posts/2024/Single-Cell_Transcriptomics_with_R.md) 
 
+## Online course - NGS - Quality Control, Alignment, Visualisation
+
+In this module, we will introduce the most used sequencing technologies and explain their concepts. Using different datasets, we will practice quality control, alignment of reads to a reference genome and visualize the output. This course is intended for life scientists who are already dealing with NGS data and would like to be able to start analysing them.
+
+Application deadline: 01 April 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240424_NGSQC) 
+
+[Continue Reading](news/posts/2024/NGS_QC_Alignment_Visualisation.md) 
+
 ## Course at  Breda, The Netherlands: RNA-seq data analysis
 
 The 9th edition of the RNA-seq Data Analysis course will be held on 8-12 April – 2024 in Breda, The Netherlands. This course covers the basic concepts and methods required for RNA-seq analysis. Particular attention is given to the data analysis pipelines for differential transcript expression and variant calling. The course consists of a mixture of lectures and Galaxy, Linux and R practicals. Also the potential of long-read based RNA-seq and AI based analysis enrichments will be explored.
