@@ -10,8 +10,12 @@ in Paris, and locally in Estonia. Internationally we train people how to use
 ELIXIR Estonia services in their research setting. Locally we train with
 hands-on courses in the life science community on various topics.
 
-The courses for the year 2024.
+The courses for the year 2024: 
 
+* [1.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-01/)
+* [8.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-08/)
+* [15.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-15/)
+* [22.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-22/)
 * [5.04.2024 - Data visualisation (theory) (Zoom)](https://elixir.ut.ee/news/2024/02/07/Data_visualisation_theory/)
 * [12.04.2024 - Tableau for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Tableau_for_beginners/)
 * [19.04; 26.04; 3.05 - Nextflow for beginners - 3-day course (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Nextflow/)
@@ -19,11 +23,7 @@ The courses for the year 2024.
 
 Invite only: 
 
-* [1.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-01/)
-* [8.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-08/)
 * [08.03.2024 - LINUX/UNIX algajale (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/Unix/)
-* [15.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-15/)
-* [22.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-22/)
 * [22.03.2024 - RStudio algajale (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/RStudio_algajale/)
 * [18.04.2024 - Andmete visualiseerimine (teooria) (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Andmete_visualiseerimine_teooria/)
 * [19.04.2024 - Visualisatsioonide tegemine RStudio-ga (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Visualisatsioonide_tegemine_RStudio/)
