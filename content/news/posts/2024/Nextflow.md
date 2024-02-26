@@ -14,7 +14,7 @@ hide:
   - toc
 ---
 
-# Nextflow for beginners - 3-day course (19.04; 26.04; 3.05), Tartu - Registration OPEN
+# Nextflow for beginners - 3-day course (19.04; 26.04; 3.05), Tartu - Course is full
 
 This 3-day Nextflow course by ELIXIR Estonia, in collaboration with the University of [Tartu HPC Center](https://hpc.ut.ee/), comprehensively introduces the powerful workflow language. [Nextflow](https://www.nextflow.io/) is renowned for its robust, scalable, and reproducible methods of running computational pipelines. Through efficient, interactive lessons, participants will gain a solid understanding of Nextflow technology, from fundamental to advanced concepts.
 
@@ -77,7 +77,7 @@ All essential course materials and software installation guidelines will be avai
 
 We ask you to register responsibly. If you can't attend the lecture, please let us know as soon as possible via email (elixir@ut.ee).
 
-__Register:__   https://forms.gle/U1VP39Du6Gg6jtyx8  
+__Register:__   Course is full
 
 ---
 
