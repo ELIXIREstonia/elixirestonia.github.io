@@ -68,15 +68,16 @@ Invitation only:
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
 
-## Online course: Enrichment Analysis
+## Webinar by EMBL-EBI: Bioinformatic approaches to understand the role of the human microbiome in health and disease
 
-Experiments designed to quantify gene expression often yield hundreds of genes that show statistically significant differences between groups of interest. Once differentially expressed genes are identified, enrichment analysis (EA) methods can be used to explore the biological functions associated with these genes. EA methods allow us to identify groups of genes (e.g. particular pathways) that are over-represented, thereby offering insights into biological mechanisms. One of the EA methods frequently used for high-throughput gene expression data analysis is Gene Set Enrichment Analysis (GSEA). This course will cover GSEA and alternative enrichment methods. Because the implementation of GSEA is directly linked to databases that annotate the function of genes in a cell, the course will also give an overview of functional annotation databases such as Gene Ontology.
+This webinar will provide an overview of current metagenomic approaches to study the human microbiome and introduce several statistical methods that can be used to link its composition and function to different human phenotypes and populations.
+This webinar is suitable for those interested in studying the microbiomes of any environment or host. Although the presentation will be focused on the human microbiome, the methods and techniques discussed will also be applicable to other microbial ecosystems. No prior knowledge of bioinformatics is required, but undergraduate level knowledge of biology would be useful.
 
-Application deadline: 26 February 2024
+Date & Time: Mar 6, 2024 05:30 PM 
 
-[More Info and Registration](https://www.sib.swiss/training/course/20240311_ENRIC) 
+[More Info and Registration](https://www.ebi.ac.uk/training/events/bioinformatic-approaches-understand-role-human-microbiome-health-and-disease/) 
 
-[Continue Reading](news/posts/2024/Enrichment_Analysis.md) 
+[Continue Reading](news/posts/2024/Bioinformatics_human_microbiome_EMBL-EBI.md) 
 
 ## Course at  Bern, Switzerland: Single-Cell Transcriptomics with R
 
@@ -116,3 +117,11 @@ Application deadline: 30th April 2024
 [More Info and Registration](https://elixir-iib-training.github.io/site/2024-05-30-Metabolomics_Course) 
 
 [Continue Reading](news/posts/2024/Metabolomics_Approaches_for_One_Health.md) 
+
+## Asynchronous e-learning course: Interoperable File Formats
+In an era when data is being produced at unprecedented speed and in many different formats, data interoperability is key to sharing and archiving data.
+In this 1-h course, you will learn why file format is essential to interoperability, the criteria that file formats must fulfill to be interoperable, common interoperable file formats and how to convert a file to an interoperable format.
+
+[More Info](https://www.sib.swiss/training/course/2024_IOFFM)
+
+[Continue Reading](news/posts/2024/Interoperable_file_formats.md) 
