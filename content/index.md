@@ -41,7 +41,7 @@ and visit https://elixir.ut.ee/training.
 
 [Read more](news/posts/2023/autumn-courses.md)
 -->
-* [Bring your own DMP workshop - 1.03.2024, Tartu - Registration OPEN](news/posts/2024/BYO_DMP_2024-03-01.md)
+
 * [Bring your own DMP workshop - 8.03.2024, Tartu - Registration OPEN](news/posts/2024/BYO_DMP_2024-03-08.md)
 * [Bring your own DMP workshop - 15.03.2024, Tartu - Registration OPEN](news/posts/2024/BYO_DMP_2024-03-15.md)
 * [Bring your own DMP workshop - 22.03.2024, Tartu - 1 place left](news/posts/2024/BYO_DMP_2024-03-22.md)
