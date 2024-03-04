@@ -44,7 +44,7 @@ and visit https://elixir.ut.ee/training.
 
 * [Bring your own DMP workshop - 8.03.2024, Tartu - Registration OPEN](news/posts/2024/BYO_DMP_2024-03-08.md)
 * [Bring your own DMP workshop - 15.03.2024, Tartu - Registration OPEN](news/posts/2024/BYO_DMP_2024-03-15.md)
-* [Bring your own DMP workshop - 22.03.2024, Tartu - 1 place left](news/posts/2024/BYO_DMP_2024-03-22.md)
+* [Bring your own DMP workshop - 22.03.2024, Tartu - Course is full](news/posts/2024/BYO_DMP_2024-03-22.md)
 * [Data visualisation (theory) - 5.04.2024, Zoom - Registration OPEN](news/posts/2024/Data_visualisation_theory.md)
 * [Tableau for beginners - 12.04.2024, Tartu - Registration OPEN](news/posts/2024/Tableau_for_beginners.md)
 * [Nextflow for beginners - 3-day course (19.04; 26.04; 3.05), Tartu - Course full](news/posts/2024/Nextflow.md)
