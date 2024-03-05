@@ -1,63 +1,50 @@
 ---
-# For trainings in Estonian language use template: training_et.html
 template: training_en.html
-
-# You may use full custom title here. If omitted, it will be generated from course name.
-title: Introduction to the Next Big Thing - 01.06.2024 -  Registration OPEN
-draft: false
+title: How to use Dataverse repository
+draft: true
 hide:
   - toc
-
-# Date of this blog post:
-date: 2024-02-20
+date: 2024-03-05
 authors:
   - Diana
 
-# These are used only for ELIXIR EE site categories, not the course keywords on TESS
+# These are used only for site categories, not the course keywords
 categories:
   - workshop
-  - g:Profiler
+  - Dataverse
+  - demo
+  - repository
 
 # Fill in the course details:
-course:
-  name: Introduction to the Next Big Thing
+course: 
+  name: How to use Dataverse repository - DEMO
 
   # Keep this in English (used in metadata)
   provider: University of Tartu, Institute of Computer Science
   # Specify duration in hours:
-  hours: 3
+  hours: 1
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register: https://forms.gle/vq6DgsoWK12F3ETB8
+    register: https://forms.gle/FEXMQcRqFpJpHMZ86
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
-    invite: Can attend only with an invite from ETAg. These will be small groups of a maximum of 7 people.
+    invite: First come first served 
 
     # Specify audience in plain-text in the language of the template:
-    audience: Beginner level. To all natural scientists who deal with gene lists in their work.
+    audience: Beginner level
 
     # Specify lecturers in plain-text in the language of the template:
-    lecturers: Instructor One, Instructor Two
-
-    # Specify "Key Topics" as a YAML list:
-    topics:
-      - Basics.
-      - Fundamentals.
-      - Tools.
-      - Performing.
+    lecturers: Illimar Hugo Rekand , Philipp Conzett
 
     # Specify "Learning outcomes" as a YAML list:
     outcomes:
-      - Gain a foundational understanding.
-      - Learn to use.
-      - Acquire skills.
-      - Get familiar.
+      - Demonstrate the use cases Dataverse
+      - Learn to deposit data to Dataverse
 
   # Specify keywords (for metadata) as a YAML list:
   keywords:
-    - SomeTool
-    - Bioinformatics
+    - Dataverse
 
   # Specify audience keywords (for metadata) as a YAML list:
   audience:
@@ -70,26 +57,22 @@ course:
     # "edam" indicates special ontology, other types not yet supported.
     - edam:
         # Specified as – code: label
-        0091: Bioinformatics
+        3071: Data management
 
   # Specify occurrences here:
   instances:
-    - start: 2024-06-01T14:00:00
-      end: 2024-06-01T17:00:00
+    - start: 2024-04-05T10:00:00
+      end: 2024-04-05T11:00:00
       organisation: ELIXIR Estonia
-      maximumAttendeeCapacity: 20
+      maximumAttendeeCapacity: 30
       instructors:
-        - Instructor One
-        - Instructor Two
+        - Illimar Hugo Rekand
+        - Philipp Conzett
       onsite:
         building: DELTA
-        room: 2030
+        room: 1022
 
-      # or TLU (Narva mnt 25):
-      # onsite:
-      #   building: TLU
-      #   room: A-123
-
+    
       # or custom:
       # onsite:
       #   alternateName: Hotel ABC
