@@ -104,6 +104,9 @@ course:
 
       # or online:
       # online: Zoom, link will be given a few days before the course.
+
+# Finally, the course description in Markdown/HTML below (as many paragraphs as needed).
+# Description will be rendered on web-page and also in TeSS JSON (as a string of HTML).
 ---
 
-This workshop provides a comprehensive ... (Course description)
+This workshop provides a comprehensive ... (enter the course description here)

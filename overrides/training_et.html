@@ -48,7 +48,7 @@ ruum {{ instance.onsite.room }},
 </ul>
 
 
-{% if page.meta.course.general.topics is iterable -%}
+{%- if page.meta.course.general.topics is defined and page.meta.course.general.topics is iterable %}
 <h2>Key topics</h2>
 <ul>
   {%- for item in page.meta.course.general.topics -%}
@@ -58,7 +58,7 @@ ruum {{ instance.onsite.room }},
 {%- endif %}
 
 
-{% if page.meta.course.general.outcomes is iterable -%}
+{%- if page.meta.course.general.outcomes is defined and page.meta.course.general.outcomes is iterable %}
 <h2>Õpitulemused</h2>
 <ul>
   {%- for item in page.meta.course.general.outcomes -%}
@@ -81,7 +81,7 @@ registreerimine lõppenud
 
 <hr>
 
-<p>Uute kursustega kursis olemiseks 
+<p>Uute kursustega kursis olemiseks
 <a href="https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request"
 target="_blank">liituge meie uudiskirjaga meililistiga</a>.
 Taotlusi võetakse vastu mõne päeva jooksul käsitsi.</p>
@@ -123,7 +123,7 @@ Taotlusi võetakse vastu mõne päeva jooksul käsitsi.</p>
     {%- if not loop.last %},{% endif %}
 {%- endfor %}
   ],
-{%- if page.meta.course.general.topics is iterable %}
+{%- if page.meta.course.general.topics is defined and page.meta.course.general.topics is iterable %}
   "teaches": [
 {%- for item in page.meta.course.general.topics -%}
     "{{- item | e -}}"

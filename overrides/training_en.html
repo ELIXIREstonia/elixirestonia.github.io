@@ -48,7 +48,7 @@ room {{ instance.onsite.room }},
 </ul>
 
 
-{% if page.meta.course.general.topics is iterable -%}
+{% if page.meta.course.general.topics is defined and page.meta.course.general.topics is iterable -%}
 <h2>Key topics</h2>
 <ul>
   {%- for item in page.meta.course.general.topics -%}
@@ -58,7 +58,7 @@ room {{ instance.onsite.room }},
 {%- endif %}
 
 
-{% if page.meta.course.general.outcomes is iterable -%}
+{% if page.meta.course.general.outcomes is defined and page.meta.course.general.outcomes is iterable -%}
 <h2>Learning outcomes for the participants</h2>
 <ul>
   {%- for item in page.meta.course.general.outcomes -%}
@@ -123,7 +123,7 @@ to our newsletter</a>. Applications are accepted manually within a few days.</p>
     {%- if not loop.last %},{% endif %}
 {%- endfor %}
   ],
-{%- if page.meta.course.general.topics is iterable %}
+{%- if page.meta.course.general.topics is defined and page.meta.course.general.topics is iterable %}
   "teaches": [
 {%- for item in page.meta.course.general.topics -%}
     "{{- item | e -}}"
