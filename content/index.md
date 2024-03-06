@@ -42,7 +42,7 @@ and visit https://elixir.ut.ee/training.
 [Read more](news/posts/2023/autumn-courses.md)
 -->
 
-* [Bring your own DMP workshop - 8.03.2024, Tartu - Registration OPEN](news/posts/2024/BYO_DMP_2024-03-08.md)
+* [Bring your own DMP workshop - 8.03.2024, Tartu - Cancelled](news/posts/2024/BYO_DMP_2024-03-08.md)
 * [Bring your own DMP workshop - 15.03.2024, Tartu - Registration OPEN](news/posts/2024/BYO_DMP_2024-03-15.md)
 * [Bring your own DMP workshop - 22.03.2024, Tartu - Course is full](news/posts/2024/BYO_DMP_2024-03-22.md)
 * [Data visualisation (theory) - 5.04.2024, Zoom - Registration OPEN](news/posts/2024/Data_visualisation_theory.md)
@@ -89,6 +89,16 @@ Application deadline: 06 March 2024
 
 [Continue Reading](news/posts/2024/Single-Cell_Transcriptomics_with_R.md) 
 
+## Webinar: FAIR for Busy Biologists: Enhancing Productivity by Good Data Management
+
+Join us for a two-session workshop designed specifically for busy biologists looking to enhance their productivity through effective data management practices.
+
+Dates: March 20th and 21st
+
+[More Info and Registration](https://www.eventbrite.com/e/fair-for-busy-biologists-enhancing-productivity-by-good-data-management-registration-849499976297) 
+
+[Continue Reading](news/posts/2024/FAIR_busy_biologists.md) 
+
 ## Online course - NGS - Quality Control, Alignment, Visualisation
 
 In this module, we will introduce the most used sequencing technologies and explain their concepts. Using different datasets, we will practice quality control, alignment of reads to a reference genome and visualize the output. This course is intended for life scientists who are already dealing with NGS data and would like to be able to start analysing them.
@@ -107,6 +117,26 @@ The 9th edition of the RNA-seq Data Analysis course will be held on 8-12 April �
 
 [Continue Reading](news/posts/2024/RNA-seq_data_analysis.md) 
 
+## Course at  Visby, Sweden: RaukR 2024 • Advanced R for Bioinformatics
+
+This workshop is aimed at both Ph.D. students and researchers within life sciences who are already using R for bioinformatics data analyses and who would like to start using R at a more advanced level.
+
+Application deadline: 14th April 2024
+
+[More Info and Registration](https://nbisweden.github.io/raukr-2024/home_registration.html) 
+
+[Continue Reading](news/posts/2024/RaukR.md)
+
+## Course at Basel, Switzerland: Introduction to Bayesian Statistics with R
+
+This 2-day course will introduce participants to the core concepts of Bayesian statistics through lectures and practical exercises. The exercises will be implemented in the widely used R programming language and the Rstan library. They will enable participants to use standard Bayesian statistical tools and interpret their results.
+
+Registration deadline: April 22, 2024 or as soon as the course is full
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240513_IBAYE) 
+
+[Continue Reading](news/posts/2024/Bayesian_statistics.md)
+
 ## Course at  Milano, Italy: Metabolomics Approaches for ‘One Health’
 
 This workshop focuses on experimental design and sample preparation matrix enabling junior and senior scientists to apply metabolomics approaches to a research-based context.
@@ -117,6 +147,27 @@ Application deadline: 30th April 2024
 [More Info and Registration](https://elixir-iib-training.github.io/site/2024-05-30-Metabolomics_Course) 
 
 [Continue Reading](news/posts/2024/Metabolomics_Approaches_for_One_Health.md) 
+
+## Course at Pilsen, Czech Republic: SUMMER SCHOOL OF SINGLE CELL, FROM THE LAB TO DATA ANALYSIS
+We are inviting you to join our unique Single-cell summer school which covers all important steps during immune cell processing, sample preparation for single-cell sequencing and data analysis.
+This eight days intensive hands-on school focuses on experiment design, sample selection and preparation, quality control, sequencing, understanding NGS data formats, sequence editing, read mapping, handling potential problems and finally data interpretation.
+
+Registration deadline: 5th of May 2024.
+
+[More Info and Registration](https://singlecell-pilsen.zcu.cz/) 
+
+[Continue Reading](news/posts/2024/single_cell_summer_school.md) 
+
+## Course at Luxembourg: Train the Trainer
+
+This ELIXIR Train the Trainer (TtT) course is aimed at everyone who is interested in becoming a better teacher. In particular, this training is aimed at those who want to become a experienced ELIXIR instructor, run workshops and develop training materials.
+You don’t currently have to be an instructor or a teacher to attend this workshop, but you will be expected to be willing and committed to becoming one and to improve your teaching techniques.
+
+Date: 3-5 July
+
+[More Info and Registration](https://www.denbi.de/training-courses-2024/1694-elixir-luxembourg-elixir-germany-train-the-trainer) 
+
+[Continue Reading](news/posts/2024/Train_the_trainer_deNBI.md) 
 
 ## Asynchronous e-learning course: Interoperable File Formats
 In an era when data is being produced at unprecedented speed and in many different formats, data interoperability is key to sharing and archiving data.
