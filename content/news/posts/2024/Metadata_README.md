@@ -5,7 +5,7 @@ authors:
   - Diana
 categories:
   - FAIR Principles 
-  - DM courses 
+  - Data Management
   - metadata 
   - readme
 hide:
