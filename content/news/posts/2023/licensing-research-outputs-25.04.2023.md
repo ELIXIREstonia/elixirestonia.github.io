@@ -4,7 +4,7 @@ authors:
   - Diana
 categories:
   - license
-  - DM courses
+  - Data Management
   - lecture
 original_url: node/486
 hide:

@@ -6,7 +6,6 @@ categories:
   - data
   - visualization
   - charts
-  - DM courses
   - lecture
   - Tableau
   - ggplot2

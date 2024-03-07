@@ -6,7 +6,6 @@ categories:
   - data
   - visualization
   - charts
-  - DM courses
   - lecture
 original_url: node/480
 hide:

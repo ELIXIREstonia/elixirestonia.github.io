@@ -4,7 +4,7 @@ authors:
   - Diana
 categories:
   - FAIR Principles
-  - DM courses
+  - Data Management
   - lecture
 original_url: node/465
 hide:

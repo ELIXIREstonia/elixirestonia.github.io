@@ -4,7 +4,7 @@ authors:
   - Diana
 categories:
   - DMP
-  - DM courses
+  - Data Management
   - workshop
 original_url: node/474
 hide:
