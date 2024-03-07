@@ -68,26 +68,6 @@ Invitation only:
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
 
-## Webinar by EMBL-EBI: Bioinformatic approaches to understand the role of the human microbiome in health and disease
-
-This webinar will provide an overview of current metagenomic approaches to study the human microbiome and introduce several statistical methods that can be used to link its composition and function to different human phenotypes and populations.
-This webinar is suitable for those interested in studying the microbiomes of any environment or host. Although the presentation will be focused on the human microbiome, the methods and techniques discussed will also be applicable to other microbial ecosystems. No prior knowledge of bioinformatics is required, but undergraduate level knowledge of biology would be useful.
-
-Date & Time: Mar 6, 2024 05:30 PM 
-
-[More Info and Registration](https://www.ebi.ac.uk/training/events/bioinformatic-approaches-understand-role-human-microbiome-health-and-disease/) 
-
-[Continue Reading](news/posts/2024/Bioinformatics_human_microbiome_EMBL-EBI.md) 
-
-## Course at  Bern, Switzerland: Single-Cell Transcriptomics with R
-
-Single-cell RNA sequencing (scRNAseq) allows researchers to study gene expression at the single cell level. For example, scRNAseq can help to identify expression patterns that differ between conditions within a cell-type. To generate and analyze scRNAseq data, several methods are available, all with their strengths and weaknesses depending on the researchers’ needs. This 3-day course will cover the main technologies as well as the main aspects to consider while designing a scRNAseq experiment. In addition, it will cover the theoretical background of analysis methods with hands-on practical data analysis sessions applied to droplet-based methods.
-
-Application deadline: 06 March 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240318_ISCTR) 
-
-[Continue Reading](news/posts/2024/Single-Cell_Transcriptomics_with_R.md) 
 
 ## Webinar: FAIR for Busy Biologists: Enhancing Productivity by Good Data Management
 
