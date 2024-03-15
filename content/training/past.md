@@ -10,6 +10,7 @@ hide:
 * **22.02.2024** - [Andmehaldus 101 (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/Andmehaldus_101/)
 * **23.02.2024** - [Python algajatele (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/Python_algajatele/)
 * **1.03.2024** - [Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-01/)
+* **08.03.2024** - [LINUX/UNIX algajale (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/Unix/)
 
 ## 2023
 
