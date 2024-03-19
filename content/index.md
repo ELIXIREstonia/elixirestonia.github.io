@@ -98,6 +98,16 @@ The 9th edition of the RNA-seq Data Analysis course will be held on 8-12 April â
 
 [Continue Reading](news/posts/2024/RNA-seq_data_analysis.md) 
 
+## Online course: Train the Trainer
+
+We are pleased to announce the Train-the-Trainer course, organised by ELIXIR Norway. It will take place every Monday and Friday between 22 April - 3 May 2024. The course is interactive and it is a good opportunity to share experience and knowledge, and learn from each other.
+
+Registration deadline: 12th of April 2024
+
+[More Info and Registration](https://tess.elixir-europe.org/events/elixir-norway-train-the-trainer) 
+
+[Continue Reading](news/posts/2024/Train_the_trainer_Norway.md)
+
 ## Course at  Visby, Sweden: RaukR 2024 â€¢ Advanced R for Bioinformatics
 
 This workshop is aimed at both Ph.D. students and researchers within life sciences who are already using R for bioinformatics data analyses and who would like to start using R at a more advanced level.
