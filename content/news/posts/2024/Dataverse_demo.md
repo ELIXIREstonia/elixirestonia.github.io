@@ -83,7 +83,7 @@ course:
       #   longitude:
 
       # or online:
-      online: Zoom, link will be given a few days before the course.
+      # online: Zoom, link will be given a few days before the course.
 ---
 
 Join us to learn about when and how to use the Harvard Dataverse repository from the Dataverse Norway team!
