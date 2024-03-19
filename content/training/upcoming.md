@@ -12,9 +12,12 @@ hands-on courses in the life science community on various topics.
 
 The courses for the year 2024: 
 
-* [15.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-15/)
 * [22.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-22/)
 * [5.04.2024 - Data visualisation (theory) (Zoom)](https://elixir.ut.ee/news/2024/02/07/Data_visualisation_theory/)
+* [5.04.2024 - How to use Dataverse repositories - DEMO - F2F, Tartu](news/posts/2024/Dataverse_demo.md)
+* 5.04.2024 Dataverse course in dual language: 
+    *  English description: [Data Curation with Dataverse - A Norwegian Perspective](news/posts/2024/Dataverse_NO_eng.md) 
+    * Eestikeelne: [Andmete kureerimine Dataverse Norra näitel](news/posts/2024/Dataverse_NO_est.md)
 * [12.04.2024 - Tableau for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Tableau_for_beginners/)
 * [19.04; 26.04; 3.05 - Nextflow for beginners - 3-day course (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Nextflow/)
 * [24.05.2024 - Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/g%3Aprofiler_english/)

@@ -42,9 +42,12 @@ and visit https://elixir.ut.ee/training.
 [Read more](news/posts/2023/autumn-courses.md)
 -->
 
-* [Bring your own DMP workshop - 15.03.2024, Tartu](news/posts/2024/BYO_DMP_2024-03-15.md)
 * [Bring your own DMP workshop - 22.03.2024, Tartu - Course is full](news/posts/2024/BYO_DMP_2024-03-22.md)
 * [Data visualisation (theory) - 5.04.2024, Zoom - Registration OPEN](news/posts/2024/Data_visualisation_theory.md)
+* [How to use Dataverse repositories - DEMO - 5.04.2024, Registration OPEN](news/posts/2024/Dataverse_demo.md)
+* Dataverse course in dual language: 
+    *  English description: [Data Curation with Dataverse - A Norwegian Perspective - 5.04.2024 - Registration OPEN](news/posts/2024/Dataverse_NO_eng.md) 
+    * Eestikeelne: [Andmete kureerimine Dataverse Norra näitel - 5.04.2024 - Registreerimine AVATUD](news/posts/2024/Dataverse_NO_est.md)
 * [Tableau for beginners - 12.04.2024, Tartu - Registration OPEN](news/posts/2024/Tableau_for_beginners.md)
 * [Nextflow for beginners - 3-day course (19.04; 26.04; 3.05), Tartu - Course full](news/posts/2024/Nextflow.md)
 * [Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion - 24.05.2024 -  Registration OPEN](news/posts/2024/g:profiler_english.md)

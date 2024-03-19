@@ -1,7 +1,7 @@
 ---
 template: training_en.html
-title: How to use Dataverse repository
-draft: true
+title:  How to use Dataverse repositories - DEMO  - 5.04.2024 - Registration OPEN
+draft: false
 hide:
   - toc
 date: 2024-03-05
@@ -14,10 +14,12 @@ categories:
   - Dataverse
   - demo
   - repository
+  - data
+  - how-to 
 
 # Fill in the course details:
 course: 
-  name: How to use Dataverse repository - DEMO
+  name: How to use Dataverse repositories - DEMO
 
   # Keep this in English (used in metadata)
   provider: University of Tartu, Institute of Computer Science
@@ -26,7 +28,7 @@ course:
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register: https://forms.gle/FEXMQcRqFpJpHMZ86
+    register: https://forms.gle/vyuYLqBwnFpj86ZM9
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
     invite: First come first served 
@@ -39,17 +41,12 @@ course:
 
     # Specify "Learning outcomes" as a YAML list:
     outcomes:
-      - Demonstrate the use cases Dataverse
-      - Learn to deposit data to Dataverse
-
-  # Specify keywords (for metadata) as a YAML list:
-  keywords:
-    - Dataverse
+      - Recognize and describe which dataset can belong to an open repository such as the Harvard Dataverse
+      - Learn to deposit data to the Harvard Dataverse
 
   # Specify audience keywords (for metadata) as a YAML list:
   audience:
     - Researchers
-    - Beginner
 
   # Mostly don't need to change (needed for metadata). Find more values here:
   # https://www.ebi.ac.uk/ols4/ontologies/edam/classes/http%253A%252F%252Fedamontology.org%252Ftopic_0003?lang=en
@@ -86,7 +83,18 @@ course:
       #   longitude:
 
       # or online:
-      # online: Zoom, link will be given a few days before the course.
+      online: Zoom, link will be given a few days before the course.
 ---
 
-This workshop provides a comprehensive ... (Course description)
+Join us to learn about when and how to use the Harvard Dataverse repository from the Dataverse Norway team!
+
+<!-- more -->
+
+The Harvard Dataverse Repository is a free data repository open to all researchers from any discipline, both inside and outside of the Harvard community, where you can share, archive, cite, access, and explore research data. Each individual Dataverse collection is a customizable collection of datasets (or a virtual repository) for organizing, managing, and showcasing datasets.
+
+Publishing your data and code in the Harvard Dataverse Repository:
+
+* Increases the visibility of your research
+* Gets you credit for your data through citations
+* Satisfies data-sharing requirements from funders and journals
+
