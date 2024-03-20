@@ -100,7 +100,7 @@ Taotlusi võetakse vastu mõne päeva jooksul käsitsi.</p>
   },
   "name": "{{ page.meta.course.name | e }}",
   "url": "{{ config.site_url }}{{ page.url }}",
-  "description": "{{ page.content | e}}",
+  "description": {{ page.content | tojson | safe }},
   "timeRequired": "P{{ page.meta.course.hours }}H",
   "keywords": [
 {%- for item in page.meta.course.keywords -%}
