@@ -118,6 +118,16 @@ Application deadline: 14th April 2024
 
 [Continue Reading](news/posts/2024/RaukR.md)
 
+## Webinar by ELIXIR-IT: DisProt and MobiDB: Exploring Intrinsically Disordered Proteins and functional information
+
+This course is designed to facilitate the dissemination of two major resources about the disordered protein, DisProt and MobiDB, both part of ELIXIR infrastructure, within the scientific community. Through this course, participants will gain fundamental insights into Intrinsically Disordered Proteins data interpretation, the correlation with specific biological mechanisms and diseases while learning about the essential guidelines for becoming active contributors to the extensive network of DisProt curators.
+
+Deadline for applications: 15th April 2024
+
+[More Info and Registration](https://elixir-iib-training.github.io/site/2024-04-22-DisProt_and_MobiDB) 
+
+[Continue Reading](news/posts/2024/DisProt_MobiDB.md)
+
 ## Course at Basel, Switzerland: Introduction to Bayesian Statistics with R
 
 This 2-day course will introduce participants to the core concepts of Bayesian statistics through lectures and practical exercises. The exercises will be implemented in the widely used R programming language and the Rstan library. They will enable participants to use standard Bayesian statistical tools and interpret their results.
@@ -148,6 +158,16 @@ Registration deadline: 5th of May 2024.
 [More Info and Registration](https://singlecell-pilsen.zcu.cz/) 
 
 [Continue Reading](news/posts/2024/single_cell_summer_school.md) 
+
+## Webinar by SIB: Gene Expression made Useful Easily: Tools and Database of Bgee
+
+This is a course on bioinformatics resources taught by the developers of the resources. Bgee is a curated database of gene expression in animals, including model species such as human, mouse or drosophila, and others such as livestock, primates, or fishes. Bgee integrates information from single-cell and bulk RNA-seq, microarrays, and in situ hybridization. These data are available through a web interface and an R package. Bgee also includes tools which use these data, such as TopAnat or Expression Comparison, and allows integration with users' own data through another R package. In this course, we will present the curated and pre-analysed gene expression data in Bgee.
+
+Application Deadline: 17 May 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240531_BGEEL) 
+
+[Continue Reading](news/posts/2024/Bgee.md) 
 
 ## Course at Luxembourg: Train the Trainer
 
