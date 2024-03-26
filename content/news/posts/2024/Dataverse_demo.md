@@ -99,4 +99,4 @@ Publishing your data and code in the Harvard Dataverse Repository:
 * Gets you credit for your data through citations
 * Satisfies data-sharing requirements from funders and journals
 
-Zoom link will be sent after registration.
+Zoom link will be sent after registration. Time zone:  EET. 
