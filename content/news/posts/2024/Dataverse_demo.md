@@ -1,6 +1,6 @@
 ---
 template: training_en.html
-title:  How to use Dataverse repositories - DEMO  - 5.04.2024 - Registration OPEN
+title:  How to use Dataverse repositories - DEMO  - 5.04.2024, hybrid event - Registration OPEN
 draft: false
 hide:
   - toc
@@ -86,7 +86,8 @@ course:
       # online: Zoom, link will be given a few days before the course.
 ---
 
-Join us to learn about when and how to use the Harvard Dataverse repository from the Dataverse Norway team!
+Join us to learn about when and how to use the Harvard Dataverse repository from the Dataverse Norway team! 
+Hybrid event! 
 
 <!-- more -->
 
@@ -98,3 +99,4 @@ Publishing your data and code in the Harvard Dataverse Repository:
 * Gets you credit for your data through citations
 * Satisfies data-sharing requirements from funders and journals
 
+Zoom link will be sent after registration.
