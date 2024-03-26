@@ -44,7 +44,7 @@ and visit https://elixir.ut.ee/training.
 
 * [Bring your own DMP workshop - 22.03.2024, Tartu - Course is full](news/posts/2024/BYO_DMP_2024-03-22.md)
 * [Data visualisation (theory) - 5.04.2024, Zoom - Registration OPEN](news/posts/2024/Data_visualisation_theory.md)
-* [How to use Dataverse repositories - DEMO - 5.04.2024, Registration OPEN](news/posts/2024/Dataverse_demo.md)
+* [How to use Dataverse repositories - DEMO - 5.04.2024, hybrid, Registration OPEN](news/posts/2024/Dataverse_demo.md)
 * Dataverse course in dual language: 
     *  English description: [Data Curation with Dataverse - A Norwegian Perspective - 5.04.2024 - Registration OPEN](news/posts/2024/Dataverse_NO_eng.md) 
     * Eestikeelne: [Andmete kureerimine Dataverse Norra näitel - 5.04.2024 - Registreerimine AVATUD](news/posts/2024/Dataverse_NO_est.md)

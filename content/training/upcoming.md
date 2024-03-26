@@ -14,7 +14,7 @@ The courses for the year 2024:
 
 * [22.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-22/)
 * [5.04.2024 - Data visualisation (theory) (Zoom)](https://elixir.ut.ee/news/2024/02/07/Data_visualisation_theory/)
-* [5.04.2024 - How to use Dataverse repositories - DEMO - F2F, Tartu](https://elixir.ut.ee/news/2024/03/05/Dataverse_demo/)
+* [5.04.2024 - How to use Dataverse repositories - DEMO - hybrid, Tartu](https://elixir.ut.ee/news/2024/03/05/Dataverse_demo/)
 * 5.04.2024 Dataverse course in dual language: 
     *  English description: [Data Curation with Dataverse - A Norwegian Perspective](https://elixir.ut.ee/news/2024/03/19/Dataverse_NO_eng/) 
     * Eestikeelne: [Andmete kureerimine Dataverse Norra näitel](https://elixir.ut.ee/news/2024/03/19/Dataverse_NO_est/)
