@@ -42,7 +42,6 @@ and visit https://elixir.ut.ee/training.
 [Read more](news/posts/2023/autumn-courses.md)
 -->
 
-* [Bring your own DMP workshop - 22.03.2024, Tartu - Course is full](news/posts/2024/BYO_DMP_2024-03-22.md)
 * [Data visualisation (theory) - 5.04.2024, Zoom - Registration OPEN](news/posts/2024/Data_visualisation_theory.md)
 * [How to use Dataverse repositories - DEMO - 5.04.2024, hybrid, Registration OPEN](news/posts/2024/Dataverse_demo.md)
 * Dataverse course in dual language: 
@@ -54,7 +53,6 @@ and visit https://elixir.ut.ee/training.
 
 Invitation only: 
 
-* [RStudio algajale - 22.03.2024, Tallinn - Kutsega](news/posts/2024/RStudio_algajale.md)
 * [Andmete visualiseerimine (teooria) - 18.04.2024, Tallinn - Kutsega](news/posts/2024/Andmete_visualiseerimine_teooria.md)
 * [Visualisatsioonide tegemine RStudio-ga - 19.04.2024, Tallinn - Kutsega](news/posts/2024/Visualisatsioonide_tegemine_RStudio.md)
 * [Lühidalt FAIR-ist - 02.05.2024, Tallinn - Kutsega](news/posts/2024/Lühidalt_FAIR.md)
@@ -69,16 +67,6 @@ Invitation only:
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
 
-
-## Webinar: FAIR for Busy Biologists: Enhancing Productivity by Good Data Management
-
-Join us for a two-session workshop designed specifically for busy biologists looking to enhance their productivity through effective data management practices.
-
-Dates: March 20th and 21st
-
-[More Info and Registration](https://www.eventbrite.com/e/fair-for-busy-biologists-enhancing-productivity-by-good-data-management-registration-849499976297) 
-
-[Continue Reading](news/posts/2024/FAIR_busy_biologists.md) 
 
 ## Online course - NGS - Quality Control, Alignment, Visualisation
 

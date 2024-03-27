@@ -12,6 +12,9 @@ hide:
 * **1.03.2024** - [Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-01/)
 * **08.03.2024** - [LINUX/UNIX algajale (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/Unix/)
 * **15.03.2024** - [Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-15/)
+* **22.03.2024** - [Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-22/)
+* **22.03.2024** - [RStudio algajale (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/RStudio_algajale/)
+
 
 ## 2023
 

@@ -12,7 +12,6 @@ hands-on courses in the life science community on various topics.
 
 The courses for the year 2024: 
 
-* [22.03.2024 - Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-22/)
 * [5.04.2024 - Data visualisation (theory) (Zoom)](https://elixir.ut.ee/news/2024/02/07/Data_visualisation_theory/)
 * [5.04.2024 - How to use Dataverse repositories - DEMO - hybrid, Tartu](https://elixir.ut.ee/news/2024/03/05/Dataverse_demo/)
 * 5.04.2024 Dataverse course in dual language: 
@@ -24,7 +23,6 @@ The courses for the year 2024:
 
 Invite only: 
 
-* [22.03.2024 - RStudio algajale (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/RStudio_algajale/)
 * [18.04.2024 - Andmete visualiseerimine (teooria) (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Andmete_visualiseerimine_teooria/)
 * [19.04.2024 - Visualisatsioonide tegemine RStudio-ga (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Visualisatsioonide_tegemine_RStudio/)
 * [02.05.2024 - Lühidalt FAIR-ist (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/L%C3%BChidalt_FAIR/)
