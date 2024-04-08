@@ -43,10 +43,15 @@ The Estonian ELIXIR node offers various data analysis services and tools for the
 <tool-tile description="a software tool for analysing protein microarray data" doi="http://dx.doi.org/10.1186/s12859-020-03722-z" href="https://biit.cs.ut.ee/pawer" name="PAWER" src="/assets/images/tools/PAWER.png" tags="protein microarray"></tool-tile>
 </div>
 
-### In collaboration with <a href="https://kauralasoo.github.io">Alasoo Group</a>
-
+### Coronavirus analysis tools developed by scientists at the University of Tartu
 <div class="tool-tiles" style="width: 50%;">
-<tool-tile description="" doi="https://www.nature.com/articles/s41588-021-00924-w" href="https://elixir.ut.ee/eqtl/" name="eQTL Catalogue Browser" src="/assets/images/tools/eqtl.png" tags="gene expression, splicing, QTL"></tool-tile>
+<tool-tile description="Coronavirus in Estonia" doi="https://www.nature.com/articles/s41591-020-0929-x" href="https://koroona.ut.ee/?lang=en" name="koroona.ut.ee" src="/assets/images/tools/koroona.png" tags="COVID-19"></tool-tile>
+</div>
+
+
+### In collaboration with <a href="https://kauralasoo.github.io">Alasoo Group</a>
+<div class="tool-tiles" style="width: 50%;">
+<tool-tile description="a front end for the eQTL Catalogue" doi="https://www.nature.com/articles/s41588-021-00924-w" href="https://elixir.ut.ee/eqtl/" name="eQTL Catalogue Browser" src="/assets/images/tools/eqtl.png" tags="gene expression, splicing, QTL"></tool-tile>
 </div>
 
 ### In collaboration with <a href="https://www.sanger.ac.uk/group/parts-group/">Parts Group</a> from <a href="https://www.sanger.ac.uk">Wellcome Sanger Institute</a>
