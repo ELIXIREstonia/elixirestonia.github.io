@@ -42,11 +42,6 @@ and visit https://elixir.ut.ee/training.
 [Read more](news/posts/2023/autumn-courses.md)
 -->
 
-* [Data visualisation (theory) - 5.04.2024, Zoom - Registration OPEN](news/posts/2024/Data_visualisation_theory.md)
-* [How to use Dataverse repositories - DEMO - 5.04.2024, hybrid, Registration OPEN](news/posts/2024/Dataverse_demo.md)
-* Dataverse course in dual language: 
-    *  English description: [Data Curation with Dataverse - A Norwegian Perspective - 5.04.2024 - Registration OPEN](news/posts/2024/Dataverse_NO_eng.md) 
-    * Eestikeelne: [Andmete kureerimine Dataverse Norra näitel - 5.04.2024 - Registreerimine AVATUD](news/posts/2024/Dataverse_NO_est.md)
 * [Tableau for beginners - 12.04.2024, Tartu - Registration OPEN](news/posts/2024/Tableau_for_beginners.md)
 * [Nextflow for beginners - 3-day course (19.04; 26.04; 3.05), Tartu - Course full](news/posts/2024/Nextflow.md)
 * [Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion - 24.05.2024 -  Registration OPEN](news/posts/2024/g:profiler_english.md)
@@ -67,24 +62,6 @@ Invitation only:
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
 
-
-## Online course - NGS - Quality Control, Alignment, Visualisation
-
-In this module, we will introduce the most used sequencing technologies and explain their concepts. Using different datasets, we will practice quality control, alignment of reads to a reference genome and visualize the output. This course is intended for life scientists who are already dealing with NGS data and would like to be able to start analysing them.
-
-Application deadline: 01 April 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240424_NGSQC) 
-
-[Continue Reading](news/posts/2024/NGS_QC_Alignment_Visualisation.md) 
-
-## Course at  Breda, The Netherlands: RNA-seq data analysis
-
-The 9th edition of the RNA-seq Data Analysis course will be held on 8-12 April – 2024 in Breda, The Netherlands. This course covers the basic concepts and methods required for RNA-seq analysis. Particular attention is given to the data analysis pipelines for differential transcript expression and variant calling. The course consists of a mixture of lectures and Galaxy, Linux and R practicals. Also the potential of long-read based RNA-seq and AI based analysis enrichments will be explored.
-
-[More Info and Registration](https://www.dtls.nl/courses/rna-seq-data-analysis-2024/) 
-
-[Continue Reading](news/posts/2024/RNA-seq_data_analysis.md) 
 
 ## Online course: Train the Trainer
 

@@ -14,7 +14,9 @@ hide:
 * **15.03.2024** - [Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-15/)
 * **22.03.2024** - [Bring your own DMP workshop - F2F, Tartu](https://elixir.ut.ee/news/2024/02/05/BYO_DMP_2024-03-22/)
 * **22.03.2024** - [RStudio algajale (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/01/RStudio_algajale/)
-
+* **5.04.2024** - [Data visualisation (theory) (Zoom)](https://elixir.ut.ee/news/2024/02/07/Data_visualisation_theory/)
+* **5.04.2024** - [How to use Dataverse repositories - DEMO - hybrid, Tartu](https://elixir.ut.ee/news/2024/03/05/Dataverse_demo/)
+* **5.04.2024** - [Data Curation with Dataverse - A Norwegian Perspective](https://elixir.ut.ee/news/2024/03/19/Dataverse_NO_eng/) /  [Andmete kureerimine Dataverse Norra näitel](https://elixir.ut.ee/news/2024/03/19/Dataverse_NO_est/)
 
 ## 2023
 

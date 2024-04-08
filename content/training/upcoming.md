@@ -12,11 +12,6 @@ hands-on courses in the life science community on various topics.
 
 The courses for the year 2024: 
 
-* [5.04.2024 - Data visualisation (theory) (Zoom)](https://elixir.ut.ee/news/2024/02/07/Data_visualisation_theory/)
-* [5.04.2024 - How to use Dataverse repositories - DEMO - hybrid, Tartu](https://elixir.ut.ee/news/2024/03/05/Dataverse_demo/)
-* 5.04.2024 Dataverse course in dual language: 
-    *  English description: [Data Curation with Dataverse - A Norwegian Perspective](https://elixir.ut.ee/news/2024/03/19/Dataverse_NO_eng/) 
-    * Eestikeelne: [Andmete kureerimine Dataverse Norra näitel](https://elixir.ut.ee/news/2024/03/19/Dataverse_NO_est/)
 * [12.04.2024 - Tableau for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Tableau_for_beginners/)
 * [19.04; 26.04; 3.05 - Nextflow for beginners - 3-day course (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Nextflow/)
 * [24.05.2024 - Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/g%3Aprofiler_english/)

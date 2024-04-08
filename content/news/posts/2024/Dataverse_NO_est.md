@@ -14,7 +14,7 @@ hide:
   - toc
 ---
 
-# Andmete kureerimine Dataverse Norra näitel - 5.04.2024 - Registreerimine AVATUD
+# Andmete kureerimine Dataverse Norra näitel - 5.04.2024
 
 Norra Dataverse tiim räägib andmehoidla  telgitagustest, käsitledes suuremaid väljakutseid, andmete kureerimise protsesse, andmete migreerimist ühelt andmehoidlast teise ning andmete kvaliteedi tagamist. Slaidid on inglise keeles aga loeng on suures enamuses eesti keeles. 
  
@@ -45,12 +45,6 @@ Kursuse lõpus peaksid osalejad suutma:
 * Tuvastada ja kirjeldada, millised andmekogumid võivad kuuluda avatud arhiivi, näiteks Dataverse.
 * Selgitada, millised metaandmed on vajalikud Dataverse'i sisestamiseks.
 * Selgitada, kuidas saab andmekogumeid parendada nende saabudes
-
-## Registreerimine
-
-Registration: https://forms.gle/cRkedWexU7Hdxwk99 
-
-Palume teil registreeruda vastutustundlikult. Kui te ei saa loengule osaleda, palun teavitage meid võimalikult kiiresti e-posti teel (elixir@ut.ee).
 
 ---
 Uute kursustega kursis olemiseks liituge meie uudiskirjaga meililistiga:  https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request 

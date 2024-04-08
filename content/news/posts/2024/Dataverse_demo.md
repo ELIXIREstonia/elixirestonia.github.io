@@ -1,6 +1,6 @@
 ---
 template: training_en.html
-title:  How to use Dataverse repositories - DEMO  - 5.04.2024, hybrid event - Registration OPEN
+title:  How to use Dataverse repositories - DEMO  - 5.04.2024, hybrid event
 draft: false
 hide:
   - toc

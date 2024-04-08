@@ -10,7 +10,7 @@ hide:
   - toc
 ---
 
-# Data visualisation (theory) - 5.04.2024, Zoom - Registration OPEN
+# Data visualisation (theory) - 5.04.2024, Zoom 
 
 This webinar will discuss why data visualisation is important and what we should consider when designing it. This means what chart type to pick, how much information to include, what (and how) to highlight, etc. The webinar will have a theoretical aspect, and we will assess real-life examples.
 
@@ -39,8 +39,6 @@ In the course of their work, researchers encounter data in various forms. Yet, w
 
 
 We ask you to register responsibly. If you can't attend the lecture, please let us know as soon as possible via email (elixir@ut.ee).
-
-__Register:__   https://forms.gle/MVKLc7Rpqt3UjgTz6 
 
 ---
 

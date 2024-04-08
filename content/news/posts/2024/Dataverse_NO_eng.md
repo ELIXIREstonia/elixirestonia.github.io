@@ -3,7 +3,7 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: Data Curation with Dataverse - A Norwegian Perspective - 5.04.2024 -  Registration OPEN
+title: Data Curation with Dataverse - A Norwegian Perspective - 5.04.2024
 draft: false
 hide:
   - toc
