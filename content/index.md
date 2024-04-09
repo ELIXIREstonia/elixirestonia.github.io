@@ -124,6 +124,46 @@ Registration deadline: 5th of May 2024.
 
 [Continue Reading](news/posts/2024/single_cell_summer_school.md) 
 
+## Online course: Data Analysis and Representation in Python
+
+This 1-day course will introduce modules and recipes to unlock the potential of Python for day-to-day data exploration and analysis of real-life datasets. This course is addressed to life scientists, bioinformaticians and researchers who are familiar with writing Python code and core Python elements and would like to explore if further in their daily data wrangling and exploration tasks.
+
+Registration deadline: 08 May 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240516_DARPY) 
+
+[Continue Reading](news/posts/2024/Data_Analysis_Representation_Python.md) 
+
+## Webinar: Optimizing Python Code for Better Performance
+
+This course is addressed to life scientists, bioinformaticians and researchers who are familiar with writing Python code and core Python elements and would like to write more efficient code in order to crunch more data faster.
+
+Registration deadline: 09 May 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240517_OPTPY) 
+
+[Continue Reading](news/posts/2024/Optimizing_Python.md) 
+
+## Webinar: Docker and Singularity for Reproducible Research: Getting Started with Containers
+
+This course is addressed to bioinformaticians and life scientists that are doing bioinformatic analyses and want to get introduced to containers.
+
+Registration deadline: 10 May 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240527_DOCK) 
+
+[Continue Reading](news/posts/2024/Docker_Singularity.md) 
+
+## Course at Bern, Switzerland: Single-Cell Transcriptomics with Python
+
+This course is addressed to life scientists and bioinformaticians familiar with some next-generation sequencing approaches and plan to use scRNA-seq in their research projects, and who are interested in learning how to navigate and analyze such data.
+
+Registration deadline: 13 May 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240527_SCTPY) 
+
+[Continue Reading](news/posts/2024/Single_cell_transcriptomics_python.md) 
+
 ## Webinar by SIB: Gene Expression made Useful Easily: Tools and Database of Bgee
 
 This is a course on bioinformatics resources taught by the developers of the resources. Bgee is a curated database of gene expression in animals, including model species such as human, mouse or drosophila, and others such as livestock, primates, or fishes. Bgee integrates information from single-cell and bulk RNA-seq, microarrays, and in situ hybridization. These data are available through a web interface and an R package. Bgee also includes tools which use these data, such as TopAnat or Expression Comparison, and allows integration with users' own data through another R package. In this course, we will present the curated and pre-analysed gene expression data in Bgee.
@@ -133,6 +173,37 @@ Application Deadline: 17 May 2024
 [More Info and Registration](https://www.sib.swiss/training/course/20240531_BGEEL) 
 
 [Continue Reading](news/posts/2024/Bgee.md) 
+
+## Webinar: Introduction to Machine Learning with Python
+
+This course is intended for PhD students, post-docs and staff scientists who are interested in applying ML to analyze these data. Please note that this 2-day course will be streamed over 4 half-days, in the afternoon of the following dates:
+27 May 2024; 3 June 2024; 10 June 2024; 17 June 2024
+
+Registration deadline: 20 May 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240527_INMLP) 
+
+[Continue Reading](news/posts/2024/Machine_learning_Python.md) 
+
+## Webinar: A Guide to FAIR Bioimage Data 2024
+
+In this interactive online workshop we will introduce the FAIR principles in the context of bioimaging data. Designed for researchers across all scales of bioimaging, from molecules to humans, this workshop will provide simple yet effective steps for a smooth start to your FAIR journey.
+
+Date & Time: May 23, 2024 03:00 PM  EET
+
+[More Info and Registration](https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/) 
+
+[Continue Reading](news/posts/2024/FAIR_Bioimage_Data.md) 
+
+## Webinar: Submitting, Finding and Downloading Raw Sequencing Data with ENA
+
+This course is addressed to life scientists who work with next generation sequencing data and are interested in using ENA for submitting, finding or downloading FAIR sequencing data.
+
+Registration deadline: 24 May 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240607_ENARS) 
+
+[Continue Reading](news/posts/2024/submitting_finding_downloading_ENA.md) 
 
 ## Course at Luxembourg: Train the Trainer
 
