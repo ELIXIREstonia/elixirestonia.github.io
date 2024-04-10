@@ -23,7 +23,7 @@ This Tableau course is designed to equip learners with the essential skills requ
 * __Type:__ workshop
 * __Language:__ English
 * __Duration:__  2h
-* __Location:__ Delta building, Narva mnt 18 room 2047, Tartu
+* __Location:__ Delta building, Narva mnt 18 room 2048, Tartu
 * __Audience:__ students, researchers
 * __Lecturers:__ Diana Pilvar, MSc
 
