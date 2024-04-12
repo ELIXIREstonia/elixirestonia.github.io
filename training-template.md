@@ -3,7 +3,7 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: Introduction to the Next Big Thing - 01.06.2024 -  Registration OPEN
+title: Introduction to the Next Big Thing - 01.06.2024 - Registration OPEN
 draft: false
 hide:
   - toc
@@ -74,8 +74,8 @@ course:
 
   # Specify occurrences here:
   instances:
-    - start: 2024-06-01T14:00:00
-      end: 2024-06-01T17:00:00
+    - start: 2024-06-01T14:00:00+03:00
+      end: 2024-06-01T17:00:00+03:00
       organisation: ELIXIR Estonia
       maximumAttendeeCapacity: 20
       instructors:

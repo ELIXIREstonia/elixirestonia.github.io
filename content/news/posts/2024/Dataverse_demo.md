@@ -1,6 +1,6 @@
 ---
 template: training_en.html
-title:  How to use Dataverse repositories - DEMO  - 5.04.2024, hybrid event
+title:  How to use Dataverse repositories - DEMO - 5.04.2024, hybrid event
 draft: false
 hide:
   - toc
@@ -15,10 +15,10 @@ categories:
   - demo
   - repository
   - data
-  - how-to 
+  - how-to
 
 # Fill in the course details:
-course: 
+course:
   name: How to use Dataverse repositories - DEMO
 
   # Keep this in English (used in metadata)
@@ -31,7 +31,7 @@ course:
     register: https://forms.gle/vyuYLqBwnFpj86ZM9
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
-    invite: First come first served 
+    invite: First come first served
 
     # Specify audience in plain-text in the language of the template:
     audience: Beginner level
@@ -58,8 +58,8 @@ course:
 
   # Specify occurrences here:
   instances:
-    - start: 2024-04-05T10:00:00
-      end: 2024-04-05T11:00:00
+    - start: 2024-04-05T10:00:00+03:00
+      end: 2024-04-05T11:00:00+03:00
       organisation: ELIXIR Estonia
       maximumAttendeeCapacity: 30
       instructors:
@@ -68,26 +68,10 @@ course:
       onsite:
         building: DELTA
         room: 1022
-
-    
-      # or custom:
-      # onsite:
-      #   alternateName: Hotel ABC
-      #   room: Lounge
-      #   streetAddress: 123 Main Street
-      #   addressLocality: City
-      #   addressRegion: County
-      #   addressCountry: Country
-      #   postalCode: 12345
-      #   latitude:
-      #   longitude:
-
-      # or online:
-      # online: Zoom, link will be given a few days before the course.
 ---
 
-Join us to learn about when and how to use the Harvard Dataverse repository from the Dataverse Norway team! 
-Hybrid event! 
+Join us to learn about when and how to use the Harvard Dataverse repository from the Dataverse Norway team!
+Hybrid event!
 
 <!-- more -->
 
@@ -99,4 +83,4 @@ Publishing your data and code in the Harvard Dataverse Repository:
 * Gets you credit for your data through citations
 * Satisfies data-sharing requirements from funders and journals
 
-Zoom link will be sent after registration. Time zone:  EET. 
+Zoom link will be sent after registration. Time zone: EEST.
