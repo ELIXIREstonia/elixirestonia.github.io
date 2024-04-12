@@ -12,7 +12,6 @@ hands-on courses in the life science community on various topics.
 
 The courses for the year 2024: 
 
-* [12.04.2024 - Tableau for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Tableau_for_beginners/)
 * [19.04; 26.04; 3.05 - Nextflow for beginners - 3-day course (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Nextflow/)
 * [24.05.2024 - Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/g%3Aprofiler_english/)
 

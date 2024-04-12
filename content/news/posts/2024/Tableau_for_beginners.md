@@ -11,7 +11,7 @@ hide:
   - toc
 ---
 
-# Tableau for beginners - 12.04.2024, Tartu - Registration OPEN
+# Tableau for beginners - 12.04.2024, Tartu
 
 This Tableau course is designed to equip learners with the essential skills required to navigate the software's core features. Students will learn to create compelling visualisations, manipulate data, develop dashboards, and share insights effectively. 
 
@@ -36,8 +36,6 @@ This Tableau course is designed to equip learners with the essential skills requ
 
 
 We ask you to register responsibly. If you can't attend the lecture, please let us know as soon as possible via email (elixir@ut.ee).
-
-__Register:__   https://forms.gle/gL43QJwcezEQDNQr7 
 
 
 ---

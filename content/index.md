@@ -42,7 +42,6 @@ and visit https://elixir.ut.ee/training.
 [Read more](news/posts/2023/autumn-courses.md)
 -->
 
-* [Tableau for beginners - 12.04.2024, Tartu - Registration OPEN](news/posts/2024/Tableau_for_beginners.md)
 * [Nextflow for beginners - 3-day course (19.04; 26.04; 3.05), Tartu - Course full](news/posts/2024/Nextflow.md)
 * [Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion - 24.05.2024 -  Registration OPEN](news/posts/2024/g:profiler_english.md)
 
