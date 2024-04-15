@@ -62,26 +62,6 @@ Invitation only:
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
 
 
-## Online course: Train the Trainer
-
-We are pleased to announce the Train-the-Trainer course, organised by ELIXIR Norway. It will take place every Monday and Friday between 22 April - 3 May 2024. The course is interactive and it is a good opportunity to share experience and knowledge, and learn from each other.
-
-Registration deadline: 12th of April 2024
-
-[More Info and Registration](https://tess.elixir-europe.org/events/elixir-norway-train-the-trainer) 
-
-[Continue Reading](news/posts/2024/Train_the_trainer_Norway.md)
-
-## Course at  Visby, Sweden: RaukR 2024 • Advanced R for Bioinformatics
-
-This workshop is aimed at both Ph.D. students and researchers within life sciences who are already using R for bioinformatics data analyses and who would like to start using R at a more advanced level.
-
-Application deadline: 14th April 2024
-
-[More Info and Registration](https://nbisweden.github.io/raukr-2024/home_registration.html) 
-
-[Continue Reading](news/posts/2024/RaukR.md)
-
 ## Webinar by ELIXIR-IT: DisProt and MobiDB: Exploring Intrinsically Disordered Proteins and functional information
 
 This course is designed to facilitate the dissemination of two major resources about the disordered protein, DisProt and MobiDB, both part of ELIXIR infrastructure, within the scientific community. Through this course, participants will gain fundamental insights into Intrinsically Disordered Proteins data interpretation, the correlation with specific biological mechanisms and diseases while learning about the essential guidelines for becoming active contributors to the extensive network of DisProt curators.
