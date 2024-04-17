@@ -61,17 +61,6 @@ Invitation only:
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
 
-
-## Webinar by ELIXIR-IT: DisProt and MobiDB: Exploring Intrinsically Disordered Proteins and functional information
-
-This course is designed to facilitate the dissemination of two major resources about the disordered protein, DisProt and MobiDB, both part of ELIXIR infrastructure, within the scientific community. Through this course, participants will gain fundamental insights into Intrinsically Disordered Proteins data interpretation, the correlation with specific biological mechanisms and diseases while learning about the essential guidelines for becoming active contributors to the extensive network of DisProt curators.
-
-Deadline for applications: 15th April 2024
-
-[More Info and Registration](https://elixir-iib-training.github.io/site/2024-04-22-DisProt_and_MobiDB) 
-
-[Continue Reading](news/posts/2024/DisProt_MobiDB.md)
-
 ## Course at Basel, Switzerland: Introduction to Bayesian Statistics with R
 
 This 2-day course will introduce participants to the core concepts of Bayesian statistics through lectures and practical exercises. The exercises will be implemented in the widely used R programming language and the Rstan library. They will enable participants to use standard Bayesian statistical tools and interpret their results.
