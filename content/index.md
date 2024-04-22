@@ -47,8 +47,6 @@ and visit https://elixir.ut.ee/training.
 
 Invitation only: 
 
-* [Andmete visualiseerimine (teooria) - 18.04.2024, Tallinn - Kutsega](news/posts/2024/Andmete_visualiseerimine_teooria.md)
-* [Visualisatsioonide tegemine RStudio-ga - 19.04.2024, Tallinn - Kutsega](news/posts/2024/Visualisatsioonide_tegemine_RStudio.md)
 * [Lühidalt FAIR-ist - 02.05.2024, Tallinn - Kutsega](news/posts/2024/Lühidalt_FAIR.md)
 * [OpenRefine andmete puhastamiseks - 03.05.2024, Tallinn - Kutsega](news/posts/2024/OpenRefine_andmete_puhastamiseks.md)
 * [Metaandmed ja README - 16.05.2024, Tallinn - Kutsega](news/posts/2024/Metadata_README.md)

@@ -18,6 +18,8 @@ hide:
 * **5.04.2024** - [How to use Dataverse repositories - DEMO - hybrid, Tartu](https://elixir.ut.ee/news/2024/03/05/Dataverse_demo/)
 * **5.04.2024** - [Data Curation with Dataverse - A Norwegian Perspective](https://elixir.ut.ee/news/2024/03/19/Dataverse_NO_eng/) /  [Andmete kureerimine Dataverse Norra näitel](https://elixir.ut.ee/news/2024/03/19/Dataverse_NO_est/)
 * **12.04.2024** - [Tableau for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Tableau_for_beginners/)
+* **18.04.2024** - [Andmete visualiseerimine (teooria) (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Andmete_visualiseerimine_teooria/)
+* **19.04.2024** - [Visualisatsioonide tegemine RStudio-ga (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Visualisatsioonide_tegemine_RStudio/)
 
 ## 2023
 

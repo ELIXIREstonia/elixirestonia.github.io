@@ -21,7 +21,7 @@ This workshop provides a comprehensive introduction to [g:Profiler](https://biit
 * __Type:__ Workshop
 * __Language:__ English
 * __Duration:__ 3h
-* __Location:__ Delta building, Narva mnt 18 room 2030, Tartu
+* __Location:__ online
 * __Audience:__ Beginner level. To all natural scientists who deal with gene lists in their work.
 * __Lecturers:__ Uku Raudvere, BSc / Liis Kolberg, PhD
 
