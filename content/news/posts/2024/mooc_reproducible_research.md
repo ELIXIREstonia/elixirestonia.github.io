@@ -17,6 +17,7 @@ hide:
 In this MOOC, we will show you how to improve your practices and your ability to manage and process larger amounts of data, complex computations, while controlling your software environment.
 
 Enrollment:  Apr 02, 2024 to Sep 04, 2024
+
 Course:  May 16, 2024 to Sep 12, 2024
 
 [More Info and Registration](https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-comput/) 
@@ -44,18 +45,21 @@ The strength of this new MOOC lies in a general and systematic presentation of t
 At the end of this course, you will be able to:
 
 Manage research data:
+
 - understand the challenges posed by large volumes of data
 - archive data on well-known archives such as Software Heritage and Zenodo
 - integrate data into versioning (Git Annex)
 - use structured binary data formats (FITS, HDF5)
 
 Use tools and techniques for controlling the software environment:
+
 - understand how software packages are built and managed
 - deploy software environments as containers (ex: Docker)
 - manage software environments using a functional package manager (ex: Guix)
 - work in controlled software environments on a daily basis
 
 Automate long or complex computations using workflows:
+
 - understand the challenges of scaling up: long calculations, distributed calculations
 - choose a workflow tool adapted to your needs
 - automate a data analysis using make and snakemake
