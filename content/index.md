@@ -110,6 +110,16 @@ Registration deadline: 09 May 2024
 
 [Continue Reading](news/posts/2024/Optimizing_Python.md) 
 
+## Hybrid seminar: Game changing development in the European patenting system: all you need to know about the Unitary Patent and the UPC
+
+Patenting often seems out of reach for growing businesses and scientists without strong commercial support. However, the value of patenting for the development of innovation cannot be underestimated, so it is not surprising that the EPO introduced a new patenting system, including new type of patent and Patent Court that should make obtaining a patent easier and cheaper, freeing bright minds from unnecessary bureaucracy. The seminar will reveal the true impact of a simplified system on patenting strategy, as well as provide practical advice on its use.
+
+Date: 09. May 2024, 09:00
+
+[More Info and Registration](https://eas.ee/en/events/patenting-system/) 
+
+[Continue Reading](news/posts/2024/Unitary_patent_UPC.md) 
+
 ## Webinar: Docker and Singularity for Reproducible Research: Getting Started with Containers
 
 This course is addressed to bioinformaticians and life scientists that are doing bioinformatic analyses and want to get introduced to containers.
@@ -181,6 +191,29 @@ Date: 3-5 July
 [More Info and Registration](https://www.denbi.de/training-courses-2024/1694-elixir-luxembourg-elixir-germany-train-the-trainer) 
 
 [Continue Reading](news/posts/2024/Train_the_trainer_deNBI.md) 
+
+## Course in Uppsala, Sweden: FAIR Training Material by Design
+
+This course is composed of 7 sessions, based on the FAIR training handbook and 10 simple rules to make material FAIR publication. All sessions are structured in a way that complement each other aiming to introduce participants with a theoretical & hands-on approach of how to create FAIR material by design.
+
+Registration: 11. April 2024 until  23- August 2024
+Date: 18 - 19 September 2024
+
+
+[More Info and Registration](https://training.scilifelab.se/events/fair-training-material-by-design) 
+
+[Continue Reading](news/posts/2024/FAIR_training_material_design.md) 
+
+## MOOC: Reproducible Research II: Practices and tools for managing computations and data
+
+In this MOOC, we will show you how to improve your practices and your ability to manage and process larger amounts of data, complex computations, while controlling your software environment.
+
+Enrollment:  Apr 02, 2024 to Sep 04, 2024
+Course:  May 16, 2024 to Sep 12, 2024
+
+[More Info and Registration](https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-comput/) 
+
+[Continue Reading](news/posts/2024/mooc_reproducible_research.md) 
 
 ## Asynchronous e-learning course: Interoperable File Formats
 In an era when data is being produced at unprecedented speed and in many different formats, data interoperability is key to sharing and archiving data.
