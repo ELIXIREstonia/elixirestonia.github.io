@@ -17,13 +17,13 @@ This workshop provides a comprehensive introduction to [g:Profiler](https://biit
 <!-- more -->
 ## General info 
 
-* __Time:__ 24.05.2024 14:00-17:00
+* __Time:__ 24.05.2024 14:00-17:00 EET (11:00-14.00 UTC)
 * __Type:__ Workshop
 * __Language:__ English
 * __Duration:__ 3h
 * __Location:__ online
 * __Audience:__ Beginner level. To all natural scientists who deal with gene lists in their work.
-* __Lecturers:__ Uku Raudvere, BSc / Liis Kolberg, PhD
+* __Lecturers:__  Liis Kolberg, PhD / Uku Raudvere, BSc
 
 
 
