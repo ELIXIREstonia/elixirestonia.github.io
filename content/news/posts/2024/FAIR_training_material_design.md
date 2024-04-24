@@ -16,6 +16,7 @@ hide:
 This course is composed of 7 sessions, based on the FAIR training handbook and 10 simple rules to make material FAIR publication. All sessions are structured in a way that complement each other aiming to introduce participants with a theoretical & hands-on approach of how to create FAIR material by design.
 
 Registration: 11. April 2024 until  23- August 2024
+
 Date: 18 - 19 September 2024
 
 [More Info and Registration](https://training.scilifelab.se/events/fair-training-material-by-design) 
