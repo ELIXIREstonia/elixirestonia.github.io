@@ -59,15 +59,6 @@ Invitation only:
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
 
-## Course at Basel, Switzerland: Introduction to Bayesian Statistics with R
-
-This 2-day course will introduce participants to the core concepts of Bayesian statistics through lectures and practical exercises. The exercises will be implemented in the widely used R programming language and the Rstan library. They will enable participants to use standard Bayesian statistical tools and interpret their results.
-
-Registration deadline: April 22, 2024 or as soon as the course is full
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240513_IBAYE) 
-
-[Continue Reading](news/posts/2024/Bayesian_statistics.md)
 
 ## Course at  Milano, Italy: Metabolomics Approaches for ‘One Health’
 
