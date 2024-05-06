@@ -20,6 +20,9 @@ hide:
 * **12.04.2024** - [Tableau for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Tableau_for_beginners/)
 * **18.04.2024** - [Andmete visualiseerimine (teooria) (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Andmete_visualiseerimine_teooria/)
 * **19.04.2024** - [Visualisatsioonide tegemine RStudio-ga (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Visualisatsioonide_tegemine_RStudio/)
+* **19.04; 26.04; 3.05.2024** - [Nextflow for beginners - 3-day course (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Nextflow/)
+* **02.05.2024** - [Lühidalt FAIR-ist (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/L%C3%BChidalt_FAIR/)
+* **03.05.2024** - [OpenRefine andmete puhastamiseks (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/OpenRefine_andmete_puhastamiseks/)
 
 ## 2023
 

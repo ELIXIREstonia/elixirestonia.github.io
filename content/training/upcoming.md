@@ -12,13 +12,10 @@ hands-on courses in the life science community on various topics.
 
 The courses for the year 2024: 
 
-* [19.04; 26.04; 3.05 - Nextflow for beginners - 3-day course (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/Nextflow/)
 * [24.05.2024 - Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/g%3Aprofiler_english/)
 
 Invite only: 
 
-* [02.05.2024 - Lühidalt FAIR-ist (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/L%C3%BChidalt_FAIR/)
-* [03.05.2024 - OpenRefine andmete puhastamiseks (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/OpenRefine_andmete_puhastamiseks/)
 * [16.05.2024 - Metaandmed ja README (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Metadata_README/)
 * [17.05.2024 - g:Profiler: tööriist rikastatuse analüüsiks ja geeni ID konversiooniks (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/g_profiler/)
 

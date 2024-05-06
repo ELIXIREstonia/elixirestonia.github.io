@@ -33,22 +33,24 @@ Other partners are
 ---
 ## Spring semester 2024 free ELIXIR courses in Estonia
 <!---
-##  [Autumn semester ELIXIR courses](news/posts/2023/autumn-courses.md)
+##  # Tallinn, Estonia: Infectious Diseases Toolkit (IDTk) Contentathon 2024
 
-ELIXIR Estonia is continuing with the data management-related lectures and
-workshops this semester. To get more information about these courses, read below
-and visit https://elixir.ut.ee/training.
+Into the Infectious Disease Toolkit ([IDTk](https://www.infectious-diseases-toolkit.org/)), we gather knowledge we wish we had when the pandemic hit us in the spring of 2020.
 
-[Read more](news/posts/2023/autumn-courses.md)
+Registration deadline: ???
+
+Date: Monday, 27th - 30th of May 2024
+
+[More Info and Registration](https://by-covid.org/news-events/infectious-diseases-toolkit-idtk-contentathon-event-2024/) 
+
+[Continue Reading](news/posts/2024/IDTk_contetathon_Tallinn.md) 
+
 -->
 
-* [Nextflow for beginners - 3-day course (19.04; 26.04; 3.05), Tartu - Course full](news/posts/2024/Nextflow.md)
 * [Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion - 24.05.2024 -  Registration OPEN](news/posts/2024/g:profiler_english.md)
 
 Invitation only: 
 
-* [Lühidalt FAIR-ist - 02.05.2024, Tallinn - Kutsega](news/posts/2024/Lühidalt_FAIR.md)
-* [OpenRefine andmete puhastamiseks - 03.05.2024, Tallinn - Kutsega](news/posts/2024/OpenRefine_andmete_puhastamiseks.md)
 * [Metaandmed ja README - 16.05.2024, Tallinn - Kutsega](news/posts/2024/Metadata_README.md)
 * [g:Profiler: tööriist rikastatuse analüüsiks ja geeni ID konversiooniks- 17.05.2024, Tallinn - Kutsega](news/posts/2024/g_profiler.md)
 
@@ -58,28 +60,6 @@ Invitation only:
     If you would like to be notified about the events, trainings and workshops
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
-
-
-## Course at  Milano, Italy: Metabolomics Approaches for ‘One Health’
-
-This workshop focuses on experimental design and sample preparation matrix enabling junior and senior scientists to apply metabolomics approaches to a research-based context.
-Attendees will be guided through mass spectrometry-based experiment designs, learning about cutting-edge equipment and different technical procedures for metabolomics.
-
-Application deadline: 30th April 2024
-
-[More Info and Registration](https://elixir-iib-training.github.io/site/2024-05-30-Metabolomics_Course) 
-
-[Continue Reading](news/posts/2024/Metabolomics_Approaches_for_One_Health.md) 
-
-## Course at Pilsen, Czech Republic: SUMMER SCHOOL OF SINGLE CELL, FROM THE LAB TO DATA ANALYSIS
-We are inviting you to join our unique Single-cell summer school which covers all important steps during immune cell processing, sample preparation for single-cell sequencing and data analysis.
-This eight days intensive hands-on school focuses on experiment design, sample selection and preparation, quality control, sequencing, understanding NGS data formats, sequence editing, read mapping, handling potential problems and finally data interpretation.
-
-Registration deadline: 5th of May 2024.
-
-[More Info and Registration](https://singlecell-pilsen.zcu.cz/) 
-
-[Continue Reading](news/posts/2024/single_cell_summer_school.md) 
 
 ## Online course: Data Analysis and Representation in Python
 
@@ -171,6 +151,43 @@ Registration deadline: 24 May 2024
 [More Info and Registration](https://www.sib.swiss/training/course/20240607_ENARS) 
 
 [Continue Reading](news/posts/2024/submitting_finding_downloading_ENA.md) 
+
+## University of Tartu library: Open Science info day
+
+Advance notice: On June 4, 2024, the next DataCite Estonia consortium Open Science event will take place at the University of Tartu Library.
+
+[More Info](https://www.avatudteadus.ee/uncategorized-et/avatud-teaduse-infouritus/) 
+
+## Webinar: Enzymes: Extracting Biological Insight Using UniProt
+
+This 1-h webinar will introduce the enzyme-related data in UniProt and how to find it.
+
+Registration deadline: 30 May 2024
+
+Date: 06 June 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240606_UPENZ) 
+
+[Continue Reading](news/posts/2024/enzymes_Uniprot.md) 
+
+## Course in Zürich, Switzerland: Enzymes: Best Practices in Programming
+
+If the answer to two or more of the following questions is “yes”, then this course is for you.
+
+* Do you write software to analyze data or implement in-silico models as part of your daily work?
+* Do you write scientific publications based on software you created yourself but do not know what unit testing, refactoring or version control are?
+* Are you writing code that you find hard to understand some weeks later?
+* Do you have thousands of lines of code, but no automated way of verifying that the code works correctly?
+* Do you find yourself regularly using “copy & paste” to re-use code you wrote earlier?
+* Do small changes in your code later cause trouble in other unexpected places?
+
+Registration deadline: 17 June 2024
+
+Date: 03 - 04 July 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240703_BPP) 
+
+[Continue Reading](news/posts/2024/Best_practices_programming.md) 
 
 ## Course at Luxembourg: Train the Trainer
 
