@@ -12,7 +12,7 @@ hide:
   - toc
 ---
 
-# Course in Zürich, Switzerland: Enzymes: Best Practices in Programming
+# Course in Zürich, Switzerland: Best Practices in Programming
 
 If the answer to two or more of the following questions is “yes”, then this course is for you.
 
