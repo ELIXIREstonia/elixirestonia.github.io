@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2024-05-06
 authors:
   - Diana
@@ -15,9 +15,9 @@ hide:
 
 # Tallinn, Estonia: Infectious Diseases Toolkit (IDTk) Contentathon 2024
 
-Into the Infectious Disease Toolkit ([IDTk](https://www.infectious-diseases-toolkit.org/)), we gather knowledge we wish we had when the pandemic hit us in the spring of 2020.
+Into the Infectious Disease Toolkit ([IDTk](https://www.infectious-diseases-toolkit.org/)), we gather knowledge we wish we had when the pandemic hit us in the spring of 2020. At the contentathon participants will contribute to writing guidelines for data handling, analysis and visualisations in the context of infectious diseases. 
 
-Registration deadline: ???
+Registration deadline: 10th May 2024 
 
 Date: Monday, 27th - 30th of May 2024
 
@@ -28,7 +28,7 @@ Date: Monday, 27th - 30th of May 2024
 ## General information 
 
 * __Time:__ Monday, 27th - 30th of May 2024
-* __Registration deadline:__ ??
+* __Registration deadline:__ 10th May 2024 
 * __Location:__  Hotel Olümpia, Tallinn, Estonia
 * __Fees:__ Free
 
