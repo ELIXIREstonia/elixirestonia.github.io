@@ -33,17 +33,7 @@ Other partners are
 ---
 ## Spring semester 2024 free ELIXIR courses in Estonia
 <!---
-##  # Tallinn, Estonia: Infectious Diseases Toolkit (IDTk) Contentathon 2024
-
-Into the Infectious Disease Toolkit ([IDTk](https://www.infectious-diseases-toolkit.org/)), we gather knowledge we wish we had when the pandemic hit us in the spring of 2020.
-
-Registration deadline: ???
-
-Date: Monday, 27th - 30th of May 2024
-
-[More Info and Registration](https://by-covid.org/news-events/infectious-diseases-toolkit-idtk-contentathon-event-2024/) 
-
-[Continue Reading](news/posts/2024/IDTk_contetathon_Tallinn.md) 
+comments
 
 -->
 
@@ -59,57 +49,8 @@ Invitation only:
 !!! note ""
     If you would like to be notified about the events, trainings and workshops
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
-    list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request).
+    list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request
 
-## Online course: Data Analysis and Representation in Python
-
-This 1-day course will introduce modules and recipes to unlock the potential of Python for day-to-day data exploration and analysis of real-life datasets. This course is addressed to life scientists, bioinformaticians and researchers who are familiar with writing Python code and core Python elements and would like to explore if further in their daily data wrangling and exploration tasks.
-
-Registration deadline: 08 May 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240516_DARPY) 
-
-[Continue Reading](news/posts/2024/Data_Analysis_Representation_Python.md) 
-
-## Webinar: Optimizing Python Code for Better Performance
-
-This course is addressed to life scientists, bioinformaticians and researchers who are familiar with writing Python code and core Python elements and would like to write more efficient code in order to crunch more data faster.
-
-Registration deadline: 09 May 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240517_OPTPY) 
-
-[Continue Reading](news/posts/2024/Optimizing_Python.md) 
-
-## Hybrid seminar: Game changing development in the European patenting system: all you need to know about the Unitary Patent and the UPC
-
-Patenting often seems out of reach for growing businesses and scientists without strong commercial support. However, the value of patenting for the development of innovation cannot be underestimated, so it is not surprising that the EPO introduced a new patenting system, including new type of patent and Patent Court that should make obtaining a patent easier and cheaper, freeing bright minds from unnecessary bureaucracy. The seminar will reveal the true impact of a simplified system on patenting strategy, as well as provide practical advice on its use.
-
-Date: 09. May 2024, 09:00
-
-[More Info and Registration](https://eas.ee/en/events/patenting-system/) 
-
-[Continue Reading](news/posts/2024/Unitary_patent_UPC.md) 
-
-## Webinar: Docker and Singularity for Reproducible Research: Getting Started with Containers
-
-This course is addressed to bioinformaticians and life scientists that are doing bioinformatic analyses and want to get introduced to containers.
-
-Registration deadline: 10 May 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240527_DOCK) 
-
-[Continue Reading](news/posts/2024/Docker_Singularity.md) 
-
-## Course at Bern, Switzerland: Single-Cell Transcriptomics with Python
-
-This course is addressed to life scientists and bioinformaticians familiar with some next-generation sequencing approaches and plan to use scRNA-seq in their research projects, and who are interested in learning how to navigate and analyze such data.
-
-Registration deadline: 13 May 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240527_SCTPY) 
-
-[Continue Reading](news/posts/2024/Single_cell_transcriptomics_python.md) 
 
 ## Webinar by SIB: Gene Expression made Useful Easily: Tools and Database of Bgee
 
