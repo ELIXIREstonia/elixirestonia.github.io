@@ -14,12 +14,6 @@ The courses for the year 2024:
 
 * [24.05.2024 - Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/g%3Aprofiler_english/)
 
-Invite only: 
-
-* [16.05.2024 - Metaandmed ja README (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Metadata_README/)
-* [17.05.2024 - g:Profiler: tööriist rikastatuse analüüsiks ja geeni ID konversiooniks (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/g_profiler/)
-
-
 We are willing to train researchers on the following topics:
 
 * Python programming for beginners

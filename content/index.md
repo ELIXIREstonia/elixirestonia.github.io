@@ -39,11 +39,6 @@ comments
 
 * [Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion - 24.05.2024 -  Registration OPEN](news/posts/2024/g:profiler_english.md)
 
-Invitation only: 
-
-* [Metaandmed ja README - 16.05.2024, Tallinn - Kutsega](news/posts/2024/Metadata_README.md)
-* [g:Profiler: tööriist rikastatuse analüüsiks ja geeni ID konversiooniks- 17.05.2024, Tallinn - Kutsega](news/posts/2024/g_profiler.md)
-
 # Latest news and announcements
 
 !!! note ""
@@ -95,9 +90,11 @@ Registration deadline: 24 May 2024
 
 ## University of Tartu library: Open Science info day
 
-Advance notice: On June 4, 2024, the next DataCite Estonia consortium Open Science event will take place at the University of Tartu Library.
+On June 4, 2024, the next DataCite Estonia consortium Open Science event will take place at the University of Tartu Library.
 
-[More Info](https://www.avatudteadus.ee/uncategorized-et/avatud-teaduse-infouritus/) 
+[More Info](https://www.avatudteadus.ee/uncategorized-et/avatud-teaduse-infouritus-2/) 
+
+[Continue reading](news/posts/2024/Avatud_teadus_infoüritus.md)
 
 ## Webinar: Enzymes: Extracting Biological Insight Using UniProt
 
