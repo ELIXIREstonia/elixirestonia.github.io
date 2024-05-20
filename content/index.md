@@ -44,7 +44,7 @@ comments
 !!! note ""
     If you would like to be notified about the events, trainings and workshops
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
-    list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request
+    list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
 
 ## Webinar: Introduction to Machine Learning with Python
