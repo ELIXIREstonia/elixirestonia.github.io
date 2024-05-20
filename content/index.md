@@ -47,16 +47,6 @@ comments
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request
 
 
-## Webinar by SIB: Gene Expression made Useful Easily: Tools and Database of Bgee
-
-This is a course on bioinformatics resources taught by the developers of the resources. Bgee is a curated database of gene expression in animals, including model species such as human, mouse or drosophila, and others such as livestock, primates, or fishes. Bgee integrates information from single-cell and bulk RNA-seq, microarrays, and in situ hybridization. These data are available through a web interface and an R package. Bgee also includes tools which use these data, such as TopAnat or Expression Comparison, and allows integration with users' own data through another R package. In this course, we will present the curated and pre-analysed gene expression data in Bgee.
-
-Application Deadline: 17 May 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240531_BGEEL) 
-
-[Continue Reading](news/posts/2024/Bgee.md) 
-
 ## Webinar: Introduction to Machine Learning with Python
 
 This course is intended for PhD students, post-docs and staff scientists who are interested in applying ML to analyze these data. Please note that this 2-day course will be streamed over 4 half-days, in the afternoon of the following dates:
