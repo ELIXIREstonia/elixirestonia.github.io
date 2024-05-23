@@ -47,17 +47,6 @@ comments
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
 
-## Webinar: Introduction to Machine Learning with Python
-
-This course is intended for PhD students, post-docs and staff scientists who are interested in applying ML to analyze these data. Please note that this 2-day course will be streamed over 4 half-days, in the afternoon of the following dates:
-27 May 2024; 3 June 2024; 10 June 2024; 17 June 2024
-
-Registration deadline: 20 May 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240527_INMLP) 
-
-[Continue Reading](news/posts/2024/Machine_learning_Python.md) 
-
 ## Webinar: A Guide to FAIR Bioimage Data 2024
 
 In this interactive online workshop we will introduce the FAIR principles in the context of bioimaging data. Designed for researchers across all scales of bioimaging, from molecules to humans, this workshop will provide simple yet effective steps for a smooth start to your FAIR journey.
