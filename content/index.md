@@ -67,13 +67,27 @@ Registration deadline: 24 May 2024
 
 [Continue Reading](news/posts/2024/submitting_finding_downloading_ENA.md) 
 
-## University of Tartu library: Open Science info day
+## Online workshop: Using ChatGPT for Funding Applications
 
-On June 4, 2024, the next DataCite Estonia consortium Open Science event will take place at the University of Tartu Library.
+This workshop is designed to help individuals and organizations leverage the power of ChatGPT, an advanced language model, to boost your efficiency and effectiveness in creating funding applications. Whether you are applying for grants, seeking investments, or soliciting donations, this workshop will provide you with valuable insights and practical techniques to improve the quality and impact of your proposals.
 
-[More Info](https://www.avatudteadus.ee/uncategorized-et/avatud-teaduse-infouritus-2/) 
+Date: 29th of May 2024. 9:00 U.K. Time
 
-[Continue reading](news/posts/2024/Avatud_teadus_infoüritus.md)
+[More Info](https://methodsforchange.org/live-workshops/using-chatgpt-for-funding-applications/) 
+
+[Continue Reading](news/posts/2024/ChatGPT_funding.md) 
+
+## Online workshop: Integration of individual-level socioeconomic data for infectious diseases research and prevention in Europe
+
+The BY-COVID project aims to make data on COVID-19 and other infectious diseases available to scientists and the wider public. This workshop targets researchers working with sensitive data and having experience with or being interested in solutions towards the integration of individual-level socio-economic data for policy-relevant infectious diseases research. This can include BY-COVID partners or anyone interested in the topic. 
+
+Registration deadline: 30th of May, 2024
+
+Date: 6th of June 2024, 9:30 - 12:00 CET
+
+[More Info](https://by-covid.org/news-events/spring-2024-baseline-usecase-workshop/) 
+
+[Continue Reading](news/posts/2024/Socioeconomic_data_infectious_diseases.md) 
 
 ## Webinar: Enzymes: Extracting Biological Insight Using UniProt
 
@@ -86,6 +100,35 @@ Date: 06 June 2024
 [More Info and Registration](https://www.sib.swiss/training/course/20240606_UPENZ) 
 
 [Continue Reading](news/posts/2024/enzymes_Uniprot.md) 
+
+## University of Tartu library: Open Science info day
+
+On June 4, 2024, the next DataCite Estonia consortium Open Science event will take place at the University of Tartu Library.
+
+[More Info](https://www.avatudteadus.ee/uncategorized-et/avatud-teaduse-infouritus-2/) 
+
+[Continue reading](news/posts/2024/Avatud_teadus_infoüritus.md)
+
+## Online workshop: Strategies for training and knowledge exchange with a consulting perspective
+
+Join this workshop if you are interested in:
+
+* learning evidence-based best practices for teaching
+* how to create a positive environment for learners at your workshops
+* how to provide opportunities for you to practise and improve your teaching skills.
+* how to survey people's training needs
+* learning how to get the most out of any consulting possibilities you offer
+* how to effectively manage tasks and projects
+* how to initiate new projects and how to prioritise
+* learning how to balance consultancy, training, and IT tasks
+
+Registration deadline: June 7, 2024
+
+Date: June 25, 2024 - June 26, 2024, From 09:00 to 16:00 (CEST)
+
+[More Info](https://www.cecam.org/workshop-details/strategies-for-training-and-knowledge-exchange-with-a-consulting-perspective-1361) 
+
+[Continue Reading](news/posts/2024/strategies_training_consulting_perspective.md) 
 
 ## Course in Zürich, Switzerland: Enzymes: Best Practices in Programming
 
@@ -139,6 +182,14 @@ Course:  May 16, 2024 to Sep 12, 2024
 [More Info and Registration](https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-comput/) 
 
 [Continue Reading](news/posts/2024/mooc_reproducible_research.md) 
+
+## Asynchronous e-learning course: Identifiers in Bioinformatics
+
+Want to learn about identifiers used in bioinformatics? This asynchronous e-learning course can be completed online, at the desired pace and in the absence of an instructor.
+
+[More Info](https://www.sib.swiss/training/course/2024_IDIBI) 
+
+[Continue Reading](news/posts/2024/Identifiers_bioinformatics.md) 
 
 ## Asynchronous e-learning course: Interoperable File Formats
 In an era when data is being produced at unprecedented speed and in many different formats, data interoperability is key to sharing and archiving data.
