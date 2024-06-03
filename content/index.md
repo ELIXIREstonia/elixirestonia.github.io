@@ -31,13 +31,11 @@ Other partners are
 **[Estonian University of Life Sciences](https://www.emu.ee/en)**.
 
 ---
-## Spring semester 2024 free ELIXIR courses in Estonia
+## Autumn semester 2024 free ELIXIR courses in Estonia will be announced in the second part of the year
 <!---
 comments
 
 -->
-
-* [Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion - 24.05.2024 -  Registration OPEN](news/posts/2024/g:profiler_english.md)
 
 # Latest news and announcements
 
@@ -46,60 +44,6 @@ comments
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
-
-## Webinar: A Guide to FAIR Bioimage Data 2024
-
-In this interactive online workshop we will introduce the FAIR principles in the context of bioimaging data. Designed for researchers across all scales of bioimaging, from molecules to humans, this workshop will provide simple yet effective steps for a smooth start to your FAIR journey.
-
-Date & Time: May 23, 2024 03:00 PM  EET
-
-[More Info and Registration](https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/) 
-
-[Continue Reading](news/posts/2024/FAIR_Bioimage_Data.md) 
-
-## Webinar: Submitting, Finding and Downloading Raw Sequencing Data with ENA
-
-This course is addressed to life scientists who work with next generation sequencing data and are interested in using ENA for submitting, finding or downloading FAIR sequencing data.
-
-Registration deadline: 24 May 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240607_ENARS) 
-
-[Continue Reading](news/posts/2024/submitting_finding_downloading_ENA.md) 
-
-## Online workshop: Using ChatGPT for Funding Applications
-
-This workshop is designed to help individuals and organizations leverage the power of ChatGPT, an advanced language model, to boost your efficiency and effectiveness in creating funding applications. Whether you are applying for grants, seeking investments, or soliciting donations, this workshop will provide you with valuable insights and practical techniques to improve the quality and impact of your proposals.
-
-Date: 29th of May 2024. 9:00 U.K. Time
-
-[More Info](https://methodsforchange.org/live-workshops/using-chatgpt-for-funding-applications/) 
-
-[Continue Reading](news/posts/2024/ChatGPT_funding.md) 
-
-## Online workshop: Integration of individual-level socioeconomic data for infectious diseases research and prevention in Europe
-
-The BY-COVID project aims to make data on COVID-19 and other infectious diseases available to scientists and the wider public. This workshop targets researchers working with sensitive data and having experience with or being interested in solutions towards the integration of individual-level socio-economic data for policy-relevant infectious diseases research. This can include BY-COVID partners or anyone interested in the topic. 
-
-Registration deadline: 30th of May, 2024
-
-Date: 6th of June 2024, 9:30 - 12:00 CET
-
-[More Info](https://by-covid.org/news-events/spring-2024-baseline-usecase-workshop/) 
-
-[Continue Reading](news/posts/2024/Socioeconomic_data_infectious_diseases.md) 
-
-## Webinar: Enzymes: Extracting Biological Insight Using UniProt
-
-This 1-h webinar will introduce the enzyme-related data in UniProt and how to find it.
-
-Registration deadline: 30 May 2024
-
-Date: 06 June 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240606_UPENZ) 
-
-[Continue Reading](news/posts/2024/enzymes_Uniprot.md) 
 
 ## University of Tartu library: Open Science info day
 
@@ -149,6 +93,38 @@ Date: 03 - 04 July 2024
 
 [Continue Reading](news/posts/2024/Best_practices_programming.md) 
 
+## Webinar: Where do I start with FAIRification of sensitive data?
+
+This workshop will present a general overview of data sensitivity in relation to sharing and reuse; two presentations on aspects of sensitive data in different research areas; a focus on Persistent Identifiers and data handling of sensitive data; and an opportunity to join in the discussion with the presenters and with each other.
+
+Date: 25th June at 14:00-15:15 CEST
+
+[More Info and Registration](https://fair-impact.eu/events/fair-implementation-workshops/where-do-i-start-fairification-sensitive-data) 
+
+[Continue Reading](news/posts/2024/FAIRification_sensitive_data.md) 
+
+## Webinar:  How FAIRsharing helps you enable FAIR: focus on standards, repositories and policies
+
+This workshop is designed for trainers, anyone developing or maintaining repositories, standards, and policies, librarians, data stewards, and those assisting researchers. However, all Life Science research data community members and beyond – including researchers themselves – are most welcome.
+
+Date: 27 June 2024 
+
+[More Info and Registration](https://elixiruknode.org/event/fairsharing-enabling-fair/) 
+
+[Continue Reading](news/posts/2024/FAIRsharing_standards_repos_policies.md) 
+
+## Webinar: Make your research FAIRer with Quarto, GitHub and Zenodo
+
+This course is addressed to computational biologists, bioinformaticians, researchers, scientists and trainers working in the life sciences who want to learn how to make their research and training FAIRer with reproducible notebooks and websites.
+
+Application deadline: 28 June 2024
+
+Date: 12 July 2024 
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240712_QUART) 
+
+[Continue Reading](news/posts/2024/Quarto_GitHub_Zenodo.md) 
+
 ## Course at Luxembourg: Train the Trainer
 
 This ELIXIR Train the Trainer (TtT) course is aimed at everyone who is interested in becoming a better teacher. In particular, this training is aimed at those who want to become a experienced ELIXIR instructor, run workshops and develop training materials.
@@ -159,6 +135,18 @@ Date: 3-5 July
 [More Info and Registration](https://www.denbi.de/training-courses-2024/1694-elixir-luxembourg-elixir-germany-train-the-trainer) 
 
 [Continue Reading](news/posts/2024/Train_the_trainer_deNBI.md) 
+
+## Course in Lausanne, Switzerland: Biodiversity bioinformatics- from large-scale phylogenomics to gene families and functions
+
+This course is aimed at PhD students, postdoctoral and other researchers in the life sciences who are planning how to proceed with comparative genomics analyses to investigate biological or evolutionary questions of importance to their study system, particularly to leverage comparative genomics tools and resources to characterise the gene repertoires of their non-model species.
+
+Application deadline: 16 July 2024
+
+Date: 26 - 28 August 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240828_COMGE) 
+
+[Continue Reading](news/posts/2024/Biodiversity_bioinformatics.md) 
 
 ## Course in Uppsala, Sweden: FAIR Training Material by Design
 
