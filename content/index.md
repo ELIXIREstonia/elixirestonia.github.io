@@ -45,13 +45,7 @@ comments
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
 
-## University of Tartu library: Open Science info day
-
-On June 4, 2024, the next DataCite Estonia consortium Open Science event will take place at the University of Tartu Library.
-
-[More Info](https://www.avatudteadus.ee/uncategorized-et/avatud-teaduse-infouritus-2/) 
-
-[Continue reading](news/posts/2024/Avatud_teadus_infoüritus.md)
+__Help us keep our funders happy__ and continue financing us! Please take about 7 minutes this week to share your experience using ELIXIR services by __completing [this short survey](https://survey.alchemer.eu/s3/90709311/kasutajad?sg_navigate=start&sglocale=en)__. Make sure to select 'European Life Science Infrastructure for Biological Information (ELIXIR)' on the 2nd page.
 
 ## Online workshop: Strategies for training and knowledge exchange with a consulting perspective
 
