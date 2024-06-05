@@ -148,6 +148,18 @@ Date: 26 - 28 August 2024
 
 [Continue Reading](news/posts/2024/Biodiversity_bioinformatics.md) 
 
+## Webinar: ISMARA and CREMA: automatically inferring gene regulatory networks from gene expression, chromatin accessibility or epigenome data
+
+This course is aimed at PhD students, post-docs and researchers in life sciences wanting to make computational inferences about gene regulation from gene expression data, chromatin accessibility and epigenetic mark data. The course is targeted to a wide audience ranging from computational biologists and bioinformatics researchers who regularly analyse transcriptome and epigenome data, to experimental researchers interested in inferring key regulatory interactions in their own data.
+
+Application deadline: 28 August 2024
+
+Date:  30 August 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20240830_ISMCM) 
+
+[Continue Reading](news/posts/2024/ISMARA_CREMA.md) 
+
 ## Course in Uppsala, Sweden: FAIR Training Material by Design
 
 This course is composed of 7 sessions, based on the FAIR training handbook and 10 simple rules to make material FAIR publication. All sessions are structured in a way that complement each other aiming to introduce participants with a theoretical & hands-on approach of how to create FAIR material by design.
