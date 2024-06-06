@@ -21,6 +21,14 @@ All slides are available on Zenodo under [community ELIXIR-Estonia](https://zeno
 * Pilvar, D. (2024, April 17). __Data Visualisation__. Zenodo. https://doi.org/10.5281/zenodo.7819286.
 * Pilvar, D. (2024, April 12). __Tableau for beginners.__ Zenodo. https://doi.org/10.5281/zenodo.10963883.
 * ELIXIR Estonia (2024). __R visualisation__ https://github.com/ELIXIREstonia/2024-04-19-R-visualisation?tab=readme-ov-file#readme
+* Heleri Inno. (2022, October 26). __Data Visualisation I - Figures.__ Zenodo. https://doi.org/10.5281/zenodo.7251489
+
+## Collaborations
+
+* Rekand, I., & Conzett, P. (2024, April 8). __DataverseNO - A Norwegian, national repository for sharing open and FAIR data.__ Zenodo. https://doi.org/10.5281/zenodo.10940043.
+* Conzett, P., & Rekand, I. (2024, April 5). __Data Curation with Dataverse: A Norwegian Perspective.__ Zenodo. https://doi.org/10.5281/zenodo.10933004.
+* Arust, E., Kirss, J., Seppet, L., & Oopkaup, O. E. (2023, March 27). __Repositories and HPCs in Estonia.__ Zenodo. https://doi.org/10.5281/zenodo.8058669
+* Tarkpea, T., & Pagan, H. C. (2023, February 28). __Open Science and DMP in Estonia + QA by Grant Office.__ Zenodo. https://doi.org/10.5281/zenodo.7684492
 
 ## Data Management
 
@@ -32,7 +40,6 @@ All slides are available on Zenodo under [community ELIXIR-Estonia](https://zeno
 * Pilvar, D. (2023, September 5). __AKKI andmehalduse seminar.__ Zenodo. https://doi.org/10.5281/zenodo.8318151
 * Pilvar, D. (2023, April 25). __Licensing Research Outputs.__ Zenodo. https://doi.org/10.5281/zenodo.7863005
 * Heleri Inno, & Diana Pilvar. (2022, November 8). __How to make your messy data usable? - PART 2 Course.__ Zenodo. https://doi.org/10.5281/zenodo.7304308
-* Heleri Inno. (2022, October 26). __Data Visualisation I - Figures.__ Zenodo. https://doi.org/10.5281/zenodo.7251489
 * Heleri Inno. (2022, September 28). __Licensing Research Outputs course.__ Zenodo. https://doi.org/10.5281/zenodo.7118427
 * Heleri Inno. (2022, April 11). __Metadata and README course.__ Zenodo. https://doi.org/10.5281/zenodo.6446879
 * Heleri Inno. (2022, March 29).__How to make your messy data usable? Course.__ Zenodo. https://doi.org/10.5281/zenodo.6393647
@@ -40,9 +47,3 @@ All slides are available on Zenodo under [community ELIXIR-Estonia](https://zeno
 * Heleri Inno. (2021, October 15). __The FAIR Principles Lecture - Autumn 2021 - in English.__ Zenodo. https://doi.org/10.5281/zenodo.5572352
 * Inno, H. (2021, September 28). __The FAIR Principles Lecture - Autumn 2021 - in Estonian.__ Zenodo. https://doi.org/10.5281/zenodo.5533534
 
-## Collaborations
-
-* Rekand, I., & Conzett, P. (2024, April 8). __DataverseNO - A Norwegian, national repository for sharing open and FAIR data.__ Zenodo. https://doi.org/10.5281/zenodo.10940043.
-* Conzett, P., & Rekand, I. (2024, April 5). __Data Curation with Dataverse: A Norwegian Perspective.__ Zenodo. https://doi.org/10.5281/zenodo.10933004.
-* Arust, E., Kirss, J., Seppet, L., & Oopkaup, O. E. (2023, March 27). __Repositories and HPCs in Estonia.__ Zenodo. https://doi.org/10.5281/zenodo.8058669
-* Tarkpea, T., & Pagan, H. C. (2023, February 28). __Open Science and DMP in Estonia + QA by Grant Office.__ Zenodo. https://doi.org/10.5281/zenodo.7684492
