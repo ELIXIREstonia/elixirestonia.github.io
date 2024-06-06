@@ -29,3 +29,4 @@ We are very grateful for the contributors who wrote the initial texts and shared
 
 Thank you BYCOVID for bringing us together, so we could collect and share all the knowhow we wish we had at the brink of the SARS-CoV-2 pandemic hit us in 2020.
 
+![Participants group photo collage](/assets/images/events/IDTk_contetathon_2024_Tallinn.jpg)
