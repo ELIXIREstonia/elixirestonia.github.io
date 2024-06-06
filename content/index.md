@@ -37,7 +37,7 @@ comments
 
 -->
 
-# Latest news and announcements
+## Latest news and announcements
 
 !!! note ""
     If you would like to be notified about the events, trainings and workshops
@@ -47,7 +47,13 @@ comments
 
 __Help us keep our funders happy__ and continue financing us! Please take about 7 minutes this week to share your experience using ELIXIR services by __completing [this short survey](https://survey.alchemer.eu/s3/90709311/kasutajad?sg_navigate=start&sglocale=en)__. Make sure to select 'European Life Science Infrastructure for Biological Information (ELIXIR)' on the 2nd page.
 
-## Online workshop: Strategies for training and knowledge exchange with a consulting perspective
+### ELIXIR Estonia participated in Infectious Diseases Toolkit (IDTk) Contentathon 2024
+
+Last week of May [BY-COVID Project](https://by-covid.org/) partners from [SciLifeLab](https://www.scilifelab.se/data/), [The SIB Swiss Institute of Bioinformatics](https://www.sib.swiss/), [BBMRI-ERIC](https://www.bbmri-eric.eu/), [ELIXIR Belgium](https://www.elixir-belgium.org/) and ELIXIR Estonia gathered to Tallinn to advance the [Infectious Diseases Toolkit](https://www.infectious-diseases-toolkit.org/) content. We published 5! new pages and a few more will be released soon.
+
+[Continue Reading](news/posts/2024/IDTk_contetathon_2024.md) 
+
+### Online workshop: Strategies for training and knowledge exchange with a consulting perspective
 
 Join this workshop if you are interested in:
 
@@ -68,7 +74,7 @@ Date: June 25, 2024 - June 26, 2024, From 09:00 to 16:00 (CEST)
 
 [Continue Reading](news/posts/2024/strategies_training_consulting_perspective.md) 
 
-## Course in Zürich, Switzerland: Enzymes: Best Practices in Programming
+### Course in Zürich, Switzerland: Enzymes: Best Practices in Programming
 
 If the answer to two or more of the following questions is “yes”, then this course is for you.
 
@@ -87,7 +93,7 @@ Date: 03 - 04 July 2024
 
 [Continue Reading](news/posts/2024/Best_practices_programming.md) 
 
-## Webinar: Where do I start with FAIRification of sensitive data?
+### Webinar: Where do I start with FAIRification of sensitive data?
 
 This workshop will present a general overview of data sensitivity in relation to sharing and reuse; two presentations on aspects of sensitive data in different research areas; a focus on Persistent Identifiers and data handling of sensitive data; and an opportunity to join in the discussion with the presenters and with each other.
 
@@ -97,7 +103,7 @@ Date: 25th June at 14:00-15:15 CEST
 
 [Continue Reading](news/posts/2024/FAIRification_sensitive_data.md) 
 
-## Webinar:  How FAIRsharing helps you enable FAIR: focus on standards, repositories and policies
+### Webinar:  How FAIRsharing helps you enable FAIR: focus on standards, repositories and policies
 
 This workshop is designed for trainers, anyone developing or maintaining repositories, standards, and policies, librarians, data stewards, and those assisting researchers. However, all Life Science research data community members and beyond – including researchers themselves – are most welcome.
 
@@ -107,7 +113,7 @@ Date: 27 June 2024
 
 [Continue Reading](news/posts/2024/FAIRsharing_standards_repos_policies.md) 
 
-## Webinar: Make your research FAIRer with Quarto, GitHub and Zenodo
+### Webinar: Make your research FAIRer with Quarto, GitHub and Zenodo
 
 This course is addressed to computational biologists, bioinformaticians, researchers, scientists and trainers working in the life sciences who want to learn how to make their research and training FAIRer with reproducible notebooks and websites.
 
@@ -119,7 +125,7 @@ Date: 12 July 2024
 
 [Continue Reading](news/posts/2024/Quarto_GitHub_Zenodo.md) 
 
-## Course at Luxembourg: Train the Trainer
+### Course at Luxembourg: Train the Trainer
 
 This ELIXIR Train the Trainer (TtT) course is aimed at everyone who is interested in becoming a better teacher. In particular, this training is aimed at those who want to become a experienced ELIXIR instructor, run workshops and develop training materials.
 You don’t currently have to be an instructor or a teacher to attend this workshop, but you will be expected to be willing and committed to becoming one and to improve your teaching techniques.
@@ -130,7 +136,7 @@ Date: 3-5 July
 
 [Continue Reading](news/posts/2024/Train_the_trainer_deNBI.md) 
 
-## Course in Lausanne, Switzerland: Biodiversity bioinformatics- from large-scale phylogenomics to gene families and functions
+### Course in Lausanne, Switzerland: Biodiversity bioinformatics- from large-scale phylogenomics to gene families and functions
 
 This course is aimed at PhD students, postdoctoral and other researchers in the life sciences who are planning how to proceed with comparative genomics analyses to investigate biological or evolutionary questions of importance to their study system, particularly to leverage comparative genomics tools and resources to characterise the gene repertoires of their non-model species.
 
@@ -142,7 +148,7 @@ Date: 26 - 28 August 2024
 
 [Continue Reading](news/posts/2024/Biodiversity_bioinformatics.md) 
 
-## Webinar: ISMARA and CREMA: automatically inferring gene regulatory networks from gene expression, chromatin accessibility or epigenome data
+### Webinar: ISMARA and CREMA: automatically inferring gene regulatory networks from gene expression, chromatin accessibility or epigenome data
 
 This course is aimed at PhD students, post-docs and researchers in life sciences wanting to make computational inferences about gene regulation from gene expression data, chromatin accessibility and epigenetic mark data. The course is targeted to a wide audience ranging from computational biologists and bioinformatics researchers who regularly analyse transcriptome and epigenome data, to experimental researchers interested in inferring key regulatory interactions in their own data.
 
@@ -154,7 +160,7 @@ Date:  30 August 2024
 
 [Continue Reading](news/posts/2024/ISMARA_CREMA.md) 
 
-## Course in Uppsala, Sweden: FAIR Training Material by Design
+### Course in Uppsala, Sweden: FAIR Training Material by Design
 
 This course is composed of 7 sessions, based on the FAIR training handbook and 10 simple rules to make material FAIR publication. All sessions are structured in a way that complement each other aiming to introduce participants with a theoretical & hands-on approach of how to create FAIR material by design.
 
@@ -167,7 +173,7 @@ Date: 18 - 19 September 2024
 
 [Continue Reading](news/posts/2024/FAIR_training_material_design.md) 
 
-## MOOC: Reproducible Research II: Practices and tools for managing computations and data
+### MOOC: Reproducible Research II: Practices and tools for managing computations and data
 
 In this MOOC, we will show you how to improve your practices and your ability to manage and process larger amounts of data, complex computations, while controlling your software environment.
 
@@ -178,7 +184,7 @@ Course:  May 16, 2024 to Sep 12, 2024
 
 [Continue Reading](news/posts/2024/mooc_reproducible_research.md) 
 
-## Asynchronous e-learning course: Identifiers in Bioinformatics
+### Asynchronous e-learning course: Identifiers in Bioinformatics
 
 Want to learn about identifiers used in bioinformatics? This asynchronous e-learning course can be completed online, at the desired pace and in the absence of an instructor.
 
@@ -186,7 +192,7 @@ Want to learn about identifiers used in bioinformatics? This asynchronous e-lear
 
 [Continue Reading](news/posts/2024/Identifiers_bioinformatics.md) 
 
-## Asynchronous e-learning course: Interoperable File Formats
+### Asynchronous e-learning course: Interoperable File Formats
 In an era when data is being produced at unprecedented speed and in many different formats, data interoperability is key to sharing and archiving data.
 In this 1-h course, you will learn why file format is essential to interoperability, the criteria that file formats must fulfill to be interoperable, common interoperable file formats and how to convert a file to an interoperable format.
 
