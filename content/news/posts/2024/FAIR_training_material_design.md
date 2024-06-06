@@ -32,17 +32,18 @@ Date: 18 - 19 September 2024
 
 ## Description
 
-Sessions to be covered over the 2 days (Note: sessions and content might be slightly changed)
+Sessions to be covered over the 2 days (Note: sessions and content might be slightly changed):
 
-Session 0 - what is Open and FAIR
-Session 1 - Syllabus and documentation
-Session 2 - Training material formats and interoperability
-Session 3 - Illustrations, aesthetics and acknowledgements
-Session 4 - Making e-learning FAIR, challenges and possibilities
-Session 5 - Releases and use of unique identifiers
-Session 6 - Course metadata, standardisation and structure
+* Session 0 - what is Open and FAIR
+* Session 1 - Syllabus and documentation
+* Session 2 - Training material formats and interoperability
+* Session 3 - Illustrations, aesthetics and acknowledgements
+* Session 4 - Making e-learning FAIR, challenges and possibilities
+* Session 5 - Releases and use of unique identifiers
+* Session 6 - Course metadata, standardisation and structure
 
 Topics covered will include:
+
 * FAIR vs OPEN training material
 * Training material documentation and reproducibility (ontology, Learning Outcomes,etc)
 * Illustrations, keeping it FAIR
