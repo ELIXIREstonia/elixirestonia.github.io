@@ -10,7 +10,7 @@ hide:
   - toc
 ---
 
-# Introduction to g:Profiler - 24.05.2024-  Registration OPEN
+# Introduction to g:Profiler - 24.05.2024
 
 This workshop provides a comprehensive introduction to [g:Profiler](https://biit.cs.ut.ee/gprofiler/gost), a tool designed for functional enrichment analysis, gene ID conversion, and orthology mapping, and requires no prior knowledge. Specifically intended for beginners, the session emphasizes efficient usage of g:Profiler for mapping genes to known functional information sources and identifying statistically significantly enriched terms.
 
@@ -45,8 +45,6 @@ This workshop provides a comprehensive introduction to [g:Profiler](https://biit
 ## Register
 
 We ask you to register responsibly. If you can't attend the lecture, please let us know as soon as possible via email (elixir@ut.ee).
-
-__Register:__   https://forms.gle/vq6DgsoWK12F3ETB8  
 
 ---
 

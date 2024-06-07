@@ -25,6 +25,7 @@ hide:
 * **03.05.2024** - [OpenRefine andmete puhastamiseks (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/OpenRefine_andmete_puhastamiseks/)
 * **16.05.2024** - [Metaandmed ja README (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/Metadata_README/)
 * **17.05.2024** - [g:Profiler: tööriist rikastatuse analüüsiks ja geeni ID konversiooniks (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/g_profiler/)
+* **24.05.2024** - [Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion (Zoom)](https://elixir.ut.ee/news/2024/02/07/g%3Aprofiler_english/)
 
 ## 2023
 

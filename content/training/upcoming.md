@@ -10,9 +10,7 @@ in Paris, and locally in Estonia. Internationally we train people how to use
 ELIXIR Estonia services in their research setting. Locally we train with
 hands-on courses in the life science community on various topics.
 
-The courses for the year 2024: 
-
-* [24.05.2024 - Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion (F2F, Tartu)](https://elixir.ut.ee/news/2024/02/07/g%3Aprofiler_english/)
+**The courses for the second part of the year 2024 will be announced in August- September.**
 
 We are willing to train researchers on the following topics:
 
