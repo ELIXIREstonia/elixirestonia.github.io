@@ -23,6 +23,14 @@ All slides are available on Zenodo under [community ELIXIR-Estonia](https://zeno
 * ELIXIR Estonia (2024). __R visualisation__ https://github.com/ELIXIREstonia/2024-04-19-R-visualisation 
 * Heleri Inno. (2022, October 26). __Data Visualisation I - Figures.__ Zenodo. https://doi.org/10.5281/zenodo.7251489
 
+Useful sites:
+
+* What kind of data do you have? Let the [decision tree guide](https://www.data-to-viz.com/) you toward your graphic possibilities.
+* C. Li. (2023). cxli233/FriendsDontLetFriends: FriendsDontLetFriends (v3) (Version v3). Zenodo. https://doi.org/10.5281/zenodo.7542491 and https://github.com/cxli233/FriendsDontLetFriends. This is an opinionated essay about good and bad practices in data visualization with examples and explanations
+* [General considerations for visualising data with examples from infectious disease](https://www.infectious-diseases-toolkit.org/data-communication/)
+* Choosing color palettes https://coolors.co/
+* Website to simulate for you what your [chosen color palette looks like to viewers who are colorblind](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40).
+
 ## Collaborations
 
 * Rekand, I., & Conzett, P. (2024, April 8). __DataverseNO - A Norwegian, national repository for sharing open and FAIR data.__ Zenodo. https://doi.org/10.5281/zenodo.10940043.

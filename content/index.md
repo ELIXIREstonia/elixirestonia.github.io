@@ -47,51 +47,45 @@ comments
 
 __Help us keep our funders happy__ and continue financing us! Please take about 7 minutes this week to share your experience using ELIXIR services by __completing [this short survey](https://survey.alchemer.eu/s3/90709311/kasutajad?sg_navigate=start&sglocale=en)__. Make sure to select 'European Life Science Infrastructure for Biological Information (ELIXIR)' on the 2nd page.
 
+### ELIXIR Estonia participated in ELIXIR All Hands meeting in Uppsala
+
+ELIXIR [All Hands Meeting](https://elixir-europe.org/events/all-hands) at Uppsala University was a resounding success! The grand main lecture hall provided a fantastic venue.  It was wonderful to see colleagues from different nodes gather, share insights, and engage in enriching networking opportunities.
+
+[Continue Reading](content/news/posts/2024/ELIXIR_AHM.md) 
+
+### ELIXIR Estonia participated in DataCite Estonia consortium Open Science event 
+
+On June 4, 2024, the next DataCite Estonia consortium Open Science event took take place at the University of Tartu Library. 
+
+ELIXIR EE has been advocating for Open Science principles across universities in Estonia and our efforts have been noticed (slides by Liisi Lembinen). Additionally, our node contact has been recognized for their expertise in data management (slides by Janelle Kirss from Taltech).
+
+[More Info](https://www.avatudteadus.ee/uncategorized-et/avatud-teaduse-infouritus-2/) 
+
+[Slides and materials](https://hdl.handle.net/10062/99135) are available in DSpace.
+
 ### ELIXIR Estonia participated in Infectious Diseases Toolkit (IDTk) Contentathon 2024
 
 Last week of May [BY-COVID Project](https://by-covid.org/) partners from [SciLifeLab](https://www.scilifelab.se/data/), [The SIB Swiss Institute of Bioinformatics](https://www.sib.swiss/), [BBMRI-ERIC](https://www.bbmri-eric.eu/), [ELIXIR Belgium](https://www.elixir-belgium.org/) and ELIXIR Estonia gathered to Tallinn to advance the [Infectious Diseases Toolkit](https://www.infectious-diseases-toolkit.org/) content. We published 5! new pages and a few more will be released soon.
 
 [Continue Reading](news/posts/2024/IDTk_contetathon_2024.md) 
 
-### Online workshop: Strategies for training and knowledge exchange with a consulting perspective
+### Online: BioModels ML Hackathon
 
-Join this workshop if you are interested in:
+This remote event focuses on applying FAIR principles to machine_learning models in the life sciences, enhancing their reproducibility and utility.
 
-* learning evidence-based best practices for teaching
-* how to create a positive environment for learners at your workshops
-* how to provide opportunities for you to practise and improve your teaching skills.
-* how to survey people's training needs
-* learning how to get the most out of any consulting possibilities you offer
-* how to effectively manage tasks and projects
-* how to initiate new projects and how to prioritise
-* learning how to balance consultancy, training, and IT tasks
+Why Participate?
 
-Registration deadline: June 7, 2024
+* Engage in hands-on activities to make ML models more Findable, Accessible, Interoperable, and Reusable.
+* Collaborate with experts and peers to boost the impact of your work.
+* Contribute to a leading community resource while gaining recognition for your expertise.
 
-Date: June 25, 2024 - June 26, 2024, From 09:00 to 16:00 (CEST)
+The hackathon is ideal for researchers, data scientists, and developers at the intersection of AI/ML and life sciences.
 
-[More Info](https://www.cecam.org/workshop-details/strategies-for-training-and-knowledge-exchange-with-a-consulting-perspective-1361) 
+Date: 20 - 21 June
 
-[Continue Reading](news/posts/2024/strategies_training_consulting_perspective.md) 
+[More Info and Registration](https://docs.google.com/forms/d/e/1FAIpQLSc_STV6X5WFkrcij5T39_w9C07zG3LhhTYX0pjx5clKZltB_w/viewform) 
 
-### Course in Zürich, Switzerland: Enzymes: Best Practices in Programming
-
-If the answer to two or more of the following questions is “yes”, then this course is for you.
-
-* Do you write software to analyze data or implement in-silico models as part of your daily work?
-* Do you write scientific publications based on software you created yourself but do not know what unit testing, refactoring or version control are?
-* Are you writing code that you find hard to understand some weeks later?
-* Do you have thousands of lines of code, but no automated way of verifying that the code works correctly?
-* Do you find yourself regularly using “copy & paste” to re-use code you wrote earlier?
-* Do small changes in your code later cause trouble in other unexpected places?
-
-Registration deadline: 17 June 2024
-
-Date: 03 - 04 July 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240703_BPP) 
-
-[Continue Reading](news/posts/2024/Best_practices_programming.md) 
+[Continue Reading](news/posts/2024/BioModels_ML_Hackathon.md) 
 
 ### Webinar: Where do I start with FAIRification of sensitive data?
 
@@ -112,6 +106,18 @@ Date: 27 June 2024
 [More Info and Registration](https://elixiruknode.org/event/fairsharing-enabling-fair/) 
 
 [Continue Reading](news/posts/2024/FAIRsharing_standards_repos_policies.md) 
+
+### Webinar: Demystifying ELIXIR: Everything you ever wanted to know and more
+
+This interactive event will help participants understand ELIXIR's structure and operations. It is particularly suitable for people who have been part of ELIXIR for less than two years, but is open to all.  Those involved in onboarding new people to Nodes might also find this webinar useful.
+
+By the end of the session, attendees should have a clearer picture of how they fit into ELIXIR and how best to apply their knowledge and skills to maximise their impact. They should leave with answers to their questions, and understand where to find further information and how to actively engage with ELIXIR.
+
+Date: Jul 11, 2024 04:00 PM
+
+[More Info and Registration](https://elixir-europe.org/events/demystifying-elixir-everything-you-ever-wanted-know-and-more) 
+
+[Continue Reading](news/posts/2024/Demystifying_ELIXIR.md) 
 
 ### Webinar: Make your research FAIRer with Quarto, GitHub and Zenodo
 
