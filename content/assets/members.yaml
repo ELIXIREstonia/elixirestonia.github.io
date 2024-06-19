@@ -50,6 +50,10 @@
   content: Project Manager (GDI)<br>University of Tartu
   image: ../assets/images/people/user.png
 
+- title: Mai Müür
+  content: Project Manager (GDI)<br>University of Tartu
+  image: ../assets/images/people/user.png
+
 - title: Martti Tamm
   content: Lead Developer (GDI)<br>University of Tartu
   image: ../assets/images/people/martti.png
@@ -69,3 +73,7 @@
 - title: Kersti Jääger
   content: Data Expert (GDI)<br>University of Tartu
   image: ../assets/images/people/kersti.png
+
+- title: Nurlan Kerimov, PhD
+  content: Bioinformatician<br>University of Tartu
+  image: ../assets/images/people/user.png
