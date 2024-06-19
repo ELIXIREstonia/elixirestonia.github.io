@@ -1,5 +1,5 @@
 - title: Prof. Hedi Peterson
-  content: Professor of bioinformatics<br>University of Tartu<br>Head of Node, Technical coordinator, Training coordinator
+  content: Professor of bioinformatics<br>University of Tartu<br>Head of Node
   image: ../assets/images/people/hedi.png
 
 - title: Kairi Koort, PhD
@@ -12,22 +12,22 @@
   
 - title: Agne Velthut-Meikas, PhD
   content: Management board member<br>Tallinn Technical University
-  image: ../assets/images/people/user.png
+  image: ../assets/images/people/agne.png
 
 - title: Indrek Reile, PhD
   content: Management board member<br>National Institute of Chemical Physics and Biophysics
-  image: ../assets/images/people/user.png
+  image: ../assets/images/people/indrek.jpg
 
 - title: Tanel Kaart, PhD
   content: Management board member<br>Estonian University of Life Sciences
-  image: ../assets/images/people/user.png
+  image: ../assets/images/people/tanel.jpg
 
 - title: Priit Adler, PhD
   content: Research Fellow of Bioinformatics<br>University of Tartu
   image: ../assets/images/people/lemps.jpg
 
 - title: Diana Pilvar
-  content: ELIXIR Data Manager<br>University of Tartu
+  content: ELIXIR Data Manager, Training coordinator<br>University of Tartu
   image: ../assets/images/people/diana.jpg
 
 - title: Heleri Inno
@@ -39,11 +39,11 @@
   image: ../assets/images/people/liis_k.png
 
 - title: Martin Kaljula
-  content: Research specialist<br>University of Tartu
+  content: Coordinator of Research Projects<br>University of Tartu
   image: ../assets/images/people/martin.png
 
 - title: Uku Raudvere
-  content: Developer<br>University of Tartu
+  content: Developer, Technical coordinator<br>University of Tartu
   image: ../assets/images/people/uku.jpg
 
 - title: Erik Jaaniso
@@ -82,7 +82,7 @@
   content: Software Analyst (GDI)<br>University of Tartu
   image: ../assets/images/people/user.png
 
-- title: Kersti Jääger
+- title: Kersti Jääger, PhD
   content: Data Expert (GDI)<br>University of Tartu
   image: ../assets/images/people/kersti.png
 
