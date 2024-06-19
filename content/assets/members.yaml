@@ -38,6 +38,10 @@
   content: Principal Analyst (GDI)<br>University of Tartu
   image: ../assets/images/people/marko.jpg
 
+- title: Heleri Inno
+  content: ELIXIR Data Manager<br>University of Tartu
+  image: ../assets/images/people/heleri.jpg
+
 - title: Erik Jaaniso
   content: Developer<br>University of Tartu
   image: ../assets/images/people/erik.png
@@ -77,10 +81,6 @@
 - title: Mai Müür
   content: Project Manager (GDI)<br>University of Tartu
   image: ../assets/images/people/user.png
-
-- title: Heleri Inno
-  content: ELIXIR Data Manager<br>University of Tartu
-  image: ../assets/images/people/heleri.jpg
 
 - title: Martti Tamm
   content: Lead Developer (GDI)<br>University of Tartu
