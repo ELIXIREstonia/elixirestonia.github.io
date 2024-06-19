@@ -27,7 +27,7 @@
   image: ../assets/images/people/lemps.jpg
 
 - title: Diana Pilvar
-  content: ELIXIR Data Manager, Training coordinator<br>University of Tartu
+  content: ELIXIR Data Manager<br>University of Tartu<br>Training coordinator
   image: ../assets/images/people/diana.jpg
 
 - title: Heleri Inno
@@ -43,7 +43,7 @@
   image: ../assets/images/people/martin.png
 
 - title: Uku Raudvere
-  content: Developer, Technical coordinator<br>University of Tartu
+  content: Developer<br>University of Tartu<br>Technical coordinator
   image: ../assets/images/people/uku.jpg
 
 - title: Erik Jaaniso
