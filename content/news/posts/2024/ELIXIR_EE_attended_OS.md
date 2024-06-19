@@ -12,7 +12,7 @@ hide:
 
 # ELIXIR Estonia participated in DataCite Estonia consortium Open Science event 
 
-On June 4, 2024, the next DataCite Estonia consortium Open Science event took take place at the University of Tartu Library. 
+On June 4, 2024, the DataCite Estonia consortium Open Science event took take place at the University of Tartu Library. 
 
 ELIXIR EE has been advocating for Open Science principles across universities in Estonia and our efforts have been noticed (slides by Liisi Lembinen). Additionally, our node contact has been recognized for their expertise in data management (slides by Janelle Kirss from Taltech).
 
