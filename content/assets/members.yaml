@@ -1,67 +1,91 @@
 - title: Prof. Hedi Peterson
-  content: Professor of bioinformatics<br>University of Tartu<br>Head of Node, Technical coordinator, Training coordinator
+  content: Professor of bioinformatics<br>University of Tartu<br>Head of Node
   image: ../assets/images/people/hedi.png
+
+- title: Kairi Koort, PhD
+  content: Lecturer of Systems Biology<br>Tallinn University<br>Deputy Head of Node
+  image: ../assets/images/people/kairi.jpg
+
+- title: Diana Pilvar
+  content: ELIXIR Data Manager<br>University of Tartu<br>Training coordinator
+  image: ../assets/images/people/diana.jpg
+
+- title: Uku Raudvere
+  content: Developer<br>University of Tartu<br>Technical coordinator
+  image: ../assets/images/people/uku.jpg
+
+- title: Agne Velthut-Meikas, PhD
+  content: Management board member<br>Tallinn Technical University
+  image: ../assets/images/people/agne.png
+
+- title: Indrek Reile, PhD
+  content: Management board member<br>National Institute of Chemical Physics and Biophysics
+  image: ../assets/images/people/indrek.jpg
+
+- title: Tanel Kaart, PhD
+  content: Management board member<br>Estonian University of Life Sciences
+  image: ../assets/images/people/tanel.jpg
 
 - title: Prof. Jaak Vilo
   content: Professor of bioinformatics<br>University of Tartu<br>Main driver and the first Head of Node of ELIXIR Estonia 2013-2022
   image: ../assets/images/people/jaak.jpg
-
+  
 - title: Priit Adler, PhD
   content: Research Fellow of Bioinformatics<br>University of Tartu
   image: ../assets/images/people/lemps.jpg
-
-- title: Diana Pilvar
-  content: ELIXIR Data Manager<br>University of Tartu
-  image: ../assets/images/people/diana.jpg
-
-- title: Heleri Inno
-  content: ELIXIR Data Manager<br>University of Tartu
-  image: ../assets/images/people/heleri.jpg
-
-- title: Liis Kolberg, PhD
-  content: Research Software Engineer<br>University of Tartu
-  image: ../assets/images/people/liis_k.png
-
-- title: Martin Kaljula
-  content: Research specialist<br>University of Tartu
-  image: ../assets/images/people/martin.png
-
-- title: Uku Raudvere
-  content: Developer<br>University of Tartu
-  image: ../assets/images/people/uku.jpg
-
-- title: Erik Jaaniso
-  content: Developer<br>University of Tartu
-  image: ../assets/images/people/erik.png
-
-- title: Ivan Kuzmin
-  content: Developer<br>University of Tartu
-  image: ../assets/images/people/ivan.png
-
-- title: Marilin Moor
-  content: Product Manager<br>University of Tartu
-  image: ../assets/images/people/marilin.png
-
-- title: Liis Lemsalu
-  content: Project Manager (GDI)<br>University of Tartu
-  image: ../assets/images/people/user.png
-
-- title: Martti Tamm
-  content: Lead Developer (GDI)<br>University of Tartu
-  image: ../assets/images/people/martti.png
-
-- title: Markus Marandi
-  content: DevOps Engineer (GDI)<br>University of Tartu
-  image: ../assets/images/people/markus.png
 
 - title: Marko Arrak
   content: Principal Analyst (GDI)<br>University of Tartu
   image: ../assets/images/people/marko.jpg
 
+- title: Heleri Inno
+  content: ELIXIR Data Manager<br>University of Tartu
+  image: ../assets/images/people/heleri.jpg
+
+- title: Erik Jaaniso
+  content: Developer<br>University of Tartu
+  image: ../assets/images/people/erik.png
+
+- title: Kersti Jääger, PhD
+  content: Data Expert (GDI)<br>University of Tartu
+  image: ../assets/images/people/kersti.png
+
+- title: Martin Kaljula
+  content: Coordinator of Research Projects<br>University of Tartu
+  image: ../assets/images/people/martin.png
+
+- title: Nurlan Kerimov, PhD
+  content: Bioinformatician<br>University of Tartu
+  image: ../assets/images/people/nurlan.png
+
+- title: Liis Kolberg, PhD
+  content: Research Software Engineer<br>University of Tartu
+  image: ../assets/images/people/liis_k.png
+
+- title: Ivan Kuzmin
+  content: Developer<br>University of Tartu
+  image: ../assets/images/people/ivan.png
+
+- title: Liis Lemsalu
+  content: Project Manager (GDI)<br>University of Tartu
+  image: ../assets/images/people/user.png
+
+- title: Markus Marandi
+  content: DevOps Engineer (GDI)<br>University of Tartu
+  image: ../assets/images/people/markus.png
+
+- title: Marilin Moor
+  content: Product Manager<br>University of Tartu
+  image: ../assets/images/people/marilin.png
+
+- title: Mai Müür
+  content: Project Manager (GDI)<br>University of Tartu
+  image: ../assets/images/people/mai.jpg
+
+- title: Martti Tamm
+  content: Lead Developer (GDI)<br>University of Tartu
+  image: ../assets/images/people/martti.png
+
 - title: Karl-Martin Voovere
   content: Software Analyst (GDI)<br>University of Tartu
   image: ../assets/images/people/user.png
-
-- title: Kersti Jääger
-  content: Data Expert (GDI)<br>University of Tartu
-  image: ../assets/images/people/kersti.png
