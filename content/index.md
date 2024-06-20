@@ -69,24 +69,6 @@ Last week of May [BY-COVID Project](https://by-covid.org/) partners from [SciLif
 
 [Continue Reading](news/posts/2024/IDTk_contetathon_2024.md) 
 
-### Online: BioModels ML Hackathon
-
-This remote event focuses on applying FAIR principles to machine_learning models in the life sciences, enhancing their reproducibility and utility.
-
-Why Participate?
-
-* Engage in hands-on activities to make ML models more Findable, Accessible, Interoperable, and Reusable.
-* Collaborate with experts and peers to boost the impact of your work.
-* Contribute to a leading community resource while gaining recognition for your expertise.
-
-The hackathon is ideal for researchers, data scientists, and developers at the intersection of AI/ML and life sciences.
-
-Date: 20 - 21 June
-
-[More Info and Registration](https://docs.google.com/forms/d/e/1FAIpQLSc_STV6X5WFkrcij5T39_w9C07zG3LhhTYX0pjx5clKZltB_w/viewform) 
-
-[Continue Reading](news/posts/2024/BioModels_ML_Hackathon.md) 
-
 ### Webinar: Where do I start with FAIRification of sensitive data?
 
 This workshop will present a general overview of data sensitivity in relation to sharing and reuse; two presentations on aspects of sensitive data in different research areas; a focus on Persistent Identifiers and data handling of sensitive data; and an opportunity to join in the discussion with the presenters and with each other.
