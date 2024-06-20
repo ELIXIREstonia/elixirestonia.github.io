@@ -43,6 +43,11 @@ The Estonian ELIXIR node offers various data analysis services and tools for the
 <tool-tile description="a software tool for analysing protein microarray data" doi="http://dx.doi.org/10.1186/s12859-020-03722-z" href="https://biit.cs.ut.ee/pawer" name="PAWER" src="/assets/images/tools/PAWER.png" tags="protein microarray"></tool-tile>
 </div>
 
+### “ELIXIR Infrastructure Service” co-developed by ELIXIR-UK and ELIXIR-Estonia
+<div class="tool-tiles" style="width: 50%;">
+<tool-tile description="a platform for discovering life-science training opportunities" doi="https://doi.org/10.1093/bioinformatics/btaa047" href="https://tess.elixir-europe.org" name="TeSS" src="/assets/images/tools/TeSS.png" tags="training"></tool-tile>
+</div>
+
 ### Coronavirus analysis tools developed by scientists at the University of Tartu
 <div class="tool-tiles" style="width: 50%;">
 <tool-tile description="Coronavirus in Estonia" doi="https://www.nature.com/articles/s41591-020-0929-x" href="https://koroona.ut.ee/?lang=en" name="koroona.ut.ee" src="/assets/images/tools/koroona.png" tags="COVID-19"></tool-tile>
