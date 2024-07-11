@@ -53,42 +53,6 @@ ELIXIR [All Hands Meeting](https://elixir-europe.org/events/all-hands) at Uppsal
 
 [Continue Reading](content/news/posts/2024/ELIXIR_AHM.md) 
 
-### ELIXIR Estonia participated in DataCite Estonia consortium Open Science event 
-
-On June 4, 2024, the next DataCite Estonia consortium Open Science event took take place at the University of Tartu Library. 
-
-ELIXIR EE has been advocating for Open Science principles across universities in Estonia and our efforts have been noticed (slides by Liisi Lembinen). Additionally, our node contact has been recognized for their expertise in data management (slides by Janelle Kirss from Taltech).
-
-[More Info](https://www.avatudteadus.ee/uncategorized-et/avatud-teaduse-infouritus-2/) 
-
-[Slides and materials](https://hdl.handle.net/10062/99135) are available in DSpace.
-
-### ELIXIR Estonia participated in Infectious Diseases Toolkit (IDTk) Contentathon 2024
-
-Last week of May [BY-COVID Project](https://by-covid.org/) partners from [SciLifeLab](https://www.scilifelab.se/data/), [The SIB Swiss Institute of Bioinformatics](https://www.sib.swiss/), [BBMRI-ERIC](https://www.bbmri-eric.eu/), [ELIXIR Belgium](https://www.elixir-belgium.org/) and ELIXIR Estonia gathered to Tallinn to advance the [Infectious Diseases Toolkit](https://www.infectious-diseases-toolkit.org/) content. We published 5! new pages and a few more will be released soon.
-
-[Continue Reading](news/posts/2024/IDTk_contetathon_2024.md) 
-
-### Webinar: Where do I start with FAIRification of sensitive data?
-
-This workshop will present a general overview of data sensitivity in relation to sharing and reuse; two presentations on aspects of sensitive data in different research areas; a focus on Persistent Identifiers and data handling of sensitive data; and an opportunity to join in the discussion with the presenters and with each other.
-
-Date: 25th June at 14:00-15:15 CEST
-
-[More Info and Registration](https://fair-impact.eu/events/fair-implementation-workshops/where-do-i-start-fairification-sensitive-data) 
-
-[Continue Reading](news/posts/2024/FAIRification_sensitive_data.md) 
-
-### Webinar:  How FAIRsharing helps you enable FAIR: focus on standards, repositories and policies
-
-This workshop is designed for trainers, anyone developing or maintaining repositories, standards, and policies, librarians, data stewards, and those assisting researchers. However, all Life Science research data community members and beyond – including researchers themselves – are most welcome.
-
-Date: 27 June 2024 
-
-[More Info and Registration](https://elixiruknode.org/event/fairsharing-enabling-fair/) 
-
-[Continue Reading](news/posts/2024/FAIRsharing_standards_repos_policies.md) 
-
 ### Webinar: Demystifying ELIXIR: Everything you ever wanted to know and more
 
 This interactive event will help participants understand ELIXIR's structure and operations. It is particularly suitable for people who have been part of ELIXIR for less than two years, but is open to all.  Those involved in onboarding new people to Nodes might also find this webinar useful.
