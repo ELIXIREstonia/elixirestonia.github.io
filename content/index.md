@@ -51,7 +51,7 @@ __Help us keep our funders happy__ and continue financing us! Please take about 
 
 ELIXIR [All Hands Meeting](https://elixir-europe.org/events/all-hands) at Uppsala University was a resounding success! The grand main lecture hall provided a fantastic venue.  It was wonderful to see colleagues from different nodes gather, share insights, and engage in enriching networking opportunities.
 
-[Continue Reading](content/news/posts/2024/ELIXIR_AHM.md) 
+[Continue Reading](news/posts/2024/ELIXIR_AHM.md)
 
 ### Webinar: Demystifying ELIXIR: Everything you ever wanted to know and more
 
@@ -61,9 +61,9 @@ By the end of the session, attendees should have a clearer picture of how they f
 
 Date: Jul 11, 2024 04:00 PM
 
-[More Info and Registration](https://elixir-europe.org/events/demystifying-elixir-everything-you-ever-wanted-know-and-more) 
+[More Info and Registration](https://elixir-europe.org/events/demystifying-elixir-everything-you-ever-wanted-know-and-more)
 
-[Continue Reading](news/posts/2024/Demystifying_ELIXIR.md) 
+[Continue Reading](news/posts/2024/Demystifying_ELIXIR.md)
 
 ### Webinar: Make your research FAIRer with Quarto, GitHub and Zenodo
 
@@ -71,11 +71,11 @@ This course is addressed to computational biologists, bioinformaticians, researc
 
 Application deadline: 28 June 2024
 
-Date: 12 July 2024 
+Date: 12 July 2024
 
-[More Info and Registration](https://www.sib.swiss/training/course/20240712_QUART) 
+[More Info and Registration](https://www.sib.swiss/training/course/20240712_QUART)
 
-[Continue Reading](news/posts/2024/Quarto_GitHub_Zenodo.md) 
+[Continue Reading](news/posts/2024/Quarto_GitHub_Zenodo.md)
 
 ### Course at Luxembourg: Train the Trainer
 
@@ -84,9 +84,9 @@ You don’t currently have to be an instructor or a teacher to attend this works
 
 Date: 3-5 July
 
-[More Info and Registration](https://www.denbi.de/training-courses-2024/1694-elixir-luxembourg-elixir-germany-train-the-trainer) 
+[More Info and Registration](https://www.denbi.de/training-courses-2024/1694-elixir-luxembourg-elixir-germany-train-the-trainer)
 
-[Continue Reading](news/posts/2024/Train_the_trainer_deNBI.md) 
+[Continue Reading](news/posts/2024/Train_the_trainer_deNBI.md)
 
 ### Course in Lausanne, Switzerland: Biodiversity bioinformatics- from large-scale phylogenomics to gene families and functions
 
@@ -96,9 +96,9 @@ Application deadline: 16 July 2024
 
 Date: 26 - 28 August 2024
 
-[More Info and Registration](https://www.sib.swiss/training/course/20240828_COMGE) 
+[More Info and Registration](https://www.sib.swiss/training/course/20240828_COMGE)
 
-[Continue Reading](news/posts/2024/Biodiversity_bioinformatics.md) 
+[Continue Reading](news/posts/2024/Biodiversity_bioinformatics.md)
 
 ### Webinar: ISMARA and CREMA: automatically inferring gene regulatory networks from gene expression, chromatin accessibility or epigenome data
 
@@ -108,9 +108,9 @@ Application deadline: 28 August 2024
 
 Date:  30 August 2024
 
-[More Info and Registration](https://www.sib.swiss/training/course/20240830_ISMCM) 
+[More Info and Registration](https://www.sib.swiss/training/course/20240830_ISMCM)
 
-[Continue Reading](news/posts/2024/ISMARA_CREMA.md) 
+[Continue Reading](news/posts/2024/ISMARA_CREMA.md)
 
 ### Course in Uppsala, Sweden: FAIR Training Material by Design
 
@@ -121,9 +121,9 @@ Registration: 11. April 2024 until  23- August 2024
 Date: 18 - 19 September 2024
 
 
-[More Info and Registration](https://training.scilifelab.se/events/fair-training-material-by-design) 
+[More Info and Registration](https://training.scilifelab.se/events/fair-training-material-by-design)
 
-[Continue Reading](news/posts/2024/FAIR_training_material_design.md) 
+[Continue Reading](news/posts/2024/FAIR_training_material_design.md)
 
 ### MOOC: Reproducible Research II: Practices and tools for managing computations and data
 
@@ -132,17 +132,17 @@ In this MOOC, we will show you how to improve your practices and your ability to
 Enrollment:  Apr 02, 2024 to Sep 04, 2024
 Course:  May 16, 2024 to Sep 12, 2024
 
-[More Info and Registration](https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-comput/) 
+[More Info and Registration](https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-comput/)
 
-[Continue Reading](news/posts/2024/mooc_reproducible_research.md) 
+[Continue Reading](news/posts/2024/mooc_reproducible_research.md)
 
 ### Asynchronous e-learning course: Identifiers in Bioinformatics
 
 Want to learn about identifiers used in bioinformatics? This asynchronous e-learning course can be completed online, at the desired pace and in the absence of an instructor.
 
-[More Info](https://www.sib.swiss/training/course/2024_IDIBI) 
+[More Info](https://www.sib.swiss/training/course/2024_IDIBI)
 
-[Continue Reading](news/posts/2024/Identifiers_bioinformatics.md) 
+[Continue Reading](news/posts/2024/Identifiers_bioinformatics.md)
 
 ### Asynchronous e-learning course: Interoperable File Formats
 In an era when data is being produced at unprecedented speed and in many different formats, data interoperability is key to sharing and archiving data.
@@ -150,4 +150,4 @@ In this 1-h course, you will learn why file format is essential to interoperabil
 
 [More Info](https://www.sib.swiss/training/course/2024_IOFFM)
 
-[Continue Reading](news/posts/2024/Interoperable_file_formats.md) 
+[Continue Reading](news/posts/2024/Interoperable_file_formats.md)
