@@ -45,49 +45,6 @@ comments
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
 
-__Help us keep our funders happy__ and continue financing us! Please take about 7 minutes this week to share your experience using ELIXIR services by __completing [this short survey](https://survey.alchemer.eu/s3/90709311/kasutajad?sg_navigate=start&sglocale=en)__. Make sure to select 'European Life Science Infrastructure for Biological Information (ELIXIR)' on the 2nd page.
-
-### ELIXIR Estonia participated in ELIXIR All Hands meeting in Uppsala
-
-ELIXIR [All Hands Meeting](https://elixir-europe.org/events/all-hands) at Uppsala University was a resounding success! The grand main lecture hall provided a fantastic venue.  It was wonderful to see colleagues from different nodes gather, share insights, and engage in enriching networking opportunities.
-
-[Continue Reading](news/posts/2024/ELIXIR_AHM.md)
-
-### Webinar: Demystifying ELIXIR: Everything you ever wanted to know and more
-
-This interactive event will help participants understand ELIXIR's structure and operations. It is particularly suitable for people who have been part of ELIXIR for less than two years, but is open to all.  Those involved in onboarding new people to Nodes might also find this webinar useful.
-
-By the end of the session, attendees should have a clearer picture of how they fit into ELIXIR and how best to apply their knowledge and skills to maximise their impact. They should leave with answers to their questions, and understand where to find further information and how to actively engage with ELIXIR.
-
-Date: Jul 11, 2024 04:00 PM
-
-[More Info and Registration](https://elixir-europe.org/events/demystifying-elixir-everything-you-ever-wanted-know-and-more)
-
-[Continue Reading](news/posts/2024/Demystifying_ELIXIR.md)
-
-### Webinar: Make your research FAIRer with Quarto, GitHub and Zenodo
-
-This course is addressed to computational biologists, bioinformaticians, researchers, scientists and trainers working in the life sciences who want to learn how to make their research and training FAIRer with reproducible notebooks and websites.
-
-Application deadline: 28 June 2024
-
-Date: 12 July 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240712_QUART)
-
-[Continue Reading](news/posts/2024/Quarto_GitHub_Zenodo.md)
-
-### Course at Luxembourg: Train the Trainer
-
-This ELIXIR Train the Trainer (TtT) course is aimed at everyone who is interested in becoming a better teacher. In particular, this training is aimed at those who want to become a experienced ELIXIR instructor, run workshops and develop training materials.
-You don’t currently have to be an instructor or a teacher to attend this workshop, but you will be expected to be willing and committed to becoming one and to improve your teaching techniques.
-
-Date: 3-5 July
-
-[More Info and Registration](https://www.denbi.de/training-courses-2024/1694-elixir-luxembourg-elixir-germany-train-the-trainer)
-
-[Continue Reading](news/posts/2024/Train_the_trainer_deNBI.md)
-
 ### Course in Lausanne, Switzerland: Biodiversity bioinformatics- from large-scale phylogenomics to gene families and functions
 
 This course is aimed at PhD students, postdoctoral and other researchers in the life sciences who are planning how to proceed with comparative genomics analyses to investigate biological or evolutionary questions of importance to their study system, particularly to leverage comparative genomics tools and resources to characterise the gene repertoires of their non-model species.
