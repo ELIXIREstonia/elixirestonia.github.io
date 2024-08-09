@@ -22,8 +22,6 @@ Date: 15 October 2024
 
 [More Info](https://www.sib.swiss/training/course/20241015_INTML) 
 
-[Continue reading](news/posts/2024/MLM_for_bioinformatics.md)
-
 <!-- more -->
 
 ## General information 

@@ -23,8 +23,6 @@ Date: 05 - 06 September 2024
 
 [More Info](https://www.sib.swiss/training/course/20240905_NGSGV) 
 
-[Continue reading](news/posts/2024/NGS_genome_variant_analysis.md)
-
 <!-- more -->
 
 ## General information 

@@ -26,8 +26,6 @@ Date: September 10, 2024 - September 13, 2024
 
 [More Info](https://www.cecam.org/workshop-details/a-practical-introduction-to-bioinformatics-and-rna-seq-using-galaxy-1359) 
 
-[Continue reading](news/posts/2024/RNA-Seq_Galaxy.md)
-
 <!-- more -->
 
 ## General information 

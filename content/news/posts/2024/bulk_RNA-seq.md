@@ -21,8 +21,6 @@ Date: 19 - 20 September 2024
 
 [More Info](https://www.sib.swiss/training/course/20240919_IRNAS) 
 
-[Continue reading](news/posts/2024/bulk_RNA-seq.md)
-
 <!-- more -->
 
 ## General information 

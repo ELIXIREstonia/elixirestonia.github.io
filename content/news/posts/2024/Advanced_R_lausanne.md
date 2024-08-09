@@ -21,8 +21,6 @@ Date: 02 - 04 September 2024
 
 [More Info](https://www.sib.swiss/training/course/20240902_APRWR) 
 
-[Continue reading](news/posts/2024/Advanced_R_lausanne.md)
-
 <!-- more -->
 
 ## General information 
