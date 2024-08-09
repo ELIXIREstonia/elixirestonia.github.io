@@ -131,7 +131,7 @@ Date: 19 - 20 September 2024
 
 [More Info](https://www.sib.swiss/training/course/20240919_IRNAS) 
 
-[Continue reading](content/news/posts/2024/bulk_RNA-seq.md)
+[Continue reading](news/posts/2024/bulk_RNA-seq.md)
 
 
 ### Online: Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics
