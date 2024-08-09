@@ -45,17 +45,45 @@ comments
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
 
-### Course in Lausanne, Switzerland: Biodiversity bioinformatics- from large-scale phylogenomics to gene families and functions
+### Online: NGS - Genome Variant Analysis
 
-This course is aimed at PhD students, postdoctoral and other researchers in the life sciences who are planning how to proceed with comparative genomics analyses to investigate biological or evolutionary questions of importance to their study system, particularly to leverage comparative genomics tools and resources to characterise the gene repertoires of their non-model species.
+This course is intended for life scientists who are already familiar with general concepts of NGS technologies and want to expand their knowledge and skills on variant analysis. Course material is available for free.
 
-Application deadline: 16 July 2024
+Application deadline: 15 August 2024
 
-Date: 26 - 28 August 2024
+Date: 05 - 06 September 2024
 
-[More Info and Registration](https://www.sib.swiss/training/course/20240828_COMGE)
+[More Info](https://www.sib.swiss/training/course/20240905_NGSGV) 
 
-[Continue Reading](news/posts/2024/Biodiversity_bioinformatics.md)
+[Continue reading](news/posts/2024/NGS_genome_variant_analysis.md)
+
+### Course in Switzerland: Advanced Programming with R
+
+This course is addressed to life scientists or bioinformaticians in academia or industry who are using the R statistical software and want to extend their knowledge.
+
+Application deadline: 19 August 2024
+
+Date: 02 - 04 September 2024
+
+[More Info](https://www.sib.swiss/training/course/20240902_APRWR) 
+
+[Continue reading](news/posts/2024/Advanced_R_lausanne.md)
+
+### Online: A practical introduction to bioinformatics and RNA-seq using Galaxy
+
+Join this workshop if you are:
+
+* Working in the field of Bioinformatics or biological data analysis or if you aspire to do so
+* Interested in learning how to analyse transcriptomic data
+* Interested in learning how to use Galaxy for data analysis
+
+Application deadline: August 19, 2024
+
+Date: September 10, 2024 - September 13, 2024
+
+[More Info](https://www.cecam.org/workshop-details/a-practical-introduction-to-bioinformatics-and-rna-seq-using-galaxy-1359) 
+
+[Continue reading](news/posts/2024/RNA-Seq_Galaxy.md)
 
 ### Webinar: ISMARA and CREMA: automatically inferring gene regulatory networks from gene expression, chromatin accessibility or epigenome data
 
@@ -92,6 +120,31 @@ Course:  May 16, 2024 to Sep 12, 2024
 [More Info and Registration](https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-comput/)
 
 [Continue Reading](news/posts/2024/mooc_reproducible_research.md)
+
+### Course in Switzerland:  Introduction to bulk RNA-Seq: From Quality Control to Pathway Analysis
+
+This course is addressed to life scientists or bioinformaticians familiar with "Next Generation Sequencing" who wish to acquire the necessary skills to analyse RNA-seq gene expression data. Course material is available for free.
+
+Application deadline: 05 September 2024
+
+Date: 19 - 20 September 2024
+
+[More Info](https://www.sib.swiss/training/course/20240919_IRNAS) 
+
+[Continue reading](content/news/posts/2024/bulk_RNA-seq.md)
+
+
+### Online: Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics
+
+This course is addressed to life scientists, bioinformaticians, and computational biologists who would like to learn more about general best practices in Machine Learning and get more out of their Machine Learning models: more precise hyper-parameters, more generalizable models, and more interpretable models.
+
+Application deadline: 29 September 2024
+
+Date: 15 October 2024
+
+[More Info](https://www.sib.swiss/training/course/20241015_INTML) 
+
+[Continue reading](news/posts/2024/MLM_for_bioinformatics.md)
 
 ### Asynchronous e-learning course: Identifiers in Bioinformatics
 
