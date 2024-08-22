@@ -19,7 +19,7 @@ hide:
 
 #  Virtual 2 Day Workshop SABIO-RK and FAIRDOMHub / FAIRDOM-SEEK
 
-SABIO-RK (https://sabiork.h-its.org/) is a manually curated database for biochemical reactions and their kinetic properties. FAIRDOMHub (https://fairdomhub.org/) is a free research data management platform built upon the FAIRDOM-SEEK software (http://fairdomseek.org).  FAIRDOM-SEEK contains specific features for systems biologists for data and model management. This is an introductory course for SABIO-RK and FAIRDOMHub. You have the option to participate in either one or both of the courses.
+[SABIO-RK](https://sabiork.h-its.org/) is a manually curated database for biochemical reactions and their kinetic properties. [FAIRDOMHub](https://fairdomhub.org/) is a free research data management platform built upon the [FAIRDOM-SEEK software](http://fairdomseek.org).  FAIRDOM-SEEK contains specific features for systems biologists for data and model management. This is an introductory course for SABIO-RK and FAIRDOMHub. You have the option to participate in either one or both of the courses.
 
 SABIO-RK: 25-NOV-2024 2:00 pm - 5:00pm (CET / UTC +1)
 
@@ -38,7 +38,7 @@ FAIRDOM-SEEK: 26-NOV-2024 2:00 pm - 6:00pm (CET / UTC +1)
 
 ## Description
 
-__SABIO-RK (https://sabiork.h-its.org/)__ is a manually curated database for biochemical reactions and their kinetic properties. Data are mainly extracted from literature and include detailed information about biochemical reactions, their kinetic rate equations with parameters and experimental conditions.
+__[SABIO-RK](https://sabiork.h-its.org/)__ is a manually curated database for biochemical reactions and their kinetic properties. Data are mainly extracted from literature and include detailed information about biochemical reactions, their kinetic rate equations with parameters and experimental conditions.
 
 Agenda:
 
@@ -46,7 +46,7 @@ Agenda:
 * Hands-on session: manual search and export functionalities
 * Hands-on session: programmatic access
 
-__FAIRDOMHub (https://fairdomhub.org/)__ is a free research data management platform built upon the __FAIRDOM-SEEK software (http://fairdomseek.org)__. FAIRDOM-SEEK is an open source tool for uploading, organizing, sharing and publishing scientific research data. FAIRDOM-SEEK contains specific features for systems biologists for data and model management.
+__[FAIRDOMHub](https://fairdomhub.org/)__ is a free research data management platform built upon the __[FAIRDOM-SEEK software](http://fairdomseek.org)__. FAIRDOM-SEEK is an open source tool for uploading, organizing, sharing and publishing scientific research data. FAIRDOM-SEEK contains specific features for systems biologists for data and model management.
 
 Agenda: 
 
