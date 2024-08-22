@@ -31,7 +31,10 @@ Other partners are
 **[Estonian University of Life Sciences](https://www.emu.ee/en)**.
 
 ---
-## Autumn semester 2024 free ELIXIR courses in Estonia will be announced in the second part of the year
+## Autumn semester 2024 free ELIXIR courses in Estonia 
+
+* 18.09.2024 - [Crash Course in Data Management (Zoom)](news/posts/2024/crash_course_DM.md) - Registration open
+* 24.09.2024 - [How to make your messy data usable? / OpenRefine (F2F, Tartu)](news/posts/2024/OpenRefine_data_cleaning.md) - Registration open
 <!---
 comments
 
@@ -44,46 +47,6 @@ comments
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
-
-### Online: NGS - Genome Variant Analysis
-
-This course is intended for life scientists who are already familiar with general concepts of NGS technologies and want to expand their knowledge and skills on variant analysis. Course material is available for free.
-
-Application deadline: 15 August 2024
-
-Date: 05 - 06 September 2024
-
-[More Info](https://www.sib.swiss/training/course/20240905_NGSGV) 
-
-[Continue reading](news/posts/2024/NGS_genome_variant_analysis.md)
-
-### Course in Switzerland: Advanced Programming with R
-
-This course is addressed to life scientists or bioinformaticians in academia or industry who are using the R statistical software and want to extend their knowledge.
-
-Application deadline: 19 August 2024
-
-Date: 02 - 04 September 2024
-
-[More Info](https://www.sib.swiss/training/course/20240902_APRWR) 
-
-[Continue reading](news/posts/2024/Advanced_R_lausanne.md)
-
-### Online: A practical introduction to bioinformatics and RNA-seq using Galaxy
-
-Join this workshop if you are:
-
-* Working in the field of Bioinformatics or biological data analysis or if you aspire to do so
-* Interested in learning how to analyse transcriptomic data
-* Interested in learning how to use Galaxy for data analysis
-
-Application deadline: August 19, 2024
-
-Date: September 10, 2024 - September 13, 2024
-
-[More Info](https://www.cecam.org/workshop-details/a-practical-introduction-to-bioinformatics-and-rna-seq-using-galaxy-1359) 
-
-[Continue reading](news/posts/2024/RNA-Seq_Galaxy.md)
 
 ### Webinar: ISMARA and CREMA: automatically inferring gene regulatory networks from gene expression, chromatin accessibility or epigenome data
 
@@ -145,6 +108,18 @@ Date: 15 October 2024
 [More Info](https://www.sib.swiss/training/course/20241015_INTML) 
 
 [Continue reading](news/posts/2024/MLM_for_bioinformatics.md)
+
+### Virtual 2 Day Workshop SABIO-RK and FAIRDOMHub / FAIRDOM-SEEK
+
+SABIO-RK (https://sabiork.h-its.org/) is a manually curated database for biochemical reactions and their kinetic properties. FAIRDOMHub (https://fairdomhub.org/) is a free research data management platform built upon the FAIRDOM-SEEK software (http://fairdomseek.org).  FAIRDOM-SEEK contains specific features for systems biologists for data and model management. This is an introductory course for SABIO-RK and FAIRDOMHub. You have the option to participate in either one or both of the courses.
+
+SABIO-RK: 25-NOV-2024 2:00 pm - 5:00pm (CET / UTC +1)
+
+FAIRDOM-SEEK: 26-NOV-2024 2:00 pm - 6:00pm (CET / UTC +1)
+
+[More Info and Registration](https://www.denbi.de/training-courses-2024/1777-virtual-2-day-workshop-sabio-rk-and-fairdomhub-fairdom-seek) 
+
+[Continue Reading](news/posts/2024/SABIO-RK_FAIRDOMHub-FAIRDOM-SEEK.md)
 
 ### Asynchronous e-learning course: Identifiers in Bioinformatics
 
