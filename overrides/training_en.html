@@ -21,7 +21,7 @@
   <li><strong>Time:</strong>
     {{  instance.start.strftime("%d.%m.%Y %H:%M") -}}
     &ndash;
-    {{-  instance.end.strftime("%H:%M") -}}
+    {{-  instance.end.strftime("%H:%M") }} ({{ instance.end.astimezone().tzinfo -}})
   </li>
   <li><strong>Type:</strong> workshop</li>
   <li><strong>Language:</strong> English</li>
@@ -154,12 +154,13 @@ to our newsletter</a>. Applications are accepted manually within a few days.</p>
     {
       "@context": "http://schema.org",
       "@type": "CourseInstance",
+      "@id": "{{ config.site_url }}{{ page.url }}#{{ loop.index }}",
       "dct:conformsTo": {
         "@type": "CreativeWork",
         "@id": "https://bioschemas.org/profiles/CourseInstance/1.0-RELEASE"
       },
-      "startDate": "{{ instance.start.astimezone().isoformat() }}",
-      "endDate": "{{ instance.end.astimezone().isoformat() }}",
+      "startDate": "{{ instance.start.date().isoformat() }}",
+      "endDate": "{{ instance.end.date().isoformat() }}",
       "organizer": {
         "@type": "Organization",
         "name": "{{ instance.organisation | e }}"
