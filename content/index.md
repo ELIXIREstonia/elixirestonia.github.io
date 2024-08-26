@@ -47,6 +47,17 @@ comments
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
+### Uku Raudvere from ELIXIR Estonia was on Algorütm podcast
+
+The title of the episode is "Teadustarkvara arendaja roll akadeemias" - "The role of a research software engineer". Uku spoke mostly of his personal experiences developing software in academia. Viewable at https://youtu.be/watch?v=2oLt1NcrROg and listenable anywhere you consume podcasts. 
+
+[Continue Reading](news/posts/2024/Algorutm_podcast.md)
+
+### ELIXIR Releases 2023 Annual Report Highlighting Significant Advances and Strategic Collaborations
+
+[ELIXIR](https://elixir-europe.org/), has released its Annual Report for 2023, showcasing a year of significant advancements, strategic collaborations, and impactful contributions to the life science field. 
+
+[Continue Reading](news/posts/2024/ELIXIR_annual_report_2023.md)
 
 ### Webinar: ISMARA and CREMA: automatically inferring gene regulatory networks from gene expression, chromatin accessibility or epigenome data
 
