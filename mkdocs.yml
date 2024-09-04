@@ -32,7 +32,7 @@ not_in_nav: |
 
 theme:
   name: material
-  logo: assets/images/white-orange-logo.png
+  logo: assets/images/white-orange-logo-ee.png
   favicon: assets/images/elixir_favicon.ico
   custom_dir: overrides
   features:
