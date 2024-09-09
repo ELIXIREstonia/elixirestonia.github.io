@@ -63,6 +63,16 @@ The title of the episode is "Teadustarkvara arendaja roll akadeemias" - "The rol
 
 [Continue Reading](news/posts/2024/ELIXIR_annual_report_2023.md)
 
+### Webinar:  DOME
+
+DOME is a set of community-wide guidelines, recommendations and checklists, spanning these four areas (Data, Optimization, Model and Evaluation in Machine Learning) aiming to help establish standards of supervised machine learning validation in biology. The work was initially [published](https://www.nature.com/articles/s41592-021-01205-4) in 2021 with more details on the [DOME-ML page](https://dome-ml.org/). This activity is part of the [Machine Learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning). 
+
+Date: 24 September 2024, 13:00 CEST
+
+[Registration](https://elixir-europe.org/events/dome-webinar) 
+
+[Continue reading](news/posts/2024/DOME_webinar.md)
+
 ### Online: Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics
 
 This course is addressed to life scientists, bioinformaticians, and computational biologists who would like to learn more about general best practices in Machine Learning and get more out of their Machine Learning models: more precise hyper-parameters, more generalizable models, and more interpretable models.
@@ -74,6 +84,30 @@ Date: 15 October 2024
 [More Info](https://www.sib.swiss/training/course/20241015_INTML) 
 
 [Continue reading](news/posts/2024/MLM_for_bioinformatics.md)
+
+### Conference in Sweden: The Swedish Bioinformatics Workshop (SBW) 2024
+
+The Swedish Bioinformatics Workshop (SBW) is an annual event that has been organized by different universities in Sweden since 2000. It is the biggest meeting of bioinformaticians and computational biologists in Sweden. Senior scientists and non-academic participants are welcome. In addition, the SBW2024 is part of the Nordic Computational Biology (Nordic CompBio) week and is open to participants from other Nordic countries (Estonia included).
+
+Application deadline: 1st of  October 2024
+
+Date:  4-5 November 2024
+
+[Registration](https://www.sbw2024.org/registration/) 
+
+[Continue reading](news/posts/2024/Swedish_Bioinformatics_workshop.md)
+
+### Online course: Diving into deep learning - theory and applications with PyTorch
+
+This course will not make the participant an absolute expert in the complex and dynamic world of Deep-Learning. Still, it will aim to “break the ice” through the explaination and implementation of simple yet concrete, deep-learning models using the PyTorch library. Participants will be introduced to the basic building blocks of deep-learning models and how the main parameters are tuned and monitored to ensure the training of large models. This course is aimed at PhD students, post-docs and researchers in life sciences who already know about Machine Learning and would like to discover and start practising Deep Learning with PyTorch.
+
+Application deadline: 31 October 2024
+
+Date: 07 - 08 November 2024
+
+[Registration](https://www.sib.swiss/training/course/20241108_DEEPP) 
+
+[Continue reading](news/posts/2024/PyTorch.md)
 
 ### Virtual 2 Day Workshop SABIO-RK and FAIRDOMHub / FAIRDOM-SEEK
 
