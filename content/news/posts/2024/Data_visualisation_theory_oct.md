@@ -106,5 +106,5 @@ Researchers often face overwhelming raw data, making it crucial to utilize data 
 
 This workshop will be followed up by:
 
-* Visualisation with RStudio
-* Data visualisation with Tableau
+* [Visualisation with RStudio](https://elixir.ut.ee/news/2024/09/09/Data_visualisation_with_RStudio/)
+* [Data visualisation with Tableau](https://elixir.ut.ee/news/2024/09/09/Tableau_oct/)

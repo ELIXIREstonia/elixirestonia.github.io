@@ -113,4 +113,4 @@ This Tableau course is designed to equip learners with the essential skills requ
 
 Suggested preparatory courses:
 
-* Data visualisation (theory)
+* [Data visualisation (theory)](https://elixir.ut.ee/news/2024/09/04/Data_visualisation_theory_oct/)

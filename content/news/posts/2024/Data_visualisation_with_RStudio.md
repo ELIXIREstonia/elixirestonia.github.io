@@ -116,5 +116,5 @@ In this course, participants will learn to utilize the ggplot2 package, a widely
 
 Suggested preparatory courses:
 
-* Data visualisation (theory)
-* RStudio Basic
+* [Data visualisation (theory)](https://elixir.ut.ee/news/2024/09/04/Data_visualisation_theory_oct/)
+* [RStudio Basic](https://elixir.ut.ee/news/2024/09/04/RStudio_basic/)
