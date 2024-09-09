@@ -10,9 +10,11 @@ in Paris, and locally in Estonia. Internationally we train people how to use
 ELIXIR Estonia services in their research setting. Locally we train with
 hands-on courses in the life science community on various topics.
 
-**The courses for the second part of the year 2024 will be announced in August- September.**
+## Free courses for the second part of the year 2024
+* 18.09.2024 - [Crash Course in Data Management (Zoom)](https://elixir.ut.ee/news/2024/08/22/crash_course_DM/)
+* 24.09.2024 - [How to make your messy data usable? / OpenRefine (F2F, Tartu)](https://elixir.ut.ee/news/2024/08/22/OpenRefine_data_cleaning/)
 
-We are willing to train researchers on the following topics:
+## We are willing to train researchers on the following topics:
 
 * Python programming for beginners
 * RStudio for beginners

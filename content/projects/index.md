@@ -20,8 +20,31 @@ researchers and SARS-CoV-2 data analysis.
 Since 2016 we are also collaborating with Nordic e-Infrastructure Collaboration
 (NeIC) to train together researchers in Estonia and Scandinavia.
 [In January 2020](https://neic.no/news/2020/01/09/estonia-joins-neic/) Estonia
-became an official member of NeIC. Estonian Node in NeIC is Estonian Scientific
-Computing Infrastructure ([ETAIS](https://etais.ee/)).
+became an official member of NeIC. Estonian Node in NeIC is [Estonian Scientific
+Computing Infrastructure (ETAIS)](https://etais.ee/).
+
+---
+
+## [Data Management for Research in ELIXIR (DATAREX)](https://elixir-europe.org/internal-projects/commissioned-services/datarex)
+
+Research Data Management (RDM) is crucial for implementing FAIR and Open Science principles. ELIXIR Platforms and Nodes have invested in RDM, resulting in valuable tools and resources. The RDM Community aims to bring together RDM professionals to coordinate ELIXIR's activities and develop its vision. The short-term objectives include creating a knowledge exchange forum, coordinating the RDM ecosystem, and focusing on RDM training and data brokering.
+
+To achieve these goals, the [DATAREX](https://elixir-europe.org/internal-projects/commissioned-services/datarex) project will facilitate knowledge sharing, develop resources for RDM service providers, coordinate RDM training and content, and make recommendations for enhancing data brokering services. This project will empower RDM professionals and contribute to improving research data management practices.
+ 
+
+The present study is participated in by 19 ELIXIR Nodes.
+
+
+1.01.2024- 31.12.2025
+
+---
+
+## [ELIXIR-STEERS](https://elixir-europe.org/about-us/how-funded/eu-projects/steers)
+
+[ELIXIR-STEERS]( https://elixir-europe.org/about-us/how-funded/eu-projects/steers) aims to help life science researchers to access national data sets and conduct large-scale, cross-border analysis of data from across Europe. It will promote good software management practices and support life scientists with their software management needs. It will collect these good practices into a toolkit for green and reproducible software and workflows.
+ELIXIR-STEERS ensures that ELIXIR continues to operate as a world-class Research Infrastructure (RI), and continues to enable wider participation in computational life science research. It will focus on a new and critical area of scientific need: the provision of software and workflows to life scientists, maximising productivity in research, and minimising consequent energy usage.
+
+01.02.2024–31.01.2027
 
 ---
 

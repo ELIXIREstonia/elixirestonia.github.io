@@ -3,38 +3,37 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: How to make your messy data usable? / OpenRefine - 24.09.2024 - Registration OPEN
+title: Tableau for beginners- 17.10.2024 - Registration OPEN
 draft: false
 hide:
   - toc
 
 # Date of this blog post:
-date: 2024-08-22
+date: 2024-09-09
 authors:
   - Diana
 
 # These are used only for ELIXIR EE site categories, not the course keywords on TESS
 categories:
   - workshop
-  - OpenRefine
-  - tables
-  - cleaning data
+  - data visualization
+  - Tableau
+  - charts
 
 # Fill in the course details:
 course:
-  name: How to make your messy data usable? / OpenRefine
+  name: Tableau for beginners
 
   # Keep this in English (used in metadata)
   provider: University of Tartu, Institute of Computer Science
   # Specify duration in hours:
-  hours: 4
+  hours: 2
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register: https://forms.gle/JhpsfTCWhAhvqGL18
+    register: https://forms.gle/jo6TTCFGCx8rVXWp8
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
-    invite: 
 
     # Specify audience in plain-text in the language of the template:
     audience: Beginner level
@@ -43,24 +42,26 @@ course:
     lecturers: Diana Pilvar
 
     # Specify "Key Topics" as a YAML list:
-   # topics:
-   
 
     # Specify "Learning outcomes" as a YAML list:
     outcomes:
-      - Describe spreadsheet best practices
-      - Compare Excel and OpenRefine
-      - Apply transforms (cell editing, column editing, transposing) in OpenRefine
-      - Write simple expressions in OpenRefine
-      - Match your dataset with that of an external source 
+      - Describe Tableau features
+      - Compare and contrast different visualisation tools
+      - Navigates Tableau to create visualisations
+      - Apply data visualisation principles and best practices to enhance data interpretation
 
   # Specify keywords (for metadata) as a YAML list:
   keywords:
-    - OpenRefine
-    - data cleaning
+    - Data Visualization 
+    - Data visualization
+    - data visualization
+    - Data visualisation
+    - data visualisation
+    - Tableau
 
   # Specify audience keywords (for metadata) as a YAML list:
   audience:
+    - Researchers
     - Beginner
 
   # Mostly don't need to change (needed for metadata). Find more values here:
@@ -69,19 +70,19 @@ course:
     # "edam" indicates special ontology, other types not yet supported.
     - edam:
         # Specified as – code: label
-        3572: Data quality management
+        0092: Data visualisation
 
   # Specify occurrences here:
   instances:
-    - start: 2024-09-24T12:00:00+03:00
-      end: 2024-09-24T16:00:00+03:00
+    - start: 2024-10-17T10:00:00+03:00
+      end: 2024-10-17T12:00:00+03:00
       organisation: ELIXIR Estonia
       maximumAttendeeCapacity: 20
       instructors:
         - Diana Pilvar
       onsite:
         building: DELTA
-        room: 2030
+        room: 2003
 
       # or TLU (Narva mnt 25):
       # onsite:
@@ -106,11 +107,10 @@ course:
 # Finally, the course description in Markdown/HTML below (as many paragraphs as needed).
 # Description will be rendered on web-page and also in TeSS JSON (as a string of HTML).
 ---
-
-The practical workshop on cleaning your messy data with [OpenRefine software](https://openrefine.org/).
-
-First, we will cover spreadsheet best practices. Then, we will put that knowledge into practice with OpenRefine. This course will explore the depths of OpenRefine software and see what it can offer. This will include cleaning the data in bigger batches and unifying the data in one sweep (transforms and expressions). Additionally, we will introduce the possibility of downloading additional data from other databases and different extensions OpenRefine software has.
+This Tableau course is designed to equip learners with the essential skills required to navigate the software’s core features. Students will learn to create compelling visualisations, manipulate data, develop dashboards, and share insights effectively.
 
 <!-- more -->
 
-![Promo picture](../../../assets/images/courses/OpenRefine.png)
+Suggested preparatory courses:
+
+* Data visualisation (theory)

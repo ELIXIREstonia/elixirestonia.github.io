@@ -3,65 +3,66 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: How to make your messy data usable? / OpenRefine - 24.09.2024 - Registration OPEN
+title: RStudio Basic - 02.10.2024 - Registration OPEN
 draft: false
 hide:
   - toc
 
 # Date of this blog post:
-date: 2024-08-22
+date: 2024-09-04
 authors:
   - Diana
 
 # These are used only for ELIXIR EE site categories, not the course keywords on TESS
 categories:
   - workshop
-  - OpenRefine
-  - tables
-  - cleaning data
+  - R
+  - RStudio
 
 # Fill in the course details:
 course:
-  name: How to make your messy data usable? / OpenRefine
+  name: RStudio Basic
 
   # Keep this in English (used in metadata)
   provider: University of Tartu, Institute of Computer Science
   # Specify duration in hours:
-  hours: 4
+  hours: 5
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register: https://forms.gle/JhpsfTCWhAhvqGL18
+    register: https://forms.gle/NLtDCu52JNt9twUe7
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
-    invite: 
+
 
     # Specify audience in plain-text in the language of the template:
     audience: Beginner level
 
     # Specify lecturers in plain-text in the language of the template:
-    lecturers: Diana Pilvar
+    lecturers: Priit Adler, Marilin Moor
 
     # Specify "Key Topics" as a YAML list:
-   # topics:
-   
+    topics:
+
 
     # Specify "Learning outcomes" as a YAML list:
     outcomes:
-      - Describe spreadsheet best practices
-      - Compare Excel and OpenRefine
-      - Apply transforms (cell editing, column editing, transposing) in OpenRefine
-      - Write simple expressions in OpenRefine
-      - Match your dataset with that of an external source 
+      - Navigate RStudio features
+      - Write and execute R scripts 
+      - Manage projects efficiently within the IDE
+      - Import, clean, and manipulate data
 
   # Specify keywords (for metadata) as a YAML list:
   keywords:
-    - OpenRefine
-    - data cleaning
+    - R
+    - R language
+    - R studio
 
   # Specify audience keywords (for metadata) as a YAML list:
   audience:
+    - Researchers
     - Beginner
+    - Students
 
   # Mostly don't need to change (needed for metadata). Find more values here:
   # https://www.ebi.ac.uk/ols4/ontologies/edam/classes/http%253A%252F%252Fedamontology.org%252Ftopic_0003?lang=en
@@ -69,19 +70,20 @@ course:
     # "edam" indicates special ontology, other types not yet supported.
     - edam:
         # Specified as – code: label
-        3572: Data quality management
+        0091: Bioinformatics
 
   # Specify occurrences here:
   instances:
-    - start: 2024-09-24T12:00:00+03:00
-      end: 2024-09-24T16:00:00+03:00
+    - start: 2024-10-02T12:00:00+03:00
+      end: 2024-10-02T17:00:00+03:00
       organisation: ELIXIR Estonia
       maximumAttendeeCapacity: 20
       instructors:
-        - Diana Pilvar
+        - Priit Adler
+        - Marilin Moor
       onsite:
         building: DELTA
-        room: 2030
+        room: 2021
 
       # or TLU (Narva mnt 25):
       # onsite:
@@ -107,10 +109,19 @@ course:
 # Description will be rendered on web-page and also in TeSS JSON (as a string of HTML).
 ---
 
-The practical workshop on cleaning your messy data with [OpenRefine software](https://openrefine.org/).
+R is a free software environment for statistical computing and graphics. It compiles and runs on various UNIX platforms, Windows and MacOS.
 
-First, we will cover spreadsheet best practices. Then, we will put that knowledge into practice with OpenRefine. This course will explore the depths of OpenRefine software and see what it can offer. This will include cleaning the data in bigger batches and unifying the data in one sweep (transforms and expressions). Additionally, we will introduce the possibility of downloading additional data from other databases and different extensions OpenRefine software has.
+RStudio is an essential tool for anyone involved in R programming. It plays a vital role in data analysis by facilitating data import, access, transformation, exploration, visualization, and modeling tasks. If you're embarking on your journey to learn R, now is the perfect moment to familiarize yourself with RStudio. Discover what RStudio is, how to install it, and begin harnessing its capabilities to enhance your data analysis and programming skills.
+
+It would be beneficial to participate in [OpenRefine course](https://elixir.ut.ee/news/2024/08/22/OpenRefine_data_cleaning/), so your data would be clean before you start analysing it. 
 
 <!-- more -->
+Suggested preparatory courses: 
 
-![Promo picture](../../../assets/images/courses/OpenRefine.png)
+* [How to make your messy data usable? / OpenRefine](https://elixir.ut.ee/news/2024/08/22/OpenRefine_data_cleaning/)
+
+
+This workshop will be followed up by:   
+
+* Data visualisation theory 
+* Visualisation with RStudio 

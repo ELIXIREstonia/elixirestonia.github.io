@@ -35,6 +35,10 @@ Other partners are
 
 * 18.09.2024 - [Crash Course in Data Management (Zoom)](news/posts/2024/crash_course_DM.md) - Registration open
 * 24.09.2024 - [How to make your messy data usable? / OpenRefine (F2F, Tartu)](news/posts/2024/OpenRefine_data_cleaning.md) - Registration open
+* 2.10.2024 - [RStudio Basic (F2F, Tartu)](news/posts/2024/RStudio_basic.md) - Registration open
+* 3.10.2024 - [Data visualisation (theory)(Zoom)](news/posts/2024/Data_visualisation_theory_oct.md) - Registration open
+* 9.10.2024 - [Data Visualisation with RStudio (F2F, Tartu)](news/posts/2024/Data_visualisation_with_RStudio.md) - Registration open
+* 17.10.2024 - [Tableau for beginners (F2F, Tartu)](news/posts/2024/Tableau_oct.md) - Registration open
 <!---
 comments
 
@@ -58,55 +62,6 @@ The title of the episode is "Teadustarkvara arendaja roll akadeemias" - "The rol
 [ELIXIR](https://elixir-europe.org/), has released its Annual Report for 2023, showcasing a year of significant advancements, strategic collaborations, and impactful contributions to the life science field. 
 
 [Continue Reading](news/posts/2024/ELIXIR_annual_report_2023.md)
-
-### Webinar: ISMARA and CREMA: automatically inferring gene regulatory networks from gene expression, chromatin accessibility or epigenome data
-
-This course is aimed at PhD students, post-docs and researchers in life sciences wanting to make computational inferences about gene regulation from gene expression data, chromatin accessibility and epigenetic mark data. The course is targeted to a wide audience ranging from computational biologists and bioinformatics researchers who regularly analyse transcriptome and epigenome data, to experimental researchers interested in inferring key regulatory interactions in their own data.
-
-Application deadline: 28 August 2024
-
-Date:  30 August 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20240830_ISMCM)
-
-[Continue Reading](news/posts/2024/ISMARA_CREMA.md)
-
-### Course in Uppsala, Sweden: FAIR Training Material by Design
-
-This course is composed of 7 sessions, based on the FAIR training handbook and 10 simple rules to make material FAIR publication. All sessions are structured in a way that complement each other aiming to introduce participants with a theoretical & hands-on approach of how to create FAIR material by design.
-
-Registration: 11. April 2024 until  23- August 2024
-
-Date: 18 - 19 September 2024
-
-
-[More Info and Registration](https://training.scilifelab.se/events/fair-training-material-by-design)
-
-[Continue Reading](news/posts/2024/FAIR_training_material_design.md)
-
-### MOOC: Reproducible Research II: Practices and tools for managing computations and data
-
-In this MOOC, we will show you how to improve your practices and your ability to manage and process larger amounts of data, complex computations, while controlling your software environment.
-
-Enrollment:  Apr 02, 2024 to Sep 04, 2024
-Course:  May 16, 2024 to Sep 12, 2024
-
-[More Info and Registration](https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-comput/)
-
-[Continue Reading](news/posts/2024/mooc_reproducible_research.md)
-
-### Course in Switzerland:  Introduction to bulk RNA-Seq: From Quality Control to Pathway Analysis
-
-This course is addressed to life scientists or bioinformaticians familiar with "Next Generation Sequencing" who wish to acquire the necessary skills to analyse RNA-seq gene expression data. Course material is available for free.
-
-Application deadline: 05 September 2024
-
-Date: 19 - 20 September 2024
-
-[More Info](https://www.sib.swiss/training/course/20240919_IRNAS) 
-
-[Continue reading](news/posts/2024/bulk_RNA-seq.md)
-
 
 ### Online: Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics
 

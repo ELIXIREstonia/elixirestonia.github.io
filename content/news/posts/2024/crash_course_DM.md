@@ -103,3 +103,7 @@ course:
 ---
 
 Data management is an essential part of scientific research and is crucial for maximizing the value of data. Crash course in Data Management is an introductory course that equips researchers with the necessary skills for effective organization and management of research data. Participants will gain knowledge of best practices in data documentation, backup, and sharing. We will go through exercises and assignments to reinforce new knowledge.
+
+<!-- more -->
+
+![Promo picture](../../../assets/images/courses/crash_course_in_DM.jpeg){width=400 height=300}
