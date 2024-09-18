@@ -27,6 +27,7 @@ hide:
 * **17.05.2024** - [g:Profiler: tööriist rikastatuse analüüsiks ja geeni ID konversiooniks (F2F, Tallinn)](https://elixir.ut.ee/news/2024/02/02/g_profiler/)
 * **24.05.2024** - [Introduction to g:Profiler - Tool for Enrichment Analysis and Gene ID Conversion (Zoom)](https://elixir.ut.ee/news/2024/02/07/g%3Aprofiler_english/)
 * **3. 06; 4.06;  10.06; 11.06.2024** - [R basics - 4 days(F2F, Tallinn)](https://elixir.ut.ee/news/2024/06/03/R_basics_taltech/)
+* **18.09.2024** - [Crash Course in Data Management (Zoom)](https://elixir.ut.ee/news/2024/08/22/crash_course_DM/)
 
 ## 2023
 

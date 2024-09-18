@@ -33,7 +33,6 @@ Other partners are
 ---
 ## Autumn semester 2024 free ELIXIR courses in Estonia 
 
-* 18.09.2024 - [Crash Course in Data Management (Zoom)](news/posts/2024/crash_course_DM.md) - Registration open
 * 24.09.2024 - [How to make your messy data usable? / OpenRefine (F2F, Tartu)](news/posts/2024/OpenRefine_data_cleaning.md) - Registration open
 * 2.10.2024 - [RStudio Basic (F2F, Tartu)](news/posts/2024/RStudio_basic.md) - Registration open
 * 3.10.2024 - [Data visualisation (theory)(Zoom)](news/posts/2024/Data_visualisation_theory_oct.md) - Registration open
@@ -56,12 +55,6 @@ comments
 The title of the episode is "Teadustarkvara arendaja roll akadeemias" - "The role of a research software engineer". Uku spoke mostly of his personal experiences developing software in academia. Viewable at https://youtu.be/watch?v=2oLt1NcrROg and listenable anywhere you consume podcasts. 
 
 [Continue Reading](news/posts/2024/Algorutm_podcast.md)
-
-### ELIXIR Releases 2023 Annual Report Highlighting Significant Advances and Strategic Collaborations
-
-[ELIXIR](https://elixir-europe.org/), has released its Annual Report for 2023, showcasing a year of significant advancements, strategic collaborations, and impactful contributions to the life science field. 
-
-[Continue Reading](news/posts/2024/ELIXIR_annual_report_2023.md)
 
 ### Webinar:  DOME
 
