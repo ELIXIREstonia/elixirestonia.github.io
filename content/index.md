@@ -33,7 +33,6 @@ Other partners are
 ---
 ## Autumn semester 2024 free ELIXIR courses in Estonia 
 
-* 24.09.2024 - [How to make your messy data usable? / OpenRefine (F2F, Tartu)](news/posts/2024/OpenRefine_data_cleaning.md) - Registration open
 * 2.10.2024 - [RStudio Basic (F2F, Tartu)](news/posts/2024/RStudio_basic.md) - Registration open
 * 3.10.2024 - [Data visualisation (theory)(Zoom)](news/posts/2024/Data_visualisation_theory_oct.md) - Registration open
 * 9.10.2024 - [Data Visualisation with RStudio (F2F, Tartu)](news/posts/2024/Data_visualisation_with_RStudio.md) - Registration open
@@ -50,21 +49,6 @@ comments
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
-### Uku Raudvere from ELIXIR Estonia was on Algorütm podcast
-
-The title of the episode is "Teadustarkvara arendaja roll akadeemias" - "The role of a research software engineer". Uku spoke mostly of his personal experiences developing software in academia. Viewable at https://youtu.be/watch?v=2oLt1NcrROg and listenable anywhere you consume podcasts. 
-
-[Continue Reading](news/posts/2024/Algorutm_podcast.md)
-
-### Webinar:  DOME
-
-DOME is a set of community-wide guidelines, recommendations and checklists, spanning these four areas (Data, Optimization, Model and Evaluation in Machine Learning) aiming to help establish standards of supervised machine learning validation in biology. The work was initially [published](https://www.nature.com/articles/s41592-021-01205-4) in 2021 with more details on the [DOME-ML page](https://dome-ml.org/). This activity is part of the [Machine Learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning). 
-
-Date: 24 September 2024, 13:00 CEST
-
-[Registration](https://elixir-europe.org/events/dome-webinar) 
-
-[Continue reading](news/posts/2024/DOME_webinar.md)
 
 ### Online: Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics
 

@@ -40,6 +40,7 @@ Useful sites:
 
 ## Data Management
 
+* Pilvar, D. (2024, September 20). __Crash Course in Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.13801447
 * Pilvar, D. (2024, May 14). __Metadata and README.__ Zenodo. https://doi.org/10.5281/zenodo.7835048.
 * Pilvar, D. (2024, May 7). __How to make your messy data usable? / OpenRefine.__ Zenodo. https://doi.org/10.5281/zenodo.10224703.
 * Pilvar, D. (2024, May 1). __FAIR in a Nutshell.__ Zenodo. https://doi.org/10.5281/zenodo.7660007.
