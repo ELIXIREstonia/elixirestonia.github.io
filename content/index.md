@@ -33,10 +33,13 @@ Other partners are
 ---
 ## Autumn semester 2024 free ELIXIR courses in Estonia 
 
-* 2.10.2024 - [RStudio Basic (F2F, Tartu)](news/posts/2024/RStudio_basic.md) - Registration open
 * 3.10.2024 - [Data visualisation (theory)(Zoom)](news/posts/2024/Data_visualisation_theory_oct.md) - Registration open
 * 9.10.2024 - [Data Visualisation with RStudio (F2F, Tartu)](news/posts/2024/Data_visualisation_with_RStudio.md) - Registration open
 * 17.10.2024 - [Tableau for beginners (F2F, Tartu)](news/posts/2024/Tableau_oct.md) - Registration open
+* 23.10.2024 - [Basic LINUX/Unix workshop (F2F, Tartu)](news/posts/2024/Basic_Unix_workshop.md) - Registration open
+* 30.10.2024 - [Laboratory documentation with Markdown (F2F, Tartu)](news/posts/2024/Lab_doc_Markdown.md) - Registration open
+* 6.11.2024 - [Version Control with Git (F2F, Tartu)](news/posts/2024/Version_control_with_Git.md) - Registration open
+
 <!---
 comments
 
@@ -49,30 +52,56 @@ comments
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
+### Empowering Life Sciences Research: ELIXIR Estonia poster
 
-### Online: Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics
+This poster offers an overview of the work done by the ELIXIR Estonian node, both current and previous. It outlines the focus of our work and provides insights into the training conducted by the node, the various tools and services developed, and collaborations with other countries. 
 
-This course is addressed to life scientists, bioinformaticians, and computational biologists who would like to learn more about general best practices in Machine Learning and get more out of their Machine Learning models: more precise hyper-parameters, more generalizable models, and more interpretable models.
+Poster is also available for viewing in Zenodo repository: https://doi.org/10.5281/zenodo.13847963
 
-Application deadline: 29 September 2024
+[View poster here](news/posts/2024/ELIXIR_Estonia_poster.md)
 
-Date: 15 October 2024
+### ELIXIR Estonia participated in UniTartuCS Day
 
-[More Info](https://www.sib.swiss/training/course/20241015_INTML) 
+The UniTartuCS Day, held annually in September, offers students a unique opportunity to connect with researchers and lecturers, explore thesis topics, and establish ties with research groups. ELIXIR Estonia participated in the event with a poster presentation, and our Head of Node, Hedi Peterson, proposed four possible thesis topics applicable to both Bachelor's and Master's students. For more information, we encourage you to reach out to us.
 
-[Continue reading](news/posts/2024/MLM_for_bioinformatics.md)
+[Continue reading](news/posts/2024/UniTartuCS_days.md)
 
-### Conference in Sweden: The Swedish Bioinformatics Workshop (SBW) 2024
+### BY-COVID project wrap-up and success stories
 
-The Swedish Bioinformatics Workshop (SBW) is an annual event that has been organized by different universities in Sweden since 2000. It is the biggest meeting of bioinformaticians and computational biologists in Sweden. Senior scientists and non-academic participants are welcome. In addition, the SBW2024 is part of the Nordic Computational Biology (Nordic CompBio) week and is open to participants from other Nordic countries (Estonia included).
+The BeYond-COVID (BY-COVID) project aimed to provide extensive open data on SARS-CoV-2 and other infectious diseases, emphasizing the mobilization of raw viral sequences to monitor the spread of variants. To ensure global collaboration, it enabled federated data analysis, managed metadata, and facilitated long-term cataloguing. Success stories can be read [here](https://by-covid.org/pdf/update-elixir-by-covid-brochure-1-7-DIGITAL.pdf), on page 16 is project lead by University of Tartu: [Infectious Diseases Toolkit](https://www.infectious-diseases-toolkit.org/).
 
-Application deadline: 1st of  October 2024
+[Continue reading](news/posts/2024/BY_COVID_success_stories.md)
 
-Date:  4-5 November 2024
+### Webinar: Interactive Visualization with Python
 
-[Registration](https://www.sbw2024.org/registration/) 
+This intermediate level course is addressed to biologists, bioinformaticians, and other computational scientists which use python in their research and would like to enhance their data exploration and presentation capabilities with interactive plots.
 
-[Continue reading](news/posts/2024/Swedish_Bioinformatics_workshop.md)
+Registration deadline: 22 October 2024
+
+Date: 12 November 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20241112_IVIPY) 
+
+[Continue reading](news/posts/2024/Interactive_visualization_Python.md)
+
+### Webinar: Training Clinic
+
+We will delve into “Time Management in Training Courses”. Discover effective strategies and proven techniques to enhance your punctuality and productivity. Whether you're an instructor or a participant, mastering time management can significantly improve your training experience.
+
+Date: 23 october 2024
+
+[More Info and Registration](https://www.denbi.de/training-courses-2024/1796-training-clinic-october-2024) 
+
+[Continue reading](news/posts/2024/Training_clinic_time_management.md)
+
+### Webinar: Data Analysis and Representation in Python
+
+This course is addressed to life scientists, bioinformaticians and researchers who are familiar with writing Python code and core Python elements and would like to explore if further in their daily data wrangling and exploration tasks.
+
+Registration deadline: 28 October 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20241111_DARPY) 
+
 
 ### Online course: Diving into deep learning - theory and applications with PyTorch
 
