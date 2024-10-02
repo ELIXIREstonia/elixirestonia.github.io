@@ -15,9 +15,9 @@ hands-on courses in the life science community on various topics.
 * 3.10.2024 - [Data visualisation (theory)(Zoom)](https://elixir.ut.ee/news/2024/09/04/Data_visualisation_theory_oct/)
 * 9.10.2024 - [Data Visualisation with RStudio (F2F, Tartu)](https://elixir.ut.ee/news/2024/09/09/Data_visualisation_with_RStudio/)
 * 17.10.2024 - [Tableau for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/09/09/Tableau_oct/)
-* 23.10.2024 - [Basic LINUX/Unix workshop(F2F, Tartu)]()
-* 30.10.2024 - [Laboratory documentation with Markdown (F2F, Tartu)]()
-* 6.11.2024 - [Version Control with Git (F2F, Tartu)]()
+* 23.10.2024 - [Basic LINUX/Unix workshop(F2F, Tartu)](https://elixir.ut.ee/news/2024/10/01/Basic_Unix_workshop/)
+* 30.10.2024 - [Laboratory documentation with Markdown (F2F, Tartu)](https://elixir.ut.ee/news/2024/10/01/Lab_doc_Markdown/)
+* 6.11.2024 - [Version Control with Git (F2F, Tartu)](https://elixir.ut.ee/news/2024/10/01/Version_control_with_Git/)
 
 
 ## We are willing to train researchers on the following topics:

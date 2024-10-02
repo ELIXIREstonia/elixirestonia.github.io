@@ -37,7 +37,7 @@ course:
     invite:
 
     # Specify audience in plain-text in the language of the template:
-    audience:
+    audience: Researchers, Students
 
     # Specify lecturers in plain-text in the language of the template:
     lecturers: Heleri Inno
