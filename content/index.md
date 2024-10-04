@@ -33,7 +33,6 @@ Other partners are
 ---
 ## Autumn semester 2024 free ELIXIR courses in Estonia 
 
-* 3.10.2024 - [Data visualisation (theory)(Zoom)](news/posts/2024/Data_visualisation_theory_oct.md) - Registration open
 * 9.10.2024 - [Data Visualisation with RStudio (F2F, Tartu)](news/posts/2024/Data_visualisation_with_RStudio.md) - Registration open
 * 17.10.2024 - [Tableau for beginners (F2F, Tartu)](news/posts/2024/Tableau_oct.md) - Registration open
 * 23.10.2024 - [Basic LINUX/Unix workshop (F2F, Tartu)](news/posts/2024/Basic_Unix_workshop.md) - Registration open

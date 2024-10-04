@@ -30,6 +30,7 @@ hide:
 * **18.09.2024** - [Crash Course in Data Management (Zoom)](https://elixir.ut.ee/news/2024/08/22/crash_course_DM/)
 * **24.09.2024** - [How to make your messy data usable? / OpenRefine (F2F, Tartu)](https://elixir.ut.ee/news/2024/08/22/OpenRefine_data_cleaning/)
 * **2.10.2024** - [RStudio Basic (F2F, Tartu)](https://elixir.ut.ee/news/2024/09/04/RStudio_basic/)
+* **3.10.2024** - [Data visualisation (theory)(Zoom)](https://elixir.ut.ee/news/2024/09/04/Data_visualisation_theory_oct/)
 
 ## 2023
 
