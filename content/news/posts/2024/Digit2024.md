@@ -20,4 +20,4 @@ In his presentation, Uku highlighted the often-overlooked but essential role of 
 
 The talk was a clear reminder of how research and technology must go hand in hand to drive scientific progress, stressing that they need to collaborate closely to advance scientific progress. We thank Uku Raudvere for highlighting the essential role of scientific programmers in academia and for sharing his knowledge with the audience at Digit 2024.
 
-![Digit2024](https://github.com/ELIXIREstonia/elixirestonia.github.io/blob/c88d0383dfe58116592049669f84f097983b6668/content/assets/images/events/Digit2024.jpg)
+![Digit2024](../../../assets/images/events/Digit2024.jpg)

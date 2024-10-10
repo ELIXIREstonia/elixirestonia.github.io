@@ -33,7 +33,6 @@ Other partners are
 ---
 ## Autumn semester 2024 free ELIXIR courses in Estonia 
 
-* 9.10.2024 - [Data Visualisation with RStudio (F2F, Tartu)](news/posts/2024/Data_visualisation_with_RStudio.md) - Registration open
 * 17.10.2024 - [Tableau for beginners (F2F, Tartu)](news/posts/2024/Tableau_oct.md) - Registration open
 * 23.10.2024 - [Basic LINUX/Unix workshop (F2F, Tartu)](news/posts/2024/Basic_Unix_workshop.md) - Registration open
 * 30.10.2024 - [Laboratory documentation with Markdown (F2F, Tartu)](news/posts/2024/Lab_doc_Markdown.md) - Registration open
@@ -70,6 +69,12 @@ The UniTartuCS Day, held annually in September, offers students a unique opportu
 The BeYond-COVID (BY-COVID) project aimed to provide extensive open data on SARS-CoV-2 and other infectious diseases, emphasizing the mobilization of raw viral sequences to monitor the spread of variants. To ensure global collaboration, it enabled federated data analysis, managed metadata, and facilitated long-term cataloguing. Success stories can be read [here](https://by-covid.org/pdf/update-elixir-by-covid-brochure-1-7-DIGITAL.pdf), on page 16 is project lead by University of Tartu: [Infectious Diseases Toolkit](https://www.infectious-diseases-toolkit.org/).
 
 [Continue reading](news/posts/2024/BY_COVID_success_stories.md)
+
+### Uku Raudvere Delivers Talk on the Role of Research Software Engineers at Digit 2024
+
+On October 4th, 2024, the Digit 2024 event in Tartu brought together leaders in technology and academia to celebrate the best of the software domain. Among the standout speakers was ELIXIR Estonia’s own Uku Raudvere, who delivered an insightful presentation on "The Impact of Scientific Programmers in Academia".
+
+[Continue reading](news/posts/2024/Digit2024.md)
 
 ### Webinar: Interactive Visualization with Python
 

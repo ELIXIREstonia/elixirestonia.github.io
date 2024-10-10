@@ -12,7 +12,6 @@ hands-on courses in the life science community on various topics.
 
 ## Free courses for the second part of the year 2024
 
-* 9.10.2024 - [Data Visualisation with RStudio (F2F, Tartu)](https://elixir.ut.ee/news/2024/09/09/Data_visualisation_with_RStudio/)
 * 17.10.2024 - [Tableau for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/09/09/Tableau_oct/)
 * 23.10.2024 - [Basic LINUX/Unix workshop(F2F, Tartu)](https://elixir.ut.ee/news/2024/10/01/Basic_Unix_workshop/)
 * 30.10.2024 - [Laboratory documentation with Markdown (F2F, Tartu)](https://elixir.ut.ee/news/2024/10/01/Lab_doc_Markdown/)
