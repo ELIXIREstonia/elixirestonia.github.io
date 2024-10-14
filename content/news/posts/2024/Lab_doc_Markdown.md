@@ -106,5 +106,3 @@ course:
 # Description will be rendered on web-page and also in TeSS JSON (as a string of HTML).
 ---
 This course introduces the basics of Markdown, a lightweight markup language used to format plain text in documents. Markdown plays a crucial role in scientific research by enabling the efficient writing of reports, code documentation, and creating well-organised research notebooks. Students will learn essential Markdown syntax throughout the course, including formatting text, adding links, images, tables, math equations, and code blocks. By integrating Markdown with Jupyter Notebook, participants can build dynamic laboratory notebooks that streamline the documentation, analysis, and sharing of research findings. 
-
-Requirements: A personal computer is mandatory for all participants
