@@ -10,7 +10,7 @@ All slides are available on Zenodo under [community ELIXIR-Estonia](https://zeno
 ## Bioinformatics
 
 * Kolberg, L., & Raudvere, U. (2024, June 3). __Introduction to g:Profiler.__ Zenodo. https://doi.org/10.5281/zenodo.11207911.
-* ELIXIR Estonia (2024). __R basic__ https://github.com/ELIXIREstonia/2024-03-22-R-basic
+* ELIXIR Estonia (2024). __R basic__ https://github.com/ELIXIREstonia/2024-10-02-R-basic
 * ELIXIR Estonia (2024). __Shell Novice__ https://github.com/ELIXIREstonia/2024-03-08-shell-novice
 * ELIXIR Estonia (2024). __Python for Beginners__ https://github.com/ELIXIREstonia/2024-02-23-Python
 * Kerimov, Nurlan (2024). __Introduction to Bioinformatics workflows with Nextflow and nf-core__ https://kerimoff.github.io/workflows-nextflow/index.html

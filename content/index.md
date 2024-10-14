@@ -35,7 +35,7 @@ Other partners are
 
 * 17.10.2024 - [Tableau for beginners (F2F, Tartu)](news/posts/2024/Tableau_oct.md) - Registration open
 * 23.10.2024 - [Basic LINUX/Unix workshop (F2F, Tartu)](news/posts/2024/Basic_Unix_workshop.md) - Registration open
-* 30.10.2024 - [Laboratory documentation with Markdown (F2F, Tartu)](news/posts/2024/Lab_doc_Markdown.md) - Registration open
+* 30.10.2024 - [Laboratory documentation with Markdown (Zoom)](news/posts/2024/Lab_doc_Markdown.md) - Registration open
 * 6.11.2024 - [Version Control with Git (F2F, Tartu)](news/posts/2024/Version_control_with_Git.md) - Registration open
 
 <!---
