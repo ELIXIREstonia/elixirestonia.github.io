@@ -5,6 +5,12 @@ hide:
 ---
 # Publications
 
+## Other materials
+
+1. Inno, H., & Peterson, H. (2024). **Empowering Life Sciences Research: ELIXIR Estonia** poster. Zenodo. Available from: https://doi.org/10.5281/zenodo.13847963
+
+## Peer Reviewed publications
+
 Publications from ELIXIR Europe collaborations are printed in _cursive_.
 Tools and services are linked from the title of the corresponding paper.
 
