@@ -37,6 +37,8 @@ Other partners are
 * 23.10.2024 - [Basic LINUX/Unix workshop (F2F, Tartu)](news/posts/2024/Basic_Unix_workshop.md) - Registration open
 * 30.10.2024 - [Laboratory documentation with Markdown (Zoom)](news/posts/2024/Lab_doc_Markdown.md) - Registration open
 * 6.11.2024 - [Version Control with Git (F2F, Tartu)](news/posts/2024/Version_control_with_Git.md) - Registration open
+* 14.11.2024 - [Getting organised with Notion (F2F, Tartu)](news/posts/2024/Notion.md) - Registration open
+* 20.11.2024 - [Prompting 101 - A Beginner's Guide to Communicating with LLMs (F2F, Tartu)](news/posts/2024/prompt_generation.md) - Registration open
 
 <!---
 comments
@@ -57,12 +59,6 @@ This poster offers an overview of the work done by the ELIXIR Estonian node, bot
 Poster is also available for viewing in Zenodo repository: https://doi.org/10.5281/zenodo.13847963
 
 [View poster here](news/posts/2024/ELIXIR_Estonia_poster.md)
-
-### ELIXIR Estonia participated in UniTartuCS Day
-
-The UniTartuCS Day, held annually in September, offers students a unique opportunity to connect with researchers and lecturers, explore thesis topics, and establish ties with research groups. ELIXIR Estonia participated in the event with a poster presentation, and our Head of Node, Hedi Peterson, proposed four possible thesis topics applicable to both Bachelor's and Master's students. For more information, we encourage you to reach out to us.
-
-[Continue reading](news/posts/2024/UniTartuCS_days.md)
 
 ### BY-COVID project wrap-up and success stories
 
@@ -98,6 +94,18 @@ Date: 23 october 2024
 
 [Continue reading](news/posts/2024/Training_clinic_time_management.md)
 
+### Conference in Helsinki, Finland: Finnish Nordic Computational Biology
+
+The event is tailored for Bioinformaticians and Computational Biologists. It is an excellent opportunity for researchers and students working with biological data who are keen on exploring new bioinformatics methods, workflows, or challenges.
+
+Registration deadline: 26th October 2024
+
+Date: 7-8 November 2024
+
+[More Info](https://www.nordic-compbio.org/ncb-week)
+
+[Continue reading](news/posts/2024/Nordic_Comp_Bio_Helsinki.md)
+
 ### Webinar: Data Analysis and Representation in Python
 
 This course is addressed to life scientists, bioinformaticians and researchers who are familiar with writing Python code and core Python elements and would like to explore if further in their daily data wrangling and exploration tasks.
@@ -119,6 +127,48 @@ Date: 07 - 08 November 2024
 
 [Continue reading](news/posts/2024/PyTorch.md)
 
+### Virtual workshop: GPU Programming. Why. When. How
+
+This workshop is based on a multilateral collaboration between GPU programming specialists from the Nordic countries. It is meant to help both software developers and decision-makers navigate the GPU programming landscape and make more informed decisions on which languages or frameworks to learn and use for their projects.
+
+Date: 12-14  November 2024
+
+[More Info](https://enccs.se/events/gpu-programming-why-when-how-2024/)
+
+[Continue reading](news/posts/2024/GPU_programming.md)
+
+### Virtual course by EMBL-EBI: Single-cell RNA-seq analysis with Python
+
+This course is aimed at wet-lab researchers who are generating, planning on generating, or working with single cell RNA sequencing data.
+
+Registration deadline: 17 November 2024
+
+Date: 	17 - 21 February 2025
+
+[More Info](https://www.ebi.ac.uk/training/events/single-cell-rna-seq-analysis-with-python-2025/)
+
+[Continue reading](news/posts/2024/single-cell_RNA-seq_analysis_EMBL-EBI.md)
+
+### Virtual Forum: AI Ventures in the Life Sciences - Challenges, Needs, and Opportunities
+
+This year's 5th Annual Meeting of the de.NBI Industrial Forum will take place online. The Annual Meeting is an opportunity to meet and discuss current academic and industrial topics of interest. The 2024 edition of the Annual Meeting is headlined:“AI Ventures in the Life Sciences - Challenges, Needs, and Opportunities”
+
+Date: 19 November 2024
+
+[More Info](https://www.denbi.de/de-nbi-events/1770-5-meeting-if)
+
+### Online course: Enrichment Analysis
+
+This course is for biologists who are eager to perform functional annotation of a set of differentially expressed genes.
+
+Application deadline: 19 November 2024
+
+Date: 29 November 2024
+
+[More Info and Registration](https://www.sib.swiss/training/course/20241129_ENRIC) 
+
+[Continue reading](news/posts/2024/Enrichment_Analysis_nov.md)
+
 ### Virtual 2 Day Workshop SABIO-RK and FAIRDOMHub / FAIRDOM-SEEK
 
 SABIO-RK (https://sabiork.h-its.org/) is a manually curated database for biochemical reactions and their kinetic properties. FAIRDOMHub (https://fairdomhub.org/) is a free research data management platform built upon the FAIRDOM-SEEK software (http://fairdomseek.org).  FAIRDOM-SEEK contains specific features for systems biologists for data and model management. This is an introductory course for SABIO-RK and FAIRDOMHub. You have the option to participate in either one or both of the courses.
@@ -131,18 +181,14 @@ FAIRDOM-SEEK: 26-NOV-2024 2:00 pm - 6:00pm (CET / UTC +1)
 
 [Continue Reading](news/posts/2024/SABIO-RK_FAIRDOMHub-FAIRDOM-SEEK.md)
 
-### Asynchronous e-learning course: Identifiers in Bioinformatics
+### Course in EBI, UK: Gene-environment interactions in human health and disease
 
-Want to learn about identifiers used in bioinformatics? This asynchronous e-learning course can be completed online, at the desired pace and in the absence of an instructor.
+This introductory course is  aimed at MRes/PhD students, researchers, clinicians, and other professionals working in the fields of genomics, exposomics, epidemiology, or toxicology with an interest in understanding how interactions between genes and the environment underlie human phenotypes. The course will cover the underlying concepts, computational resources, and computational modelling methods available to investigate interactions between genes and the environment (including social, biological, and physical exposures). 
 
-[More Info](https://www.sib.swiss/training/course/2024_IDIBI)
+Registration deadline: 15 December 2024
 
-[Continue Reading](news/posts/2024/Identifiers_bioinformatics.md)
+Date: 17 - 21 March 2025
 
-### Asynchronous e-learning course: Interoperable File Formats
-In an era when data is being produced at unprecedented speed and in many different formats, data interoperability is key to sharing and archiving data.
-In this 1-h course, you will learn why file format is essential to interoperability, the criteria that file formats must fulfill to be interoperable, common interoperable file formats and how to convert a file to an interoperable format.
+[More Info](https://www.ebi.ac.uk/training/events/gene-environment-interactions-in-human-health-and-disease-2025/)
 
-[More Info](https://www.sib.swiss/training/course/2024_IOFFM)
-
-[Continue Reading](news/posts/2024/Interoperable_file_formats.md)
+[Continue reading](news/posts/2024/Gene-environment_interact_EMBL-EBI.md)

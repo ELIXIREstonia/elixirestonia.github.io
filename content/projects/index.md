@@ -25,6 +25,13 @@ Computing Infrastructure (ETAIS)](https://etais.ee/).
 
 ---
 
+## [ELIXIR Node Support Commissioned Service (NSCS)](https://elixir-europe.org/internal-projects/commissioned-services/nodes) 
+
+[Node Support Commissioned Services (NSCS)](https://elixir-europe.org/internal-projects/commissioned-services/nodes) is an internal project of ELIXIR Europe, which aims to equip ELIXIR Nodes with tools and knowledge for successful long-term operations. To ensure their success, ELIXIR Nodes must be well-coordinated, professionally managed organisations that meet national stakeholders' needs by offering high-quality support, expertise, and services aligned with national and ELIXIR  research priorities. Long-term success for a research infrastructure involves an approach that goes beyond funding. It requires strategic planning, effective communications, community engagement, technological innovation, skilled personnel, adaptability, and a commitment to ethical and legal standards. Nodes often face similar problems, and this project provides the structure to share this extensive experience and institutional knowledge. It will provide tools and expertise to empower Nodes to measure their activities and environment better, streamline approaches and enable communication.
+
+01.07.2024-31.12.2026
+
+
 ## [Data Management for Research in ELIXIR (DATAREX)](https://elixir-europe.org/internal-projects/commissioned-services/datarex)
 
 Research Data Management (RDM) is crucial for implementing FAIR and Open Science principles. ELIXIR Platforms and Nodes have invested in RDM, resulting in valuable tools and resources. The RDM Community aims to bring together RDM professionals to coordinate ELIXIR's activities and develop its vision. The short-term objectives include creating a knowledge exchange forum, coordinating the RDM ecosystem, and focusing on RDM training and data brokering.
