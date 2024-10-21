@@ -12,7 +12,6 @@ hands-on courses in the life science community on various topics.
 
 ## Free courses for the second part of the year 2024
 
-* 17.10.2024 - [Tableau for beginners (CANCELLED)](https://elixir.ut.ee/news/2024/09/09/Tableau_oct/)
 * 23.10.2024 - [Basic LINUX/Unix workshop(F2F, Tartu)](https://elixir.ut.ee/news/2024/10/01/Basic_Unix_workshop/)
 * 30.10.2024 - [Laboratory documentation with Markdown (Zoom)](https://elixir.ut.ee/news/2024/10/01/Lab_doc_Markdown/)
 * 6.11.2024 - [Version Control with Git (F2F, Tartu)](https://elixir.ut.ee/news/2024/10/01/Version_control_with_Git/)

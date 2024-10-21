@@ -32,6 +32,7 @@ hide:
 * **2.10.2024** - [RStudio Basic (F2F, Tartu)](https://elixir.ut.ee/news/2024/09/04/RStudio_basic/)
 * **3.10.2024** - [Data visualisation (theory)(Zoom)](https://elixir.ut.ee/news/2024/09/04/Data_visualisation_theory_oct/)
 * **9.10.2024** - [Data Visualisation with RStudio (F2F, Tartu)](https://elixir.ut.ee/news/2024/09/09/Data_visualisation_with_RStudio/)
+* **17.10.2024** - [Tableau for beginners (CANCELLED)](https://elixir.ut.ee/news/2024/09/09/Tableau_oct/)
 
 ## 2023
 
