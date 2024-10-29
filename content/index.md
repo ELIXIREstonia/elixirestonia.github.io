@@ -70,49 +70,6 @@ On October 4th, 2024, the Digit 2024 event in Tartu brought together leaders in 
 
 [Continue reading](news/posts/2024/Digit2024.md)
 
-### Webinar: Interactive Visualization with Python
-
-This intermediate level course is addressed to biologists, bioinformaticians, and other computational scientists which use python in their research and would like to enhance their data exploration and presentation capabilities with interactive plots.
-
-Registration deadline: 22 October 2024
-
-Date: 12 November 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20241112_IVIPY) 
-
-[Continue reading](news/posts/2024/Interactive_visualization_Python.md)
-
-### Webinar: Training Clinic
-
-We will delve into “Time Management in Training Courses”. Discover effective strategies and proven techniques to enhance your punctuality and productivity. Whether you're an instructor or a participant, mastering time management can significantly improve your training experience.
-
-Date: 23 october 2024
-
-[More Info and Registration](https://www.denbi.de/training-courses-2024/1796-training-clinic-october-2024) 
-
-[Continue reading](news/posts/2024/Training_clinic_time_management.md)
-
-### Conference in Helsinki, Finland: Finnish Nordic Computational Biology
-
-The event is tailored for Bioinformaticians and Computational Biologists. It is an excellent opportunity for researchers and students working with biological data who are keen on exploring new bioinformatics methods, workflows, or challenges.
-
-Registration deadline: 26th October 2024
-
-Date: 7-8 November 2024
-
-[More Info](https://www.nordic-compbio.org/ncb-week)
-
-[Continue reading](news/posts/2024/Nordic_Comp_Bio_Helsinki.md)
-
-### Webinar: Data Analysis and Representation in Python
-
-This course is addressed to life scientists, bioinformaticians and researchers who are familiar with writing Python code and core Python elements and would like to explore if further in their daily data wrangling and exploration tasks.
-
-Registration deadline: 28 October 2024
-
-[More Info and Registration](https://www.sib.swiss/training/course/20241111_DARPY) 
-
-
 ### Online course: Diving into deep learning - theory and applications with PyTorch
 
 This course will not make the participant an absolute expert in the complex and dynamic world of Deep-Learning. Still, it will aim to “break the ice” through the explaination and implementation of simple yet concrete, deep-learning models using the PyTorch library. Participants will be introduced to the basic building blocks of deep-learning models and how the main parameters are tuned and monitored to ensure the training of large models. This course is aimed at PhD students, post-docs and researchers in life sciences who already know about Machine Learning and would like to discover and start practising Deep Learning with PyTorch.
