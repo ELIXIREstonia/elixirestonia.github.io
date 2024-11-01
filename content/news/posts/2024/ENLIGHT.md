@@ -18,7 +18,7 @@ The fourth [ENLIGHT Teaching and Learning Conference](https://enlight-eu.org/ind
 
 [ENLIGHT](https://enlight-eu.org/index.php) stands for European University Network to promote equitable quality of Life, sustaInability and Global engagement through Higher education Transformation. ENLIGHT is a European University alliance of ten comprehensive, research-intensive universities from ten European countries (Belgium, Estonia, France, Germany, Ireland, Netherlands, Slovakia, Spain, Sweden, and Switzerland), training over 300,000 learners annually and sharing a deep commitment to social responsibility.
 
-![ENLIGHT-map](../../assets/images/events/ENLIGHT-map.png)
+![ENLIGHT-map](../../../assets/images/events/ENLIGHT-map.png)
 
 The highlight of the conference were the two keynote speakers: Laura-Maija Hero, the Principal Research Scientist at HAMK Edu research unit, who spoke about “Design-based approach in teaching and its connection to foster student creativity and innovation”, and Jaan Aru, the Associate Professor in Computational Neuroscience and Artificial Intelligence at the University of Tartu, who delivered the presentation “Brain learning, creativity and students’ motivation”, in which he discussed how to support creativity and motivation in studying. Keynote talks are available on the [YouTube channel](https://www.youtube.com/@ENLIGHTEU/videos). 
 
