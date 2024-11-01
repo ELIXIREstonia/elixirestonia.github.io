@@ -40,6 +40,7 @@ Useful sites:
 
 ## Data Management
 
+* Inno, H. (2024, October 31). __Laboratory documentation with Markdown.__ Zenodo. https://doi.org/10.5281/zenodo.14016131
 * Pilvar, D. (2024, September 24). __How to make your messy data usable? / OpenRefine__. Zenodo. https://doi.org/10.5281/zenodo.13832071
 * Pilvar, D. (2024, September 20). __Crash Course in Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.13801447
 * Pilvar, D. (2024, May 14). __Metadata and README.__ Zenodo. https://doi.org/10.5281/zenodo.7835048.

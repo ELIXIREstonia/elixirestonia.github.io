@@ -33,7 +33,6 @@ Other partners are
 ---
 ## Autumn semester 2024 free ELIXIR courses in Estonia 
 
-* 30.10.2024 - [Laboratory documentation with Markdown (Zoom)](news/posts/2024/Lab_doc_Markdown.md)
 * 6.11.2024 - [Version Control with Git (F2F, Tartu)](news/posts/2024/Version_control_with_Git.md) - Registration open
 * 14.11.2024 - [Getting organised with Notion (F2F, Tartu)](news/posts/2024/Notion.md) - Registration open
 * 20.11.2024 - [Prompting 101 - A Beginner's Guide to Communicating with LLMs (F2F, Tartu)](news/posts/2024/prompt_generation.md) - Registration open
@@ -58,29 +57,11 @@ Poster is also available for viewing in Zenodo repository: https://doi.org/10.52
 
 [View poster here](news/posts/2024/ELIXIR_Estonia_poster.md)
 
-### BY-COVID project wrap-up and success stories
-
-The BeYond-COVID (BY-COVID) project aimed to provide extensive open data on SARS-CoV-2 and other infectious diseases, emphasizing the mobilization of raw viral sequences to monitor the spread of variants. To ensure global collaboration, it enabled federated data analysis, managed metadata, and facilitated long-term cataloguing. Success stories can be read [here](https://by-covid.org/pdf/update-elixir-by-covid-brochure-1-7-DIGITAL.pdf), on page 16 is project lead by University of Tartu: [Infectious Diseases Toolkit](https://www.infectious-diseases-toolkit.org/).
-
-[Continue reading](news/posts/2024/BY_COVID_success_stories.md)
-
 ### Uku Raudvere Delivers Talk on the Role of Research Software Engineers at Digit 2024
 
 On October 4th, 2024, the Digit 2024 event in Tartu brought together leaders in technology and academia to celebrate the best of the software domain. Among the standout speakers was ELIXIR Estonia’s own Uku Raudvere, who delivered an insightful presentation on "The Impact of Scientific Programmers in Academia".
 
 [Continue reading](news/posts/2024/Digit2024.md)
-
-### Online course: Diving into deep learning - theory and applications with PyTorch
-
-This course will not make the participant an absolute expert in the complex and dynamic world of Deep-Learning. Still, it will aim to “break the ice” through the explaination and implementation of simple yet concrete, deep-learning models using the PyTorch library. Participants will be introduced to the basic building blocks of deep-learning models and how the main parameters are tuned and monitored to ensure the training of large models. This course is aimed at PhD students, post-docs and researchers in life sciences who already know about Machine Learning and would like to discover and start practising Deep Learning with PyTorch.
-
-Application deadline: 31 October 2024
-
-Date: 07 - 08 November 2024
-
-[Registration](https://www.sib.swiss/training/course/20241108_DEEPP) 
-
-[Continue reading](news/posts/2024/PyTorch.md)
 
 ### Virtual workshop: GPU Programming. Why. When. How
 
