@@ -63,6 +63,13 @@ On October 4th, 2024, the Digit 2024 event in Tartu brought together leaders in 
 
 [Continue reading](news/posts/2024/Digit2024.md)
 
+### Diana, ELIXIR Estonia Training coordinator, attended the ENLIGHT Teaching and Learning Conference “Innovation and Creativity in Higher Education”
+
+The fourth [ENLIGHT Teaching and Learning Conference](https://enlight-eu.org/index.php/for-educators/teaching-and-learning-conference), which was held at the University of Tartu from 7 to 9 October 2024, was themed “Innovation and Creativity in Higher Education.” Our training coordinator, Diana, attended the conference to learn about student-oriented teaching methods. 
+
+[Continue reading](news/posts/2024/ENLIGHT.md)
+
+
 ### Virtual workshop: GPU Programming. Why. When. How
 
 This workshop is based on a multilateral collaboration between GPU programming specialists from the Nordic countries. It is meant to help both software developers and decision-makers navigate the GPU programming landscape and make more informed decisions on which languages or frameworks to learn and use for their projects.
