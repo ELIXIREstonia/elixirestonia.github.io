@@ -33,8 +33,7 @@ Other partners are
 ---
 ## Autumn semester 2024 free ELIXIR courses in Estonia 
 
-* 6.11.2024 - [Version Control with Git (F2F, Tartu)](news/posts/2024/Version_control_with_Git.md) - Registration open
-* 14.11.2024 - [Getting organised with Notion (F2F, Tartu)](news/posts/2024/Notion.md) - Registration open
+* 14.11.2024 - [Getting organised with Notion (F2F, Tartu)](news/posts/2024/Notion.md)
 * 20.11.2024 - [Prompting 101 - A Beginner's Guide to Communicating with LLMs (F2F, Tartu)](news/posts/2024/prompt_generation.md) - Registration open
 
 <!---
@@ -48,20 +47,6 @@ comments
     If you would like to be notified about the events, trainings and workshops
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
-
-### Empowering Life Sciences Research: ELIXIR Estonia poster
-
-This poster offers an overview of the work done by the ELIXIR Estonian node, both current and previous. It outlines the focus of our work and provides insights into the training conducted by the node, the various tools and services developed, and collaborations with other countries. 
-
-Poster is also available for viewing in Zenodo repository: https://doi.org/10.5281/zenodo.13847963
-
-[View poster here](news/posts/2024/ELIXIR_Estonia_poster.md)
-
-### Uku Raudvere Delivers Talk on the Role of Research Software Engineers at Digit 2024
-
-On October 4th, 2024, the Digit 2024 event in Tartu brought together leaders in technology and academia to celebrate the best of the software domain. Among the standout speakers was ELIXIR Estonia’s own Uku Raudvere, who delivered an insightful presentation on "The Impact of Scientific Programmers in Academia".
-
-[Continue reading](news/posts/2024/Digit2024.md)
 
 ### Diana, ELIXIR Estonia Training coordinator, attended the ENLIGHT Teaching and Learning Conference “Innovation and Creativity in Higher Education”
 
