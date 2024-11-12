@@ -12,7 +12,7 @@ hands-on courses in the life science community on various topics.
 
 ## Free courses for the second part of the year 2024
 
-* 14.11.2024 - [Getting organised with Notion (F2F, Tartu)](https://elixir.ut.ee/news/2024/10/17/Notion/)
+* 14.11.2024 - [Getting organised with Notion (F2F, Tartu)](https://elixir.ut.ee/news/2024/10/17/Notion/) CANCELLED
 * 20.11.2024 - [Prompting 101 - A Beginner's Guide to Communicating with LLMs (F2F, Tartu)](https://elixir.ut.ee/news/2024/10/17/prompt_generation/)
 
 ## We are willing to train researchers on the following topics:

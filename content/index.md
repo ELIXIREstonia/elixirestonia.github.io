@@ -33,7 +33,7 @@ Other partners are
 ---
 ## Autumn semester 2024 free ELIXIR courses in Estonia 
 
-* 14.11.2024 - [Getting organised with Notion (F2F, Tartu)](news/posts/2024/Notion.md)
+* 14.11.2024 - [Getting organised with Notion (F2F, Tartu)](news/posts/2024/Notion.md) CANCELLED
 * 20.11.2024 - [Prompting 101 - A Beginner's Guide to Communicating with LLMs (F2F, Tartu)](news/posts/2024/prompt_generation.md) - Registration open
 
 <!---

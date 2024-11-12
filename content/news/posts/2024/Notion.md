@@ -3,7 +3,7 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: Getting organised with Notion - 14.11.2024
+title: Getting organised with Notion - 14.11.2024- CANCELLED
 draft: false
 hide:
   - toc
