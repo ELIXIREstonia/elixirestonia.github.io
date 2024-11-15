@@ -48,6 +48,13 @@ comments
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
+### Citizen Science Seminar Highlights the Need for Collaboration in Estonia
+
+On October 15, citizen science enthusiasts, researchers, and representatives from various institutions gathered in Tartu for a [seminar on advancing citizen science in Estonia](https://miks.ee/harrastusteadus/). The [Estonian Research Council](https://etag.ee/) hosted the event and attracted participants from universities, museums, government agencies, and beyond. The seminar fostered active discussions and collaboration, emphasising the importance of building and maintaining a strong network to support citizen science initiatives in the country.
+
+[Continue reading](news/posts/2024/CS_Seminar.md)
+
+
 ### Diana, ELIXIR Estonia Training coordinator, attended the ENLIGHT Teaching and Learning Conference “Innovation and Creativity in Higher Education”
 
 The fourth [ENLIGHT Teaching and Learning Conference](https://enlight-eu.org/index.php/for-educators/teaching-and-learning-conference), which was held at the University of Tartu from 7 to 9 October 2024, was themed “Innovation and Creativity in Higher Education.” Our training coordinator, Diana, attended the conference to learn about student-oriented teaching methods. 
