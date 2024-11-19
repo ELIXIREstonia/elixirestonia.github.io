@@ -33,7 +33,6 @@ Other partners are
 ---
 ## Autumn semester 2024 free ELIXIR courses in Estonia 
 
-* 14.11.2024 - [Getting organised with Notion (F2F, Tartu)](news/posts/2024/Notion.md) CANCELLED
 * 20.11.2024 - [Prompting 101 - A Beginner's Guide to Communicating with LLMs (F2F, Tartu)](news/posts/2024/prompt_generation.md) - Registration open
 
 <!---
@@ -47,6 +46,13 @@ comments
     If you would like to be notified about the events, trainings and workshops
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
+
+### Heleri and Diana Participated in the Estonian Research Council Event on Science Communication
+
+ELIXIR Estonia is delighted to share that our Data Managers, Heleri and Diana, recently attended the [Estonian Research Council’s](https://etag.ee/) event, [“Teaduskommunikatsiooni järelkasv: kust tulevad ja kuhu kaovad teaduskommunikaatorid?”](https://etag.ee/tegevused/teaduskommunikatsioon/teaduskommunikatsiooni-konverentsid/teaduskommunikatsiooni-konverents-2024/) (“The Future of Science Communication: Where Do Communicators Come From and Where Do They Go?”).
+
+[Continue reading](news/posts/2024/Sci-comm_Conference.md)
+
 
 ### Citizen Science Seminar Highlights the Need for Collaboration in Estonia
 
