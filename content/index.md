@@ -47,6 +47,13 @@ comments
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
+### ELIXIR Estonia Team Participated in the BioHackathon Europe 2024 and Finnish Nordic Computational Biology Conference
+
+ELIXIR Estonia is proud to share our active participation in two significant events during the same week: [BioHackathon Europe 2024](https://biohackathon-europe.org/) in Barcelona and [the Finnish Nordic Computational Biology (NCB) Conference](https://www.nordic-compbio.org/ncb-week) in Helsinki.
+
+[Continue reading](news/posts/2024/BH24_NCB.md)
+
+
 ### Heleri and Diana Participated in the Estonian Research Council Event on Science Communication
 
 ELIXIR Estonia is delighted to share that our Data Managers, Heleri and Diana, recently attended the [Estonian Research Council’s](https://etag.ee/) event, [“Teaduskommunikatsiooni järelkasv: kust tulevad ja kuhu kaovad teaduskommunikaatorid?”](https://etag.ee/tegevused/teaduskommunikatsioon/teaduskommunikatsiooni-konverentsid/teaduskommunikatsiooni-konverents-2024/) (“The Future of Science Communication: Where Do Communicators Come From and Where Do They Go?”).
