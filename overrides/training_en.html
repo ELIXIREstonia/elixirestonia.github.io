@@ -159,8 +159,9 @@ to our newsletter</a>. Applications are accepted manually within a few days.</p>
         "@type": "CreativeWork",
         "@id": "https://bioschemas.org/profiles/CourseInstance/1.0-RELEASE"
       },
-      "startDate": "{{ instance.start.astimezone().isoformat() }}",
-      "endDate": "{{ instance.end.astimezone().isoformat() }}",
+      {#- Custom timezone offset for TeSS to show the time in CE(S)T #}
+      "startDate": "{{ instance.start.isoformat() }}+01:00",
+      "endDate": "{{ instance.end.isoformat() }}+01:00",
       "organizer": {
         "@type": "Organization",
         "name": "{{ instance.organisation | e }}"
