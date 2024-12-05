@@ -48,7 +48,7 @@ course:
     # Specify "Learning outcomes" as a YAML list:
     outcomes:
       - Navigate RStudio features
-      - Write and execute R scripts 
+      - Write and execute R scripts
       - Manage projects efficiently within the IDE
       - Import, clean, and manipulate data
 
@@ -74,8 +74,8 @@ course:
 
   # Specify occurrences here:
   instances:
-    - start: 2024-10-02T12:00:00+03:00
-      end: 2024-10-02T17:00:00+03:00
+    - start: 2024-10-02T12:00:00
+      end: 2024-10-02T17:00:00
       organisation: ELIXIR Estonia
       maximumAttendeeCapacity: 20
       instructors:
@@ -113,15 +113,15 @@ R is a free software environment for statistical computing and graphics. It comp
 
 RStudio is an essential tool for anyone involved in R programming. It plays a vital role in data analysis by facilitating data import, access, transformation, exploration, visualization, and modeling tasks. If you're embarking on your journey to learn R, now is the perfect moment to familiarize yourself with RStudio. Discover what RStudio is, how to install it, and begin harnessing its capabilities to enhance your data analysis and programming skills.
 
-It would be beneficial to participate in [OpenRefine course](https://elixir.ut.ee/news/2024/08/22/OpenRefine_data_cleaning/), so your data would be clean before you start analysing it. 
+It would be beneficial to participate in [OpenRefine course](https://elixir.ut.ee/news/2024/08/22/OpenRefine_data_cleaning/), so your data would be clean before you start analysing it.
 
 <!-- more -->
-Suggested preparatory courses: 
+Suggested preparatory courses:
 
 * [How to make your messy data usable? / OpenRefine](https://elixir.ut.ee/news/2024/08/22/OpenRefine_data_cleaning/)
 
 
-This workshop will be followed up by:   
+This workshop will be followed up by:
 
-* Data visualisation theory 
-* Visualisation with RStudio 
+* Data visualisation theory
+* Visualisation with RStudio

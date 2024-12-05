@@ -73,8 +73,8 @@ course:
 
   # Specify occurrences here:
   instances:
-    - start: 2024-10-30T13:00:00+03:00
-      end: 2024-10-30T16:00:00+03:00
+    - start: 2024-10-30T13:00:00
+      end: 2024-10-30T16:00:00
       organisation: ELIXIR Estonia
       maximumAttendeeCapacity: 20
       instructors:
@@ -105,4 +105,4 @@ course:
 # Finally, the course description in Markdown/HTML below (as many paragraphs as needed).
 # Description will be rendered on web-page and also in TeSS JSON (as a string of HTML).
 ---
-This course introduces the basics of Markdown, a lightweight markup language used to format plain text in documents. Markdown plays a crucial role in scientific research by enabling the efficient writing of reports, code documentation, and creating well-organised research notebooks. Students will learn essential Markdown syntax throughout the course, including formatting text, adding links, images, tables, math equations, and code blocks. By integrating Markdown with Jupyter Notebook, participants can build dynamic laboratory notebooks that streamline the documentation, analysis, and sharing of research findings. 
+This course introduces the basics of Markdown, a lightweight markup language used to format plain text in documents. Markdown plays a crucial role in scientific research by enabling the efficient writing of reports, code documentation, and creating well-organised research notebooks. Students will learn essential Markdown syntax throughout the course, including formatting text, adding links, images, tables, math equations, and code blocks. By integrating Markdown with Jupyter Notebook, participants can build dynamic laboratory notebooks that streamline the documentation, analysis, and sharing of research findings.

@@ -74,8 +74,8 @@ course:
 
   # Specify occurrences here:
   instances:
-    - start: 2024-06-01T14:00:00+03:00
-      end: 2024-06-01T17:00:00+03:00
+    - start: 2024-06-01T14:00:00
+      end: 2024-06-01T17:00:00
       organisation: ELIXIR Estonia
       maximumAttendeeCapacity: 20
       instructors:

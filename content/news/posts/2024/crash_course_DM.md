@@ -29,10 +29,10 @@ course:
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register: 
+    register:
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
-    invite: 
+    invite:
 
     # Specify audience in plain-text in the language of the template:
     audience: Beginner level
@@ -71,10 +71,10 @@ course:
 
   # Specify occurrences here:
   instances:
-    - start: 2024-09-18T09:30:00+03:00
-      end: 2024-09-18T12:30:00+03:00
+    - start: 2024-09-18T09:30:00
+      end: 2024-09-18T12:30:00
       organisation: ELIXIR Estonia
-      maximumAttendeeCapacity: 
+      maximumAttendeeCapacity:
       instructors:
         - Diana Pilvar
 

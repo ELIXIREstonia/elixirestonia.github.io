@@ -34,7 +34,7 @@ course:
     register:
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
-    invite: 
+    invite:
 
     # Specify audience in plain-text in the language of the template:
     audience: Beginner level
@@ -44,7 +44,7 @@ course:
 
     # Specify "Key Topics" as a YAML list:
    # topics:
-   
+
 
     # Specify "Learning outcomes" as a YAML list:
     outcomes:
@@ -52,7 +52,7 @@ course:
       - Compare Excel and OpenRefine
       - Apply transforms (cell editing, column editing, transposing) in OpenRefine
       - Write simple expressions in OpenRefine
-      - Match your dataset with that of an external source 
+      - Match your dataset with that of an external source
 
   # Specify keywords (for metadata) as a YAML list:
   keywords:
@@ -73,8 +73,8 @@ course:
 
   # Specify occurrences here:
   instances:
-    - start: 2024-09-24T12:00:00+03:00
-      end: 2024-09-24T16:00:00+03:00
+    - start: 2024-09-24T12:00:00
+      end: 2024-09-24T16:00:00
       organisation: ELIXIR Estonia
       maximumAttendeeCapacity: 20
       instructors:

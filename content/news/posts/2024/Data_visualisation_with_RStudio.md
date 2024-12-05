@@ -51,13 +51,13 @@ course:
 
   # Specify keywords (for metadata) as a YAML list:
   keywords:
-    - Data Visualization 
-    - Data visualization 
-    - data visualization 
+    - Data Visualization
+    - Data visualization
+    - data visualization
     - Data visualisation
-    - data visualisation 
-    - RStudio 
-    - R 
+    - data visualisation
+    - RStudio
+    - R
     - ggplot2
 
   # Specify audience keywords (for metadata) as a YAML list:
@@ -75,8 +75,8 @@ course:
 
   # Specify occurrences here:
   instances:
-    - start: 2024-10-09T12:00:00+03:00
-      end: 2024-10-09T16:00:00+03:00
+    - start: 2024-10-09T12:00:00
+      end: 2024-10-09T16:00:00
       organisation: ELIXIR Estonia
       maximumAttendeeCapacity: 20
       instructors:

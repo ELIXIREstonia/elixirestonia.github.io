@@ -74,8 +74,8 @@ course:
 
   # Specify occurrences here:
   instances:
-    - start: 2024-10-23T09:00:00+03:00
-      end: 2024-10-23T15:00:00+03:00
+    - start: 2024-10-23T09:00:00
+      end: 2024-10-23T15:00:00
       organisation: ELIXIR Estonia
       maximumAttendeeCapacity: 20
       instructors:
@@ -110,6 +110,6 @@ course:
 
 This course is aimed to provide basic survival skills in Linux and the terminal environment. We will teach you how to access files and folders, move around and hopefully shake off the fear of getting stuck somewhere along the way.
 
-No prior knowledge is expected. 
+No prior knowledge is expected.
 
-Requirements: Bring your own laptop and please follow the setup tutorial: https://elixirestonia.github.io/2021-09-28-shell-novice/setup.html 
+Requirements: Bring your own laptop and please follow the setup tutorial: https://elixirestonia.github.io/2021-09-28-shell-novice/setup.html

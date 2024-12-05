@@ -34,7 +34,7 @@ course:
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
 
     # Specify audience in plain-text in the language of the template:
-    audience: 
+    audience:
 
     # Specify lecturers in plain-text in the language of the template:
     lecturers: Diana Pilvar
@@ -50,8 +50,8 @@ course:
 
   # Specify keywords (for metadata) as a YAML list:
   keywords:
-    - Data visualisation 
-    - Data Visualization 
+    - Data visualisation
+    - Data Visualization
     - data visualisation
     - Data visualization
 
@@ -70,14 +70,13 @@ course:
 
   # Specify occurrences here:
   instances:
-    - start: 2024-10-03T09:30:00+03:00
-      end: 2024-10-03T12:30:00+03:00
+    - start: 2024-10-03T09:30:00
+      end: 2024-10-03T12:30:00
       organisation: ELIXIR Estonia
       maximumAttendeeCapacity: 20
       online: Zoom, link will be given a few days before the course.
       instructors:
-        - Diana Pilvar  
-    
+        - Diana Pilvar
 
       # or TLU (Narva mnt 25):
       # onsite:
