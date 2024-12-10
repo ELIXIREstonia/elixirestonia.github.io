@@ -9,6 +9,7 @@ All slides are available on Zenodo under [community ELIXIR-Estonia](https://zeno
 
 ## Bioinformatics
 
+* Pilvar, D. (2024, November 20). __Prompting 101 - A Beginner's Guide to Communicating with LLMs.__ Zenodo. https://doi.org/10.5281/zenodo.14190264
 * Kolberg, L., & Raudvere, U. (2024, June 3). __Introduction to g:Profiler.__ Zenodo. https://doi.org/10.5281/zenodo.11207911.
 * ELIXIR Estonia (2024). __R basic__ https://github.com/ELIXIREstonia/2024-10-02-R-basic
 * ELIXIR Estonia (2024). __Shell Novice__ https://github.com/ELIXIREstonia/2024-10-23-shell-novice

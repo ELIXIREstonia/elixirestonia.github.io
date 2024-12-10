@@ -31,9 +31,9 @@ Other partners are
 **[Estonian University of Life Sciences](https://www.emu.ee/en)**.
 
 ---
-## Autumn semester 2024 free ELIXIR courses in Estonia 
+## Free Spring courses 2025
 
-* 20.11.2024 - [Prompting 101 - A Beginner's Guide to Communicating with LLMs (F2F, Tartu)](news/posts/2024/prompt_generation.md) - Registration open
+Will be announced soon
 
 <!---
 comments

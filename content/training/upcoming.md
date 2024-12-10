@@ -10,10 +10,10 @@ in Paris, and locally in Estonia. Internationally we train people how to use
 ELIXIR Estonia services in their research setting. Locally we train with
 hands-on courses in the life science community on various topics.
 
-## Free courses for the second part of the year 2024
+## Free courses for the first part of the year 2025
 
-* 14.11.2024 - [Getting organised with Notion (F2F, Tartu)](https://elixir.ut.ee/news/2024/10/17/Notion/) CANCELLED
-* 20.11.2024 - [Prompting 101 - A Beginner's Guide to Communicating with LLMs (F2F, Tartu)](https://elixir.ut.ee/news/2024/10/17/prompt_generation/)
+Will be announced soon
+
 
 ## We are willing to train researchers on the following topics:
 
@@ -27,6 +27,8 @@ hands-on courses in the life science community on various topics.
 * Nextflow
 * Tableau
 * Data visualisation (theory)
+* Markdown
+* Prompting with LLMs
 
 Data management-related training:
 
@@ -36,3 +38,4 @@ Data management-related training:
 * Licensing
 * Cleaning Messy Data with OpenRefine software
 * How to write Data Management Plan
+* Notion

@@ -36,6 +36,8 @@ hide:
 * **23.10.2024** - [Basic LINUX/Unix workshop(F2F, Tartu)](https://elixir.ut.ee/news/2024/10/01/Basic_Unix_workshop/)
 * **30.10.2024** - [Laboratory documentation with Markdown (Zoom)](https://elixir.ut.ee/news/2024/10/01/Lab_doc_Markdown/)
 * **6.11.2024** - [Version Control with Git (F2F, Tartu)](https://elixir.ut.ee/news/2024/10/01/Version_control_with_Git/)
+* **14.11.2024** - [Getting organised with Notion (F2F, Tartu)](https://elixir.ut.ee/news/2024/10/17/Notion/) CANCELLED
+* **20.11.2024** - [Prompting 101 - A Beginner's Guide to Communicating with LLMs (F2F, Tartu)](https://elixir.ut.ee/news/2024/10/17/prompt_generation/)
 
 ## 2023
 
