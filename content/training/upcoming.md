@@ -23,12 +23,13 @@ Will be announced soon
 * RStudio visualisations
 * Linux command line
 * g:Profiler toolset
-* Intro to Cytoscape
 * Nextflow
 * Tableau
 * Data visualisation (theory)
 * Markdown
 * Prompting with LLMs
+* Introduction to statistics with R
+* Exploratory data analysis
 
 Data management-related training:
 
