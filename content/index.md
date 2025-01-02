@@ -33,7 +33,8 @@ Other partners are
 ---
 ## Free Spring courses 2025
 
-Will be announced soon
+* 22.01.2025 - [Getting organised with Notion (F2F, Tartu)](news/posts/2025/Notion_22-01.md) - Registration open
+* 07.03.2025 - [Getting organised with Notion (F2F, Tartu)](news/posts/2025/Notion_07-03.md) - Registration open
 
 <!---
 comments
