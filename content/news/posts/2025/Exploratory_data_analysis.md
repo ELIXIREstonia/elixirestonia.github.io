@@ -114,3 +114,8 @@ course:
 ---
 
 Are you ready to unlock the potential of your data? This one-day workshop will introduce you to Exploratory Data Analysis (EDA)—an essential first step in any data analysis workflow. Designed for graduate-level learners without a computational background, this course will equip you with the foundational skills to summarize, visualize, and interpret data effectively. With a hands-on, beginner-friendly approach, you’ll practice these skills using real-world datasets and leave with the confidence to explore data independently.
+
+Before attending the course, please ensure you have installed on your laptop:
+
+* R https://cran.rstudio.com/
+* RStudio https://posit.co/download/rstudio-desktop/
