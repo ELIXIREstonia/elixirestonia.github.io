@@ -57,8 +57,31 @@ ELIXIR Estonia is delighted to share that our Data Managers, Heleri and Diana, r
 
 [Continue reading](news/posts/2024/Sci-comm_Conference.md)
 
-### Citizen Science Seminar Highlights the Need for Collaboration in Estonia
+### International SIB Bioinformatics Awards
 
-On October 15, citizen science enthusiasts, researchers, and representatives from various institutions gathered in Tartu for a [seminar on advancing citizen science in Estonia](https://miks.ee/harrastusteadus/). The [Estonian Research Council](https://etag.ee/) hosted the event and attracted participants from universities, museums, government agencies, and beyond. The seminar fostered active discussions and collaboration, emphasising the importance of building and maintaining a strong network to support citizen science initiatives in the country.
+Since 2008, the SIB Bioinformatics Awards acknowledge the best work by early career bioinformaticians and ground-breaking resources every other year. The awards are open to researchers from all over the world. There is something for everyone, with three categories to choose from: PhD Paper Award, Early Career Award and Innovative Resource Award. 
 
-[Continue reading](news/posts/2024/CS_Seminar.md)
+Deadline to apply: 31 January 2025.
+
+[More info](https://www.sib.swiss/bioinformatics-awards)
+
+[Continue reading](news/posts/2025/SIB_Bioinformatics_award.md)
+
+### 3 year programme for Post Docs: Data4Healthcare
+
+The aim of the Programme is to offer cutting-edge research, research training and career development for talented researchers of any nationality in fields associated with big data, data analytics, machine vision and artificial intelligence. 
+
+Application deadline: End of February
+
+[More Info](https://www.oulu.fi/en/university/faculties-and-units/biocenter-oulu/data4healthcare) 
+
+[Continue reading](news/posts/2025/Data4Healthcare.md)
+
+
+### E-Learning: Metadata in Bioinformatics
+
+Have you heard the word metadata but have no idea what it refers to, what type of content is found in metadata, how it is being used and why to use it? This asynchronous e-learning course (1h)  can be completed online, at the desired pace and in the absence of an instructor.
+
+[More info](https://www.sib.swiss/training/course/2024_MDIBI)
+
+[Continue reading](news/posts/2025/e-learning_metadata_bioinformatics.md)
