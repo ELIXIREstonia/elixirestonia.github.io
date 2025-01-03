@@ -34,7 +34,9 @@ Other partners are
 ## Free Spring courses 2025
 
 * 22.01.2025 - [Getting organised with Notion (F2F, Tartu)](news/posts/2025/Notion_22-01.md) - Registration open
+* 29.01.2025 - [Introduction to Exploratory Data Analysis (EDA) with R(F2F, Tartu)](news/posts/2025/Exploratory_data_analysis.md) - Registration open
 * 07.03.2025 - [Getting organised with Notion (F2F, Tartu)](news/posts/2025/Notion_07-03.md) - Registration open
+
 
 <!---
 comments
@@ -48,12 +50,6 @@ comments
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
-### ELIXIR Estonia Team Participated in the BioHackathon Europe 2024 and Finnish Nordic Computational Biology Conference
-
-ELIXIR Estonia is proud to share our active participation in two significant events during the same week: [BioHackathon Europe 2024](https://biohackathon-europe.org/) in Barcelona and [the Finnish Nordic Computational Biology (NCB) Conference](https://www.nordic-compbio.org/ncb-week) in Helsinki.
-
-[Continue reading](news/posts/2024/BH24_NCB.md)
-
 
 ### Heleri and Diana Participated in the Estonian Research Council Event on Science Communication
 
@@ -66,15 +62,3 @@ ELIXIR Estonia is delighted to share that our Data Managers, Heleri and Diana, r
 On October 15, citizen science enthusiasts, researchers, and representatives from various institutions gathered in Tartu for a [seminar on advancing citizen science in Estonia](https://miks.ee/harrastusteadus/). The [Estonian Research Council](https://etag.ee/) hosted the event and attracted participants from universities, museums, government agencies, and beyond. The seminar fostered active discussions and collaboration, emphasising the importance of building and maintaining a strong network to support citizen science initiatives in the country.
 
 [Continue reading](news/posts/2024/CS_Seminar.md)
-
-### Course in EBI, UK: Gene-environment interactions in human health and disease
-
-This introductory course is  aimed at MRes/PhD students, researchers, clinicians, and other professionals working in the fields of genomics, exposomics, epidemiology, or toxicology with an interest in understanding how interactions between genes and the environment underlie human phenotypes. The course will cover the underlying concepts, computational resources, and computational modelling methods available to investigate interactions between genes and the environment (including social, biological, and physical exposures). 
-
-Registration deadline: 15 December 2024
-
-Date: 17 - 21 March 2025
-
-[More Info](https://www.ebi.ac.uk/training/events/gene-environment-interactions-in-human-health-and-disease-2025/)
-
-[Continue reading](news/posts/2024/Gene-environment_interact_EMBL-EBI.md)
