@@ -57,6 +57,36 @@ ELIXIR Estonia is delighted to share that our Data Managers, Heleri and Diana, r
 
 [Continue reading](news/posts/2024/Sci-comm_Conference.md)
 
+### Webinar: Safeguarding Sensitive Information and Elevating Data Security  
+
+This workshop is ideal for anyone working with human data who wants to actively learn and develop skills in RDM and sensitive data handling.
+
+Date: 23rd & 24th January, 2025
+
+[More info](https://www.denbi.de/training-courses-2024/1826-mastering-research-data-management-for-human-data-safeguarding-sensitive-information-and-elevating-data-security)
+
+[Continue reading](news/posts/2025/RDM_sensitive_info_denbi.md)
+
+### Webinar: Extrae and Paraver: Profiling Weather and Climate Applications
+
+The course consists of a theoretical part and hands-on labs for participants to practice how to analyze an Extrae trace with Paraver. We will use a climate application as a demonstration, focusing on typical problems arising to numerical models and computational fluid dynamic applications.
+
+Date: 27 Jan 2025
+
+[More info](https://events.vsc.ac.at/event/149/)
+
+[Continue reading](news/posts/2025/Extrae_Paraver.md)
+
+### Webinar: Vistle Part I: An Introduction to Immersive Visualizations of Large-Scale Scientific Data
+
+This one-hour webinar introduces the visualization tool Vistle, which is used to create augmented reality/virtual reality visualizations of large-scale scientific datasets. It presents Vistle’s remote rendering functionality and how Vistle is being ported to GPUs as part of the CEEC project to enable visualization for exascale datasets.
+
+Date: January 29, 2025
+
+[More info](https://ceec-coe.eu/event/vistle-part-i-an-introduction-to-immersive-visualizations-of-large-scale-scientific-data/?utm_source=CSC+Customer+training+newsletter%2C+December+2024&utm_medium=newsletter&utm_campaign=)
+
+[Continue reading](news/posts/2025/Vistle.md)
+
 ### International SIB Bioinformatics Awards
 
 Since 2008, the SIB Bioinformatics Awards acknowledge the best work by early career bioinformaticians and ground-breaking resources every other year. The awards are open to researchers from all over the world. There is something for everyone, with three categories to choose from: PhD Paper Award, Early Career Award and Innovative Resource Award. 
@@ -66,6 +96,42 @@ Deadline to apply: 31 January 2025.
 [More info](https://www.sib.swiss/bioinformatics-awards)
 
 [Continue reading](news/posts/2025/SIB_Bioinformatics_award.md)
+
+### EMBL- EBI: Introduction to metabolomics analysis
+
+This course is aimed at researchers who are new to the field of metabolomics and wish to learn about the process of conducting a metabolomics study. The course will benefit those who are planning to integrate metabolomics into their work, either moving into the field or as an investigator from other -omics. We will primarily focus on a basic introduction to metabolomics with worked examples using a predesigned LC-MS analysis workflow.
+
+Application deadline: 02 February 2025
+
+Date: 20 - 23 May 2025
+
+[More info](https://www.ebi.ac.uk/training/events/introduction-to-metabolomics-analysis-2025/?utm_source=ELIXIR&utm_medium=newsletter&utm_campaign=BOL25)
+
+[Continue reading](news/posts/2025/metabolomics_analysis.md)
+
+###  Italy: BioExcel Summer School on Biomolecular Simulations 2025
+
+The annual flagship event provides a comprehensive combination of lectures and tutorial sessions on biomolecular modeling and simulations using modern applications and tools. The BioExcel School is intended primarily for PhD and post-doctoral researchers using or planning to use biomolecular modeling and simulation in their everyday research.
+
+Registration closes: 14th February 2025
+
+Dates: 8 – 13 June 2025
+
+[More info](https://bioexcel.eu/events/summer-school-on-biomolecular-simulations-2025/)
+
+[Continue reading](news/posts/2025/Bioexcel_summer_school.md)
+
+### Course in Bern, Switzerland: Long-read Sequence Analysis
+
+This course is addressed to anyone working with or interested in working with long-read data.
+
+Application deadline: 19 February 2025
+
+Date: 27 - 28 February 2025
+
+[More info](https://www.sib.swiss/training/course/20250227_LONGR)
+
+[Continue reading](news/posts/2025/long-read_sequence-analysis.md)
 
 ### 3 year programme for Post Docs: Data4Healthcare
 
