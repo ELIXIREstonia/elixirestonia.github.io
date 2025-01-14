@@ -3,7 +3,7 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: Getting organised with Notion - 22.01.2025 - Registration open
+title: Getting organised with Notion - 22.01.2025 - Waiting list
 draft: false
 hide:
   - toc
@@ -109,3 +109,5 @@ course:
 ---
 
 This course introduces scientific researchers and PhD students to Notion, a versatile and powerful tool for productivity and organisation. Participants will learn to use Notion to streamline their workflows, manage their research projects, and enhance collaboration with colleagues. By the end of the course, attendees will have a deep understanding of Notion’s features and practical strategies to integrate them into their daily routines.
+
+Course is full. You can sign up for a waiting list in case anyone cancels their attendance. 
