@@ -13,7 +13,7 @@ hands-on courses in the life science community on various topics.
 ## Free courses for the first part of the year 2025
 
 * 22.01.2025 - [Getting organised with Notion (F2F, Tartu)](https://elixir.ut.ee/news/2025/01/02/Notion_22-01/) - Waiting list available
-* 29.01.2025 - [Introduction to Exploratory Data Analysis (EDA) with R(F2F, Tartu)](https://elixir.ut.ee/news/2025/01/02/Exploratory_data_analysis/) - Registration open
+* 29.01.2025 - [Introduction to Exploratory Data Analysis (EDA) with R(F2F, Tartu)](https://elixir.ut.ee/news/2025/01/02/Exploratory_data_analysis/) - Waiting list available
 * 06.02.2025 - [Crash Course in Data Management (Online)](https://elixir.ut.ee/news/2025/01/10/Crash_course_DM_06-02/) - Registration open
 * 11.02.2025 - [Python for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2025/01/13/Python_11-02/) - Registration open
 * 18.02.2025; 25.02.2025- [Introduction to statistics with R (F2F, Tartu)](https://elixir.ut.ee/news/2025/01/13/Intro_statistics_R_18-02/) - Registration open

@@ -34,7 +34,7 @@ Other partners are
 ## Free Spring courses 2025
 
 * 22.01.2025 - [Getting organised with Notion (F2F, Tartu)](news/posts/2025/Notion_22-01.md) - Waiting list available
-* 29.01.2025 - [Introduction to Exploratory Data Analysis (EDA) with R(F2F, Tartu)](news/posts/2025/Exploratory_data_analysis.md) - Registration open
+* 29.01.2025 - [Introduction to Exploratory Data Analysis (EDA) with R(F2F, Tartu)](news/posts/2025/Exploratory_data_analysis.md) - Waiting list available
 * 06.02.2025 - [Crash Course in Data Management (Online)](news/posts/2025/Crash_course_DM_06-02.md) - Registration open
 * 11.02.2025 - [Python for beginners (F2F, Tartu)](news/posts/2025/Python_11-02.md) - Registration open
 * 18.02.2025; 25.02.2025 - [Introduction to statistics with R (F2F, Tartu)](news/posts/2025/Intro_statistics_R_18-02.md) - Registration open

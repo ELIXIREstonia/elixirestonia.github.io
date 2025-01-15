@@ -3,7 +3,7 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: Introduction to Exploratory Data Analysis (EDA) with R - 29.01.2025 - Registration OPEN
+title: Introduction to Exploratory Data Analysis (EDA) with R - 29.01.2025 - Waiting list available
 draft: false
 hide:
   - toc
@@ -113,9 +113,12 @@ course:
 # Description will be rendered on web-page and also in TeSS JSON (as a string of HTML).
 ---
 
+Course is full. You can sign up for a waiting list in case anyone cancels their attendance.
+
 Are you ready to unlock the potential of your data? This one-day workshop will introduce you to Exploratory Data Analysis (EDA)—an essential first step in any data analysis workflow. Designed for graduate-level learners without a computational background, this course will equip you with the foundational skills to summarize, visualize, and interpret data effectively. With a hands-on, beginner-friendly approach, you’ll practice these skills using real-world datasets and leave with the confidence to explore data independently.
 
 Before attending the course, please ensure you have installed on your laptop:
 
 * R https://cran.rstudio.com/
 * RStudio https://posit.co/download/rstudio-desktop/
+
