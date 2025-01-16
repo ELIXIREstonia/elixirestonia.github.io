@@ -60,11 +60,40 @@ December was a month of collaboration and significant achievements for ELIXIR Es
 
 [Continue reading](news/posts/2025/December_2024_Highlights.md)
 
-### Heleri and Diana Participated in the Estonian Research Council Event on Science Communication
+### Virtual course by EMBL-EBI: Microscopy data analysis: machine learning and the BioImage Archive
 
-ELIXIR Estonia is delighted to share that our Data Managers, Heleri and Diana, recently attended the [Estonian Research Council’s](https://etag.ee/) event, [“Teaduskommunikatsiooni järelkasv: kust tulevad ja kuhu kaovad teaduskommunikaatorid?”](https://etag.ee/tegevused/teaduskommunikatsioon/teaduskommunikatsiooni-konverentsid/teaduskommunikatsiooni-konverents-2024/) (“The Future of Science Communication: Where Do Communicators Come From and Where Do They Go?”).
+This virtual course will show how public bioimaging data resources, centred around the BioImage Archive, enable and enhance machine learning based image analysis. The content will explore a variety of data types including electron and light microscopy and miscellaneous or multi-modal imaging data at the cell and tissue scale. Participants will cover contemporary biological image analysis with an emphasis on machine learning methods, as well as how to access and use images from databases. 
 
-[Continue reading](news/posts/2024/Sci-comm_Conference.md)
+Applications close: 19 January 2025
+
+Date: 31 March - 04 April 2025
+
+[More Info](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-2025/) 
+
+[Continue reading](news/posts/2025/ML_BioImage_Archive.md)
+
+
+### Course in Italy: scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis
+
+The workshop is suitable for life scientists who are new to single cell gene expression technology data analysis. It is open to PhD and Post-Doc research scientists, as well as team leaders and PIs. This course offers a comprehensive introduction to single-cell RNA sequencing (scRNA-seq) data analysis using open-source tools, with a focus on the rCASC package. 
+
+Deadline for applications: 20th January 2025
+
+Course date: 10-12 February 2025
+
+[More Info](https://elixir-iib-training.github.io/site/2025-02-10-scRNA_seq_Workshop) 
+
+[Continue reading](news/posts/2025/scRNA_workshop.md)
+
+### Webinar: 3D-BioInfo Webinar- Infrastructure and Functional Annotations
+
+The 3D-BioInfo Community is concerned with improving the ontologies and validation tools for enabling better integration of the data and methods for analysing and predicting protein structures and their complexes. Part of this work is presented in an ongoing series of webinars
+
+Date: Mon 20 Jan 2025 - 16:00 to Mon 20 Jan 2025 - 17:00 GMT
+
+[More Info](https://elixir-europe.org/events/3d-bioinfo-webinar-infrastructure-and-functional-annotations) 
+
+[Continue reading](news/posts/2025/3D_bioinfo_infrastructure_functional_annotations.md)
 
 ### Webinar: Safeguarding Sensitive Information and Elevating Data Security  
 
@@ -106,6 +135,18 @@ Deadline to apply: 31 January 2025.
 
 [Continue reading](news/posts/2025/SIB_Bioinformatics_award.md)
 
+### EMBL- EBI virtual course: Cancer genomics and transcriptomics
+
+This course will focus on the analysis of data from genomic studies of cancer. It will also highlight the application of transcriptomic analysis and single-cell technologies in cancer. Talks and interactive sessions will give an insight into the bioinformatic concepts required to analyse such data, whilst practical sessions will enable the participants to apply statistical methods to the analysis of cancer genomics data under the guidance of the trainers.
+
+Application deadline: 09.02.2025
+
+Date: 12 - 16 May 2025
+
+[More Info](https://www.ebi.ac.uk/training/events/cancer-genomics-and-transcriptomics-2025/) 
+
+[Continue reading](news/posts/2025/cancer_genomics_transcriptomics.md)
+
 ### EMBL- EBI: Introduction to metabolomics analysis
 
 This course is aimed at researchers who are new to the field of metabolomics and wish to learn about the process of conducting a metabolomics study. The course will benefit those who are planning to integrate metabolomics into their work, either moving into the field or as an investigator from other -omics. We will primarily focus on a basic introduction to metabolomics with worked examples using a predesigned LC-MS analysis workflow.
@@ -130,6 +171,39 @@ Dates: 8 – 13 June 2025
 
 [Continue reading](news/posts/2025/Bioexcel_summer_school.md)
 
+### Webinar: Enrichment Analysis
+
+For biologists who are eager to perform functional annotation of a set of differentially expressed genes.
+
+Application deadline: 14 February 2025
+
+Date: 14 March 2025
+
+[More Info](https://www.sib.swiss/training/course/20250314_ENRIC) 
+
+[Continue reading](news/posts/2025/Enrichment_analysis.md)
+
+### Webinar: Training Clinic - Feedback & Assessment in Training Courses
+
+Uncover impactful strategies and tested methods to enhance the quality and effectiveness of your feedback processes. Whether you're an instructor or a participant, mastering feedback and assessment techniques can significantly elevate your training experience.
+
+Date: 14 February - 10:00-11:00 CET
+
+[More Info](https://www.denbi.de/training-courses-2025/1829-training-clinic-february-2025) 
+
+[Continue reading](news/posts/2025/feedback_assessment_in_training_courses.md)
+
+
+### Webinar: Maximizing the Potential of Microbial Research Data - Strategies for Effective Management and Utilization
+
+This workshop is for anyone working with microbial data, interested in active learning, and gaining skills in research data management.
+
+Date: 18th February, 2025 - 09:00 a.m. to 12:00 p.m. CET
+
+[More Info](https://www.denbi.de/training-courses-2025/1832-maximizing-the-potential-of-microbial-research-data-strategies-for-effective-management-and-utilization) 
+
+[Continue reading](news/posts/2025/microbial_research_data_management.md)
+
 ### Course in Bern, Switzerland: Long-read Sequence Analysis
 
 This course is addressed to anyone working with or interested in working with long-read data.
@@ -141,6 +215,29 @@ Date: 27 - 28 February 2025
 [More info](https://www.sib.swiss/training/course/20250227_LONGR)
 
 [Continue reading](news/posts/2025/long-read_sequence-analysis.md)
+
+### Webinar: Transforming Microbial Research Data Management with Electronic Laboratory Notebooks (ELNs)
+
+This 4 day school will guide across the various steps in Machine Learning, from the foundational concepts, through the deep learning and generative AI techniques, closely complemented by insights into the existing reporting (DOME Recommendations) and regulatory frameworks (EU AI Act).
+
+Date: 20h February, 2025 - 09:00 a.m. to 12:00 p.m. CET
+
+[More Info](https://www.denbi.de/training-courses-2025/1833-transforming-microbial-research-data-management-with-electronic-laboratory-notebooks-elns) 
+
+[Continue reading](news/posts/2025/ELNs.md)
+
+
+### Course in France: Artificial Intelligence and Machine Learning in Life Sciences- from foundations to applications
+
+This 4 day school will guide across the various steps in Machine Learning, from the foundational concepts, through the deep learning and generative AI techniques, closely complemented by insights into the existing reporting (DOME Recommendations) and regulatory frameworks (EU AI Act).
+
+Application deadline: 24.02.2025
+
+Date: May 19th 2025 - May 23rd 2025
+
+[More Info](https://moodle.france-bioinformatique.fr/course/view.php?id=34) 
+
+[Continue reading](news/posts/2025/AI_ML_life_sciences_foundations_to_applications.md)
 
 ### 3 year programme for Post Docs: Data4Healthcare
 
@@ -160,3 +257,11 @@ Have you heard the word metadata but have no idea what it refers to, what type o
 [More info](https://www.sib.swiss/training/course/2024_MDIBI)
 
 [Continue reading](news/posts/2025/e-learning_metadata_bioinformatics.md)
+
+### E-learning: Elements of Supercomputing
+
+This free online course is open for everyone interested in supercomputers and high performance computing. Level: Basic, no prerequisites or study rights to higher education institution needed. 
+
+[More info](https://csc.fi/en/training-calendar/elements-of-supercomputing/)
+
+[Continue reading](news/posts/2025/elements_of_supercomputing.md)
