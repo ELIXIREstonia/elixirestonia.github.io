@@ -39,7 +39,7 @@ course:
     invite:
 
     # Specify audience in plain-text in the language of the template:
-    audience: Biologist needing to perform statistical analyses using R.
+    audience: Biologists needing to perform statistical analyses using R.
 
     # Specify lecturers in plain-text in the language of the template:
     lecturers: Marilin Moor
