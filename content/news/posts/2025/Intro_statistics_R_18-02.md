@@ -123,17 +123,16 @@ The course will combine lectures on statistics and practical exercises, during w
 
 Topics covered during the course include: reminders about numerical and graphical summaries, and hypothesis testing; multiple testing, linear models, correlation and regression, and other topics. Participants will also have the opportunity to ask questions about the analysis of their own data.
 
-Prerequisites: To do the exercises, you are required to have your own computer with at least 4 Gb of RAM and with an internet connection, as well as the latest the version of [R](https://cran.rstudio.com/)(version 4.4.2, release date 2024-10-31) and the free version of [RStudio](https://posit.co/download/rstudio-desktop/) installed. 
+Prerequisites: To do the exercises, you are required to have your own computer with at least 4 Gb of RAM and with an internet connection, as well as the latest the version of [R](https://cran.rstudio.com/) (version 4.4.2, release date 2024-10-31) and the free version of [RStudio](https://posit.co/download/rstudio-desktop/) installed. 
 
 The course extensively covers materials from https://sib-swiss.github.io/Introduction-to-statistics-with-R/
 
 ## Requirements 
 
 Basics of RStudio IDE, basics of R: 
+
 * knows how to install packages, 
-* knows basic data operations - loading in data, 
-* fetching data from dataframe, 
-* table transformations/pipes, 
+* knows basic data operations - loading in data, fetching data from dataframe, table transformations/pipes, 
 * basic concepts of plotting - easy plotting in ggplot2 or some other plotting library
 
 Test your knowledge here: https://www.evamariakiss.de/tutorial/rquiz/quiz_fundamentals.php
