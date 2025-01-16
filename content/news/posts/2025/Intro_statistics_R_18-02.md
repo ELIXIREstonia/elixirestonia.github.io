@@ -133,6 +133,10 @@ Basics of RStudio IDE, basics of R:
 * knows basic data operations - loading in data, fetching data from dataframe, table transformations/pipes, 
 * basic concepts of plotting - easy plotting in ggplot2 or some other plotting library
 
+Test your knowledge here: https://www.evamariakiss.de/tutorial/rquiz/quiz_fundamentals.php
+
+Please note, if you get >= 50%, you are eligible for this course. Else, try to find a Basics in R course before attending this one - we provide courses in this too! Materials for that course are available here: https://github.com/ELIXIREstonia/2024-10-02-R-basic 
+
 Technical prerequisites: 
 
 To do the exercises, you are required to have 
@@ -141,6 +145,3 @@ To do the exercises, you are required to have
 * as well as the latest the version of [R](https://cran.rstudio.com/) (version 4.4.2, release date 2024-10-31)
 * the free version of [RStudio](https://posit.co/download/rstudio-desktop/) installed. 
 
-Test your knowledge here: https://www.evamariakiss.de/tutorial/rquiz/quiz_fundamentals.php
-
-Please note, if you get >= 50%, you are fit for this course. Else, try to find a Basics in R course before attending this one - we provide courses in this too! Materials for that course are available here: https://github.com/ELIXIREstonia/2024-10-02-R-basic 
