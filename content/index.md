@@ -33,7 +33,6 @@ Other partners are
 ---
 ## Free Spring courses 2025
 
-* 22.01.2025 - [Getting organised with Notion (F2F, Tartu)](news/posts/2025/Notion_22-01.md) - Waiting list available
 * 29.01.2025 - [Introduction to Exploratory Data Analysis (EDA) with R(F2F, Tartu)](news/posts/2025/Exploratory_data_analysis.md) - Waiting list available
 * 06.02.2025 - [Crash Course in Data Management (Online)](news/posts/2025/Crash_course_DM_06-02.md) - Registration open
 * 11.02.2025 - [Python for beginners (F2F, Tartu)](news/posts/2025/Python_11-02.md) - Registration open
@@ -225,19 +224,6 @@ Date: 20h February, 2025 - 09:00 a.m. to 12:00 p.m. CET
 [More Info](https://www.denbi.de/training-courses-2025/1833-transforming-microbial-research-data-management-with-electronic-laboratory-notebooks-elns) 
 
 [Continue reading](news/posts/2025/ELNs.md)
-
-
-### Course in France: Artificial Intelligence and Machine Learning in Life Sciences- from foundations to applications
-
-This 4 day school will guide across the various steps in Machine Learning, from the foundational concepts, through the deep learning and generative AI techniques, closely complemented by insights into the existing reporting (DOME Recommendations) and regulatory frameworks (EU AI Act).
-
-Application deadline: 24.02.2025
-
-Date: May 19th 2025 - May 23rd 2025
-
-[More Info](https://moodle.france-bioinformatique.fr/course/view.php?id=34) 
-
-[Continue reading](news/posts/2025/AI_ML_life_sciences_foundations_to_applications.md)
 
 ### 3 year programme for Post Docs: Data4Healthcare
 

@@ -15,7 +15,7 @@ hide:
 
 This 4 day school will guide across the various steps in Machine Learning, from the foundational concepts, through the deep learning and generative AI techniques, closely complemented by insights into the existing reporting (DOME Recommendations) and regulatory frameworks (EU AI Act).
 
-Application deadline: 24.02.2025
+Application deadline: 24.01.2025
 
 Date: May 19th 2025 - May 23rd 2025
 

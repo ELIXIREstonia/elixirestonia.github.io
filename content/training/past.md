@@ -4,6 +4,10 @@ hide:
 ---
 # Past Trainings
 
+## 2025
+
+* **22.01.2025** - [Getting organised with Notion (F2F, Tartu)](https://elixir.ut.ee/news/2025/01/02/Notion_22-01/)
+
 ## 2024
 
 * **9.02.2024** - [Python for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2024/01/09/Python_for_beginners_Tartu/)
