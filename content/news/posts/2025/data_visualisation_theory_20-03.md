@@ -3,71 +3,63 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: Introduction to Exploratory Data Analysis (EDA) with R - 29.01.2025
+title: Data visualisation (theory) - 20.03.2025 - Registration OPEN
 draft: false
 hide:
   - toc
 
 # Date of this blog post:
-date: 2025-01-02
+date: 2025-02-03
 authors:
   - Diana
 
 # These are used only for ELIXIR EE site categories, not the course keywords on TESS
 categories:
-  - workshop
-  - Exploratory Data Analysis
-  - R
   - Data visualisation
-
+  - charts
 
 # Fill in the course details:
 course:
-  name: Introduction to Exploratory Data Analysis (EDA) with R
+  name: Data visualisation (theory)
 
   # Keep this in English (used in metadata)
   provider: University of Tartu, Institute of Computer Science
   # Specify duration in hours:
-  hours: 5
+  hours: 3
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register:
+    register: https://forms.gle/y1oFQna25jxfHMBb9
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
     invite:
 
     # Specify audience in plain-text in the language of the template:
-    audience: Graduate students, early-career researchers, and anyone new to data analysis who wants to get started with EDA using R.
+    audience: researchers, PhD students, students
 
     # Specify lecturers in plain-text in the language of the template:
-    lecturers: Priit Adler
+    lecturers: Diana Pilvar
 
     # Specify "Key Topics" as a YAML list:
     topics:
 
     # Specify "Learning outcomes" as a YAML list:
     outcomes:
-      - Understand the principles and importance of EDA.
-      - Summarize datasets using descriptive statistics.
-      - Visualize trends and distributions using R, including histograms, boxplots, and scatterplots.
-      - Identify and address data issues like missing values and outliers.
-      - Interpret patterns and anomalies to guide further analysis.
+      - Choose appropriate chart types
+      - Avoid common mistakes in data visualisation
+      - Maximise data-ink ratio
 
   # Specify keywords (for metadata) as a YAML list:
   keywords:
-    - EDA
-    - Exploratory Data Analysis
-    - R
-    - workshop
-    - Data Visualisation
+    - Data visualisation
+    - Data Visualization
+    - data visualisation
+    - Data visualization
 
   # Specify audience keywords (for metadata) as a YAML list:
   audience:
     - Researchers
-    - Graduate students
-    - Post Docs
-    - PI
+    - Students
 
   # Mostly don't need to change (needed for metadata). Find more values here:
   # https://www.ebi.ac.uk/ols4/ontologies/edam/classes/http%253A%252F%252Fedamontology.org%252Ftopic_0003?lang=en
@@ -75,19 +67,17 @@ course:
     # "edam" indicates special ontology, other types not yet supported.
     - edam:
         # Specified as – code: label
-        0091: Bioinformatics
+        0092: Data visualisation
 
   # Specify occurrences here:
   instances:
-    - start: 2025-01-29T09:00:00
-      end: 2025-01-29T14:00:00
+    - start: 2025-03-20T09:30:00
+      end: 2025-03-20T12:30:00
       organisation: ELIXIR Estonia
       maximumAttendeeCapacity: 20
       instructors:
-        - Priit Adler
-      onsite:
-        building: DELTA
-        room: 2006
+        - Diana Pilvar
+      online: Zoom, link will be given a few days before the course.
 
       # or TLU (Narva mnt 25):
       # onsite:
@@ -113,12 +103,6 @@ course:
 # Description will be rendered on web-page and also in TeSS JSON (as a string of HTML).
 ---
 
-Course is full. You can sign up for a waiting list in case anyone cancels their attendance.
+Researchers often face overwhelming raw data, making it crucial to utilize data visualization effectively. This skill transforms complex datasets into clear, insightful narratives, avoiding the pitfalls of misinterpretation through poor design. In this course, we’ll explore optimal chart types for different data, engage in interactive exercises, discuss best practices, and learn about the data-ink ratio and color selection, all illustrated with practical examples.
 
-Are you ready to unlock the potential of your data? This one-day workshop will introduce you to Exploratory Data Analysis (EDA)—an essential first step in any data analysis workflow. Designed for graduate-level learners without a computational background, this course will equip you with the foundational skills to summarize, visualize, and interpret data effectively. With a hands-on, beginner-friendly approach, you’ll practice these skills using real-world datasets and leave with the confidence to explore data independently.
-
-Before attending the course, please ensure you have installed on your laptop:
-
-* R https://cran.rstudio.com/
-* RStudio https://posit.co/download/rstudio-desktop/
-
+This course will be followed up by Tableau and Microsoft Power BI courses for beginners in April. 
