@@ -131,6 +131,7 @@ to our newsletter</a>. Applications are accepted manually within a few days.</p>
 {%- endfor -%}
   ],
 {%- endif %}
+
 {%- if page.meta.course.about %}
   "about": [
 {%- for item in page.meta.course.about -%}
@@ -149,6 +150,22 @@ to our newsletter</a>. Applications are accepted manually within a few days.</p>
 {%- endfor%}
   ],
 {%- endif %}
+
+{%- if page.meta.course.externalResources %}
+  "mentions": [
+{%- for item in page.meta.course.externalResources -%}
+{%- if item.title -%}
+    {
+        "@type": "CreativeWork",
+        "name": "{{ item.title | e }}",
+        "url": "{{ item.url | e }}"
+    }
+    {%- if not loop.last %},{% endif %}
+{%- endif -%}
+{%- endfor%}
+  ],
+{%- endif %}
+
   "hasCourseInstance": [
 {%- for instance in page.meta.course.instances %}
     {
