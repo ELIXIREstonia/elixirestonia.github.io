@@ -4,32 +4,36 @@ hide:
   - navigation
   - toc
 ---
+
 # ELIXIR Estonia
+<div class="elixir-main-container">
+  <div class="elixir-main-text">
+    <p><strong>The purpose</strong> of <a href="https://www.elixir-europe.org">ELIXIR</a> is to construct and
+    operate a sustainable infrastructure for biological information in Europe to
+    support life science research and its translation to medicine and the
+    environment, the bio-industries and society. These resources include databases,
+    software tools, training materials, cloud storage and supercomputers.</p>
+    <p><strong>The goal</strong> of <a href="https://www.elixir-europe.org">ELIXIR</a> is to coordinate these
+    resources so that they form a single high quality infrastructure. This
+    coordinated infrastructure makes it easier for researchers to find and share
+    data, analyse their experiments, exchange knowledge, and agree on best
+    practices.</p>
+    <p><strong>Estonia</strong> joined <a href="https://www.elixir-europe.org">ELIXIR</a> as a full member in
+    December 2013. The Estonian node focuses on developing and maintaining software
+    tools and databases, linking of bioinformatics and biobanking, and last but not
+    least, training researchers across borders.</p>
+    <p>Estonian ELIXIR Node is led by <strong><a href="https://www.ut.ee/en">University of Tartu</a></strong>.
+    Other partners are
+    <strong><a href="https://taltech.ee/en">Tallinn University of Technology</a></strong>,
+    <strong><a href="https://kbfi.ee/?lang=en">National Institute for Physics and Biophysics</a></strong>,
+    <strong><a href="https://www.tlu.ee/en">Tallinn University</a></strong>, and
+    <strong><a href="https://www.emu.ee/en">Estonian University of Life Sciences</a></strong>.</p>
+  </div>
 
-**The purpose** of [ELIXIR](https://www.elixir-europe.org) is to construct and
-operate a sustainable infrastructure for biological information in Europe to
-support life science research and its translation to medicine and the
-environment, the bio-industries and society. These resources include databases,
-software tools, training materials, cloud storage and supercomputers.
-
-**The goal** of [ELIXIR](https://www.elixir-europe.org) is to coordinate these
-resources so that they form a single high quality infrastructure. This
-coordinated infrastructure makes it easier for researchers to find and share
-data, analyse their experiments, exchange knowledge, and agree on best
-practices.
-
-**Estonia** joined [ELIXIR](https://www.elixir-europe.org) as a full member in
-December 2013. The Estonian node focuses on developing and maintaining software
-tools and databases, linking of bioinformatics and biobanking, and last but not
-least, training researchers across borders.
-
-Estonian ELIXIR Node is led by **[University of Tartu](https://www.ut.ee/en)**.
-Other partners are
-**[Tallinn University of Technology](https://taltech.ee/en)**,
-**[National Institute for Physics and Biophysics](https://kbfi.ee/?lang=en)**,
-**[Tallinn University](https://www.tlu.ee/en)**, and
-**[Estonian University of Life Sciences](https://www.emu.ee/en)**.
-
+  <div class="elixir-main-image">
+    <img src="assets/images/elixir-map.png" alt="Map of Europe highlighting ELIXIR member countries in orange">
+  </div>
+</div>
 ---
 ## Free Spring courses 2025
 

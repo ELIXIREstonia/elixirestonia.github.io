@@ -117,3 +117,36 @@ footer section:last-child img {
 footer a, footer a:link, footer a:visited {
   text-decoration: underline;
 }
+
+.elixir-main-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-top: -1em;
+}
+
+.elixir-main-text {
+  width: 70%;
+}
+
+.elixir-main-image {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+}
+
+.elixir-main-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+@media (max-width: 768px) {
+  .elixir-main-container {
+    flex-direction: column;
+  }
+
+  .elixir-main-text, .elixir-main-image {
+    width: 100%;
+  }
+}
