@@ -72,6 +72,12 @@ course:
         # Specified as – code: label
         0091: Bioinformatics
 
+  # Optional "External resources" to be shown in TeSS under the course:
+  # Multiple items can be added; for each item the title and the url are mandatory.
+  externalResources:
+    #- title:
+    #  url:
+
   # Specify occurrences here:
   instances:
     - start: 2024-06-01T14:00:00
