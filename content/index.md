@@ -37,7 +37,6 @@ hide:
 ---
 ## Free Spring courses 2025
 
-* 11.02.2025 - [Python for beginners (F2F, Tartu)](news/posts/2025/Python_11-02.md) - Registration open
 * 18.02.2025; 25.02.2025 - [Introduction to statistics with R (F2F, Tartu)](news/posts/2025/Intro_statistics_R_18-02.md) - Registration open
 * 07.03.2025 - [Getting organised with Notion (F2F, Tartu)](news/posts/2025/Notion_07-03.md) - Registration open
 * 20.03.2025 - [Data visualisation (theory) (online)](news/posts/2025/data_visualisation_theory_20-03.md) - Registration open
@@ -55,28 +54,6 @@ comments
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
-
-### EMBL- EBI virtual course: Cancer genomics and transcriptomics
-
-This course will focus on the analysis of data from genomic studies of cancer. It will also highlight the application of transcriptomic analysis and single-cell technologies in cancer. Talks and interactive sessions will give an insight into the bioinformatic concepts required to analyse such data, whilst practical sessions will enable the participants to apply statistical methods to the analysis of cancer genomics data under the guidance of the trainers.
-
-Application deadline: 09.02.2025
-
-Date: 12 - 16 May 2025
-
-[More Info](https://www.ebi.ac.uk/training/events/cancer-genomics-and-transcriptomics-2025/) 
-
-[Continue reading](news/posts/2025/cancer_genomics_transcriptomics.md)
-
-### Course in Germany: Spring School 2025 - Bioinformatics for Lipidomics
-
-Throughout the training, attendees will explore state-of-the-art bioinformatics tools essential for Lipidomics research. They will be introduced to comprehensive lipidomics workflows, offering a clear understanding of the capabilities, challenges and limitations inherent in Lipidomics from multiple perspectives.
-
-Application Deadline: 10 February 2025
-
-Date: 24.03.2025 - 28.03.2025
-
-[More info and registration](https://www.denbi.de/training-courses-2025/1847-de-nbi-spring-school-2025-bioinformatics-for-lipidomics) 
 
 ### Online: Love Data Week Events (2025)
 
