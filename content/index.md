@@ -78,47 +78,6 @@ Courses **(~ 100 courses online)** listed include topics:
 
 [More info](https://www.icpsr.umich.edu/web/about/cms/5224)
 
-### Webinar program: OLS-NASA Nebula Program
-
-The Nebula program is designed for participants at any career stage: researchers, research-supporting staff, and people who want to integrate best practices for open and reproducible research in new or ongoing projects. It is of particular interest to individuals or teams seeking to develop or improve an Open Science strategy or Data Management plan for their research.
-
-Partial waiver deadline for registration: 12.02.2025
-
-Application Deadline: 21.02.2025
-
-[More info and registration](https://events.humanitix.com/ols-nebula)
-
-### Webinar: Single cell RNA-seq data analysis using Chipster
-
- This online hands-on course introduces single cell RNA-seq data analysis methods, tools and file formats. It covers the processing of transcript counts from quality control and filtering to dimensional reduction, clustering, and differential expression analysis. You will also learn how to do integrated analysis of two samples.
-
-Application deadline 12.2.2025
-
-Date: 4.03.2025 - 5.03.2025
-
-[More info and registration](https://csc.fi/koulutuskalenteri/single-cell-rna-seq-data-analysis-using-chipster-2/)
-
-### Course in Finland: Single cell RNA-seq data analysis using R
-
-This hands-on course introduces single-cell RNA-seq (scRNA-seq) data analysis concepts and R packages. It covers the processing of transcript counts from quality control and filtering to dimensional reduction, clustering, cell type identification and differential expression analysis.
-
-Application deadline 12.2.2025
-
-Date: 6.3.2025 - 7.3.2025
-
-[More info and registration](https://csc.fi/en/training-calendar/single-cell-rna-seq-data-analysis-using-r-3/)
-
-### Online: The latest on the RNA world - 26th Bologna Winter School
-
-The Winter School is designed to explore the latest advancements in RNA biology, with a special focus on computational approaches. Throughout the Winter School, participants will gain insights from leading experts and engage with state-of-the-art techniques for RNA analysis.
-
-Deadline for application: February 12, 2025 (or 24 hours before the lecture you are interested in)
-
-Date: February 19 - March 3, 2025
-
-[More info and registration](https://biocomp.unibo.it/~school2025/)
-
-
 ###  Italy: BioExcel Summer School on Biomolecular Simulations 2025
 
 The annual flagship event provides a comprehensive combination of lectures and tutorial sessions on biomolecular modeling and simulations using modern applications and tools. The BioExcel School is intended primarily for PhD and post-doctoral researchers using or planning to use biomolecular modeling and simulation in their everyday research.
@@ -164,6 +123,12 @@ Date: 18th February, 2025 - 09:00 a.m. to 12:00 p.m. CET
 
 [Continue reading](news/posts/2025/microbial_research_data_management.md)
 
+### 3D-BioInfo webinar: Prediction of ligands, pockets and tunnels for enzymes.
+
+Date: Tue 18 Feb 2025 - 16:00 to Tue 18 Feb 2025 - 17:00 GMT
+
+[More info and registration](https://elixir-europe.org/events/3d-bioinfo-webinar-prediction-ligands-pockets-and-tunnels-enzymes)
+
 ### Course in Bern, Switzerland: Long-read Sequence Analysis
 
 This course is addressed to anyone working with or interested in working with long-read data.
@@ -186,6 +151,16 @@ Date: 20h February, 2025 - 09:00 a.m. to 12:00 p.m. CET
 
 [Continue reading](news/posts/2025/ELNs.md)
 
+### Course in Italy: Population genomics: Background and tools
+
+Participants will learn fundamental concepts and advanced approaches to reconstruct the demographic history of populations and infer natural selection, using both classic and machine learning-based techniques. Participants will also learn the essential and advanced programming skills required to run the analyses related to the concept presented, with a special focus on machine learning.
+
+Application deadline: 24.02.2025
+
+Time: 23-29 June 2025
+
+[More info and registration](https://meetings.embo.org/event/25-pop-genomics)
+
 ### Basel Computational Biology Conference: Bioinformatics meets AI: shaping the future of data-driven biology
 
 The [BC]2 Scientific Committee is now inviting abstract submissions on biological and bioinformatics research and applications, and the development of methods and software.
@@ -193,6 +168,14 @@ The [BC]2 Scientific Committee is now inviting abstract submissions on biologica
 Submission deadline: 27.02.2025
 
 [More info](https://www.bc2.ch/news/call-for-abstract)
+
+### Webinar: Measuring the Societal Impact of Open Science
+
+This session will delve into the crucial role of Open Science in benefiting society at large. We'll explore insights from a case study on the use of French Open Science infrastructure, examining how research data and knowledge transcend academic boundaries to influence wider societal contexts.The webinar will conclude with a discussion on future directions and policy implications, offering recommendations for enhancing societal impacts through open science.
+
+Date: Feb 27, 2025
+
+[More info and registration](https://zoom.us/meeting/register/GO_9tY3jSuK6ru3gFLmy8w#/registration)
 
 ### 3 year programme for Post Docs: Data4Healthcare
 
@@ -242,6 +225,71 @@ Date: 24 - 26 June 2025
 
 [More info and registration](https://www.ebi.ac.uk/training/events/data-visualisation-biology-2025/)
 
+### Webinar: Key Impact Pathways of Open Science
+
+Part of the webinar will focus on key findings from the case study, which examines the role of the Portuguese open access publication infrastructure (RCAAP) in fostering collaboration between academia and industry. We will conclude with a discussion on future directions and policy implications for enhancing open science's impact, followed by a live Q&A session with our speakers.
+
+Date: Mar 11, 2025
+
+[More info and registration](https://zoom.us/meeting/register/QnJxK54JSyGvVZYiAVPjig#/registration)
+
+### Course at EMBL-EBI: Systems biology: from large datasets to biological insight
+
+This course is aimed at advanced PhD students, post-doctoral researchers, and non-academic scientists who are currently working with large-scale omics datasets with the aim of discerning biological function and processes. Ideal applicants should already have some experience (ideally one to two years) working with systems biology or related large-scale (multi-)omics data analyses.
+ 
+Application deadline: 16 March 2025
+
+Time: 7-11 July 2025
+
+[More info and registration](https://www.ebi.ac.uk/training/events/systems-biology-2025/)
+
+### Webinar: Exploring the Academic Impact of Open Science
+
+We will delve into key findings from a scoping review on academic impact and explore practical insights from case studies on Open Access in AI and climate – specifically focusing on gender dynamics and industry impact.
+
+Date: Mar 17, 2025
+
+[More info and registration](https://zoom.us/meeting/register/4d45vvSRRniSV8J_h0XoWw#/registration)
+
+### Online: AI in genomics: enhancing germline workflows to tackle the biggest research challenges
+
+This webcast will explore how to unlock the potential of germline research with cutting-edge advancements in AI-powered workflows, highlighting the New Generation SOPHiA DDM Platform.
+
+Date: Tuesday 18 March 2025
+
+[More info and registration](https://www.workcast.com/register?cpak=8571799855724196)
+
+### Online: Statistics and Machine Learning for Life Sciences
+
+This course was designed to guide participants in the exploration of the concepts of statistical modelling, and at the same time relate and contrast them with machine learning approaches when it comes to both classification and regression. A particular focus will be given on the evaluation of the relevance of the produced models, and their interpretation in order to provide new biological knowledge.
+
+Application deadline: 20 March 2025
+
+Time: 03 - 04 April 2025
+
+[More info and registration](https://www.sib.swiss/training/course/20250403_STAML)
+
+### Course in Sweden: Advanced Data Visualization
+
+This course is designed to help researchers in visualizing their data through various techniques using R and Quarto. Participants will learn how to create publication-ready visualisations with R. Additionally, the course also includes introductions to Quarto and dynamic plotting using tools like plotly, OJS, etc. The last day of the course includes interactive plotting that can be hosted on a web server, enabling researchers to share and explore visualizations of their data.
+
+Application deadline: 31 March 2025
+
+Time: 13 May- 15 May 2025
+
+[More info and registration](https://www.scilifelab.se/event/advanced-data-visualization/)
+
+### Czechia: 6th Hands-on Computational Enzyme Design Course
+
+Do you need to engineer your protein of interest? Do you wish to employ user-friendly one-stop-shop software tools for the design of mutations and libraries, but do not want to spend time on tedious installations or use the Unix command-line? This interactive course will provide essential theory on different areas of enzyme engineering and hands-on experience with several software tools suitable for mining new enzymes, and engineering the activity, specificity, enantioselectivity, stability, and solubility of enzymes. To remain at the cutting edge of scientific advancements, we will also explore the applications of machine learning techniques and quantum computing in enzyme design.
+
+Application deadline early bird: 31.3.2025
+
+Application deadline: 30.4.2025
+
+Date: 2 - 5 JUNE, 2025
+
+[More info and registration](https://loschmidt.chemi.muni.cz/academy/)
 
 ### E-Learning: Metadata in Bioinformatics
 
