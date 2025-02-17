@@ -55,64 +55,6 @@ comments
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
 
-### Online: Love Data Week Events (2025)
-
-ICPSR (Inter-university Consortium for Political and Social Research) is hosting Love Data Week and during that many courses are available online for everyone to join.
-
-Date: February 10-14, 2025
-
-Courses **(~ 100 courses online)** listed include topics:
-
-* Data management related courses, including licencing
-* Finding data online
-* AI
-* Data analysis: R, Python
-* Data visualisation: Tableau, Excel, Google Sheets
-* LabArchives Research ELN
-* The Ethics of Social Media Data in Research
-* Secondary Data Collection and Use
-* Qualtrics and REDCap
-* Text and Network Analysis
-* Sensitive data
-* OpenRefine
-
-[More info](https://www.icpsr.umich.edu/web/about/cms/5224)
-
-###  Italy: BioExcel Summer School on Biomolecular Simulations 2025
-
-The annual flagship event provides a comprehensive combination of lectures and tutorial sessions on biomolecular modeling and simulations using modern applications and tools. The BioExcel School is intended primarily for PhD and post-doctoral researchers using or planning to use biomolecular modeling and simulation in their everyday research.
-
-Registration closes: 14th February 2025
-
-Dates: 8 – 13 June 2025
-
-[More info](https://bioexcel.eu/events/summer-school-on-biomolecular-simulations-2025/)
-
-[Continue reading](news/posts/2025/Bioexcel_summer_school.md)
-
-### Webinar: Enrichment Analysis
-
-For biologists who are eager to perform functional annotation of a set of differentially expressed genes.
-
-Application deadline: 14 February 2025
-
-Date: 14 March 2025
-
-[More Info](https://www.sib.swiss/training/course/20250314_ENRIC) 
-
-[Continue reading](news/posts/2025/Enrichment_analysis.md)
-
-### Webinar: Training Clinic - Feedback & Assessment in Training Courses
-
-Uncover impactful strategies and tested methods to enhance the quality and effectiveness of your feedback processes. Whether you're an instructor or a participant, mastering feedback and assessment techniques can significantly elevate your training experience.
-
-Date: 14 February - 10:00-11:00 CET
-
-[More Info](https://www.denbi.de/training-courses-2025/1829-training-clinic-february-2025) 
-
-[Continue reading](news/posts/2025/feedback_assessment_in_training_courses.md)
-
-
 ### Webinar: Maximizing the Potential of Microbial Research Data - Strategies for Effective Management and Utilization
 
 This workshop is for anyone working with microbial data, interested in active learning, and gaining skills in research data management.
