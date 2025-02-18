@@ -135,7 +135,7 @@ Basics of RStudio IDE, basics of R:
 
 Test your knowledge here: https://www.evamariakiss.de/tutorial/rquiz/quiz_fundamentals.php
 
-Please note, if you get >= 50%, you are eligible for this course. Else, try to find a Basics in R course before attending this one - we provide courses in this too! Materials for that course are available here: https://github.com/ELIXIREstonia/2024-10-02-R-basic 
+Please note, if you get >= 50%, you are eligible for this course. Else, try to find a Basics in R course before attending this one - we provide courses in this too! Materials for that course are available here: https://github.com/ELIXIREstonia/2025-02-18-R-basic-stat 
 
 Technical prerequisites: 
 
