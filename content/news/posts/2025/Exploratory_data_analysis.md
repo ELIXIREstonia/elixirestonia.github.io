@@ -77,6 +77,13 @@ course:
         # Specified as – code: label
         0091: Bioinformatics
 
+# Optional "External resources" to be shown in TeSS under the course:
+  # Multiple items can be added; for each item the title and the url are mandatory.
+  externalResources:
+    - title: Materials
+      url: https://github.com/ELIXIREstonia/2025-01-29-EDA
+
+
   # Specify occurrences here:
   instances:
     - start: 2025-01-29T09:00:00
