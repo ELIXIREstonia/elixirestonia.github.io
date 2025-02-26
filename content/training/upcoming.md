@@ -12,7 +12,6 @@ hands-on courses in the life science community on various topics.
 
 ## Free courses for the first part of the year 2025
 
-* 18.02.2025; 25.02.2025- [Introduction to statistics with R (F2F, Tartu)](https://elixir.ut.ee/news/2025/01/13/Intro_statistics_R_18-02/) - Registration open
 * 07.03.2025 - [Getting organised with Notion (F2F, Tartu)](https://elixir.ut.ee/news/2025/01/02/Notion_07-03/) - Registration open
 * 20.03.2025 - [Data visualisation (theory) (online)](https://elixir.ut.ee/news/2025/02/03/data_visualisation_theory_20-03/) - Registration open
 
@@ -27,7 +26,7 @@ hands-on courses in the life science community on various topics.
 * Tableau
 * Data visualisation (theory)
 * Markdown
-* Prompting with LLMs
+* Prompting LLMs
 * Introduction to statistics with R
 * Exploratory data analysis with R
 * Version control with Git

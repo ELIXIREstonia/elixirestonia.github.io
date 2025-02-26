@@ -3,7 +3,7 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: Introduction to statistics with R - 18.02.2025 and 25.02.2025 - Registration OPEN
+title: Introduction to statistics with R - 18.02.2025 and 25.02.2025
 draft: false
 hide:
   - toc
@@ -33,7 +33,7 @@ course:
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register: https://forms.gle/h5pLNTw2HBkS5osBA
+    register:
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
     invite:

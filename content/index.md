@@ -37,7 +37,6 @@ hide:
 ---
 ## Free Spring courses 2025
 
-* 18.02.2025; 25.02.2025 - [Introduction to statistics with R (F2F, Tartu)](news/posts/2025/Intro_statistics_R_18-02.md) - Registration open
 * 07.03.2025 - [Getting organised with Notion (F2F, Tartu)](news/posts/2025/Notion_07-03.md) - Registration open
 * 20.03.2025 - [Data visualisation (theory) (online)](news/posts/2025/data_visualisation_theory_20-03.md) - Registration open
 
@@ -54,54 +53,6 @@ comments
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
-
-### Webinar: Maximizing the Potential of Microbial Research Data - Strategies for Effective Management and Utilization
-
-This workshop is for anyone working with microbial data, interested in active learning, and gaining skills in research data management.
-
-Date: 18th February, 2025 - 09:00 a.m. to 12:00 p.m. CET
-
-[More Info](https://www.denbi.de/training-courses-2025/1832-maximizing-the-potential-of-microbial-research-data-strategies-for-effective-management-and-utilization) 
-
-[Continue reading](news/posts/2025/microbial_research_data_management.md)
-
-### 3D-BioInfo webinar: Prediction of ligands, pockets and tunnels for enzymes.
-
-Date: Tue 18 Feb 2025 - 16:00 to Tue 18 Feb 2025 - 17:00 GMT
-
-[More info and registration](https://elixir-europe.org/events/3d-bioinfo-webinar-prediction-ligands-pockets-and-tunnels-enzymes)
-
-### Course in Bern, Switzerland: Long-read Sequence Analysis
-
-This course is addressed to anyone working with or interested in working with long-read data.
-
-Application deadline: 19 February 2025
-
-Date: 27 - 28 February 2025
-
-[More info](https://www.sib.swiss/training/course/20250227_LONGR)
-
-[Continue reading](news/posts/2025/long-read_sequence-analysis.md)
-
-### Webinar: Transforming Microbial Research Data Management with Electronic Laboratory Notebooks (ELNs)
-
-This 4 day school will guide across the various steps in Machine Learning, from the foundational concepts, through the deep learning and generative AI techniques, closely complemented by insights into the existing reporting (DOME Recommendations) and regulatory frameworks (EU AI Act).
-
-Date: 20h February, 2025 - 09:00 a.m. to 12:00 p.m. CET
-
-[More Info](https://www.denbi.de/training-courses-2025/1833-transforming-microbial-research-data-management-with-electronic-laboratory-notebooks-elns) 
-
-[Continue reading](news/posts/2025/ELNs.md)
-
-### Course in Italy: Population genomics: Background and tools
-
-Participants will learn fundamental concepts and advanced approaches to reconstruct the demographic history of populations and infer natural selection, using both classic and machine learning-based techniques. Participants will also learn the essential and advanced programming skills required to run the analyses related to the concept presented, with a special focus on machine learning.
-
-Application deadline: 24.02.2025
-
-Time: 23-29 June 2025
-
-[More info and registration](https://meetings.embo.org/event/25-pop-genomics)
 
 ### Basel Computational Biology Conference: Bioinformatics meets AI: shaping the future of data-driven biology
 
