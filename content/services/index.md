@@ -11,6 +11,18 @@ hide:
       min-height: 100%;
       align-items: stretch;
     }
+
+    .tool-tiles-row {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between; /* space out evenly */
+      margin-bottom: 120px;
+    }
+    
+    .tool-tile-wrapper {
+      flex: 1;
+      min-width: 300px; /* prevent too small tiles */
+    }
   }
 </style>
 
@@ -53,11 +65,22 @@ The Estonian ELIXIR node offers various data analysis services and tools for the
 <tool-tile description="Coronavirus in Estonia" doi="https://www.nature.com/articles/s41591-020-0929-x" href="https://koroona.ut.ee/?lang=en" name="koroona.ut.ee" src="/assets/images/tools/koroona.png" tags="COVID-19"></tool-tile>
 </div>
 
-
-### In collaboration with <a href="https://kauralasoo.github.io">Alasoo Group</a>
-<div class="tool-tiles" style="width: 50%;">
+<div class="tool-tiles-row">
+<div class="tool-tile-wrapper">
+<h3>In collaboration with <a href="https://kauralasoo.github.io">Alasoo Group</a></h3>
+<div class="tool-tiles">
 <tool-tile description="a front end for the eQTL Catalogue" doi="https://www.nature.com/articles/s41588-021-00924-w" href="https://elixir.ut.ee/eqtl/" name="eQTL Catalogue Browser" src="/assets/images/tools/eqtl.png" tags="gene expression, splicing, QTL"></tool-tile>
 </div>
+</div>
+<div class="tool-tile-wrapper">
+<h3>In collaboration with <a href="https://kogermannlab.com/">Pharmaceutical R&D Laboratory</a></h3>
+<div class="tool-tiles">
+<tool-tile description="a tool for automatic fiber diameter measuring from SEM images" doi="" href="https://fibar.elixir.ut.ee/" name="FiBar" src="/assets/images/tools/fibar.png" tags="diameter measuring, SEM"></tool-tile>
+</div>
+</div>
+</div>
+
+
 
 ### In collaboration with <a href="https://www.sanger.ac.uk/group/parts-group/">Parts Group</a> from <a href="https://www.sanger.ac.uk">Wellcome Sanger Institute</a>
 
