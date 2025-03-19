@@ -3,7 +3,7 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: Getting organised with Notion - 07.03.2025 - Registration open
+title: Getting organised with Notion - 07.03.2025
 draft: false
 hide:
   - toc
@@ -30,7 +30,7 @@ course:
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register: https://forms.gle/YSXUvsxeZibX5v6T9
+    register:
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
     invite:

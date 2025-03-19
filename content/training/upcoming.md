@@ -12,7 +12,6 @@ hands-on courses in the life science community on various topics.
 
 ## Free courses for the first part of the year 2025
 
-* 07.03.2025 - [Getting organised with Notion (F2F, Tartu)](https://elixir.ut.ee/news/2025/01/02/Notion_07-03/) - Registration open
 * 20.03.2025 - [Data visualisation (theory) (online)](https://elixir.ut.ee/news/2025/02/03/data_visualisation_theory_20-03/) - Registration open
 
 ## We are willing to train researchers on the following topics:
