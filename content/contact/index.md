@@ -13,7 +13,6 @@ hide:
 
 **Information enquiries**: elixir@ut.ee <br>
 **Technical support**: elixir.support@ut.ee <br>
-**Phone**: +372 737 6437
 
 
 ### LOCATION

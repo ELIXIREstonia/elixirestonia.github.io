@@ -159,7 +159,7 @@ lähenemisi, et saada teadmisi ja sügavamat arusaamist struktureeritud ja
 struktureerimata andmetest. Peamiselt tegeletakse andmekaeve ja suurandmetega
 (_big data_).
 
-### _Data steward (DS)_ – **andmespetsialist**
+### _Data steward (DS)_ – **andmehalduse spetsialist**
 Organisatsioonis inimene, kes vastutab organisatsiooni andmete üldise halduse
 eest (andmete kvaliteet, kasutatavus, eesmärkidele vastavus).
 
