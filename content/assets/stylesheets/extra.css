@@ -1,23 +1,24 @@
 :root {
-  --md-primary-fg-color: #0c3450ff;
-  --md-primary-fg-color--light: #0c3450ff;
-  --md-primary-fg-color--dark: #0c3450ff;
+  --md-primary-fg-color: #023452;
+  --md-primary-fg-color--light: #023452;
+  --md-primary-fg-color--dark: #023452;
   --md-primary-bg-color: #fff;
   --md-primary-bg-color--light: #ffffffb3;
 
-  --md-accent-fg-color: #5e8bde;
+  --md-accent-fg-color: #f47d20;
   --md-accent-fg-color--transparent: #eb83391a;
   --md-accent-bg-color: #fff;
   --md-accent-bg-color--light:#ffffffb3;
-  --md-typeset-a-color: #5e8bde;
+  --md-typeset-color: #636363;
+  --md-typeset-a-color: #047eaa;
 }
 
 :root, [data-md-color-scheme=default] {
   --md-footer-fg-color: #fff;
   --md-footer-fg-color--light: #fff;
   --md-footer-fg-color--lighter: #fff;
-  --md-footer-bg-color: #023452ff;
-  --md-footer-bg-color--dark: #023452ff;
+  --md-footer-bg-color: #4d4848;
+  --md-footer-bg-color--dark: #4d4848;
 }
 
 .md-container .md-tabs__link {
