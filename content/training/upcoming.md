@@ -12,7 +12,8 @@ hands-on courses in the life science community on various topics.
 
 ## Free courses for the first part of the year 2025
 
-* 20.03.2025 - [Data visualisation (theory) (online)](https://elixir.ut.ee/news/2025/02/03/data_visualisation_theory_20-03/) - Registration open
+* 15.04.2024 [Viiba koostamine suure keelemudeli jaoks (majandusteaduskonna töötajatele)](news/posts/2025/viiba_koostamine_majandusteaduskond.md) - Invitation only
+
 
 ## We are willing to train researchers on the following topics:
 

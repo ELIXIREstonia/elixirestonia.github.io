@@ -12,6 +12,7 @@ hide:
 * **11.02.2025** - [Python for beginners (F2F, Tartu)](https://elixir.ut.ee/news/2025/01/13/Python_11-02/)
 * **18.02.2025; 25.02.2025** - [Introduction to statistics with R (F2F, Tartu)](https://elixir.ut.ee/news/2025/01/13/Intro_statistics_R_18-02/)
 * **07.03.2025** - [Getting organised with Notion (F2F, Tartu)](https://elixir.ut.ee/news/2025/01/02/Notion_07-03/)
+* **20.03.2025** - [Data visualisation (theory) (online)](https://elixir.ut.ee/news/2025/02/03/data_visualisation_theory_20-03/)
 
 ## 2024
 

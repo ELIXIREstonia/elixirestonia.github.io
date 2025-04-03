@@ -37,7 +37,7 @@ hide:
 ---
 ## Free Spring courses 2025
 
-* 20.03.2025 - [Data visualisation (theory) (online)](news/posts/2025/data_visualisation_theory_20-03.md) - Registration open
+* 15.04.2024 [Viiba koostamine suure keelemudeli jaoks (majandusteaduskonna töötajatele)](news/posts/2025/viiba_koostamine_majandusteaduskond.md) - Invitation only
 
 
 <!---
@@ -53,37 +53,123 @@ comments
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
 
-### Online: Statistics and Machine Learning for Life Sciences
+### Sweden: RaukR 2025 • R Beyond the Basics
 
-This course was designed to guide participants in the exploration of the concepts of statistical modelling, and at the same time relate and contrast them with machine learning approaches when it comes to both classification and regression. A particular focus will be given on the evaluation of the relevance of the produced models, and their interpretation in order to provide new biological knowledge.
+This workshop is aimed at both Ph.D. students and researchers within life sciences who are already using R for bioinformatics data analyses and who would like to start using R at a more advanced level.
 
-Application deadline: 20 March 2025
+Application deadline: 6th of April 2025
 
-Time: 03 - 04 April 2025
+Date: 09-19 June 2025
 
-[More info and registration](https://www.sib.swiss/training/course/20250403_STAML)
+[More info](https://nbisweden.github.io/raukr-2025/)
 
-### Course in Sweden: Advanced Data Visualization
+### Webinar: Microbial community / environmental DNA analysis with Chipster
 
-This course is designed to help researchers in visualizing their data through various techniques using R and Quarto. Participants will learn how to create publication-ready visualisations with R. Additionally, the course also includes introductions to Quarto and dynamic plotting using tools like plotly, OJS, etc. The last day of the course includes interactive plotting that can be hosted on a web server, enabling researchers to share and explore visualizations of their data.
+This online hands-on course focuses on amplicon based community analysis methods. They are introduced using microbial communities as an example, but the methods are applicable to environmental DNA (eDNA) studies of other organisms as well.
 
-Application deadline: 31 March 2025
+Date: 8.4.2025 - 9.4.2025
 
-Time: 13 May- 15 May 2025
+[More info](https://csc.fi/en/training-calendar/microbial-community-analysis-with-chipster/)
 
-[More info and registration](https://www.scilifelab.se/event/advanced-data-visualization/)
+### Webinar: Bioexcel webinar #85: Modelling antibodies in the post-Alphafold era: where are we now?
 
-### Czechia: 6th Hands-on Computational Enzyme Design Course
+In this talk it will be discussed when and how it is possible to obtain accurate structural predictions of these proteins and their complexes. We will demonstrate how integrating experimental data with AI-driven modeling within the BioExcel flagship software HADDOCK  improves prediction accuracy. Such models can then be used as a starting point for improving the binding properties of the complexes through antibody design.
 
-Do you need to engineer your protein of interest? Do you wish to employ user-friendly one-stop-shop software tools for the design of mutations and libraries, but do not want to spend time on tedious installations or use the Unix command-line? This interactive course will provide essential theory on different areas of enzyme engineering and hands-on experience with several software tools suitable for mining new enzymes, and engineering the activity, specificity, enantioselectivity, stability, and solubility of enzymes. To remain at the cutting edge of scientific advancements, we will also explore the applications of machine learning techniques and quantum computing in enzyme design.
+Date: 8.4.2025
 
-Application deadline early bird: 31.3.2025
+[More info](https://csc.fi/koulutuskalenteri/bioexcel-webinar-85-modelling-antibodies-in-the-post-alphafold-era-where-are-we-now/)
 
-Application deadline: 30.4.2025
 
-Date: 2 - 5 JUNE, 2025
+### Webinar: DataVis Masterclass
 
-[More info and registration](https://loschmidt.chemi.muni.cz/academy/)
+The 15th international meeting on 'Visualizing Biological Data' (VIZBI 2025) takes place 8–11 April in Cambridge UK — and [streamed online](https://www.datavismasterclass.org/uk/cambridge). The meeting features a one-day masterclass training event followed by a three-day workshop.
+
+[More info](https://vizbi.org/2025)
+
+### Webinar: PathOS Training Session: Cost Benefit Analysis Framework for Open Science
+
+Join us for a webinar on the Cost Benefit Analysis (CBA) Framework for Open Science, part of the PathOS training series. The session will explore the key elements of the CBA framework, focusing on how it compares scenarios with and without Open Science implementation to assess its true benefits and costs, including insights from application in the real-world Open Science contexts.
+
+Date: Apr 10, 2025
+
+[More info](https://zoom.us/meeting/register/OxgQrFsVSPqkLSrQ1Xn2NA#/registration)
+
+### Switzerland: Introduction to Bayesian Statistics with R
+
+This course is intended for life scientists familiar with statistical inference and who would like to add the Bayesian perspective to enrich their research.
+
+Materials: https://sib-swiss.github.io/intro-bayesian-statistics-training/website/a.html
+
+Application deadline: 14 April 2025
+
+Date: 05 - 06 May 2025
+
+[More info](https://www.sib.swiss/training/course/20250505_IBAYE)
+
+### Webinar: PathOS Training Session: Open Science Impact Indicator Handbook, Tools and Data
+
+Join us for a webinar on the Open Science Impact Indicator Handbook, part of the PathOS training series. This session will explore the causal perspective on Open Science impacts, focusing on academic, societal, and economic effects. The webinar will cover the handbook’s role in operationalizing indicators and addressing causal inference challenges. Additionally, it will provide an overview of tools and data for measuring Open Science impact, including metrics like citations, data usage, and cost savings.
+
+Date: Apr 14, 2025
+
+[More info](https://zoom.us/meeting/register/fSOpEWpFQ3KjQDuvXwMObQ#/registration)
+
+
+### Webinar: X-omics festival 2025​
+
+Date: 14 April 2025
+
+[More info](https://www.aanmelder.nl/x-omicsfestival2025/registration)
+
+
+
+### Sweden: ENLIGHT Teaching and Learning Conference - Playfulness for the Future of Higher Education.
+
+The students and staff can present their proposals for the fifth ENLIGHT Teaching and Learning Conference that will take place at Uppsala University from 8 to 10 October 2025.
+The ENLIGHT Teaching and Learning Conference is an annual event that convenes teaching staff, programme directors, educational developers, students, and other stakeholders. Participants are invited to share their experiences and ideas on how to connect innovative teaching and learning practices with the ENLIGHT educational goals.
+
+Presentation submission deadline: 15 April 2025
+
+University of Tartu can cover the travel costs of 20 staff members and students. The audience registration will open in May.
+
+[More info](https://ut.ee/en/news/enlight-teaching-and-learning-conference-call-proposals-open-until-15-april)
+
+
+### Webinar: Training Clinic - Handling Difficult Situations in Training Courses
+
+Discover effective strategies and proven techniques to navigate and manage challenges that arise during training sessions. Whether you're an instructor facing unexpected obstacles or a participant aiming to contribute positively, mastering these skills can greatly enhance the overall training experience. Don't miss this opportunity to learn how to maintain a constructive and supportive environment, ensuring a smooth and successful learning journey for everyone involved!
+
+Date: 15th of April 2025
+
+[More info](https://events.hifis.net/event/2380/overview)
+
+### Online: LLMs in bioinformatics Q&A session
+
+Date: 16 April 2025
+
+[More info](https://www.ebi.ac.uk/training/events/llms-bioinformatics-qa-session/)
+
+### Belgium: Machine learning and AI Summer School
+
+Our summer school will delve into four pioneering topics: Protein Language Models, Spatial Omics Data Analysis, Data Integration and LLMs, Deep Learning for Protein Structures Prediction
+
+Submission closing date: Tuesday, 29 April, 2025
+
+Date: August 24th, 2025- August 29th, 2025
+
+[More info](https://www.vibconferences.be/events/machine-learning-and-ai-summer-school#oc)
+
+
+### Switzerland: Introduction to Metagenomics Data Analysis of Microbial Communities
+
+This course will cover the metagenomics data analysis workflow from data generation to downstream analysis. Participants will explore the tools to manage, share, analyze and interpret metagenomics data. The content will include issues of data quality control and how to process the data until publication.Both targeted marker-gene (e.g., 16S) and whole-genome shotgun (WGS) approaches will be covered. Discussions will also explore considerations when selecting the sequencing options (long or short reads), exploring targeted data to OTUs or ASVs, assembling and binning metagenomics data, the analyses that can be carried out, and what downstream analyses options and tools are available.
+
+Application deadline: 30 April 2025
+
+Date: 07 - 09 May 2025
+
+[More info](https://www.sib.swiss/training/course/20250507_MEMIC)
+
 
 ### E-Learning: Metadata in Bioinformatics
 

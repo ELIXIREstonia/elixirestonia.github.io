@@ -3,24 +3,25 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: Data visualisation (theory) - 20.03.2025
+title: Viiba koostamine suure keelemudeli jaoks (majandusteaduskonna töötajatele) - 15.04.2025
 draft: false
 hide:
   - toc
 
 # Date of this blog post:
-date: 2025-02-03
+date: 2024-04-03
 authors:
   - Diana
 
 # These are used only for ELIXIR EE site categories, not the course keywords on TESS
 categories:
-  - Data visualisation
-  - charts
+  - workshop
+  - prompting
+  - ChatGPT
 
 # Fill in the course details:
 course:
-  name: Data visualisation (theory)
+  name: Viiba koostamine suure keelemudeli jaoks (majandusteaduskonna töötajatele)
 
   # Keep this in English (used in metadata)
   provider: University of Tartu, Institute of Computer Science
@@ -29,37 +30,45 @@ course:
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register:
+    #register: https://forms.gle/vq6DgsoWK12F3ETB8
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
-    invite:
+    invite: Can attend only with an invite
 
     # Specify audience in plain-text in the language of the template:
-    audience: researchers, PhD students, students
+    audience: Tartu Ülikooli Majandusteaduskonna õppejõud
 
     # Specify lecturers in plain-text in the language of the template:
     lecturers: Diana Pilvar
 
     # Specify "Key Topics" as a YAML list:
     topics:
+      - Vestlusroboti kasutusjuhud
+      - Viiba osad
+      - Praktilised harjutused
+      - Keerulisemate viipade kirjutamine
+      - Suurte keelemudelite võrdlus
+      - Tekstirobotite puudused
+      - Juhised ja seadusandlus
 
     # Specify "Learning outcomes" as a YAML list:
     outcomes:
-      - Choose appropriate chart types
-      - Avoid common mistakes in data visualisation
-      - Maximise data-ink ratio
+     - Kirjutada selgeid ja täpseid viipasid
+     - Anda viipadele sobiv kontekst, parandades tekstirobotite vastuste täpsust
+     - Rakendada meta-viipasid
+     - Tuua näiteid suurte keelemudelite kasutusjuhtudest igapäevaelus
+     - Selgitada tekstirobotite puudusi
 
   # Specify keywords (for metadata) as a YAML list:
   keywords:
-    - Data visualisation
-    - Data Visualization
-    - data visualisation
-    - Data visualization
+    - prompting
+    - ChatGPT
+    - LLM 
 
   # Specify audience keywords (for metadata) as a YAML list:
   audience:
     - Researchers
-    - Students
+    - Beginner
 
   # Mostly don't need to change (needed for metadata). Find more values here:
   # https://www.ebi.ac.uk/ols4/ontologies/edam/classes/http%253A%252F%252Fedamontology.org%252Ftopic_0003?lang=en
@@ -67,17 +76,26 @@ course:
     # "edam" indicates special ontology, other types not yet supported.
     - edam:
         # Specified as – code: label
-        0092: Data visualisation
+         3474: Machine learning
+         0218: Natural language processing
+
+  # Optional "External resources" to be shown in TeSS under the course:
+  # Multiple items can be added; for each item the title and the url are mandatory.
+  externalResources:
+    #- title:
+    #  url:
 
   # Specify occurrences here:
   instances:
-    - start: 2025-03-20T09:30:00
-      end: 2025-03-20T12:30:00
+    - start: 2025-04-15T09:00:00
+      end: 2025-04-15T12:00:00
       organisation: ELIXIR Estonia
-      maximumAttendeeCapacity: 20
+      maximumAttendeeCapacity: 26
       instructors:
         - Diana Pilvar
-      online: Zoom, link will be given a few days before the course.
+      onsite:
+        building: DELTA
+        room: 2040
 
       # or TLU (Narva mnt 25):
       # onsite:
@@ -103,6 +121,4 @@ course:
 # Description will be rendered on web-page and also in TeSS JSON (as a string of HTML).
 ---
 
-Researchers often face overwhelming raw data, making it crucial to utilize data visualization effectively. This skill transforms complex datasets into clear, insightful narratives, avoiding the pitfalls of misinterpretation through poor design. In this course, we’ll explore optimal chart types for different data, engage in interactive exercises, discuss best practices, and learn about the data-ink ratio and color selection, all illustrated with practical examples.
-
-This course will be followed up by Tableau and Microsoft Power BI courses for beginners in April. 
+See kursus tutvustab teile suurte keelemudelite kasutamise aluseid. Saame teada, miks vestlusrobotid muutuvad järjest olulisemaks ja kuidas oskuslik juhendamine võib oluliselt vähendada tööaega. Praktiliste harjutuste kaudu saate kogemusi täpsete juhiste koostamisel, suurendades oma võimalusi kasutada tekstiroboteid erinevate ülesannete jaoks.
