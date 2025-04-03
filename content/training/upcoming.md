@@ -12,7 +12,7 @@ hands-on courses in the life science community on various topics.
 
 ## Free courses for the first part of the year 2025
 
-* 15.04.2024 [Viiba koostamine suure keelemudeli jaoks (majandusteaduskonna töötajatele)](news/posts/2025/viiba_koostamine_majandusteaduskond.md) - Invitation only
+* 15.04.2024 [Viiba koostamine suure keelemudeli jaoks (majandusteaduskonna töötajatele)](https://elixir.ut.ee/news/2024/04/03/viiba_koostamine_majandusteaduskond/) - Invitation only
 
 
 ## We are willing to train researchers on the following topics:

@@ -1,6 +1,6 @@
 ---
 # For trainings in Estonian language use template: training_et.html
-template: training_en.html
+template: training_et.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
 title: Viiba koostamine suure keelemudeli jaoks (majandusteaduskonna töötajatele) - 15.04.2025
@@ -33,7 +33,7 @@ course:
     #register: https://forms.gle/vq6DgsoWK12F3ETB8
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
-    invite: Can attend only with an invite
+    invite: Osaleda saab ainult UT majandusteaduskonna kutsel
 
     # Specify audience in plain-text in the language of the template:
     audience: Tartu Ülikooli Majandusteaduskonna õppejõud
