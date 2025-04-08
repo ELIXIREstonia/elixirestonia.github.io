@@ -53,6 +53,12 @@ comments
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
 
+### Not professorware - g:Profiler turns 18 and helps thousands of researchers yearly!
+
+g:Profiler, a popular gene list analysis tool, celebrates 18 years since its first publication in [Nucleic Acids Research](https://doi.org/10.1093/nar/gkm226). What began as a student project has become a globally cited resource, with its [2019 update article](https://doi.org/10.1093/nar/gkz369) now surpassing 5,000 citations — a testament to its lasting impact in life sciences.
+
+[More info](https://elixir.ut.ee/news/2025/04/08/g%3AProfiler_5K/)
+
 ### Sweden: RaukR 2025 • R Beyond the Basics
 
 This workshop is aimed at both Ph.D. students and researchers within life sciences who are already using R for bioinformatics data analyses and who would like to start using R at a more advanced level.
