@@ -38,6 +38,7 @@ hide:
 ## Free Spring courses 2025
 
 * 15.04.2024 [Viiba koostamine suure keelemudeli jaoks (majandusteaduskonna töötajatele)](news/posts/2025/viiba_koostamine_majandusteaduskond.md) - Invitation only
+* 23.-29.04.2025 [Statistics for Life Sciences in R Course](https://www.elixir-czech.cz/events/statistics-for-life-sciences-in-r-course) - Invitation only
 
 
 <!---
@@ -53,6 +54,7 @@ comments
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
 
 
+<<<<<<< ours
 ### Not professorware - g:Profiler turns 18 and helps thousands of researchers yearly!
 
 g:Profiler, a popular gene list analysis tool, celebrates 18 years since its first publication in [Nucleic Acids Research](https://doi.org/10.1093/nar/gkm226). What began as a student project has become a globally cited resource, with its [2019 update article](https://doi.org/10.1093/nar/gkz369) now surpassing 5,000 citations — a testament to its lasting impact in life sciences.
@@ -67,6 +69,8 @@ Application deadline: 6th of April 2025
 
 Date: 09-19 June 2025
 
+=======
+>>>>>>> theirs
 [More info](https://nbisweden.github.io/raukr-2025/)
 
 ### Webinar: Microbial community / environmental DNA analysis with Chipster

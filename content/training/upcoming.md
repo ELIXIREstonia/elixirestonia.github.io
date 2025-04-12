@@ -13,6 +13,7 @@ hands-on courses in the life science community on various topics.
 ## Free courses for the first part of the year 2025
 
 * 15.04.2024 [Viiba koostamine suure keelemudeli jaoks (majandusteaduskonna töötajatele)](https://elixir.ut.ee/news/2024/04/03/viiba_koostamine_majandusteaduskond/) - Invitation only
+* * 23.-29.04.2025 [Statistics for Life Sciences in R Course](https://www.elixir-czech.cz/events/statistics-for-life-sciences-in-r-course) - Invitation only
 
 
 ## We are willing to train researchers on the following topics:
