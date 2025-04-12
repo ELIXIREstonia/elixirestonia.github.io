@@ -60,38 +60,6 @@ g:Profiler, a popular gene list analysis tool, celebrates 18 years since its fir
 
 [More info](https://elixir.ut.ee/news/2025/04/08/g%3AProfiler_5K/)
 
-
-### Webinar: Microbial community / environmental DNA analysis with Chipster
-
-This online hands-on course focuses on amplicon based community analysis methods. They are introduced using microbial communities as an example, but the methods are applicable to environmental DNA (eDNA) studies of other organisms as well.
-
-Date: 8.4.2025 - 9.4.2025
-
-[More info](https://csc.fi/en/training-calendar/microbial-community-analysis-with-chipster/)
-
-### Webinar: Bioexcel webinar #85: Modelling antibodies in the post-Alphafold era: where are we now?
-
-In this talk it will be discussed when and how it is possible to obtain accurate structural predictions of these proteins and their complexes. We will demonstrate how integrating experimental data with AI-driven modeling within the BioExcel flagship software HADDOCK  improves prediction accuracy. Such models can then be used as a starting point for improving the binding properties of the complexes through antibody design.
-
-Date: 8.4.2025
-
-[More info](https://csc.fi/koulutuskalenteri/bioexcel-webinar-85-modelling-antibodies-in-the-post-alphafold-era-where-are-we-now/)
-
-
-### Webinar: DataVis Masterclass
-
-The 15th international meeting on 'Visualizing Biological Data' (VIZBI 2025) takes place 8–11 April in Cambridge UK — and [streamed online](https://www.datavismasterclass.org/uk/cambridge). The meeting features a one-day masterclass training event followed by a three-day workshop.
-
-[More info](https://vizbi.org/2025)
-
-### Webinar: PathOS Training Session: Cost Benefit Analysis Framework for Open Science
-
-Join us for a webinar on the Cost Benefit Analysis (CBA) Framework for Open Science, part of the PathOS training series. The session will explore the key elements of the CBA framework, focusing on how it compares scenarios with and without Open Science implementation to assess its true benefits and costs, including insights from application in the real-world Open Science contexts.
-
-Date: Apr 10, 2025
-
-[More info](https://zoom.us/meeting/register/OxgQrFsVSPqkLSrQ1Xn2NA#/registration)
-
 ### Switzerland: Introduction to Bayesian Statistics with R
 
 This course is intended for life scientists familiar with statistical inference and who would like to add the Bayesian perspective to enrich their research.
@@ -168,6 +136,92 @@ Date: 07 - 09 May 2025
 
 [More info](https://www.sib.swiss/training/course/20250507_MEMIC)
 
+
+### Netherlands, Estonia, Germany: AIProHealth: Data Science and AI in Health Summer School
+
+Explore the cutting edge of Artificial Intelligence in healthcare. Create solutions that drive the next generation of healthcare innovation in this practical, hands-on programme.
+
+Application deadline: 4th May Netherlands, 25th May Estonia and Germany
+
+[More info](https://eithealth.eu/programmes/aiprohealth/)
+
+### Switzerland: Using Large Language Models for Biodata Exploration: From Theory to Practice
+
+This one-day course will give a gentle introduction into LLMs, going from theoretical concepts towards practical, hands-on experience interacting with LLMs for exploring biodata through a series of exercises provided in Jupyter Notebooks. These will include programmatically interacting with an LLM to construct a simple Retrieval Augmented Generation (RAG) application for answering biological questions using existing SIB resources.
+
+Application deadline: 05 May 2025
+
+Date: 19th of May 2025
+
+[More info](https://www.sib.swiss/training/course/20250519_USLLM)
+
+### Online: Galaxy Training Academy 2025
+
+The Galaxy Training Academy is a self-paced online training event for beginners and advanced learners who want to improve their Galaxy data analysis skills. Over the course of one week, we offer a diverse selection of learning track. Program includes introduction to Galaxy, FAIR training, separate course tracks for proteomics, assembly, transcriptomics, single cell, microbiome, machine learning and Python.
+
+Registration deadline: 8th May 2025
+
+Date: 12-16 May 2025
+
+[More info](https://training.galaxyproject.org/training-material/events/2025-05-12-galaxy-academy-2025.html)
+
+
+### Webinar: Gene Expression made Useful Easily: Tools and Database of Bgee
+
+This course is addressed to life scientists who need to retrieve curated gene expression, obtain expression-based knowledge on genes of interest, or compare expression between genes and between species.
+
+Application deadline: 09 May 2025
+
+Date: 16th May 2025
+
+[More info](https://www.sib.swiss/training/course/20250516_BGEEL)
+
+
+### Greece: ELIXIR-GOBLET Train-the-Trainer (TtT) 2025
+
+This course introduces trainers in the life sciences to learning principles, training techniques, lesson, session, course, and material design as well as assessment and feedback. It offers guidance, ideas and tips for designing training/teaching, development and delivery on training activities, all based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching.This course has been developed for and by trainers in bioinformatics but is suitable for all trainers and educators in higher education.
+
+Application deadline: 10 May 2025
+
+[More info](https://sites.google.com/view/ttt-2025-gr/home)
+
+
+### Switzerland: Reproducible and Scalable Research with Snakemake and Software Containers
+
+This course is addressed to all bioinformaticians developing computational pipelines with an interest to increase the reproducibility of their work.
+
+Application deadline: 14 May 2025
+
+Date: 28th of May 2025
+
+[More info](https://www.sib.swiss/training/course/20250528_SNAKE)
+
+### Webinar series materials: Large Language Models and their applications in Bioinformatics
+
+Includes materials:
+
+* [Basics of Large Language Models - transformers to LLMs](https://www.ebi.ac.uk/training/events/basics-large-language-models-transformers-llms)
+* [Developing a dataset for LLM projects](https://www.ebi.ac.uk/training/events/developing-dataset-llm-projects)
+* [LLM generated summaries for protein classification at InterPro](https://www.ebi.ac.uk/training/events/llm-generated-summaries-protein-classification-interpro)
+* [BioChatter and the future of LLM driven bioscience](https://www.ebi.ac.uk/training/events/biochatter-and-future-llm-driven-bioscience)
+* [Domain-specific knowledge extraction from scientific texts using LLMs](https://www.ebi.ac.uk/training/events/domain-specific-knowledge-extraction-scientific-texts-using-llms)
+
+### CodeRefinery workshop materials
+
+Courses including: Shell crash course, version control with Git, collaborative distributed version control, reproducible research, social coding and open software, how to document your research software, Jupyter notebooks, automated testing, modular code develeopment
+
+Main site: https://coderefinery.github.io/2025-03-25-workshop/
+
+Youtube channel: https://www.youtube.com/playlist?list=PLpLblYHCzJACpOmIzO8TywjtfYD7_d93H
+
+### Introduction to Machine Learning with Python
+
+Materials: https://github.com/sib-swiss/intro-machine-learning-training
+
+
+### First Steps with SQL for Data Science
+
+Materials: https://gitlab.sib.swiss/clinbio/learning/sql-for-data-science
 
 ### E-Learning: Metadata in Bioinformatics
 
