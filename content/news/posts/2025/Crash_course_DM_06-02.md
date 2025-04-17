@@ -69,6 +69,12 @@ course:
         # Specified as – code: label
         3071: Data management
 
+ # Optional "External resources" to be shown in TeSS under the course:
+  # Multiple items can be added; for each item the title and the url are mandatory.
+  externalResources:
+    - title: Crash Course in Data Management slides
+      url: https://doi.org/10.5281/zenodo.14843075
+
   # Specify occurrences here:
   instances:
     - start: 2025-02-06T12:30:00
