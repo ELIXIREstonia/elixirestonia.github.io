@@ -38,6 +38,8 @@ hide:
 ## Free Spring courses 2025
 
 * 23.-29.04.2025 [Statistics for Life Sciences in R Course](https://www.elixir-czech.cz/events/statistics-for-life-sciences-in-r-course) - Invitation only
+* 8.05.2025 [Bring your own DMP workshop](news/posts/2025/BYO_DMP_202050508.md) - Registration open
+* 29.05.2025 [Bring your own DMP workshop](news/posts/2025/BYO_DMP_20250529.md) - Registration open
 
 
 <!---
