@@ -37,7 +37,6 @@ hide:
 ---
 ## Free Spring courses 2025
 
-* 15.04.2024 [Viiba koostamine suure keelemudeli jaoks (majandusteaduskonna töötajatele)](news/posts/2025/viiba_koostamine_majandusteaduskond.md) - Invitation only
 * 23.-29.04.2025 [Statistics for Life Sciences in R Course](https://www.elixir-czech.cz/events/statistics-for-life-sciences-in-r-course) - Invitation only
 
 
@@ -59,61 +58,6 @@ comments
 g:Profiler, a popular gene list analysis tool, celebrates 18 years since its first publication in [Nucleic Acids Research](https://doi.org/10.1093/nar/gkm226). What began as a student project has become a globally cited resource, with its [2019 update article](https://doi.org/10.1093/nar/gkz369) now surpassing 5,000 citations — a testament to its lasting impact in life sciences.
 
 [More info](https://elixir.ut.ee/news/2025/04/08/g%3AProfiler_5K/)
-
-### Switzerland: Introduction to Bayesian Statistics with R
-
-This course is intended for life scientists familiar with statistical inference and who would like to add the Bayesian perspective to enrich their research.
-
-Materials: https://sib-swiss.github.io/intro-bayesian-statistics-training/website/a.html
-
-Application deadline: 14 April 2025
-
-Date: 05 - 06 May 2025
-
-[More info](https://www.sib.swiss/training/course/20250505_IBAYE)
-
-### Webinar: PathOS Training Session: Open Science Impact Indicator Handbook, Tools and Data
-
-Join us for a webinar on the Open Science Impact Indicator Handbook, part of the PathOS training series. This session will explore the causal perspective on Open Science impacts, focusing on academic, societal, and economic effects. The webinar will cover the handbook’s role in operationalizing indicators and addressing causal inference challenges. Additionally, it will provide an overview of tools and data for measuring Open Science impact, including metrics like citations, data usage, and cost savings.
-
-Date: Apr 14, 2025
-
-[More info](https://zoom.us/meeting/register/fSOpEWpFQ3KjQDuvXwMObQ#/registration)
-
-
-### Webinar: X-omics festival 2025​
-
-Date: 14 April 2025
-
-[More info](https://www.aanmelder.nl/x-omicsfestival2025/registration)
-
-
-
-### Sweden: ENLIGHT Teaching and Learning Conference - Playfulness for the Future of Higher Education.
-
-The students and staff can present their proposals for the fifth ENLIGHT Teaching and Learning Conference that will take place at Uppsala University from 8 to 10 October 2025.
-The ENLIGHT Teaching and Learning Conference is an annual event that convenes teaching staff, programme directors, educational developers, students, and other stakeholders. Participants are invited to share their experiences and ideas on how to connect innovative teaching and learning practices with the ENLIGHT educational goals.
-
-Presentation submission deadline: 15 April 2025
-
-University of Tartu can cover the travel costs of 20 staff members and students. The audience registration will open in May.
-
-[More info](https://ut.ee/en/news/enlight-teaching-and-learning-conference-call-proposals-open-until-15-april)
-
-
-### Webinar: Training Clinic - Handling Difficult Situations in Training Courses
-
-Discover effective strategies and proven techniques to navigate and manage challenges that arise during training sessions. Whether you're an instructor facing unexpected obstacles or a participant aiming to contribute positively, mastering these skills can greatly enhance the overall training experience. Don't miss this opportunity to learn how to maintain a constructive and supportive environment, ensuring a smooth and successful learning journey for everyone involved!
-
-Date: 15th of April 2025
-
-[More info](https://events.hifis.net/event/2380/overview)
-
-### Online: LLMs in bioinformatics Q&A session
-
-Date: 16 April 2025
-
-[More info](https://www.ebi.ac.uk/training/events/llms-bioinformatics-qa-session/)
 
 ### Belgium: Machine learning and AI Summer School
 
