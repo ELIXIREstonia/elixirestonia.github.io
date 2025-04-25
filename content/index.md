@@ -82,6 +82,17 @@ Date: 07 - 09 May 2025
 
 [More info](https://www.sib.swiss/training/course/20250507_MEMIC)
 
+### Finland: CSC Summer School in High-Performance Computing 2025
+
+The CSC Summer School brings together students and researchers in different disciplines of scientific computing from all over the world. The school consist of lectures and hands-on training on parallel programming, code performance, and other necessary skills for the development of scientific software for supercomputers.
+Fee: Late registration price starting from 11.4.2025 onwards is 2299€
+
+Date: 24.6.2025 - 3.7.2025
+
+Deadline for late registrations is 01.05.2025.
+
+[More info](https://csc.fi/en/training-calendar/csc-summer-school-in-high-performance-computing-2025/)
+
 
 ### Netherlands, Estonia, Germany: AIProHealth: Data Science and AI in Health Summer School
 
@@ -122,6 +133,16 @@ Date: 16th May 2025
 
 [More info](https://www.sib.swiss/training/course/20250516_BGEEL)
 
+### Switzerland: Missing Data and Imputation Methods
+
+In this course, we will introduce the concept of missing data, explain the difference between data missing at random (MAR) and data missing not at random (MNAR), and cover several widely-used methods for dealing with missing data. We will use R to apply some of these methods to real data sets, with a focus on data originating from omics technologies.
+Price: Academic: 100 CHF; For-profit: 500 CHF
+    
+Application deadline: 09 May 2025
+
+Date: 22 May 2025
+
+[More info](https://www.sib.swiss/training/course/20250522_IMPUT)
 
 ### Greece: ELIXIR-GOBLET Train-the-Trainer (TtT) 2025
 
@@ -130,6 +151,56 @@ This course introduces trainers in the life sciences to learning principles, tra
 Application deadline: 10 May 2025
 
 [More info](https://sites.google.com/view/ttt-2025-gr/home)
+
+### Switzerland: Docker and Singularity for Reproducible Research: Getting Started with Containers
+
+This course is addressed to bioinformaticians and life scientists that are doing bioinformatic analyses and want to get introduced to containers.
+Materials: https://sib-swiss.github.io/containers-introduction-training/latest/
+Price: Academic: 100 CHF; For-profit: 500 CHF
+
+Application deadline: 13 May 2025
+
+Date: 27 May 2025
+
+[More info](https://www.sib.swiss/training/course/20250527_DOCK)
+
+### Online: Tools Platform and Single Cell Omics “bring your workflow” to WorkflowHub
+
+Gain insights from experts on the importance of FAIR principles in computational workflows and how they can enhance reproducibility, collaboration, and findability. Watch a live demonstration of workflow registration in WorkflowHub. Using computational workflows for handling and processing Single Cell data as examples, you will see how workflows can be easily registered, discovered, and shared within the scientific community. Participate in an interactive session where you can bring your own workflows and learn how to register and manage them in WorkflowHub.
+
+Date: Tue 13 May 2025    10:30 - 12:00 BST
+
+[More info](https://elixir-europe.org/events/tools-platform-and-single-cell-omics-bring-your-workflow-workflowhub)
+
+
+### Online: Spatial transcriptomics (Visium) data analysis with Chipster
+
+This hands-on course in Zoom introduces the analysis of spatially resolved transcriptomics (Visium) data. It covers the processing of transcript counts from quality control and filtering to dimensional reduction, clustering, cell type identification and detection of spatially variable genes. You will also learn how to do integrated analysis of multiple samples. The free and user-friendly Chipster software is used in the exercises, and the course is thus suitable for everybody.
+
+Date: 15.5.2025
+
+[More info](https://csc.fi/en/training-calendar/spatial-transcriptomics-visium-data-analysis-with-chipster/)
+
+### Italy: Profiling of microbial communities using targeted and shotgun metagenomics
+
+This training course focuses on the study of the microbiota using Next Generation Sequencing (NGS) techniques. The course will introduce DNA metabarcoding and shotgun metagenomics and illustrate the major computational tools for the analysis of metagenomic data. In addition, the course will provide an introduction to Machine Learning methods applied to the analysis of metagenomic data. The course will include both a theoretical introduction to the topics and practical sessions with real data.
+Fee: 250 Euros for academic attendees and 350 Euros for industry professionals
+
+Deadline for applications: 20th May 2025
+
+Course date: 30 June - 4 July 2025
+
+[More info](https://elixir-iib-training.github.io/site/2025-06-30-Profiling_microbial_communities)
+
+
+### Finland: VeloxChem on LUMI workshop
+
+This workshop introduces participants to quantum chemistry simulations using VeloxChem on the LUMI supercomputer, with a focus on utilizing the GPU resources on LUMI-G for high-performance electronic structure calculations.
+Price: 150,60 (VAT 25,5% Incl.)
+
+Date: 26.5.2025 - 27.5.2025
+
+[More info](https://csc.fi/koulutuskalenteri/veloxchem-on-lumi-workshop/)
 
 
 ### Switzerland: Reproducible and Scalable Research with Snakemake and Software Containers
@@ -142,7 +213,47 @@ Date: 28th of May 2025
 
 [More info](https://www.sib.swiss/training/course/20250528_SNAKE)
 
-### Webinar series materials: Large Language Models and their applications in Bioinformatics
+### Online: UniProt: Focus on Plant Proteins
+
+Are you working on plants and struggling to find information about plant proteins? Are you curious about the biosynthesis of natural compounds like caffeine, capsaicin, and others? Are you interested in the interactions between plant and pathogens? If so, this webinar is for you. UniProt is the world’s leading high-quality, comprehensive and freely accessible resource of protein sequence and functional information. Starting with a biological question (i.e., how to get the list of enzymes involved in the synthesis of CBD or THC), you will explore the different ways of answering it, using UniProt. Hints on how to extend queries to other biological contexts will also be provided.
+
+Application deadline: 02 June 2025
+
+Date: 04 June 2025
+
+[More info](https://www.sib.swiss/training/course/20250604_UPPLT)
+
+### Switzerland: Biology-informed Multiomics Data Integration and Visualization
+
+This course is aimed at PhD students, postdoctoral and other researchers in the life sciences who are seeking to understand and visualize multi-omics data, aiming to integrate and interpret high-throughput biological data using R.
+Fee: Academic: 200 CHF; For-profit: 1000 CHF
+
+Application deadline: 09 June 2025
+
+Date: 16 - 17 June 2025
+
+[More info](https://www.sib.swiss/training/course/20250616_BIMVZ)
+
+
+### Switzerland: Causal Inference
+
+This course is addressed to researchers new to causal reasoning who wish to familiarize themselves with the causal language and grasp the foundational concepts for delving into the causal inference literature.
+Fee: Academic: 200 CHF; For-profit: 1000 CHF
+
+Application deadline: 10 June 2025
+
+Date: 24 - 25 June 2025
+
+[More info](https://www.sib.swiss/training/course/20250624_CAUSI)
+
+### Material: OpenRefine for Social Science Data
+
+OpenRefine (formerly Google Refine) is a powerful free and open source tool for working with messy data: cleaning it and transforming it from one format into another.
+
+[Link](https://datacarpentry.github.io/openrefine-socialsci/index.html)
+
+
+### Materials: Large Language Models and their applications in Bioinformatics
 
 Includes materials:
 
