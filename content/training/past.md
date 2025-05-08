@@ -14,6 +14,9 @@ hide:
 * **07.03.2025** - [Getting organised with Notion (F2F, Tartu)](https://elixir.ut.ee/news/2025/01/02/Notion_07-03/)
 * **20.03.2025** - [Data visualisation (theory) (online)](https://elixir.ut.ee/news/2025/02/03/data_visualisation_theory_20-03/)
 * **15.04.2024** [Viiba koostamine suure keelemudeli jaoks (majandusteaduskonna töötajatele)](https://elixir.ut.ee/news/2024/04/03/viiba_koostamine_majandusteaduskond/)
+* **23.-29.04.2025** -  [Statistics for Life Sciences in R Course](https://www.elixir-czech.cz/events/statistics-for-life-sciences-in-r-course)
+* **8.05.2025** -  [Bring your own DMP workshop](https://elixir.ut.ee/news/2025/04/17/BYO_DMP_202050508/)- CANCELLED
+
 
 ## 2024
 

@@ -12,8 +12,6 @@ hands-on courses in the life science community on various topics.
 
 ## Free courses for the first part of the year 2025
 
-* 23.-29.04.2025 [Statistics for Life Sciences in R Course](https://www.elixir-czech.cz/events/statistics-for-life-sciences-in-r-course) - Invitation only
-* 8.05.2025 [Bring your own DMP workshop](https://elixir.ut.ee/news/2025/04/17/BYO_DMP_202050508/) - Registration open
 * 29.05.2025 [Bring your own DMP workshop](https://elixir.ut.ee/news/2025/04/17/BYO_DMP_20250529/) - Registration open
 
 

@@ -37,8 +37,6 @@ hide:
 ---
 ## Free Spring courses 2025
 
-* 23.-29.04.2025 [Statistics for Life Sciences in R Course](https://www.elixir-czech.cz/events/statistics-for-life-sciences-in-r-course) - Invitation only
-* 8.05.2025 [Bring your own DMP workshop](news/posts/2025/BYO_DMP_202050508.md) - Registration open
 * 29.05.2025 [Bring your own DMP workshop](news/posts/2025/BYO_DMP_20250529.md) - Registration open
 
 
@@ -61,39 +59,6 @@ g:Profiler, a popular gene list analysis tool, celebrates 18 years since its fir
 
 [More info](https://elixir.ut.ee/news/2025/04/08/g%3AProfiler_5K/)
 
-### Belgium: Machine learning and AI Summer School
-
-Our summer school will delve into four pioneering topics: Protein Language Models, Spatial Omics Data Analysis, Data Integration and LLMs, Deep Learning for Protein Structures Prediction
-
-Submission closing date: Tuesday, 29 April, 2025
-
-Date: August 24th, 2025- August 29th, 2025
-
-[More info](https://www.vibconferences.be/events/machine-learning-and-ai-summer-school#oc)
-
-
-### Switzerland: Introduction to Metagenomics Data Analysis of Microbial Communities
-
-This course will cover the metagenomics data analysis workflow from data generation to downstream analysis. Participants will explore the tools to manage, share, analyze and interpret metagenomics data. The content will include issues of data quality control and how to process the data until publication.Both targeted marker-gene (e.g., 16S) and whole-genome shotgun (WGS) approaches will be covered. Discussions will also explore considerations when selecting the sequencing options (long or short reads), exploring targeted data to OTUs or ASVs, assembling and binning metagenomics data, the analyses that can be carried out, and what downstream analyses options and tools are available.
-
-Application deadline: 30 April 2025
-
-Date: 07 - 09 May 2025
-
-[More info](https://www.sib.swiss/training/course/20250507_MEMIC)
-
-### Finland: CSC Summer School in High-Performance Computing 2025
-
-The CSC Summer School brings together students and researchers in different disciplines of scientific computing from all over the world. The school consist of lectures and hands-on training on parallel programming, code performance, and other necessary skills for the development of scientific software for supercomputers.
-Fee: Late registration price starting from 11.4.2025 onwards is 2299€
-
-Date: 24.6.2025 - 3.7.2025
-
-Deadline for late registrations is 01.05.2025.
-
-[More info](https://csc.fi/en/training-calendar/csc-summer-school-in-high-performance-computing-2025/)
-
-
 ### Netherlands, Estonia, Germany: AIProHealth: Data Science and AI in Health Summer School
 
 Explore the cutting edge of Artificial Intelligence in healthcare. Create solutions that drive the next generation of healthcare innovation in this practical, hands-on programme.
@@ -101,16 +66,6 @@ Explore the cutting edge of Artificial Intelligence in healthcare. Create soluti
 Application deadline: 4th May Netherlands, 25th May Estonia and Germany
 
 [More info](https://eithealth.eu/programmes/aiprohealth/)
-
-### Switzerland: Using Large Language Models for Biodata Exploration: From Theory to Practice
-
-This one-day course will give a gentle introduction into LLMs, going from theoretical concepts towards practical, hands-on experience interacting with LLMs for exploring biodata through a series of exercises provided in Jupyter Notebooks. These will include programmatically interacting with an LLM to construct a simple Retrieval Augmented Generation (RAG) application for answering biological questions using existing SIB resources.
-
-Application deadline: 05 May 2025
-
-Date: 19th of May 2025
-
-[More info](https://www.sib.swiss/training/course/20250519_USLLM)
 
 ### Online: Galaxy Training Academy 2025
 
