@@ -67,45 +67,6 @@ Application deadline: 4th May Netherlands, 25th May Estonia and Germany
 
 [More info](https://eithealth.eu/programmes/aiprohealth/)
 
-### Online: Galaxy Training Academy 2025
-
-The Galaxy Training Academy is a self-paced online training event for beginners and advanced learners who want to improve their Galaxy data analysis skills. Over the course of one week, we offer a diverse selection of learning track. Program includes introduction to Galaxy, FAIR training, separate course tracks for proteomics, assembly, transcriptomics, single cell, microbiome, machine learning and Python.
-
-Registration deadline: 8th May 2025
-
-Date: 12-16 May 2025
-
-[More info](https://training.galaxyproject.org/training-material/events/2025-05-12-galaxy-academy-2025.html)
-
-
-### Webinar: Gene Expression made Useful Easily: Tools and Database of Bgee
-
-This course is addressed to life scientists who need to retrieve curated gene expression, obtain expression-based knowledge on genes of interest, or compare expression between genes and between species.
-
-Application deadline: 09 May 2025
-
-Date: 16th May 2025
-
-[More info](https://www.sib.swiss/training/course/20250516_BGEEL)
-
-### Switzerland: Missing Data and Imputation Methods
-
-In this course, we will introduce the concept of missing data, explain the difference between data missing at random (MAR) and data missing not at random (MNAR), and cover several widely-used methods for dealing with missing data. We will use R to apply some of these methods to real data sets, with a focus on data originating from omics technologies.
-Price: Academic: 100 CHF; For-profit: 500 CHF
-    
-Application deadline: 09 May 2025
-
-Date: 22 May 2025
-
-[More info](https://www.sib.swiss/training/course/20250522_IMPUT)
-
-### Greece: ELIXIR-GOBLET Train-the-Trainer (TtT) 2025
-
-This course introduces trainers in the life sciences to learning principles, training techniques, lesson, session, course, and material design as well as assessment and feedback. It offers guidance, ideas and tips for designing training/teaching, development and delivery on training activities, all based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching.This course has been developed for and by trainers in bioinformatics but is suitable for all trainers and educators in higher education.
-
-Application deadline: 10 May 2025
-
-[More info](https://sites.google.com/view/ttt-2025-gr/home)
 
 ### Switzerland: Docker and Singularity for Reproducible Research: Getting Started with Containers
 
