@@ -68,18 +68,6 @@ Application deadline: 4th May Netherlands, 25th May Estonia and Germany
 [More info](https://eithealth.eu/programmes/aiprohealth/)
 
 
-### Switzerland: Docker and Singularity for Reproducible Research: Getting Started with Containers
-
-This course is addressed to bioinformaticians and life scientists that are doing bioinformatic analyses and want to get introduced to containers.
-Materials: https://sib-swiss.github.io/containers-introduction-training/latest/
-Price: Academic: 100 CHF; For-profit: 500 CHF
-
-Application deadline: 13 May 2025
-
-Date: 27 May 2025
-
-[More info](https://www.sib.swiss/training/course/20250527_DOCK)
-
 ### Switzerland: Reproducible and Scalable Research with Snakemake and Software Containers
 
 This course is addressed to all bioinformaticians developing computational pipelines with an interest to increase the reproducibility of their work.
@@ -97,15 +85,6 @@ This webinar is suitable for any researcher, data manager, or imaging specialist
 Date:     28 May 2025
 
 [More info](https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data-introduction-bio-formats-ome-tiff-and-ome-zarr/)
-
-### Online: Tools Platform and Single Cell Omics “bring your workflow” to WorkflowHub
-
-Gain insights from experts on the importance of FAIR principles in computational workflows and how they can enhance reproducibility, collaboration, and findability. Watch a live demonstration of workflow registration in WorkflowHub. Using computational workflows for handling and processing Single Cell data as examples, you will see how workflows can be easily registered, discovered, and shared within the scientific community. Participate in an interactive session where you can bring your own workflows and learn how to register and manage them in WorkflowHub.
-
-Date: Tue 13 May 2025    10:30 - 12:00 BST
-
-[More info](https://elixir-europe.org/events/tools-platform-and-single-cell-omics-bring-your-workflow-workflowhub)
-
 
 ### Online: Spatial transcriptomics (Visium) data analysis with Chipster
 
