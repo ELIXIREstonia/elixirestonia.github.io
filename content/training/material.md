@@ -9,6 +9,7 @@ All slides are available on Zenodo under [community ELIXIR-Estonia](https://zeno
 
 ## Bioinformatics
 
+* ELIXIR Estonia (2025). __Introduction to statistics with R__ https://github.com/ELIXIREstonia/2025-04-28-R-basic-stat 
 * ELIXIR Estonia (2025). __Python for Beginners__ https://github.com/ELIXIREstonia/2025-02-11-Python/tree/main
 * ELIXIR Estonia (2025). __Introduction to statistics with R__ https://github.com/ELIXIREstonia/2025-02-18-R-basic-stat
 * ELIXIR Estonia (2025). __Introduction to Exploratory Data Analysis (EDA) with R__ https://github.com/ELIXIREstonia/2025-01-29-EDA

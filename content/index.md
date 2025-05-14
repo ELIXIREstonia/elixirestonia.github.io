@@ -80,6 +80,24 @@ Date: 27 May 2025
 
 [More info](https://www.sib.swiss/training/course/20250527_DOCK)
 
+### Switzerland: Reproducible and Scalable Research with Snakemake and Software Containers
+
+This course is addressed to all bioinformaticians developing computational pipelines with an interest to increase the reproducibility of their work.
+
+Application deadline: 14 May 2025
+
+Date: 28th of May 2025
+
+[More info](https://www.sib.swiss/training/course/20250528_SNAKE)
+
+### Online: Towards open and standardised imaging data: an introduction to Bio-Formats, OME-TIFF, and OME-Zarr
+
+This webinar is suitable for any researcher, data manager, or imaging specialist working with microscopy data who is interested in improving data accessibility, interoperability, and scalability. No prior experience with file formats or image data standards is required, but an undergraduate level understanding of biological imaging concepts will be useful.
+
+Date:     28 May 2025
+
+[More info](https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data-introduction-bio-formats-ome-tiff-and-ome-zarr/)
+
 ### Online: Tools Platform and Single Cell Omics “bring your workflow” to WorkflowHub
 
 Gain insights from experts on the importance of FAIR principles in computational workflows and how they can enhance reproducibility, collaboration, and findability. Watch a live demonstration of workflow registration in WorkflowHub. Using computational workflows for handling and processing Single Cell data as examples, you will see how workflows can be easily registered, discovered, and shared within the scientific community. Participate in an interactive session where you can bring your own workflows and learn how to register and manage them in WorkflowHub.
@@ -108,6 +126,16 @@ Course date: 30 June - 4 July 2025
 
 [More info](https://elixir-iib-training.github.io/site/2025-06-30-Profiling_microbial_communities)
 
+### Belgium: Scywalker for processing long-read single cell RNASeq data
+
+The scywalker tool was designed to analyze long-read single-cell data to generate gene and transcript count matrices that can be further analyzed to compare gene and isoform expression between samples and cell types. This workshop will provide you with: a detailed description of each step in the scywalker pipeline, a complete overview and description of all the results that are generated (for each output file, we will explain what info it contains an how it can be used for follow-up analysis).
+
+Registration deadline: 26 May 2025
+
+Date: 05 June 2025
+
+[More info](https://training.vib.be/all-trainings/scywalker-processing-long-read-single-cell-rnaseq-data)
+
 
 ### Finland: VeloxChem on LUMI workshop
 
@@ -118,16 +146,15 @@ Date: 26.5.2025 - 27.5.2025
 
 [More info](https://csc.fi/koulutuskalenteri/veloxchem-on-lumi-workshop/)
 
+### UK: Methods for infectious disease modelling using genomics
 
-### Switzerland: Reproducible and Scalable Research with Snakemake and Software Containers
+This course is aimed at early-stage researchers and others who are working in the fields of infectious diseases or pathogen evolution and will use mathematical modelling, and for professionals who carry out this type of research in policy making, charities or public health settings. Basic knowledge of R, command line, and biostatistics will be essential.
 
-This course is addressed to all bioinformaticians developing computational pipelines with an interest to increase the reproducibility of their work.
+Deadline for registration: 26th of May
 
-Application deadline: 14 May 2025
+Date: 14-19 September 2025
 
-Date: 28th of May 2025
-
-[More info](https://www.sib.swiss/training/course/20250528_SNAKE)
+[More info](https://www.ebi.ac.uk/training/events/infectious-disease-modelling-using-genomics-2025/)
 
 ### Online: UniProt: Focus on Plant Proteins
 
@@ -138,6 +165,26 @@ Application deadline: 02 June 2025
 Date: 04 June 2025
 
 [More info](https://www.sib.swiss/training/course/20250604_UPPLT)
+
+### Online: Data management in a bioimage informatics data flow
+
+This webinar is suitable for marine biologists and environmental scientists collecting samples from the natural environment, generating, visualising, annotating and analysing large, multimodal datasets such as imaging data, and sharing their data by submitting them to public data repositories.
+
+Date: 4 June 2025
+
+[More info](https://www.ebi.ac.uk/training/events/data-management-bioimage-informatics-data-flow/)
+
+### Sweden: Introduction to Data Management Practices
+
+The course is geared towards life scientists wanting to take the first steps towards a more systematic and reproducible approach to analysing and managing research data.
+
+Deadline for registration: 11 June 2025
+
+Date: 9-11 September 2025
+
+[More info](https://uppsala.instructure.com/courses/112492)
+
+
 
 ### Switzerland: Biology-informed Multiomics Data Integration and Visualization
 
@@ -150,6 +197,24 @@ Date: 16 - 17 June 2025
 
 [More info](https://www.sib.swiss/training/course/20250616_BIMVZ)
 
+### UK: Metagenomics bioinformatics at MGnify
+
+This course is aimed at life scientists who are working in the field of metagenomics and are currently in the early stages of data analysis. Participants should have some prior experience of using bioinformatics in their research. The practical sessions in the course require a basic understanding of the Unix command line and the R statistics package
+
+Deadline for registration: 22 June 2025
+
+Date: 6-10 october 2025
+
+[More info](https://www.ebi.ac.uk/training/events/metagenomics-bioinformatics-2025/)
+
+
+### Online: Open FAIR data: the role of public data archives
+
+This webinar is suitable for wet-lab and data scientists at all career stages who are interested in learning how to make their samples and imaging data open and available to the community. No prior knowledge of FAIR principles, BioSamples or the BioImage Archive is required.
+
+Date: 25th of June
+
+[More info](https://www.ebi.ac.uk/training/events/open-fair-data-role-public-data-archives/)
 
 ### Switzerland: Causal Inference
 
@@ -161,6 +226,128 @@ Application deadline: 10 June 2025
 Date: 24 - 25 June 2025
 
 [More info](https://www.sib.swiss/training/course/20250624_CAUSI)
+
+### Online: A journey to FAIR bioimage data
+
+This webinar is suitable for marine biologists and environmental scientists collecting samples from the natural environment, generating, visualising, annotating and analysing large, multimodal datasets such as imaging data, and sharing their data by submitting them to public data repositories. The webinar will support you to set up an efficient data flow that is aligned with FAIR principles.
+
+Date: 2 July 2025
+
+[More info](https://www.ebi.ac.uk/training/events/journey-fair-bioimage-data/)
+
+
+### HYBRID:  ISMB/ECCB 2025 
+
+The world's largest bioinformatics and computational biology conference ISMB/ECCB 2025 is happening  in July 20–24 in Liverpool, United Kingdom virtually and in person. More info: https://www.iscb.org/ismbeccb2025/home. There will be a [series of in-person and virtual tutorials](https://www.iscb.org/ismbeccb2025/programme-agenda/tutorials) prior to the start of the conference (__registration deadline 10th of July unless sold out__)
+
+Virtual: 
+
+  * Tutorial VT1: Visualising and interpreting your -omics results using ggplot2 and R
+  * Tutorial VT2: OmicsViz: Interactive Visualization and ML for Omics Data
+  * Tutorial VT3: Computational approaches for deciphering cell-cell communication from single-cell transcriptomics and spatial transcriptomics data
+  * Tutorial VT4: An applied genomics approach to crop breeding: A suite of tools for exploring natural and artificial diversity
+  * Tutorial VT5: Comprehensive Bioinformatics and Statistical Approaches for High-Throughput Sequencing Data Analysis, Including scRNA-seq, in Biomarker Discovery
+  * Tutorial VT6: Beyond Bioinformatics: Snakemake for Versatile Computational Workflows
+  * Tutorial VT7: Assessing and Enhancing Digital Accessibility of Biological Data and Visualizations
+  * Tutorial VT8: Generative AI for Single-Cell Perturbation Modeling: Theoretical and practical considerations
+  * Tutorial VT9: Biomedical text mining for knowledge extraction
+
+In-person: 
+
+ * Tutorial IP1: Machine Learning for Omics: Best practices and Real-Life Insights with TidyModels
+ * Tutorial IP2: Massively parallel reporter assays in functional regulatory genomics and as part of the IGVF data resource
+ * Tutorial IP3: Genomic Variant Interpretation & prioritisation for clinical research
+ * Tutorial IP4: Quantum Machine Learning for multi-omics analysis
+ * Tutorial IP5: Introduction to Causal Analysis using Mendelian Randomisation
+ * Tutorial IP6: Hello Nextflow: Getting started with workflows for bioinformatics
+ * Tutorial IP7: AI large cellular models and in-silico perturbation
+ * Tutorial IP8: Representation Learning and Feature Engineering for Genomic Sequences Analysis
+
+### Online: Structural bioinformatics
+
+This course is aimed at scientists generating structural data or scientists utilising structural data in their analysis and/or interpretation. No previous experience in the field of structural bioinformatics is required, however good knowledge of protein structure and function would be of benefit.
+
+Deadline for registration: 27 July 2025
+
+Date: 27-31 October 2025
+
+[More info](https://www.ebi.ac.uk/training/events/structural-bioinformatics-2025/)
+
+### UK: Genome bioinformatics: from short- to long-read sequencing
+
+The course is aimed at PhD students and post-doctoral researchers who are starting to use high-throughput sequencing technologies and bioinformatics methods in their research. The content is most applicable for those working with eukaryotic genomes, especially in the area of human genomics.Participants will require knowledge of the Unix command line and GitHub in order to adequately complete the practical sessions. Additionally, a short pre-course session on BASH and GitHub will be offered.
+Please note that participants without basic knowledge of these resources will have difficulty in completing the practical sessions.
+
+Deadline for registration: 3 August 2025
+
+Date: 17-21 November 2025
+
+[More info](https://www.ebi.ac.uk/training/events/genome-bioinformatics-2025/)
+
+
+### Belgium: Train the Trainer
+
+This course introduces trainers to learning principles, training techniques, design and deliver training, as well as assessment and feedback. It offers guidance, ideas and tips for : Designing and Developing training activities; Deliver training, participation and engagement; All based on research-driven educational principles.
+Examples and discussions will also focus on the challenges presented by academic teaching.
+
+Deadline for registration: 24 August 2025
+
+Date: 3-4 September 2025
+
+[More info](https://training.vib.be/all-trainings/train-trainer-0)
+
+### Online: Workshop in Epigenomics Data Analysis
+
+The aim of this workshop is to introduce best practice bioinformatics methods for processing, analyses and integration of epigenomics data. The online teaching includes lectures, programming tutorials and interactive group sessions. This workshop is run by the National Bioinformatics Infrastructure Sweden (NBIS).
+
+Deadline for registration: 25 August 2025
+
+Date: 22 - 26 September 2025
+
+[More info](https://uppsala.instructure.com/courses/112730)
+
+### Belgium: Analysis of single cell RNASeq data
+
+In this course, we will go through the whole pipeline to analyze short-read scRNASeq data. We will teach you how to:
+
+* Do proper quality control and filtering on the gene level and the cell level
+* Remove as much noise as possible
+* Cluster your cells and create UMAP plots
+* Get potential markers for these subsets of cells
+* Identify genes that are differentially expressed genes between conditions
+
+The content of the course is tailored to the participants 'needs. On the second day, participants can bring their data to analyze.
+
+Deadline for registration: 9 September 2025
+
+Date: 23 and 26 September 2025
+
+[More info](https://training.vib.be/all-trainings/analysis-single-cell-rnaseq-data-11)
+
+### Belgium: FAIR training material made by Design
+
+By the end of the course, participants will be able to: Create a FAIR and open training material from the start, Apply FIAR principles to all elements of training material, Use AI tools in the content creation of FAIR training material.
+Course material: https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Material-By-Design/
+
+Deadline for registration: 10 October 2025
+
+Date: 21-23 October 2025
+
+[More info](https://training.vib.be/all-trainings/fair-training-material-made-design)
+
+### Material of webinar series: UniProt
+
+All the links: https://www.ebi.ac.uk/training/events/uniprot/. Includes webinars:
+
+* A guide to UniProt for students
+* Programmatic access to UniProt using Python
+* Uncovering protein function with UniProt
+* Automated annotation in UniProt
+* Sequence analysis tools in UniProt: BLAST and Align
+* UniProt for proteomics scientists
+* Exploring Human Disease and Protein Variant Data in UniProtKB and Contextualising Variation with ProtVar
+* Navigating UniProt: a brief overview and recent updates
+
 
 ### Material: OpenRefine for Social Science Data
 
