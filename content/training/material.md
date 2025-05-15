@@ -9,16 +9,22 @@ All slides are available on Zenodo under [community ELIXIR-Estonia](https://zeno
 
 ## Bioinformatics
 
-* ELIXIR Estonia (2025). __Introduction to statistics with R__ https://github.com/ELIXIREstonia/2025-04-28-R-basic-stat 
+* ELIXIR Estonia (2025). __Introduction to statistics with R__
+  * Repositorium for R code  https://github.com/ELIXIREstonia/2025-04-28-R-basic-stat 
+  * Slides Moor, M., Joao, L., & Rachel, M. (2025, April 29). Introduction to statistics in R course. Zenodo. https://doi.org/10.5281/zenodo.15301106
 * ELIXIR Estonia (2025). __Python for Beginners__ https://github.com/ELIXIREstonia/2025-02-11-Python/tree/main
 * ELIXIR Estonia (2025). __Introduction to statistics with R__ https://github.com/ELIXIREstonia/2025-02-18-R-basic-stat
 * ELIXIR Estonia (2025). __Introduction to Exploratory Data Analysis (EDA) with R__ https://github.com/ELIXIREstonia/2025-01-29-EDA
-* Pilvar, D. (2024, November 20). __Prompting 101 - A Beginner's Guide to Communicating with LLMs.__ Zenodo. https://doi.org/10.5281/zenodo.14190264
 * Kolberg, L., & Raudvere, U. (2024, June 3). __Introduction to g:Profiler.__ Zenodo. https://doi.org/10.5281/zenodo.11207911.
 * ELIXIR Estonia (2024). __R basic__ https://github.com/ELIXIREstonia/2024-10-02-R-basic
 * ELIXIR Estonia (2024). __Shell Novice__ https://github.com/ELIXIREstonia/2024-10-23-shell-novice
 * Kerimov, Nurlan (2024). __Introduction to Bioinformatics workflows with Nextflow and nf-core__ https://kerimoff.github.io/workflows-nextflow/index.html
 * Adler, P. (2024, November 6). __Version Control with Git.__ https://elixirestonia.github.io/2024-11-06-git/
+
+## Courses related to Large Language Models
+
+* Pilvar, D. (2025, April 15). __Viiba koostamine suure keelemudeli jaoks.__ Zenodo. https://doi.org/10.5281/zenodo.15182227
+* Pilvar, D. (2024, November 20). __Prompting 101 - A Beginner's Guide to Communicating with LLMs.__ Zenodo. https://doi.org/10.5281/zenodo.14190264
 
 ## Data Visualisation
 
@@ -44,8 +50,8 @@ Useful sites:
 
 ## Data Management
 
+* Inno, H. (2025, March 10). __Getting organised with Notion.__ Zenodo. https://doi.org/10.5281/zenodo.14998033
 * Pilvar, D. (2025, February 10). __Crash Course in Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.13801447
-* Inno, H. (2025, January 23). __Getting organised with Notion.__ Zenodo. https://doi.org/10.5281/zenodo.14723321
 * Inno, H. (2024, October 31). __Laboratory documentation with Markdown.__ Zenodo. https://doi.org/10.5281/zenodo.14016131
 * Pilvar, D. (2024, September 24). __How to make your messy data usable? / OpenRefine__. Zenodo. https://doi.org/10.5281/zenodo.13832071
 * Pilvar, D. (2024, May 14). __Metadata and README.__ Zenodo. https://doi.org/10.5281/zenodo.7835048.
