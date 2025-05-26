@@ -59,14 +59,6 @@ g:Profiler, a popular gene list analysis tool, celebrates 18 years since its fir
 
 [More info](https://elixir.ut.ee/news/2025/04/08/g%3AProfiler_5K/)
 
-### Netherlands, Estonia, Germany: AIProHealth: Data Science and AI in Health Summer School
-
-Explore the cutting edge of Artificial Intelligence in healthcare. Create solutions that drive the next generation of healthcare innovation in this practical, hands-on programme.
-
-Application deadline: 4th May Netherlands, 25th May Estonia and Germany
-
-[More info](https://eithealth.eu/programmes/aiprohealth/)
-
 
 ### Switzerland: Reproducible and Scalable Research with Snakemake and Software Containers
 
@@ -85,25 +77,6 @@ This webinar is suitable for any researcher, data manager, or imaging specialist
 Date:     28 May 2025
 
 [More info](https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data-introduction-bio-formats-ome-tiff-and-ome-zarr/)
-
-### Online: Spatial transcriptomics (Visium) data analysis with Chipster
-
-This hands-on course in Zoom introduces the analysis of spatially resolved transcriptomics (Visium) data. It covers the processing of transcript counts from quality control and filtering to dimensional reduction, clustering, cell type identification and detection of spatially variable genes. You will also learn how to do integrated analysis of multiple samples. The free and user-friendly Chipster software is used in the exercises, and the course is thus suitable for everybody.
-
-Date: 15.5.2025
-
-[More info](https://csc.fi/en/training-calendar/spatial-transcriptomics-visium-data-analysis-with-chipster/)
-
-### Italy: Profiling of microbial communities using targeted and shotgun metagenomics
-
-This training course focuses on the study of the microbiota using Next Generation Sequencing (NGS) techniques. The course will introduce DNA metabarcoding and shotgun metagenomics and illustrate the major computational tools for the analysis of metagenomic data. In addition, the course will provide an introduction to Machine Learning methods applied to the analysis of metagenomic data. The course will include both a theoretical introduction to the topics and practical sessions with real data.
-Fee: 250 Euros for academic attendees and 350 Euros for industry professionals
-
-Deadline for applications: 20th May 2025
-
-Course date: 30 June - 4 July 2025
-
-[More info](https://elixir-iib-training.github.io/site/2025-06-30-Profiling_microbial_communities)
 
 ### Belgium: Scywalker for processing long-read single cell RNASeq data
 
