@@ -151,3 +151,14 @@ footer a, footer a:link, footer a:visited {
     width: 100%;
   }
 }
+
+@media (min-width: 768px) {
+  #lecturers {
+    float: left;
+    margin-right: 1em;
+  }
+  .elixir-clear {
+    clear:both;
+    padding: 0.5em 0;
+  }
+}

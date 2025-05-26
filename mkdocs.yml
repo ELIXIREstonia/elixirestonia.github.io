@@ -47,9 +47,11 @@ theme:
 extra_css:
   - assets/stylesheets/extra.css
   - assets/stylesheets/neoteroi-mkdocs.css
+  - assets/stylesheets/splide.min.css
 
 extra_javascript:
   - assets/javascripts/tiles.js
+  - assets/javascripts/splide.min.js
 
 plugins:
   - blog:

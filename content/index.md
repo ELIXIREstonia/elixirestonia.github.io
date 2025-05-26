@@ -35,22 +35,59 @@ hide:
   </div>
 </div>
 ---
+
+<section id="lecturers" class="splide" aria-label="Our lecturers">
+  <div class="splide__track">
+		<div class="splide__list">
+			<div class="splide__slide">
+        <img src="/assets/images/trainers/01.jpg" width="400" height="400" alt="Training session">
+      </div>
+			<div class="splide__slide">
+        <img src="/assets/images/trainers/02.jpg" width="400" height="400" alt="Training session">
+      </div>
+			<div class="splide__slide">
+        <img src="/assets/images/trainers/03.jpg" width="400" height="400" alt="Training session">
+      </div>
+			<div class="splide__slide">
+        <img src="/assets/images/trainers/04.jpg" width="400" height="400" alt="Training session">
+      </div>
+		</ul>
+  </div>
+</section>
+
+<script>
+  const splideOpts = {
+    type: "loop",
+    pagination: false,
+    autoplay: true,
+    width: 400,
+    perPage: 1,
+    start: Math.floor(Math.random() * 3),
+  };
+  document.addEventListener("DOMContentLoaded", () => new Splide("#lecturers", splideOpts).mount());
+</script>
+
 ## Free Spring courses 2025
 
 * 29.05.2025 [Bring your own DMP workshop](news/posts/2025/BYO_DMP_20250529.md) - Registration open
 
 
-<!---
-comments
-
--->
-
-## Latest news and announcements
-
 !!! note ""
     If you would like to be notified about the events, trainings and workshops
     running by ELIXIR Estonia, consider subscribing to [the announcements mailing
     list](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request)
+
+
+<hr class="elixir-clear" />
+
+## Latest news and announcements
+
+
+### ELIXIR Estonia Contributes to the University of Tartu Data Management and Open Science Network
+
+On May 14th, the University of Tartu's Data Management and Open Science competence network held its [second training session](https://utlib.ut.ee/en/news/kick-trainings-held-data-management-and-open-science-competence-network), organised by the [University of Tartu Library](https://utlib.ut.ee/en). ELIXIR Estonia was proud to contribute to this initiative that supports the advancement of data management and open science across the university.
+
+[More info](https://elixir.ut.ee/news/2025/05/16/DM_UT_Training/)
 
 
 ### Not professorware - g:Profiler turns 18 and helps thousands of researchers yearly!
@@ -59,16 +96,6 @@ g:Profiler, a popular gene list analysis tool, celebrates 18 years since its fir
 
 [More info](https://elixir.ut.ee/news/2025/04/08/g%3AProfiler_5K/)
 
-
-### Switzerland: Reproducible and Scalable Research with Snakemake and Software Containers
-
-This course is addressed to all bioinformaticians developing computational pipelines with an interest to increase the reproducibility of their work.
-
-Application deadline: 14 May 2025
-
-Date: 28th of May 2025
-
-[More info](https://www.sib.swiss/training/course/20250528_SNAKE)
 
 ### Online: Towards open and standardised imaging data: an introduction to Bio-Formats, OME-TIFF, and OME-Zarr
 
@@ -188,11 +215,11 @@ Date: 2 July 2025
 [More info](https://www.ebi.ac.uk/training/events/journey-fair-bioimage-data/)
 
 
-### HYBRID:  ISMB/ECCB 2025 
+### HYBRID: ISMB/ECCB 2025
 
 The world's largest bioinformatics and computational biology conference ISMB/ECCB 2025 is happening  in July 20–24 in Liverpool, United Kingdom virtually and in person. More info: https://www.iscb.org/ismbeccb2025/home. There will be a [series of in-person and virtual tutorials](https://www.iscb.org/ismbeccb2025/programme-agenda/tutorials) prior to the start of the conference (__registration deadline 10th of July unless sold out__)
 
-Virtual: 
+Virtual:
 
   * Tutorial VT1: Visualising and interpreting your -omics results using ggplot2 and R
   * Tutorial VT2: OmicsViz: Interactive Visualization and ML for Omics Data
@@ -204,7 +231,7 @@ Virtual:
   * Tutorial VT8: Generative AI for Single-Cell Perturbation Modeling: Theoretical and practical considerations
   * Tutorial VT9: Biomedical text mining for knowledge extraction
 
-In-person: 
+In-person:
 
  * Tutorial IP1: Machine Learning for Omics: Best practices and Real-Life Insights with TidyModels
  * Tutorial IP2: Massively parallel reporter assays in functional regulatory genomics and as part of the IGVF data resource
@@ -268,7 +295,7 @@ In this course, we will go through the whole pipeline to analyze short-read scRN
 * Get potential markers for these subsets of cells
 * Identify genes that are differentially expressed genes between conditions
 
-The content of the course is tailored to the participants 'needs. On the second day, participants can bring their data to analyze.
+The content of the course is tailored to the participants' needs. On the second day, participants can bring their data to analyze.
 
 Deadline for registration: 9 September 2025
 
@@ -345,7 +372,7 @@ Have you heard the word metadata but have no idea what it refers to, what type o
 
 ### E-learning: Elements of Supercomputing
 
-This free online course is open for everyone interested in supercomputers and high performance computing. Level: Basic, no prerequisites or study rights to higher education institution needed. 
+This free online course is open for everyone interested in supercomputers and high performance computing. Level: Basic, no prerequisites or study rights to higher education institution needed.
 
 [More info](https://csc.fi/en/training-calendar/elements-of-supercomputing/)
 
