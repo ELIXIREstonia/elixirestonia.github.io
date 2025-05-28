@@ -67,7 +67,7 @@ hide:
   document.addEventListener("DOMContentLoaded", () => new Splide("#lecturers", splideOpts).mount());
 </script>
 
-## Free Spring courses 2025
+## Free Spring courses 2025 by ELIXIR Estonia
 
 * 29.05.2025 [Bring your own DMP workshop](news/posts/2025/BYO_DMP_20250529.md) - Registration open
 
@@ -96,6 +96,8 @@ g:Profiler, a popular gene list analysis tool, celebrates 18 years since its fir
 
 [More info](https://elixir.ut.ee/news/2025/04/08/g%3AProfiler_5K/)
 
+---
+## Courses from others
 
 ### Online: Towards open and standardised imaging data: an introduction to Bio-Formats, OME-TIFF, and OME-Zarr
 
@@ -104,36 +106,6 @@ This webinar is suitable for any researcher, data manager, or imaging specialist
 Date:     28 May 2025
 
 [More info](https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data-introduction-bio-formats-ome-tiff-and-ome-zarr/)
-
-### Belgium: Scywalker for processing long-read single cell RNASeq data
-
-The scywalker tool was designed to analyze long-read single-cell data to generate gene and transcript count matrices that can be further analyzed to compare gene and isoform expression between samples and cell types. This workshop will provide you with: a detailed description of each step in the scywalker pipeline, a complete overview and description of all the results that are generated (for each output file, we will explain what info it contains an how it can be used for follow-up analysis).
-
-Registration deadline: 26 May 2025
-
-Date: 05 June 2025
-
-[More info](https://training.vib.be/all-trainings/scywalker-processing-long-read-single-cell-rnaseq-data)
-
-
-### Finland: VeloxChem on LUMI workshop
-
-This workshop introduces participants to quantum chemistry simulations using VeloxChem on the LUMI supercomputer, with a focus on utilizing the GPU resources on LUMI-G for high-performance electronic structure calculations.
-Price: 150,60 (VAT 25,5% Incl.)
-
-Date: 26.5.2025 - 27.5.2025
-
-[More info](https://csc.fi/koulutuskalenteri/veloxchem-on-lumi-workshop/)
-
-### UK: Methods for infectious disease modelling using genomics
-
-This course is aimed at early-stage researchers and others who are working in the fields of infectious diseases or pathogen evolution and will use mathematical modelling, and for professionals who carry out this type of research in policy making, charities or public health settings. Basic knowledge of R, command line, and biostatistics will be essential.
-
-Deadline for registration: 26th of May
-
-Date: 14-19 September 2025
-
-[More info](https://www.ebi.ac.uk/training/events/infectious-disease-modelling-using-genomics-2025/)
 
 ### Online: UniProt: Focus on Plant Proteins
 
@@ -153,6 +125,28 @@ Date: 4 June 2025
 
 [More info](https://www.ebi.ac.uk/training/events/data-management-bioimage-informatics-data-flow/)
 
+### UK: Making Toxicology Educational Resources more FAIR
+
+This workshop is the fourth in a row of five workshops, designed for all toxicology and bioinformatics trainers, teachers, educational material providers, and curriculum developers who are interested in learning how to make to make toxicology educational resources more FAIR - Findable, Accessible, Interoperable, and Reusable. This workshop will help educators and researchers better organise and describe their educational resources to improve their discoverability and interoperability.
+
+Introductory webinar: June 6 2025
+
+Event date: 24-25 June 2025
+
+[More info](https://www.aanmelder.nl/intoxicom-ws-2/wiki/1152037/wp-4-features-ws-4)
+
+
+### Switzerland: Causal Inference
+
+This course is addressed to researchers new to causal reasoning who wish to familiarize themselves with the causal language and grasp the foundational concepts for delving into the causal inference literature.
+Fee: Academic: 200 CHF; For-profit: 1000 CHF
+
+Application deadline: 10 June 2025
+
+Date: 24 - 25 June 2025
+
+[More info](https://www.sib.swiss/training/course/20250624_CAUSI)
+
 ### Sweden: Introduction to Data Management Practices
 
 The course is geared towards life scientists wanting to take the first steps towards a more systematic and reproducible approach to analysing and managing research data.
@@ -163,7 +157,23 @@ Date: 9-11 September 2025
 
 [More info](https://uppsala.instructure.com/courses/112492)
 
+### A FAIR and scalable workflow for plankton phenogenomics at single cell level
 
+This webinar is suitable for marine biologists and environmental scientists collecting samples from the natural environment, generating, visualising, annotating and analysing large, multimodal datasets such as imaging data, and sharing their data by submitting them to public data repositories. The webinar will support you to set up an efficient data flow that is aligned with FAIR principles.
+
+Date: 11 June 2025
+
+[More info](https://www.ebi.ac.uk/training/events/fair-and-scalable-workflow-plankton-phenogenomics-single-cell-level/)
+
+### WEBINAR SERIES: AI in the life sciences: Exploring possibilities, inspiring change
+
+Join us for a series of webinars where we explore how Artificial Intelligence (AI) is shaping the future of life sciences!
+This series provides an accessible introduction to AI while giving direct access to experts and practical insights into real-world applications. Designed to inspire and help you recognise potential applications of AI in the life sciences, these webinars will spark new ways of thinking so that you can start applying AI in your work.
+A foundational session covering AI basics, its evolution, and why it matters for life sciences. Watch the recording: https://www.youtube.com/watch?v=sbVzcrD-wko
+
+[5 upcoming webinars info here](https://www.biocommons.org.au/events/ai-series-2025)
+
+Dates: 11 June, 2 July, 29 July, 26 August, 2 September 
 
 ### Switzerland: Biology-informed Multiomics Data Integration and Visualization
 
@@ -175,6 +185,30 @@ Application deadline: 09 June 2025
 Date: 16 - 17 June 2025
 
 [More info](https://www.sib.swiss/training/course/20250616_BIMVZ)
+
+### Switzerland: Best Practices in Programming
+
+This workshop will focus on learning and internalising the practices of unit testing, refactoring, and version control through hands-on experience. The first morning will begin with an introduction to these concepts and the tools that support them. In the afternoon and on the second day, we will transition to a code clinic, where we will work together in small groups to apply these practices and improve the code brought by participants. Due to the hands-on nature of the course, which involves a lot of code handling, discussions, and sharing experiences, it will not be taught remotely.
+The focus of this course is not object-oriented programming, software architecture, design patterns or algorithms. The goal of this course is to introduce skills and techniques for effectively developing software.
+  
+Deadline for registration: 10 June 2025
+  
+Date: 1-2 July 2025
+  
+[Course material](https://siscourses.ethz.ch/sib_workshop_best_practices/)
+
+[More info](https://www.sib.swiss/training/course/20250701_BPP)
+
+### Hybrid: AI x BIO
+
+Our new conference will showcase advances in artificial intelligence and machine learning in biology, and the potential of these emerging approaches for medical science.
+
+Deadline for registration: 16 June 2025
+
+Date: 23-25 June 2025
+
+[More info](https://coursesandconferences.wellcomeconnectingscience.org/event/ai-x-bio-20250623/)
+
 
 ### UK: Metagenomics bioinformatics at MGnify
 
@@ -195,16 +229,28 @@ Date: 25th of June
 
 [More info](https://www.ebi.ac.uk/training/events/open-fair-data-role-public-data-archives/)
 
-### Switzerland: Causal Inference
+### Switzerland: Single-Cell Transcriptomics with R
 
-This course is addressed to researchers new to causal reasoning who wish to familiarize themselves with the causal language and grasp the foundational concepts for delving into the causal inference literature.
-Fee: Academic: 200 CHF; For-profit: 1000 CHF
+This course is intended for life scientists and bioinformaticians familiar with "Next Generation Sequencing" who want to acquire the necessary skills to analyse scRNA-seq gene expression data.
 
-Application deadline: 10 June 2025
+Deadline for registration: 25th June 2025
 
-Date: 24 - 25 June 2025
+Date: 2-4 July 2025
 
-[More info](https://www.sib.swiss/training/course/20250624_CAUSI)
+[Materials](https://sib-swiss.github.io/single-cell-r-training/)
+
+[More info](https://www.sib.swiss/training/course/20250702_ISCTR)
+
+
+### Online: Make your research FAIRer with Quarto, GitHub and Zenodo
+
+This course is addressed to computational biologists, bioinformaticians, researchers, scientists and trainers working in the life sciences who want to learn how to make their research and training FAIRer with reproducible notebooks and websites.
+
+Deadline for registration: 30 June 2025
+
+Date: 8 July 2025
+
+[More info](https://www.sib.swiss/training/course/20250708_QUART)
 
 ### Online: A journey to FAIR bioimage data
 
@@ -285,6 +331,26 @@ Date: 22 - 26 September 2025
 
 [More info](https://uppsala.instructure.com/courses/112730)
 
+### Belgium: Introduction to Protein Structure Analysis and Prediction
+
+This two-day training covers the basics of protein structure analysis, starting with exploring online databases like AlphaFoldDB, visualizing with ChimeraX, comparing homologues, and using tools like MutateX or PROSS to quantify interactions on day one. The second day focuses on accessing structure predictions via online tools (AlphaFold3, Chai-1) and HPC installations (AlphaFold2, Boltz-1, AlphaPulldown), culminating in an afternoon session where participants apply these tools to their own research questions and learn AlphaPulldown for protein-protein interaction screens.
+
+Deadline for registration: 25 August 2025
+
+Date: 8-9 September 2025
+
+[More info](https://training.vib.be/all-trainings/introduction-protein-structure-analysis-and-prediction)
+
+### Switzerland: Bioinformatics meets AI: shaping the future of data-driven biology
+
+The [BC]2 Basel Computational Biology Conference is the flagship scientific meeting of the SIB Swiss Institute of Bioinformatics, held every two years. As Switzerland's leading event in computational biology and one of the largest of its kind in Europe, [BC]² attracts around 500 scientists from academia, industry, and healthcare. Attendees explore cutting-edge advancements in bioinformatics, ranging from evolutionary and environmental dynamics to infectious diseases, cancer research, protein design, single-cell omics, and AI-driven innovations in clinical data science.
+
+Early registration: 10 March - 30 June 2025. Standard registration: 1 July - 1 September 2025
+
+Tutorials and workshops : Monday 8 September 2025. Main conference: 8-10  September 2025
+
+[More info](https://www.bc2.ch/)
+
 ### Belgium: Analysis of single cell RNASeq data
 
 In this course, we will go through the whole pipeline to analyze short-read scRNASeq data. We will teach you how to:
@@ -303,6 +369,22 @@ Date: 23 and 26 September 2025
 
 [More info](https://training.vib.be/all-trainings/analysis-single-cell-rnaseq-data-11)
 
+### Germany: European Galaxy Days (EGD)
+
+The first two days will give an overview of the current state of the Galaxy framework and community with several talks, demonstrations, and Birds of a Feather sessions. As part of a CoFest, the third day offer the opportunity to continue the discussions, to code and hack as well as enjoy the Galaxy community.
+
+Date: 1st October 2025
+
+[More info](https://galaxyproject.org/events/2025-10-01-egd2025/)
+
+### Belgium: XVII Vibrational Spectroscopy and Chemometrics Training Course
+
+Theoretical and practical course dedicated to scientists and industry professionals seeking to discover or improve their skills in spectroscopy and chemometrics.
+
+Date: 29 September - 3 October 2025
+
+[More info](https://www.cra.wallonie.be/en/xvii-vibrational-spectroscopy-and-chemometrics-training-course-1)
+
 ### Belgium: FAIR training material made by Design
 
 By the end of the course, participants will be able to: Create a FAIR and open training material from the start, Apply FIAR principles to all elements of training material, Use AI tools in the content creation of FAIR training material.
@@ -313,6 +395,40 @@ Deadline for registration: 10 October 2025
 Date: 21-23 October 2025
 
 [More info](https://training.vib.be/all-trainings/fair-training-material-made-design)
+
+### Material: Discover the Pathogen Data Network (PDN)
+
+On 29 April, PDN hosted its first public webinar for a wide audience of pathogen data practitioners. It offered a global perspective on the project’s aims and latest advances, including a demo of the central Pathogen Portal, and the perspective from one of the community-led Node in Sweden, to an audience of hundred of participants from around the globe. The recording is now available, including a lively Q&A session, reflecting the engagement of the audience and timeliness of the initiative.
+
+[More info](https://pathogendatanetwork.org/webinar-discover-the-pathogen-data-network-pdn/)
+
+### Material: Spatial Omics Data Analysis
+
+This course delves into the cutting-edge field of Spatial Omics, focusing on Spatially-Resolved Transcriptomics (SRT) technology which provides unprecedented insights into the spatial organization of gene expression within tissues.Participants will explore both imaging-based and sequencing-based SRT technologies, learning to navigate the entire workflow of SRT data analysis. The course covers essential topics such as pre-processing techniques for data cleaning, normalization, and quality control, methods for identifying and characterizing spatial domains within tissues, strategies for integrating SRT data with single-cell RNA sequencing data, and statistical approaches to analyze spatial patterns and relationships. Additionally, participants will investigate interactions between cells within their spatial context. By the end of this course, participants will be equipped with the knowledge and skills to construct a complete workflow for SRT data analysis, from raw data to meaningful biological insights.
+
+[More info](https://elixir-europe-training.github.io/ELIXIR-SCO-spatial-omics/)
+
+[Video](https://www.youtube.com/playlist?list=PLxHnvy2HZSYlnFo0LhxO1irgDby6hV-On)
+
+[Slides](https://github.com/elixir-europe-training/ELIXIR-SCO-spatial-omics/tree/main/presentations)
+
+### Material: Mastering data management: Go FAIR, Go Open, Go Smart — EMO BON and TREC showcases
+
+Making data FAIR (findable, accessible, interoperable and reusable) and open benefits both for the data provider and future users.  In this webinar, we will discuss how making data FAIR and open has allowed us to develop smart and efficient data management workflows in the context of the EMBRC EMO BON (European Marine Omics Biodiversity Observation Network) project. By focusing on the interoperability and reusability of our (meta)data, codes, and analysis results, we can use the web itself to make our data findable and accessible. We will then present examples of metadata curation from EMBL’s Planetary biology flagship expedition TREC (Traversing European Coastlines), an expedition to study coastal ecosystems and their response to the environment, from molecules to communities. We will see how one can go FAIR, Open and Smart by registering sample metadata at EMBL-EBI’s BioSamples service using checklists, controlled vocabularies and ontologies.
+
+[More info](https://www.ebi.ac.uk/training/events/mastering-data-management-go-fair-go-open-go-smart-emo-bon-and-trec-showcases/)
+
+### Material: Principles of research data management
+
+This webinar introduces fundamental principles behind academic data management. We will describe the research data lifecycle, explore how data moves through typical research workflows, common challenges in handling it, and strategies for organising, documenting, and sharing data responsibly. Regardless of your research area, these foundational principles are becoming increasingly important, whether you're working with small spreadsheets or high-throughput instruments, and understanding them can help you build a more robust and transparent data flow for your projects.
+
+[More info](https://www.ebi.ac.uk/training/events/principles-research-data-management/)
+
+### Material ELIXIR SPLASH
+
+The ELIXIR Training SPLASH has been designed to guide the trainer in their efforts to plan, design, develop, deliver and evaluate training activties. It is based on the various steps of the training life cycle, although not all the steps will be relevant to everyone.
+
+[More info](https://elixir-europe-training.github.io/ELIXIR-Training-SPLASH/)
 
 ### Material of webinar series: UniProt
 
@@ -369,11 +485,3 @@ Have you heard the word metadata but have no idea what it refers to, what type o
 [More info](https://www.sib.swiss/training/course/2024_MDIBI)
 
 [Continue reading](news/posts/2025/e-learning_metadata_bioinformatics.md)
-
-### E-learning: Elements of Supercomputing
-
-This free online course is open for everyone interested in supercomputers and high performance computing. Level: Basic, no prerequisites or study rights to higher education institution needed.
-
-[More info](https://csc.fi/en/training-calendar/elements-of-supercomputing/)
-
-[Continue reading](news/posts/2025/elements_of_supercomputing.md)
