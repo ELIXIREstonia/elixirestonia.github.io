@@ -67,9 +67,9 @@ hide:
   document.addEventListener("DOMContentLoaded", () => new Splide("#lecturers", splideOpts).mount());
 </script>
 
-## Free Spring courses 2025 by ELIXIR Estonia
+## Free Autumn courses 2025 by ELIXIR Estonia
 
-* 29.05.2025 [Bring your own DMP workshop](news/posts/2025/BYO_DMP_20250529.md) - Registration open
+Will be announced soon. 
 
 
 !!! note ""
@@ -98,43 +98,6 @@ g:Profiler, a popular gene list analysis tool, celebrates 18 years since its fir
 
 ---
 ## Courses from others
-
-### Online: Towards open and standardised imaging data: an introduction to Bio-Formats, OME-TIFF, and OME-Zarr
-
-This webinar is suitable for any researcher, data manager, or imaging specialist working with microscopy data who is interested in improving data accessibility, interoperability, and scalability. No prior experience with file formats or image data standards is required, but an undergraduate level understanding of biological imaging concepts will be useful.
-
-Date:     28 May 2025
-
-[More info](https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data-introduction-bio-formats-ome-tiff-and-ome-zarr/)
-
-### Online: UniProt: Focus on Plant Proteins
-
-Are you working on plants and struggling to find information about plant proteins? Are you curious about the biosynthesis of natural compounds like caffeine, capsaicin, and others? Are you interested in the interactions between plant and pathogens? If so, this webinar is for you. UniProt is the world’s leading high-quality, comprehensive and freely accessible resource of protein sequence and functional information. Starting with a biological question (i.e., how to get the list of enzymes involved in the synthesis of CBD or THC), you will explore the different ways of answering it, using UniProt. Hints on how to extend queries to other biological contexts will also be provided.
-
-Application deadline: 02 June 2025
-
-Date: 04 June 2025
-
-[More info](https://www.sib.swiss/training/course/20250604_UPPLT)
-
-### Online: Data management in a bioimage informatics data flow
-
-This webinar is suitable for marine biologists and environmental scientists collecting samples from the natural environment, generating, visualising, annotating and analysing large, multimodal datasets such as imaging data, and sharing their data by submitting them to public data repositories.
-
-Date: 4 June 2025
-
-[More info](https://www.ebi.ac.uk/training/events/data-management-bioimage-informatics-data-flow/)
-
-### UK: Making Toxicology Educational Resources more FAIR
-
-This workshop is the fourth in a row of five workshops, designed for all toxicology and bioinformatics trainers, teachers, educational material providers, and curriculum developers who are interested in learning how to make to make toxicology educational resources more FAIR - Findable, Accessible, Interoperable, and Reusable. This workshop will help educators and researchers better organise and describe their educational resources to improve their discoverability and interoperability.
-
-Introductory webinar: June 6 2025
-
-Event date: 24-25 June 2025
-
-[More info](https://www.aanmelder.nl/intoxicom-ws-2/wiki/1152037/wp-4-features-ws-4)
-
 
 ### Switzerland: Causal Inference
 

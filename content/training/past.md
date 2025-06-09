@@ -16,6 +16,7 @@ hide:
 * **15.04.2024** [Viiba koostamine suure keelemudeli jaoks (majandusteaduskonna töötajatele)](https://elixir.ut.ee/news/2024/04/03/viiba_koostamine_majandusteaduskond/)
 * **23.-29.04.2025** -  [Statistics for Life Sciences in R Course](https://www.elixir-czech.cz/events/statistics-for-life-sciences-in-r-course)
 * **8.05.2025** -  [Bring your own DMP workshop](https://elixir.ut.ee/news/2025/04/17/BYO_DMP_202050508/)- CANCELLED
+* **29.05.2025** [Bring your own DMP workshop](https://elixir.ut.ee/news/2025/04/17/BYO_DMP_20250529/)
 
 
 ## 2024

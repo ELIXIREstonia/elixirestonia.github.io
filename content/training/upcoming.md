@@ -10,9 +10,9 @@ in Paris, and locally in Estonia. Internationally we train people how to use
 ELIXIR Estonia services in their research setting. Locally we train with
 hands-on courses in the life science community on various topics.
 
-## Free courses for the first part of the year 2025
+## Free Autumn courses 2025 by ELIXIR Estonia
 
-* 29.05.2025 [Bring your own DMP workshop](https://elixir.ut.ee/news/2025/04/17/BYO_DMP_20250529/) - Registration open
+Will be announced soon. 
 
 
 ## We are willing to train researchers on the following topics:
