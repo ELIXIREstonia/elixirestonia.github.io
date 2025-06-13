@@ -99,35 +99,6 @@ g:Profiler, a popular gene list analysis tool, celebrates 18 years since its fir
 ---
 ## Courses from others
 
-### Switzerland: Causal Inference
-
-This course is addressed to researchers new to causal reasoning who wish to familiarize themselves with the causal language and grasp the foundational concepts for delving into the causal inference literature.
-Fee: Academic: 200 CHF; For-profit: 1000 CHF
-
-Application deadline: 10 June 2025
-
-Date: 24 - 25 June 2025
-
-[More info](https://www.sib.swiss/training/course/20250624_CAUSI)
-
-### Sweden: Introduction to Data Management Practices
-
-The course is geared towards life scientists wanting to take the first steps towards a more systematic and reproducible approach to analysing and managing research data.
-
-Deadline for registration: 11 June 2025
-
-Date: 9-11 September 2025
-
-[More info](https://uppsala.instructure.com/courses/112492)
-
-### A FAIR and scalable workflow for plankton phenogenomics at single cell level
-
-This webinar is suitable for marine biologists and environmental scientists collecting samples from the natural environment, generating, visualising, annotating and analysing large, multimodal datasets such as imaging data, and sharing their data by submitting them to public data repositories. The webinar will support you to set up an efficient data flow that is aligned with FAIR principles.
-
-Date: 11 June 2025
-
-[More info](https://www.ebi.ac.uk/training/events/fair-and-scalable-workflow-plankton-phenogenomics-single-cell-level/)
-
 ### WEBINAR SERIES: AI in the life sciences: Exploring possibilities, inspiring change
 
 Join us for a series of webinars where we explore how Artificial Intelligence (AI) is shaping the future of life sciences!
@@ -137,30 +108,6 @@ A foundational session covering AI basics, its evolution, and why it matters for
 [5 upcoming webinars info here](https://www.biocommons.org.au/events/ai-series-2025)
 
 Dates: 11 June, 2 July, 29 July, 26 August, 2 September 
-
-### Switzerland: Biology-informed Multiomics Data Integration and Visualization
-
-This course is aimed at PhD students, postdoctoral and other researchers in the life sciences who are seeking to understand and visualize multi-omics data, aiming to integrate and interpret high-throughput biological data using R.
-Fee: Academic: 200 CHF; For-profit: 1000 CHF
-
-Application deadline: 09 June 2025
-
-Date: 16 - 17 June 2025
-
-[More info](https://www.sib.swiss/training/course/20250616_BIMVZ)
-
-### Switzerland: Best Practices in Programming
-
-This workshop will focus on learning and internalising the practices of unit testing, refactoring, and version control through hands-on experience. The first morning will begin with an introduction to these concepts and the tools that support them. In the afternoon and on the second day, we will transition to a code clinic, where we will work together in small groups to apply these practices and improve the code brought by participants. Due to the hands-on nature of the course, which involves a lot of code handling, discussions, and sharing experiences, it will not be taught remotely.
-The focus of this course is not object-oriented programming, software architecture, design patterns or algorithms. The goal of this course is to introduce skills and techniques for effectively developing software.
-  
-Deadline for registration: 10 June 2025
-  
-Date: 1-2 July 2025
-  
-[Course material](https://siscourses.ethz.ch/sib_workshop_best_practices/)
-
-[More info](https://www.sib.swiss/training/course/20250701_BPP)
 
 ### Hybrid: AI x BIO
 
