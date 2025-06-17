@@ -109,16 +109,6 @@ A foundational session covering AI basics, its evolution, and why it matters for
 
 Dates: 11 June, 2 July, 29 July, 26 August, 2 September 
 
-### Hybrid: AI x BIO
-
-Our new conference will showcase advances in artificial intelligence and machine learning in biology, and the potential of these emerging approaches for medical science.
-
-Deadline for registration: 16 June 2025
-
-Date: 23-25 June 2025
-
-[More info](https://coursesandconferences.wellcomeconnectingscience.org/event/ai-x-bio-20250623/)
-
 
 ### UK: Metagenomics bioinformatics at MGnify
 
@@ -388,10 +378,4 @@ Materials: https://github.com/sib-swiss/intro-machine-learning-training
 
 Materials: https://gitlab.sib.swiss/clinbio/learning/sql-for-data-science
 
-### E-Learning: Metadata in Bioinformatics
 
-Have you heard the word metadata but have no idea what it refers to, what type of content is found in metadata, how it is being used and why to use it? This asynchronous e-learning course (1h)  can be completed online, at the desired pace and in the absence of an instructor.
-
-[More info](https://www.sib.swiss/training/course/2024_MDIBI)
-
-[Continue reading](news/posts/2025/e-learning_metadata_bioinformatics.md)
