@@ -5,6 +5,9 @@ hide:
   - toc
 ---
 
+!!! warning ""
+    Many of __our services will be temporarily unavailable from June 28 to June 29, 2025__ due to a planned cloud network update by our compute service provider, [UT HPC](hpc.ut.ee). We hope to welcome you back from 30th of June. Thank you for your understanding and patience.
+
 # ELIXIR Estonia
 <div class="elixir-main-container">
   <div class="elixir-main-text">
