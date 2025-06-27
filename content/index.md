@@ -86,18 +86,19 @@ Will be announced soon.
 ## Latest news and announcements
 
 
+### Quality Data Drives Discovery: Open and Free Datasets Support AlphaGenome
+
+The newly launched [AlphaGenome model](https://github.com/google-deepmind/alphagenome) by Google DeepMind highlights how open, free, and high-quality datasets enable cutting-edge scientific advancements. Built using publicly available data, AlphaGenome demonstrates what becomes possible when researchers have access to reliable and reusable resources.
+
+[More info](https://elixir.ut.ee/news/2025/06/27/AlphaGenome/)
+
+
 ### ELIXIR Estonia Contributes to the University of Tartu Data Management and Open Science Network
 
 On May 14th, the University of Tartu's Data Management and Open Science competence network held its [second training session](https://utlib.ut.ee/en/news/kick-trainings-held-data-management-and-open-science-competence-network), organised by the [University of Tartu Library](https://utlib.ut.ee/en). ELIXIR Estonia was proud to contribute to this initiative that supports the advancement of data management and open science across the university.
 
 [More info](https://elixir.ut.ee/news/2025/05/16/DM_UT_Training/)
 
-
-### Not professorware - g:Profiler turns 18 and helps thousands of researchers yearly!
-
-g:Profiler, a popular gene list analysis tool, celebrates 18 years since its first publication in [Nucleic Acids Research](https://doi.org/10.1093/nar/gkm226). What began as a student project has become a globally cited resource, with its [2019 update article](https://doi.org/10.1093/nar/gkz369) now surpassing 5,000 citations — a testament to its lasting impact in life sciences.
-
-[More info](https://elixir.ut.ee/news/2025/04/08/g%3AProfiler_5K/)
 
 ---
 ## Courses from others
