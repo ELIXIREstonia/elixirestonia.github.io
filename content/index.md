@@ -5,9 +5,6 @@ hide:
   - toc
 ---
 
-!!! warning ""
-    Many of __our services will be temporarily unavailable from June 28 to June 29, 2025__ due to a planned cloud network update by our compute service provider, [UT HPC](https://hpc.ut.ee/). We hope to welcome you back from 30th of June. Thank you for your understanding and patience.
-
 # ELIXIR Estonia
 <div class="elixir-main-container">
   <div class="elixir-main-text">
@@ -98,13 +95,6 @@ In May, the [University of Tartu Institute of Computer Science](https://cs.ut.ee
 The newly launched [AlphaGenome model](https://github.com/google-deepmind/alphagenome) by Google DeepMind highlights how open, free, and high-quality datasets enable cutting-edge scientific advancements. Built using publicly available data, AlphaGenome demonstrates what becomes possible when researchers have access to reliable and reusable resources.
 
 [More info](https://elixir.ut.ee/news/2025/06/27/AlphaGenome/)
-
-
-### ELIXIR Estonia Contributes to the University of Tartu Data Management and Open Science Network
-
-On May 14th, the University of Tartu's Data Management and Open Science competence network held its [second training session](https://utlib.ut.ee/en/news/kick-trainings-held-data-management-and-open-science-competence-network), organised by the [University of Tartu Library](https://utlib.ut.ee/en). ELIXIR Estonia was proud to contribute to this initiative that supports the advancement of data management and open science across the university.
-
-[More info](https://elixir.ut.ee/news/2025/05/16/DM_UT_Training/)
 
 ---
 ## Courses from others
