@@ -69,7 +69,7 @@ hide:
 
 ## Free Autumn courses 2025 by ELIXIR Estonia
 
-Will be announced soon. 
+**1.08.20205** [RStudio for beginners](news/posts/2025/RStudio_Basic_01_09_2025.md)  - Registration OPEN
 
 
 !!! note ""
