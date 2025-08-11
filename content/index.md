@@ -6,7 +6,7 @@ hide:
 ---
 
 !!! warning ""
-    Many of __our services will be temporarily unavailable from June 28 to June 29, 2025__ due to a planned cloud network update by our compute service provider, [UT HPC](hpc.ut.ee). We hope to welcome you back from 30th of June. Thank you for your understanding and patience.
+    Many of __our services will be temporarily unavailable from June 28 to June 29, 2025__ due to a planned cloud network update by our compute service provider, [UT HPC](https://hpc.ut.ee/). We hope to welcome you back from 30th of June. Thank you for your understanding and patience.
 
 # ELIXIR Estonia
 <div class="elixir-main-container">
@@ -92,13 +92,6 @@ On May 14th, the University of Tartu's Data Management and Open Science competen
 
 [More info](https://elixir.ut.ee/news/2025/05/16/DM_UT_Training/)
 
-
-### Not professorware - g:Profiler turns 18 and helps thousands of researchers yearly!
-
-g:Profiler, a popular gene list analysis tool, celebrates 18 years since its first publication in [Nucleic Acids Research](https://doi.org/10.1093/nar/gkm226). What began as a student project has become a globally cited resource, with its [2019 update article](https://doi.org/10.1093/nar/gkz369) now surpassing 5,000 citations — a testament to its lasting impact in life sciences.
-
-[More info](https://elixir.ut.ee/news/2025/04/08/g%3AProfiler_5K/)
-
 ---
 ## Courses from others
 
@@ -110,108 +103,7 @@ A foundational session covering AI basics, its evolution, and why it matters for
 
 [5 upcoming webinars info here](https://www.biocommons.org.au/events/ai-series-2025)
 
-Dates: 11 June, 2 July, 29 July, 26 August, 2 September 
-
-
-### UK: Metagenomics bioinformatics at MGnify
-
-This course is aimed at life scientists who are working in the field of metagenomics and are currently in the early stages of data analysis. Participants should have some prior experience of using bioinformatics in their research. The practical sessions in the course require a basic understanding of the Unix command line and the R statistics package
-
-Deadline for registration: 22 June 2025
-
-Date: 6-10 october 2025
-
-[More info](https://www.ebi.ac.uk/training/events/metagenomics-bioinformatics-2025/)
-
-
-### Online: Open FAIR data: the role of public data archives
-
-This webinar is suitable for wet-lab and data scientists at all career stages who are interested in learning how to make their samples and imaging data open and available to the community. No prior knowledge of FAIR principles, BioSamples or the BioImage Archive is required.
-
-Date: 25th of June
-
-[More info](https://www.ebi.ac.uk/training/events/open-fair-data-role-public-data-archives/)
-
-### Switzerland: Single-Cell Transcriptomics with R
-
-This course is intended for life scientists and bioinformaticians familiar with "Next Generation Sequencing" who want to acquire the necessary skills to analyse scRNA-seq gene expression data.
-
-Deadline for registration: 25th June 2025
-
-Date: 2-4 July 2025
-
-[Materials](https://sib-swiss.github.io/single-cell-r-training/)
-
-[More info](https://www.sib.swiss/training/course/20250702_ISCTR)
-
-
-### Online: Make your research FAIRer with Quarto, GitHub and Zenodo
-
-This course is addressed to computational biologists, bioinformaticians, researchers, scientists and trainers working in the life sciences who want to learn how to make their research and training FAIRer with reproducible notebooks and websites.
-
-Deadline for registration: 30 June 2025
-
-Date: 8 July 2025
-
-[More info](https://www.sib.swiss/training/course/20250708_QUART)
-
-### Online: A journey to FAIR bioimage data
-
-This webinar is suitable for marine biologists and environmental scientists collecting samples from the natural environment, generating, visualising, annotating and analysing large, multimodal datasets such as imaging data, and sharing their data by submitting them to public data repositories. The webinar will support you to set up an efficient data flow that is aligned with FAIR principles.
-
-Date: 2 July 2025
-
-[More info](https://www.ebi.ac.uk/training/events/journey-fair-bioimage-data/)
-
-
-### HYBRID: ISMB/ECCB 2025
-
-The world's largest bioinformatics and computational biology conference ISMB/ECCB 2025 is happening  in July 20–24 in Liverpool, United Kingdom virtually and in person. More info: https://www.iscb.org/ismbeccb2025/home. There will be a [series of in-person and virtual tutorials](https://www.iscb.org/ismbeccb2025/programme-agenda/tutorials) prior to the start of the conference (__registration deadline 10th of July unless sold out__)
-
-Virtual:
-
-  * Tutorial VT1: Visualising and interpreting your -omics results using ggplot2 and R
-  * Tutorial VT2: OmicsViz: Interactive Visualization and ML for Omics Data
-  * Tutorial VT3: Computational approaches for deciphering cell-cell communication from single-cell transcriptomics and spatial transcriptomics data
-  * Tutorial VT4: An applied genomics approach to crop breeding: A suite of tools for exploring natural and artificial diversity
-  * Tutorial VT5: Comprehensive Bioinformatics and Statistical Approaches for High-Throughput Sequencing Data Analysis, Including scRNA-seq, in Biomarker Discovery
-  * Tutorial VT6: Beyond Bioinformatics: Snakemake for Versatile Computational Workflows
-  * Tutorial VT7: Assessing and Enhancing Digital Accessibility of Biological Data and Visualizations
-  * Tutorial VT8: Generative AI for Single-Cell Perturbation Modeling: Theoretical and practical considerations
-  * Tutorial VT9: Biomedical text mining for knowledge extraction
-
-In-person:
-
- * Tutorial IP1: Machine Learning for Omics: Best practices and Real-Life Insights with TidyModels
- * Tutorial IP2: Massively parallel reporter assays in functional regulatory genomics and as part of the IGVF data resource
- * Tutorial IP3: Genomic Variant Interpretation & prioritisation for clinical research
- * Tutorial IP4: Quantum Machine Learning for multi-omics analysis
- * Tutorial IP5: Introduction to Causal Analysis using Mendelian Randomisation
- * Tutorial IP6: Hello Nextflow: Getting started with workflows for bioinformatics
- * Tutorial IP7: AI large cellular models and in-silico perturbation
- * Tutorial IP8: Representation Learning and Feature Engineering for Genomic Sequences Analysis
-
-### Online: Structural bioinformatics
-
-This course is aimed at scientists generating structural data or scientists utilising structural data in their analysis and/or interpretation. No previous experience in the field of structural bioinformatics is required, however good knowledge of protein structure and function would be of benefit.
-
-Deadline for registration: 27 July 2025
-
-Date: 27-31 October 2025
-
-[More info](https://www.ebi.ac.uk/training/events/structural-bioinformatics-2025/)
-
-### UK: Genome bioinformatics: from short- to long-read sequencing
-
-The course is aimed at PhD students and post-doctoral researchers who are starting to use high-throughput sequencing technologies and bioinformatics methods in their research. The content is most applicable for those working with eukaryotic genomes, especially in the area of human genomics.Participants will require knowledge of the Unix command line and GitHub in order to adequately complete the practical sessions. Additionally, a short pre-course session on BASH and GitHub will be offered.
-Please note that participants without basic knowledge of these resources will have difficulty in completing the practical sessions.
-
-Deadline for registration: 3 August 2025
-
-Date: 17-21 November 2025
-
-[More info](https://www.ebi.ac.uk/training/events/genome-bioinformatics-2025/)
-
+Dates: 11 June, 2 July, 29 July, 26 August, 2 September
 
 ### Belgium: Train the Trainer
 
@@ -298,87 +190,3 @@ Deadline for registration: 10 October 2025
 Date: 21-23 October 2025
 
 [More info](https://training.vib.be/all-trainings/fair-training-material-made-design)
-
-### Material: Discover the Pathogen Data Network (PDN)
-
-On 29 April, PDN hosted its first public webinar for a wide audience of pathogen data practitioners. It offered a global perspective on the project’s aims and latest advances, including a demo of the central Pathogen Portal, and the perspective from one of the community-led Node in Sweden, to an audience of hundred of participants from around the globe. The recording is now available, including a lively Q&A session, reflecting the engagement of the audience and timeliness of the initiative.
-
-[More info](https://pathogendatanetwork.org/webinar-discover-the-pathogen-data-network-pdn/)
-
-### Material: Spatial Omics Data Analysis
-
-This course delves into the cutting-edge field of Spatial Omics, focusing on Spatially-Resolved Transcriptomics (SRT) technology which provides unprecedented insights into the spatial organization of gene expression within tissues.Participants will explore both imaging-based and sequencing-based SRT technologies, learning to navigate the entire workflow of SRT data analysis. The course covers essential topics such as pre-processing techniques for data cleaning, normalization, and quality control, methods for identifying and characterizing spatial domains within tissues, strategies for integrating SRT data with single-cell RNA sequencing data, and statistical approaches to analyze spatial patterns and relationships. Additionally, participants will investigate interactions between cells within their spatial context. By the end of this course, participants will be equipped with the knowledge and skills to construct a complete workflow for SRT data analysis, from raw data to meaningful biological insights.
-
-[More info](https://elixir-europe-training.github.io/ELIXIR-SCO-spatial-omics/)
-
-[Video](https://www.youtube.com/playlist?list=PLxHnvy2HZSYlnFo0LhxO1irgDby6hV-On)
-
-[Slides](https://github.com/elixir-europe-training/ELIXIR-SCO-spatial-omics/tree/main/presentations)
-
-### Material: Mastering data management: Go FAIR, Go Open, Go Smart — EMO BON and TREC showcases
-
-Making data FAIR (findable, accessible, interoperable and reusable) and open benefits both for the data provider and future users.  In this webinar, we will discuss how making data FAIR and open has allowed us to develop smart and efficient data management workflows in the context of the EMBRC EMO BON (European Marine Omics Biodiversity Observation Network) project. By focusing on the interoperability and reusability of our (meta)data, codes, and analysis results, we can use the web itself to make our data findable and accessible. We will then present examples of metadata curation from EMBL’s Planetary biology flagship expedition TREC (Traversing European Coastlines), an expedition to study coastal ecosystems and their response to the environment, from molecules to communities. We will see how one can go FAIR, Open and Smart by registering sample metadata at EMBL-EBI’s BioSamples service using checklists, controlled vocabularies and ontologies.
-
-[More info](https://www.ebi.ac.uk/training/events/mastering-data-management-go-fair-go-open-go-smart-emo-bon-and-trec-showcases/)
-
-### Material: Principles of research data management
-
-This webinar introduces fundamental principles behind academic data management. We will describe the research data lifecycle, explore how data moves through typical research workflows, common challenges in handling it, and strategies for organising, documenting, and sharing data responsibly. Regardless of your research area, these foundational principles are becoming increasingly important, whether you're working with small spreadsheets or high-throughput instruments, and understanding them can help you build a more robust and transparent data flow for your projects.
-
-[More info](https://www.ebi.ac.uk/training/events/principles-research-data-management/)
-
-### Material ELIXIR SPLASH
-
-The ELIXIR Training SPLASH has been designed to guide the trainer in their efforts to plan, design, develop, deliver and evaluate training activties. It is based on the various steps of the training life cycle, although not all the steps will be relevant to everyone.
-
-[More info](https://elixir-europe-training.github.io/ELIXIR-Training-SPLASH/)
-
-### Material of webinar series: UniProt
-
-All the links: https://www.ebi.ac.uk/training/events/uniprot/. Includes webinars:
-
-* A guide to UniProt for students
-* Programmatic access to UniProt using Python
-* Uncovering protein function with UniProt
-* Automated annotation in UniProt
-* Sequence analysis tools in UniProt: BLAST and Align
-* UniProt for proteomics scientists
-* Exploring Human Disease and Protein Variant Data in UniProtKB and Contextualising Variation with ProtVar
-* Navigating UniProt: a brief overview and recent updates
-
-
-### Material: OpenRefine for Social Science Data
-
-OpenRefine (formerly Google Refine) is a powerful free and open source tool for working with messy data: cleaning it and transforming it from one format into another.
-
-[Link](https://datacarpentry.github.io/openrefine-socialsci/index.html)
-
-
-### Materials: Large Language Models and their applications in Bioinformatics
-
-Includes materials:
-
-* [Basics of Large Language Models - transformers to LLMs](https://www.ebi.ac.uk/training/events/basics-large-language-models-transformers-llms)
-* [Developing a dataset for LLM projects](https://www.ebi.ac.uk/training/events/developing-dataset-llm-projects)
-* [LLM generated summaries for protein classification at InterPro](https://www.ebi.ac.uk/training/events/llm-generated-summaries-protein-classification-interpro)
-* [BioChatter and the future of LLM driven bioscience](https://www.ebi.ac.uk/training/events/biochatter-and-future-llm-driven-bioscience)
-* [Domain-specific knowledge extraction from scientific texts using LLMs](https://www.ebi.ac.uk/training/events/domain-specific-knowledge-extraction-scientific-texts-using-llms)
-
-### CodeRefinery workshop materials
-
-Courses including: Shell crash course, version control with Git, collaborative distributed version control, reproducible research, social coding and open software, how to document your research software, Jupyter notebooks, automated testing, modular code develeopment
-
-Main site: https://coderefinery.github.io/2025-03-25-workshop/
-
-Youtube channel: https://www.youtube.com/playlist?list=PLpLblYHCzJACpOmIzO8TywjtfYD7_d93H
-
-### Introduction to Machine Learning with Python
-
-Materials: https://github.com/sib-swiss/intro-machine-learning-training
-
-
-### First Steps with SQL for Data Science
-
-Materials: https://gitlab.sib.swiss/clinbio/learning/sql-for-data-science
-
-
