@@ -12,7 +12,8 @@ hands-on courses in the life science community on various topics.
 
 ## Free Autumn courses 2025 by ELIXIR Estonia
 
-**1.08.20205** [RStudio for beginners]()  - Registration OPEN
+**28.08.2025** [Crash Course in Data Management]() - Registration OPEN
+**1.08.20205** [RStudio for beginners](https://elixir.ut.ee/news/2025/08/11/RStudio_Basic_01_09_2025/)  - Registration OPEN
 
 
 ## We are willing to train researchers on the following topics:
