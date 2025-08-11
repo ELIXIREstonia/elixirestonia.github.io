@@ -82,8 +82,7 @@ course:
       maximumAttendeeCapacity: 50
       instructors:
         - Heleri Inno
-      online:
-       online: Zoom, link will be given a few days before the course.
+      online: Zoom, link will be given a few days before the course.
 
       # or TLU (Narva mnt 25):
       # onsite:
