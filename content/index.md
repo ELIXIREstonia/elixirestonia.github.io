@@ -86,6 +86,20 @@ Will be announced soon.
 ## Latest news and announcements
 
 
+### ELIXIR Estonia hosted the ELIXIR ELITMa module 2 and Interoperability Platform meeting in Tartu
+
+In May, the [University of Tartu Institute of Computer Science](https://cs.ut.ee/en ) and [ELIXIR Estonia](https://elixir.ut.ee/) had the pleasure of hosting a productive [ELIXIR](https://elixir-europe.org/) Week, featuring both the [ELITMa](https://elixir-europe.org/platforms/training/elitma) and a co-located [Interoperability Platform](https://elixir-europe.org/platforms/interoperability) workshop. From May 19th to 22nd, data management experts and colleagues from 11 ELIXIR Nodes across Europe gathered at the Institute of Computer Science to focus on key research data management and interoperability areas.
+
+[More info](https://elixir.ut.ee/news/2025/06/30/ELITMa_May2025/) 
+
+
+### Quality Data Drives Discovery: Open and Free Datasets Support AlphaGenome
+
+The newly launched [AlphaGenome model](https://github.com/google-deepmind/alphagenome) by Google DeepMind highlights how open, free, and high-quality datasets enable cutting-edge scientific advancements. Built using publicly available data, AlphaGenome demonstrates what becomes possible when researchers have access to reliable and reusable resources.
+
+[More info](https://elixir.ut.ee/news/2025/06/27/AlphaGenome/)
+
+
 ### ELIXIR Estonia Contributes to the University of Tartu Data Management and Open Science Network
 
 On May 14th, the University of Tartu's Data Management and Open Science competence network held its [second training session](https://utlib.ut.ee/en/news/kick-trainings-held-data-management-and-open-science-competence-network), organised by the [University of Tartu Library](https://utlib.ut.ee/en). ELIXIR Estonia was proud to contribute to this initiative that supports the advancement of data management and open science across the university.
