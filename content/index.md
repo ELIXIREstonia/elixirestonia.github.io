@@ -111,6 +111,33 @@ A foundational session covering AI basics, its evolution, and why it matters for
 
 Dates: 11 June, 2 July, 29 July, 26 August, 2 September
 
+### UK: Managing a bioinformatics core facility
+
+This workshop is aimed at both new and experienced managers of bioinformatics core facilities, or other facilities that support their users to analyse and interpret large biomolecular data sets. This course will not provide a platform for teaching hands-on bioinformatics analysis. Learning outcomes:
+
+* Identify the strengths and limitations of your core facility
+* Compare different frameworks and strategies for training your core facility users
+* Appreciate different cost models, their pros and cons, and how to apply them in the context of your core facility
+* Identify existing strategies and approaches to demonstrate the performance and impact of a core facility, the principles that impact pathway logic and impact framework design, and gain appreciation for the range of evidence of performance and impact
+  
+Applications close 17 August 2025
+
+Date: 8-10 December 2025
+
+[More info](https://www.ebi.ac.uk/training/events/managing-bioinformatics-core-facility-2025/)
+
+### Switzerland: Advanced Statistics: Statistical Modelling
+
+This course is intended for life scientists who already use the R programming language and have some basic knowledge of statistics (including statistical tests, correlation, and linear models).
+
+Application deadline: 25 August 2025
+
+Date: 1-4 September 2025
+
+[More info](https://www.sib.swiss/training/course/20250901_ASSM)
+
+[Course material](https://sib-swiss.github.io/advanced-statistics/)
+
 ### Belgium: Train the Trainer
 
 This course introduces trainers to learning principles, training techniques, design and deliver training, as well as assessment and feedback. It offers guidance, ideas and tips for : Designing and Developing training activities; Deliver training, participation and engagement; All based on research-driven educational principles.
@@ -121,6 +148,14 @@ Deadline for registration: 24 August 2025
 Date: 3-4 September 2025
 
 [More info](https://training.vib.be/all-trainings/train-trainer-0)
+
+### Germany: German Conference on Bioinformatics (GCB)
+
+Annual, international conference devoted to all areas of bioinformatics and meant as a platform for the whole bioinformatics community.
+
+Date: 22-24 September 2025
+
+[More info](https://gcb2025.de/GCB2025_registration.html)
 
 ### Online: Workshop in Epigenomics Data Analysis
 
@@ -142,6 +177,16 @@ Date: 8-9 September 2025
 
 [More info](https://training.vib.be/all-trainings/introduction-protein-structure-analysis-and-prediction)
 
+### Switzerland: Open Science Fair 2025
+
+OS FAIR 2025 aims to bring together and empower Open Science communities and services; to identify common practices related to Open Science; to see what are the best synergies to deliver and operate services that work for many; and to bring experiences from all around the world and learn from each other.
+
+Registration Deadline: 31st August 2025
+
+Date: 15-17 September 2025
+
+[More info](https://www.opensciencefair.eu/)
+
 ### Switzerland: Bioinformatics meets AI: shaping the future of data-driven biology
 
 The [BC]2 Basel Computational Biology Conference is the flagship scientific meeting of the SIB Swiss Institute of Bioinformatics, held every two years. As Switzerland's leading event in computational biology and one of the largest of its kind in Europe, [BC]² attracts around 500 scientists from academia, industry, and healthcare. Attendees explore cutting-edge advancements in bioinformatics, ranging from evolutionary and environmental dynamics to infectious diseases, cancer research, protein design, single-cell omics, and AI-driven innovations in clinical data science.
@@ -151,6 +196,16 @@ Early registration: 10 March - 30 June 2025. Standard registration: 1 July - 1 S
 Tutorials and workshops : Monday 8 September 2025. Main conference: 8-10  September 2025
 
 [More info](https://www.bc2.ch/)
+
+### Online: Developmental metabolism: flows of energy, matter, and information
+
+In this rapidly advancing field, metabolomic methods play a crucial role in unraveling complex processes. The workshop will again aim to bring together researchers from diverse backgrounds: developmental biology, genetics, epigenetics, ecology, physics and math, to provide the developmental metabolism community with cutting-edge research and methodologies applied across scales, insights into the latest advancements in metabolomic techniques and their application to developmental biology.
+
+Registration Deadline:  2 Sep 2025
+
+Date: 9 - 12 Sep 2025
+
+[More info](https://www.embl.org/about/info/course-and-conference-office/events/dmb25-01/)
 
 ### Belgium: Analysis of single cell RNASeq data
 
@@ -169,6 +224,33 @@ Deadline for registration: 9 September 2025
 Date: 23 and 26 September 2025
 
 [More info](https://training.vib.be/all-trainings/analysis-single-cell-rnaseq-data-11)
+
+### Webinar: Researchers’ Journeys in Opening Cultural and Historical Data
+
+Join us for a webinar dedicated to making cultural and historical data open. The session aims to demystify the process of data publishing and help participants better understand what it involves. By sharing concrete examples, we hope to lower the barriers to opening up research data.
+
+Date: 16.9.2025
+
+[More info](https://csc.fi/koulutuskalenteri/webinar-researchers-journeys-in-opening-cultural-and-historical-data/)
+
+### Webinar: Exploring secondary and archival data in social science research: An introduction
+
+This webinar will provide an introduction into secondary and archival social science data. The webinar will cover a number of topics including where to find the data, the considerations of using different types of data, how sampling will impact analyses and interpretation of results, some data management tips and examples of analyses conducted with secondary social science data.
+
+Date: 19 September 2025
+
+[More info:](https://infra4nextgen.com/events/webinar-exploring-secondary-and-archival-data/)
+
+### Hybrid: New Horizons in Neurodegeneration
+
+Neurodegenerative diseases such as Alzheimer's disease, Parkinson's disease and amyotrophic lateral sclerosis (ALS) manifest with distinct clinical features but shares underlying mechanisms. Understanding neurodegenerative diseases is critical in the quest to develop preventive measures, diagnostic tools, and targeted therapies. This conference brings together leading scientists in the field to share groundbreaking research, novel methodologies, and cutting-edge technologies, all aimed at unraveling the complexities of neurodegeneration.
+
+Registration Deadline: Early bird 11 Sep, Final 25 Sep
+
+Date: 9-19 October 2025
+
+[More info](https://www.vibconferences.be/events/new-horizons-in-neurodegeneration)
+
 
 ### Germany: European Galaxy Days (EGD)
 
@@ -196,3 +278,15 @@ Deadline for registration: 10 October 2025
 Date: 21-23 October 2025
 
 [More info](https://training.vib.be/all-trainings/fair-training-material-made-design)
+
+### WEBINAR recording: Deciphering AI for the Life Sciences
+
+AI is reshaping life sciences by enabling researchers to analyze complex datasets, automate workflows, and gain deeper insights into biological processes. This introductory webinar will break down AI concepts, clarify key terminology, and showcase real-world examples of AI applications in the life sciences.
+
+[More info](https://www.youtube.com/watch?v=sbVzcrD-wko)
+
+### Course material: Building capacity in Single-Cell and Spatial Omics
+
+A list of course instances collected by the recent training survey conducted by the ELIXIR Single-Cell Omics Community. These courses have materials inc. slides and exercises available online, some of them provide recorded lectures too.
+
+[More info](https://www.singlecellomics.org/pages/training/index)
