@@ -16,6 +16,8 @@ hands-on courses in the life science community on various topics.
 
 **1.09.20205** [RStudio for beginners](https://elixir.ut.ee/news/2025/08/11/RStudio_Basic_01_09_2025/)  - Registration OPEN
 
+**5.09.2025** [Licensing Research Outputs]()  - Registration OPEN
+
 
 ## We are willing to train researchers on the following topics:
 

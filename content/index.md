@@ -73,6 +73,8 @@ hide:
 
 **1.09.20205** [RStudio for beginners](news/posts/2025/RStudio_Basic_01_09_2025.md)  - Registration OPEN
 
+**5.09.2025** [Licensing Research Outputs](news/posts/2025/Licensing_05-09.md)  - Registration OPEN
+
 
 !!! note ""
     If you would like to be notified about the events, trainings and workshops
@@ -110,21 +112,6 @@ A foundational session covering AI basics, its evolution, and why it matters for
 [5 upcoming webinars info here](https://www.biocommons.org.au/events/ai-series-2025)
 
 Dates: 11 June, 2 July, 29 July, 26 August, 2 September
-
-### UK: Managing a bioinformatics core facility
-
-This workshop is aimed at both new and experienced managers of bioinformatics core facilities, or other facilities that support their users to analyse and interpret large biomolecular data sets. This course will not provide a platform for teaching hands-on bioinformatics analysis. Learning outcomes:
-
-* Identify the strengths and limitations of your core facility
-* Compare different frameworks and strategies for training your core facility users
-* Appreciate different cost models, their pros and cons, and how to apply them in the context of your core facility
-* Identify existing strategies and approaches to demonstrate the performance and impact of a core facility, the principles that impact pathway logic and impact framework design, and gain appreciation for the range of evidence of performance and impact
-  
-Applications close 17 August 2025
-
-Date: 8-10 December 2025
-
-[More info](https://www.ebi.ac.uk/training/events/managing-bioinformatics-core-facility-2025/)
 
 ### Switzerland: Advanced Statistics: Statistical Modelling
 
