@@ -164,6 +164,18 @@ Date: 8-9 September 2025
 
 [More info](https://training.vib.be/all-trainings/introduction-protein-structure-analysis-and-prediction)
 
+### Online: First Steps with UNIX in Life Sciences
+
+This course is addressed to beginners wanting to become familiar with the Linux / UNIX environment, its basic commands, and the Bash shell.
+
+Registration deadline: 25 August 2025
+
+Date: 2 September 2025
+
+[More info](https://www.sib.swiss/training/course/20250902_FSWU)
+
+[Course material](https://github.com/sib-swiss/unix-first-steps-training)
+
 ### Switzerland: Open Science Fair 2025
 
 OS FAIR 2025 aims to bring together and empower Open Science communities and services; to identify common practices related to Open Science; to see what are the best synergies to deliver and operate services that work for many; and to bring experiences from all around the world and learn from each other.
@@ -173,6 +185,17 @@ Registration Deadline: 31st August 2025
 Date: 15-17 September 2025
 
 [More info](https://www.opensciencefair.eu/)
+
+### Germany: Volume electron microscopy by automated serial SEM
+
+This course aims to provide extensive theoretical and practical knowledge on the three main techniques for volume EM based on SEM: microtome-based serial block-face SEM, focused ion beam SEM, and array tomography.The participants will be able to assess the potential of each technique to understand which fits best with their own projects, and acquire the theoretical background to understand the different techniques as well as how to optimize the imaging conditions, the data processing, analysis and management.
+
+Registration Deadline: 31 August 2025
+
+Date: 23-28 November 2025
+
+[More info](https://www.embl.org/about/info/course-and-conference-office/events/vem25-01/#vf-tabs__section-overview)
+
 
 ### Switzerland: Bioinformatics meets AI: shaping the future of data-driven biology
 
@@ -194,6 +217,33 @@ Date: 9 - 12 Sep 2025
 
 [More info](https://www.embl.org/about/info/course-and-conference-office/events/dmb25-01/)
 
+### Online: INTOXICOM Webinar 5
+
+Schedule:
+
+* Biomodels, INtAct, SBML etc. Rahuman Sheriff, EBI, ELIXIR-EBI
+* WikiPathways (for process descriptions). Marvin Martens, Maastricht University, ELIXIR-NL
+* Network analysis approaches, fluxomics models/model standardization and integrated models, Maria Klapa, Institute of Chemical Engineering Sciences, Foundation for Research and Technology, Hellas, ELIXIR-GR
+
+Date: 2 September 2025
+
+[More info](https://elixir-europe.org/events/intoxicom-webinar-5)
+
+
+### Online: CodeRefinery workshop
+
+Are you writing code for your research? Do you struggle to reproduce results of your own or others computations? Join the online CodeRefinery workshop on nine half days:
+
+* Intro to git and collaborative git: 9+10+11/September 11:00-13:00 + 14:00-15:30 (CEST)
+* Reproducible research and other topics spread over 6 following weeks Wednesdays with exercises: 17.9+24.9+1.10+8.10+15.10 + 22.10.
+
+The CodeRefinery workshop aims to support researchers of all domains, levels and preferred programming languages to write more reproducible research code. The workshop is held online (streamed on Twitch) with interactive hands-on sessions during the first week. The event is free of charge.
+
+Registration deadline: 8 September 2025
+        
+[More info](https://coderefinery.github.io/2025-09-09-workshop/)
+
+
 ### Belgium: Analysis of single cell RNASeq data
 
 In this course, we will go through the whole pipeline to analyze short-read scRNASeq data. We will teach you how to:
@@ -211,6 +261,17 @@ Deadline for registration: 9 September 2025
 Date: 23 and 26 September 2025
 
 [More info](https://training.vib.be/all-trainings/analysis-single-cell-rnaseq-data-11)
+
+### Sweden: Biomarker Discovery: from theory to real world examples
+
+The main purpose of this course is to provide a good overview of biomarkers and biomarker studies. This course will explore recent research, showcasing diverse biomarker applications within clinical trials. Methods employed to identify biomarkers through various omics datasets will be reviewed. Participants will engage in discussion on biomarker studies and data analysis exercises that encompass approaches like machine learning methods and other integrative omics strategies used in biomarker discovery.
+
+Registration deadline: 12 September 2025
+
+Date: 13-16 October 2025
+
+[More info](https://training.scilifelab.se/events/biomarker-discovery-from-theory-to-real-world-examples)
+
 
 ### Webinar: Researchers’ Journeys in Opening Cultural and Historical Data
 
@@ -255,6 +316,36 @@ Date: 29 September - 3 October 2025
 
 [More info](https://www.cra.wallonie.be/en/xvii-vibrational-spectroscopy-and-chemometrics-training-course-1)
 
+### Hybrid: Spatial biology: the melting pot
+
+The meeting aims to bring together the rapidly growing academic community, fostering discussions on cutting-edge spatial technologies, innovative data analysis approaches, and their applications in both fundamental and translational research.
+
+Registration deadline: 7 October 2025
+
+Date: 14-17 October 2025
+
+[More info](https://www.embl.org/about/info/course-and-conference-office/events/spb25-01/)
+
+### Belgium: Basic image processing using Fiji
+
+This training introduces participants to Fiji, a widely used open-source platform built on ImageJ, designed for scientific image analysis. Through hands-on exercises, participants will learn how to perform basic image processing tasks, apply filters, and use plugins for biological image quantification. The course also covers the use of macros to automate repetitive tasks, enabling more efficient and reproducible workflows. By the end of the session, attendees will be equipped with practical skills to independently analyze microscopy images and build simple analysis pipelines tailored to their research needs.
+
+Registration deadline: 7 October 2025
+
+Date: 16 October 2025
+
+[More info](https://training.vib.be/all-trainings/basic-image-processing-using-fiji-7)
+
+### Belgium: QuPath: quantitative pathology & bioimage analysis software
+
+This introductory QuPath course is designed for early-stage researchers—particularly 1st-year PhD students, postdocs, and research support staff—who are new to digital pathology and image analysis.This training provides a hands-on introduction to QuPath, a powerful open-source platform for bioimage analysis and specifically large 2D images such as slide scanner images. Participants will learn how to navigate the software, annotate images, perform cell segmentation, classify pixels and objects, and extract quantitative features. The course also introduces basic scripting for batch processing, enabling scalable workflows.
+
+Registration deadline: 8 October 2025
+
+Date: 17 October 2025
+
+[More info](https://training.vib.be/all-trainings/qupath-quantitative-pathology-bioimage-analysis-software-9)
+
 ### Belgium: FAIR training material made by Design
 
 By the end of the course, participants will be able to: Create a FAIR and open training material from the start, Apply FIAR principles to all elements of training material, Use AI tools in the content creation of FAIR training material.
@@ -265,6 +356,49 @@ Deadline for registration: 10 October 2025
 Date: 21-23 October 2025
 
 [More info](https://training.vib.be/all-trainings/fair-training-material-made-design)
+
+### Sweden: Introduction to Bioinformatics using NGS data
+
+An introductory workshop on applied bioinformatic next-generation sequence analyses run by the National Bioinformatic Infrastructure Sweden (NBIS) in partnership with National Genomics Infrastructure (NGI).
+
+Registration Deadline: 12 October 2025
+
+Date: 17-21 November 2025
+
+[More info](https://uppsala.instructure.com/courses/112140)
+
+### Belgium: Introduction to Docker and Apptainer: reproducible and automated data analysis
+
+The container workshop will give an introduction to Docker & Apptainer, which are great components to achieve portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others, and re-use and modify existing containers. After an extensive explanation on Docker containers, the Apptainer application, previously Singularity, and its use in the HPC will be highlighted as well.
+
+Registration deadline: 13 October 2025
+
+Date: 23-24 October 2025
+
+[More info](https://training.vib.be/all-trainings/introduction-docker-and-apptainer-reproducible-and-automated-data-analysis)
+
+### Hybrid: Emerging Applications of Microbes
+
+This conference will delve into cutting-edge applications, from sustainable agriculture and bioremediation to breakthroughs in human and animal health, circular economy innovations, and next-generation food technologies. We will also spotlight microbial cell factories, synthetic biology, and microbial engineering as key drivers of progress in industrial and applied microbiology.
+
+Registration deadline: 23 October 2025
+
+Date: 6-7 November 2025
+
+[More info](https://www.vibconferences.be/events/emerging-applications-of-microbes-3rd-edition)
+
+### Material: GRAY SCOTT SCHOOL 2025 - Revolutions
+
+The GRAY SCOTT SCHOOL 2025 - Revolutions will be a deep dive into High Performance Computing, computing optimisation, profiling, and software engineering. Before the summer school, Gray Scott Thursdays are 17 webinars to guide you through important topics such as CPU/GPU architectures, Unit Tests, Computing Precision, Memory Allocation and profiling, with modern C++, Rust, Fortran and Python languages, and libraries such as Sycl, EVE, Vulkan, CUDA, Thrust, PyTorch.
+
+[More info and recordings](https://cta-lapp.pages.in2p3.fr/cours/gray_scott_revolutions/grayscottrevolution/index.html)
+
+### Material: Deploying Nextflow pipelines in the cloud: a practical introduction
+
+This webinar is designed for bioinformaticians, pipeline developers and users with a basic understanding of cloud computing concepts and Workflow Management systems. Throughout the session, you will learn how to configure a Nextflow pipeline, set up the necessary cloud infrastructure, and execute the BioSIFTR pipeline in the cloud.
+
+[Recorded webinar and materials](https://www.ebi.ac.uk/training/events/deploying-nextflow-pipelines-cloud-practical-introduction/)
+
 
 ### WEBINAR recording: Deciphering AI for the Life Sciences
 
