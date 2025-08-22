@@ -50,13 +50,13 @@ Useful sites:
 
 ## Data Management
 
+* Pilvar, D. (2025, May 28). __Bring Your Own Data Management Plan.__ Zenodo. https://doi.org/10.5281/zenodo.15538895
 * Inno, H. (2025, March 10). __Getting organised with Notion.__ Zenodo. https://doi.org/10.5281/zenodo.14998033
 * Pilvar, D. (2025, February 10). __Crash Course in Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.13801447
 * Inno, H. (2024, October 31). __Laboratory documentation with Markdown.__ Zenodo. https://doi.org/10.5281/zenodo.14016131
 * Pilvar, D. (2024, September 24). __How to make your messy data usable? / OpenRefine__. Zenodo. https://doi.org/10.5281/zenodo.13832071
 * Pilvar, D. (2024, May 14). __Metadata and README.__ Zenodo. https://doi.org/10.5281/zenodo.7835048.
 * Pilvar, D. (2024, May 1). __FAIR in a Nutshell.__ Zenodo. https://doi.org/10.5281/zenodo.7660007.
-* Pilvar, D. (2024, March 1). __Bring Your Own Data Management Plan.__ Zenodo. https://doi.org/10.5281/zenodo.7707813.
 * Pilvar, D. (2024, February 23). __Andmehaldus 101.__ Zenodo. https://doi.org/10.5281/zenodo.10006022
 * Pilvar, D. (2023, September 5). __AKKI andmehalduse seminar.__ Zenodo. https://doi.org/10.5281/zenodo.8318151
 * Pilvar, D. (2023, April 25). __Licensing Research Outputs.__ Zenodo. https://doi.org/10.5281/zenodo.7863005
