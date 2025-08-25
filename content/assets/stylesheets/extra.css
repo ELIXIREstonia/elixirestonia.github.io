@@ -162,3 +162,43 @@ footer a, footer a:link, footer a:visited {
     padding: 0.5em 0;
   }
 }
+
+@media screen and (min-width: 769px) {
+  .tool-tiles {
+    display: flex;
+    min-height: 100%;
+    align-items: stretch;
+  }
+
+  .tool-tiles-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; /* space out evenly */
+    margin-bottom: 120px;
+  }
+  
+  .tool-tile-wrapper {
+    flex: 1;
+    min-width: 300px; /* prevent too small tiles */
+  }
+}
+
+.tile-grid {
+  display: flex;
+  height: 100%; 
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+
+text-tile {
+  flex: 1 1 calc(50- 2rem); /* 2 tiles per row with gap adjustment */
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 300px; /* or any fixed height */
+  max-width: fit-content;
+
+}

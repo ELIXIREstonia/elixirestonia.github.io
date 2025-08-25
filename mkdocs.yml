@@ -52,6 +52,8 @@ extra_css:
 extra_javascript:
   - assets/javascripts/tiles.js
   - assets/javascripts/splide.min.js
+  - assets/javascripts/text-tile.js
+  - assets/javascripts/course-tile-rm.js
 
 plugins:
   - blog:
