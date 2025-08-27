@@ -1,5 +1,5 @@
 ## Course Tile Documentation
-This guide explains how to add and format course tiles for the index.md page. If some parts are not visible, please look at https://hackmd.io/@W_8kpW-aSiyGC5f8mb9-bQ/rJAbMJcKle
+This guide explains how to add and format course tiles for the index.md page. If some parts are not visible, please look at the markdown in GitHub.
 
 ### How to Add Course Tiles
 To create a course tile, you need to use a div element with the class tile-grid. This acts as a container (one row) for your course tiles. Each tile-grid can hold a maximum of two <text-tile> elements.
@@ -15,7 +15,7 @@ To create a course tile, you need to use a div element with the class tile-grid.
    <div class="tile-grid">
        <text-tileCourse no 1 info here (using attributes)></text-tile>
        <text-tileCourse no 2 info here (using attributes)></text-tile>
-3. Close the container: Finish by adding \div
+3. Close the container: Finish by adding /div
     ```html
    <div class="tile-grid">
        <text-tileCourse no 1 info here (using attributes)></text-tile>
@@ -35,11 +35,10 @@ Each <text-tile> has several attributes you can use to add information about the
 | deadline | A user-friendly display of the registration deadline. | deadline="Registration deadline: 24 hours before the webinar" |
 | materials | (Optional) A link to the course materials. Shown as "Materials" on the site by default.| materials="https://sib-swiss.github.io/single-cell-r-training/" |
 |materialstext | The name of the materials link shown to the user. By default this is "Materials".| materialstext="See videos" |
-| data-deadline-date | Crucial for auto-removal. The registration deadline in YYYY-MM-DD format. The site user will not see this. | data-deadline-date="2025-06-25" |
-| data-webinar-date | Used for webinars with a rolling deadline. The date and time of the event in YYYY-MM-DDTHH:MM:SS format. The site user will not see this.| data-webinar-date="2025-09-02T10:00:00" |
-| data-deadline-offset-hours | Used with data-webinar-date. Sets the registration deadline a number of hours before the webinar date. The site user will not see this.| data-deadline-offset-hours="24" |
+| data-deadline-date | Crucial for auto-removal. Used for courses/webinars. The registration deadline in YYYY-MM-DD format. The site user will not see this. | data-deadline-date="2025-06-25" |
+| data-added-date | Used for materials with a 6 month deadline. The added date indicates the date when the material was added. This should be in YYYY-MM-DD format. The site user will not see this.| data-added-date="2025-09-02" |
 
-❗️ Important: The data-deadline-date and data-webinar-date attributes are critical for the automatic removal of expired courses. Ensure they are in the correct format.
+❗️ Important: The data-deadline-date and data-added-date attributes are critical for the automatic removal of expired courses. Ensure they are in the correct format.
 
 ### Automatic Tile Removal
 Tiles are automatically hidden from the live webpage after the date specified in data-deadline-date or data-webinar-date has passed.

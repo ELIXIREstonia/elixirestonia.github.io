@@ -52,6 +52,13 @@ function removeExpiredTiles_Improved() {
     // Step 2: Collect all remaining tiles
     const allTiles = Array.from(document.querySelectorAll('text-tile'));
 
+    // sorting tile based on the data-deadline-date attribute 
+    allTiles.sort((a, b) => {
+        const deadlineA = a.dataset.deadlineDate ? new Date(a.dataset.deadlineDate).getTime() : Infinity;
+        const deadlineB = b.dataset.deadlineDate ? new Date(b.dataset.deadlineDate).getTime() : Infinity;
+        return deadlineA - deadlineB;
+    });
+
     // Step 3: Redistribute tiles across grids
     grids.forEach(grid => {
         // Clear the current grid
