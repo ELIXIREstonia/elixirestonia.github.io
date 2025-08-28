@@ -69,7 +69,7 @@ hide:
 
 ## Free Autumn courses 2025 by ELIXIR Estonia
 
-**28.08.2025** [Crash Course in Data Management](news/posts/2025/Crash_course_DM_28_08.md) - Registration OPEN
+**28.08.2025** [Crash Course in Data Management](news/posts/2025/Crash_course_DM_28_08.md)
 
 **1.09.20205** [RStudio for beginners](news/posts/2025/RStudio_Basic_01_09_2025.md)  - Registration OPEN
 
@@ -249,6 +249,17 @@ deadline="Registration deadline:  9 September 2025"
   link="https://training.vib.be/all-trainings/analysis-single-cell-rnaseq-data-11"
   dates="Date: 23, 26 September 2025"
   data-deadline-date="2025-09-10">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Advancing FAIR data practices for rare disease Research"
+  description="The first three-day training webinar is designed to provide researchers, data stewards, healthcare professionals, funders, and patient advocates with a comprehensive introduction to the FAIR data principles—Findability, Accessibility, Interoperability, and Reusability—with a specific focus on their application in rare disease and health research."
+  deadline="Registration deadline: 12 September 2025"
+  dates="Date: 24–26 September 2025"
+  link="https://us06web.zoom.us/webinar/register/WN_sUntc_lZTuKszYLrTRTtpQ?_x_zm_rtaid=O3RKi0zITtOV0Jebom47nw.1756214120845.33fb25cd4f89014c42b6ce87dea30f9c&_x_zm_rhtaid=349#/registration"
+  data-deadline-date="2025-09-13">
 </text-tile>
 </div>
 
