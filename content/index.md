@@ -69,8 +69,6 @@ hide:
 
 ## Free Autumn courses 2025 by ELIXIR Estonia
 
-**28.08.2025** [Crash Course in Data Management](news/posts/2025/Crash_course_DM_28_08.md)
-
 **1.09.20205** [RStudio for beginners](news/posts/2025/RStudio_Basic_01_09_2025.md)  - Registration OPEN
 
 **5.09.2025** [Licensing Research Outputs](news/posts/2025/Licensing_05-09.md)  - Registration OPEN

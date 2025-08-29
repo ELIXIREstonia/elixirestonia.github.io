@@ -50,6 +50,7 @@ Useful sites:
 
 ## Data Management
 
+* Inno, H. (2025, August 29). __Crash Course In Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.16993293
 * Pilvar, D. (2025, May 28). __Bring Your Own Data Management Plan.__ Zenodo. https://doi.org/10.5281/zenodo.15538895
 * Inno, H. (2025, March 10). __Getting organised with Notion.__ Zenodo. https://doi.org/10.5281/zenodo.14998033
 * Pilvar, D. (2025, February 10). __Crash Course in Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.13801447
