@@ -71,6 +71,8 @@ hide:
 
 **5.09.2025** [Licensing Research Outputs](news/posts/2025/Licensing_05-09.md)  - Registration OPEN
 
+**30.09.2025** [Data visualisation (theory)](news/posts/2025/data_visualisation_theory_30-09-2025.md)  - Registration OPEN
+
 
 !!! note ""
     If you would like to be notified about the events, trainings and workshops
