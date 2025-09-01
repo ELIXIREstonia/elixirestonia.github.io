@@ -101,38 +101,6 @@ The newly launched [AlphaGenome model](https://github.com/google-deepmind/alphag
 
 <div class="tile-grid">
 <text-tile
-  title="WEBINAR SERIES: AI in the life sciences: Exploring possibilities, inspiring change"
-  description="Join us for a series of webinars where we explore how Artificial Intelligence (AI) is shaping the future of life sciences! This series provides an accessible introduction to AI while giving direct access to experts and practical insights into real-world applications. Designed to inspire and help you recognise potential applications of AI in the life sciences, these webinars will spark new ways of thinking so that you can start applying AI in your work.
-A foundational session covering AI basics, its evolution, and why it matters for life sciences. Watch the recording: <a href='https://www.youtube.com/watch?v=sbVzcrD-wko' target='_blank' rel='noopener noreferrer'>here</a>."
-  link="https://www.biocommons.org.au/events/ai-series-2025"
-  dates="Dates: 11 June, 2 July, 29 July, 26 August, 2 September"
-  deadline="Registration deadline: 24 hours before the webinar"
-  data-webinar-date="2025-09-02T10:00:00"
-  data-deadline-offset-hours="24"
-  >
-</text-tile>
-<text-tile
-  title="Switzerland: Advanced Statistics: Statistical Modelling"
-  description="This course is intended for life scientists who already use the R programming language and have some basic knowledge of statistics (including statistical tests, correlation, and linear models)."
-deadline="Registration deadline: 25 August 2025"
-  link="https://www.sib.swiss/training/course/20250901_ASSM"
-  materials="https://sib-swiss.github.io/advanced-statistics/"
-  dates="Date: 1-4 September 2025"
-  data-deadline-date="2025-08-26">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-  title="Belgium: Train the Trainer"
-  description="This course introduces trainers to learning principles, training techniques, design and deliver training, as well as assessment and feedback. It offers guidance, ideas and tips for: Designing and Developing training activities; Deliver training, participation and engagement; All based on research-driven educational principles.
-Examples and discussions will also focus on the challenges presented by academic teaching."
-deadline="Registration deadline: 24 August 2025"
-  link="https://training.vib.be/all-trainings/train-trainer-0"
-  dates="Date: 3-4 September 2025"
-  data-deadline-date="2025-08-25">
-</text-tile>
-<text-tile
   title="Germany: German Conference on Bioinformatics (GCB)"
   description="Annual, international conference devoted to all areas of bioinformatics and meant as a platform for the whole bioinformatics community."
   link="https://gcb2025.de/GCB2025_registration.html"
@@ -142,53 +110,6 @@ deadline="Registration deadline: 24 August 2025"
 </div> 
 
 <div class="tile-grid">
-<text-tile
-  title="Online: Workshop in Epigenomics Data Analysis"
-  description="The aim of this workshop is to introduce best practice bioinformatics methods for processing, analyses and integration of epigenomics data. The online teaching includes lectures, programming tutorials and interactive group sessions. This workshop is run by the National Bioinformatics Infrastructure Sweden (NBIS)."
-deadline="Registration deadline: 25 August 2025"
-  link="https://uppsala.instructure.com/courses/112730"
-  dates="Date: 22 - 26 September 2025"
-  data-deadline-date="2025-08-26">
-</text-tile>
-<text-tile
-  title="Belgium: Introduction to Protein Structure Analysis and Prediction"
-  description="This two-day training covers the basics of protein structure analysis, starting with exploring online databases like AlphaFoldDB, visualizing with ChimeraX, comparing homologues, and using tools like MutateX or PROSS to quantify interactions on day one. The second day focuses on accessing structure predictions via online tools (AlphaFold3, Chai-1) and HPC installations (AlphaFold2, Boltz-1, AlphaPulldown), culminating in an afternoon session where participants apply these tools to their own research questions and learn AlphaPulldown for protein-protein interaction screens."
-deadline="Registration deadline: 25 August 2025"
-  link="https://uppsala.instructure.com/courses/112730"
-  dates="Date: 8-9 September 2025"
-  data-deadline-date="2025-08-26">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-  title="Online: First Steps with UNIX in Life Sciences"
-  description="This course is addressed to beginners wanting to become familiar with the Linux / UNIX environment, its basic commands, and the Bash shell."
-deadline="Registration deadline: 25 August 2025"
-  link="https://www.sib.swiss/training/course/20250902_FSWU"
-  materials="https://github.com/sib-swiss/unix-first-steps-training"
-  dates="Date: 2 September 2025"
-  data-deadline-date="2025-08-26">
-</text-tile>
-<text-tile
-  title="Switzerland: Open Science Fair 2025"
-  description="OS FAIR 2025 aims to bring together and empower Open Science communities and services; to identify common practices related to Open Science; to see what are the best synergies to deliver and operate services that work for many; and to bring experiences from all around the world and learn from each other."
-deadline="Registration deadline: 31st August 2025"
-  link="https://www.opensciencefair.eu/"
-  dates="Date: 15-17 September 2025"
-  data-deadline-date="2025-09-01">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-  title="Germany: Volume electron microscopy by automated serial SEM"
-  description="This course aims to provide extensive theoretical and practical knowledge on the three main techniques for volume EM based on SEM: microtome-based serial block-face SEM, focused ion beam SEM, and array tomography.The participants will be able to assess the potential of each technique to understand which fits best with their own projects, and acquire the theoretical background to understand the different techniques as well as how to optimize the imaging conditions, the data processing, analysis and management."
-deadline="Registration Deadline: 31 August 2025"
-  link="https://www.embl.org/about/info/course-and-conference-office/events/vem25-01/#vf-tabs__section-overview"
-  dates="Date: 23-28 November 2025"
-  data-deadline-date="2025-09-01">
-</text-tile>
 <text-tile
   title="Switzerland: Bioinformatics meets AI: shaping the future of data-driven biology"
   description="The [BC]2 Basel Computational Biology Conference is the flagship scientific meeting of the SIB Swiss Institute of Bioinformatics, held every two years. As Switzerland's leading event in computational biology and one of the largest of its kind in Europe, [BC]² attracts around 500 scientists from academia, industry, and healthcare. Attendees explore cutting-edge advancements in bioinformatics, ranging from evolutionary and environmental dynamics to infectious diseases, cancer research, protein design, single-cell omics, and AI-driven innovations in clinical data science."
