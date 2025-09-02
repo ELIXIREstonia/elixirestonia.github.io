@@ -7,12 +7,24 @@ hide:
 
 ## Other materials
 
-1. Inno, H., & Peterson, H. (2024). **Empowering Life Sciences Research: ELIXIR Estonia** poster. Zenodo. Available from: https://doi.org/10.5281/zenodo.13847963
+1. Inno, H., & Peterson, H. (2025). **ELIXIR Estonia: A Year of Growth, Progress, and Impact** (1.0). ELIXIR All Hands 2025 (AHM25), Thessaloniki, Greece. Zenodo. https://doi.org/10.5281/zenodo.15656761
+2. Inno, H., & Peterson, H. (2024). **Empowering Life Sciences Research: ELIXIR Estonia** poster. Zenodo. Available from: https://doi.org/10.5281/zenodo.13847963
 
 ## Peer reviewed publications
 
 Publications from ELIXIR Europe collaborations are printed in _cursive_.
 Tools and services are linked from the title of the corresponding paper.
+
+### 2025
+
+1. Alper, P., D'Anna, F., Droesbeke, B., Andrabi, M., Andrade Buono, R., Bianchini, F., Bösl, K., Chandramouliswaran, I., Cook, M., Faria, D., Fatima, N., Hooft, R., Jareborg, N., Jetten, M., Pilvar, D., Poires-Oliveira, G., Popleteeva, M., Portell-Silva, L., Slifka, J., Suchánek, M., van Gelder, C., Welter, D., Wittig, U., Coppens, F., Goble, C. (2025). **RDMkit: A research data management toolkit for life sciences**. Patterns, 101345. [https://doi.org/10.1016/j.patter.2025.101345](https://doi.org/10.1016/j.patter.2025.101345)
+2. Moor, M., Männaste, L., Putrinš, M., Fishman, D., & Kogermann, K. (2025). **FiBar: A tool for analyzing fiber diameters in complex drug delivery systems from scanning electron microscopy images.** European Journal of Pharmaceutical Sciences, 212, 107179. [https://doi.org/10.1016/j.ejps.2025.107179](https://doi.org/10.1016/j.ejps.2025.107179)
+
+### 2024
+
+1. Päll, T., Abroi, A., Avi, R., Niglas, H., Shablinskaja, A., Pauskar, M., Jõgeda, L., Soeorg, H., Kallas, E., Lahesaare, A., Truusalu, K., Hoidmets, D., Sadikova, O., Ratnik, K., Sepp, H., Dotsenko, L., Epštein, J., Suija, H., Kaarna, K., . . .  Huik, K. (2024). **SARS-CoV-2 clade dynamics and their associations with hospitalisations during the first two years of the COVID-19 pandemic.** PLOS ONE, 19(5), e0303176. [https://doi.org/10.1371/journal.pone.0303176](https://doi.org/10.1371/journal.pone.0303176)
+2. Pallaseni, A., Peets, E.M., Girling, G. et al. **The interplay of DNA repair context with target sequence predictably biases Cas9-generated mutations.** Nat Commun 15, 10271 (2024). [https://doi.org/10.1038/s41467-024-54566-7](https://doi.org/10.1038/s41467-024-54566-7)
+3. Soeorg, H., Abroi, A., Päll, T., Dotsenko, L., Jaaniso, E., Kaarna, K., Lahesaare, A., Naaber, P., Niglas, H., Oopkaup, O. E., Peterson, H., Reisberg, T., Sadikova, O., Smit, S., Talas, U. G., Avi, R., Lutsar, I., & Huik, K. (2024). **Dynamics of SARS-CoV-2 lineages in children and adults in 2021 and 2022.** PLOS ONE, 19(12), e0316213. [https://doi.org/10.1371/journal.pone.0316213](https://doi.org/10.1371/journal.pone.0316213)
 
 ### 2023
 
