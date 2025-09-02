@@ -97,5 +97,5 @@ The Estonian ELIXIR node offers various data analysis services and tools for the
 
 <div class="tool-tiles">
 <tool-tile description="Best practices and guidelines to help you make your data FAIR (Findable, Accessible, Interoperable and Reusable)" doi="https://doi.org/10.1016/j.patter.2025.101345" href="https://rdmkit.elixir-europe.org/" name="RDMkit" src="/assets/images/tools/RDMkit_homepage.png" tags="Data Management, Data Stewardship"></tool-tile>
-<tool-tile description="Discover tools and best practices for working with infectious disease data" doi="" href="https://www.infectious-diseases-toolkit.org/" name="IDTk" src="/assets/images/tools/IDTK_homepage.png" tags="Infectious Diseases, Guidance "></tool-tile>
+<tool-tile description="Discover tools and best practices for working with infectious disease data" href="https://www.infectious-diseases-toolkit.org/" name="IDTk" src="/assets/images/tools/IDTK_homepage.png" tags="Infectious Diseases, Guidance "></tool-tile>
 </div>
