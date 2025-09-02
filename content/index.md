@@ -85,6 +85,13 @@ hide:
 ## Latest news and announcements
 
 
+### Learning Data Management the Scary Way
+
+What happens when you forget to back up your research data? Or when a tiny mistake in Excel changes your results completely? This autumn, [ELIXIR Estonia](https://elixir.ut.ee/) is taking a playful, but serious look at what can go wrong in data management.
+
+[More info](https://elixir.ut.ee/news/2025/09/02/Data_Horror_Story_Event/) 
+
+
 ### ELIXIR Estonia hosted the ELIXIR ELITMa module 2 and Interoperability Platform meeting in Tartu
 
 In May, the [University of Tartu Institute of Computer Science](https://cs.ut.ee/en ) and [ELIXIR Estonia](https://elixir.ut.ee/) had the pleasure of hosting a productive [ELIXIR](https://elixir-europe.org/) Week, featuring both the [ELITMa](https://elixir-europe.org/platforms/training/elitma) and a co-located [Interoperability Platform](https://elixir-europe.org/platforms/interoperability) workshop. From May 19th to 22nd, data management experts and colleagues from 11 ELIXIR Nodes across Europe gathered at the Institute of Computer Science to focus on key research data management and interoperability areas.
