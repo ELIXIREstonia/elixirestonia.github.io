@@ -80,8 +80,8 @@ course:
   # Optional "External resources" to be shown in TeSS under the course:
   # Multiple items can be added; for each item the title and the url are mandatory.
   externalResources:
-    #- title:
-    #  url:
+    - title: RStudio basic course
+      url: https://github.com/ELIXIREstonia/2025-09-01-R-basic
 
   # Specify occurrences here:
   instances:
