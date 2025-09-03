@@ -343,3 +343,107 @@ title="Online: Advancing FAIR data practices for rare disease Research"
   data-added-date="2025-08-17">
   </text-tile>
 </div>
+
+<div class="tile-grid">
+<text-tile
+ title="2026 EMBL Annual Poster for courses and conferences"
+ description="The 2026 EMBL Annual Poster is out now, and it’s more than an events programme: it’s an invitation to discover what’s next in the life sciences."
+ materials="https://www.embl.org/about/info/course-and-conference-office/wp-content/uploads/20250716_GenericPoster_2026_interaktiv.pdf"
+ materialstext="Poster"
+ data-added-date="2025-09-03">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+ title="The Netherlands: Dynamic Modeling in Systems Biology (Fundamental) 2025"
+ description="The course is aimed at PhD students with a background in bioinformatics, systems biology, computer science or a related field, and life sciences. Participants from the private sector are also welcome. In this course we offer the participants the possibility to learn and exercise the modeling process. A considerable part of this course is spent on getting you acquainted with the optimization techniques that are nowadays available and widely used. The course is a mixture of theory sessions and computer practicals."
+ link="https://www.dtls.nl/courses/dynamic-modeling-in-systems-biology-2025/"
+ deadline="Registration deadline: 27 October 2025"
+ dates="Date: 8-12 December 2025"
+ data-deadline-date="2025-10-28">
+ </text-tile>
+ <text-tile
+ title="Online: The Genome-Phenome Analysis Platform (GPAP) - A collaborative platform for diagnosis and gene discovery in rare disease research"
+ description="The RD-Connect Genome-Phenome Analysis Platform (GPAP) is a collaborative tool that allows researchers to analyze and share integrated sequencing and phenotypic data from rare disease patients and their relatives. It enables researchers to reanalyze and re-evaluate genomic and clinical data, share knowledge, and find similar cases within a collaborative environment.The RD-Connect GPAP is currently the largest rare disease diagnostic and gene discovery platform funded by the European Commission."
+ link="https://www.ghga.de/events/detail/ghga-lecture-series-leslie-matalonga-virtual"
+ dates="Date:17 September 2025"
+ data-deadline-date="2025-09-18">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+ title="Online: Advancing FAIR data practices for rare disease Research"
+ description="Three-day training webinar is designed to provide researchers, data stewards, healthcare professionals, funders, and patient advocates with a comprehensive introduction to the FAIR data principles—Findability, Accessibility, Interoperability, and Reusability—with a specific focus on their application in rare disease and health research."
+ link="https://us06web.zoom.us/webinar/register/WN_sUntc_lZTuKszYLrTRTtpQ?_x_zm_rtaid=uBz_CGGbQBqKFpvBeUu9Lw.1756734591304.eb6db1f7ec465962768784aecd018286&_x_zm_rhtaid=321#/registration"
+ deadline="Registration deadline: 12 September 2025"
+ dates="Date: 24–26 September 2025"
+ data-deadline-date="2025-09-13">
+ </text-tile>
+ <text-tile
+ title="Online: Electronic Research Notebooks"
+ description="Electronic Research Notebooks (ERN) provide many benefits to researchers, but their implementation is complex.  Dr. Andrew Porter will share an overview of their process so far - software, testing, user feedback and in-lab hardware trials - as well as their participation in a UKRI Metascience project (with the University of Manchester Research Lifecycle Programme) aimed at sharing their findings so others can learn from them. "
+ link="https://jisc.zoom.us/meeting/register/w3SMMBcMTQG28-iD7UMSug#/registration"
+ dates="Date: 10 September 2025"
+ data-deadline-date="2025-09-11">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+ title="Switzerland: Introduction to NGS ATAC-seq data analysis"
+ description="This course is addressed to life scientists and bioinformaticians familiar with “Next Generation Sequencing” who want to acquire the necessary skills to process and analyse ATAC-seq data."
+ link="https://www.sib.swiss/training/course/20251015_ATACS"
+ deadline="Registration deadline: 24 September 2025"
+ dates="Date: 15 - 16 October 2025"
+ data-deadline-date="2025-09-25">
+ </text-tile>
+ <text-tile
+ title="Online: Docker and Singularity for Reproducible Research: Getting Started with Containers"
+ description="This course is addressed to bioinformaticians and life scientists who are doing bioinformatics analyses and want to get introduced to containers."
+ link= "https://www.sib.swiss/training/course/20251009_DOCK"
+ deadline="Registration deadline: 25 September 2025"
+ dates="Date: 09 October 2025"
+ materials="https://sib-swiss.github.io/containers-introduction-training/latest/"
+ data-deadline-date="2025-09-26">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+ title="Online: Reproducible and Scalable Research with Snakemake and Software Containers"
+ description="This course is addressed to all bioinformaticians developing computational pipelines with an interest to increase the reproducibility of their work."
+ link="https://www.sib.swiss/training/course/20251010_SNAKE"
+ deadline="Registration deadline: 26 September 2025"
+ dates="Date: 10 October 2025"
+ data-deadline-date="2025-09-27">
+ </text-tile>
+ <text-tile
+ title="Online: Seeing is believing: imaging the molecular processes of life"
+ description="The symposium will bring together the leading developers of imaging methods with cutting-edge applications that illustrate how imaging can answer biological questions. We will emphasize methods that can capture the dynamics of life, spanning the whole range from molecular resolution to imaging of whole organisms."
+ link="https://www.embl.org/about/info/course-and-conference-office/events/ees25-09/"
+ deadline="Registration deadline: 1 Oct 2025"
+ dates="Date: 8 - 11 Oct 2025"
+ data-deadline-date="2025-09-30">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+ title="Online: A guide to UniProt for students"
+ description="This webinar is aimed at students or early career researchers beginning to use bioinformatics resources in their studies/research who wish to learn more about UniProt. No prior knowledge of bioinformatics is required, but an undergraduate level knowledge of biology would be useful."
+ link="https://www.ebi.ac.uk/training/events/guide-uniprot-students-2025/"
+ dates="Date: : 2 October 2025"
+ data-deadline-date="2025-10-01">
+ </text-tile>
+ <text-tile
+ title="Switzerland: When immunology meets bioinformatics"
+ description="This course is addressed to life scientists and  bioinformaticians, from academia or industry,  with little to no knowledge in immunology who are or will be working with immunological datasets."
+ link="https://www.sib.swiss/training/course/20251024_IMBIO"
+ deadline="Registration deadline: 10 October 2025"
+ dates="Date: 24 October 2025"
+ materials="https://sib-swiss.github.io/immunology-in-bioinformatics-training/"
+ data-deadline-date="2025-10-09">
+ </text-tile>
+</div>

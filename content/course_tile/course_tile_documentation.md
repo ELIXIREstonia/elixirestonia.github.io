@@ -13,13 +13,13 @@ To create a course tile, you need to use a div element with the class tile-grid.
 2. Add your course tiles (up to 2 text-tiles, can be just 1): 
     ```html
    <div class="tile-grid">
-       <text-tileCourse no 1 info here (using attributes)></text-tile>
-       <text-tileCourse no 2 info here (using attributes)></text-tile>
+       <text-tile Course no 1 info here (using attributes)></text-tile>
+       <text-tile Course no 2 info here (using attributes)></text-tile>
 3. Close the container: Finish by adding /div
     ```html
    <div class="tile-grid">
-       <text-tileCourse no 1 info here (using attributes)></text-tile>
-       <text-tileCourse no 2 info here (using attributes)></text-tile>
+       <text-tile Course no 1 info here (using attributes)></text-tile>
+       <text-tile Course no 2 info here (using attributes)></text-tile>
     </div>
 ### Text-Tile Attributes
 Each <text-tile> has several attributes you can use to add information about the course.
