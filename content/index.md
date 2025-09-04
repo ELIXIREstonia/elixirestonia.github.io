@@ -85,6 +85,13 @@ hide:
 ## Latest news and announcements
 
 
+### RDMkit: Guiding Life Scientists in Research Data Management
+
+ELIXIR Estonia is proud to showcase the [Research Data Management Kit (RDMkit)](https://rdmkit.elixir-europe.org/), a community-led knowledge resource for life sciences that helps researchers and data stewards navigate the complexities of managing research data. Developed through the [ELIXIR CONVERGE project](https://elixir-europe.org/about-us/how-funded/eu-projects/converge ) and supported by the European Union’s Horizon 2020 programme, the RDMkit provides guidance on Research Data management that aligns with FAIR principles, ensuring data is findable, accessible, interoperable, and reusable.
+
+[More info](https://elixir.ut.ee/news/2025/09/04/RDMkit_Publication/) 
+
+
 ### Learning Data Management the Scary Way
 
 What happens when you forget to back up your research data? Or when a tiny mistake in Excel changes your results completely? This autumn, [ELIXIR Estonia](https://elixir.ut.ee/) is taking a playful, but serious look at what can go wrong in data management.
@@ -98,12 +105,6 @@ In May, the [University of Tartu Institute of Computer Science](https://cs.ut.ee
 
 [More info](https://elixir.ut.ee/news/2025/06/30/ELITMa_May2025/) 
 
-
-### Quality Data Drives Discovery: Open and Free Datasets Support AlphaGenome
-
-The newly launched [AlphaGenome model](https://github.com/google-deepmind/alphagenome) by Google DeepMind highlights how open, free, and high-quality datasets enable cutting-edge scientific advancements. Built using publicly available data, AlphaGenome demonstrates what becomes possible when researchers have access to reliable and reusable resources.
-
-[More info](https://elixir.ut.ee/news/2025/06/27/AlphaGenome/)
 
 ---
 ## External courses/materials
