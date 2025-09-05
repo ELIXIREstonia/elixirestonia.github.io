@@ -3,7 +3,7 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: Licensing Research Outputs - 05.09.2025 - Registration OPEN
+title: Licensing Research Outputs - 05.09.2025
 draft: false
 hide:
   - toc
@@ -29,7 +29,7 @@ course:
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register: https://forms.gle/6cS39BwwibGffai26
+    register:
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
     invite:
