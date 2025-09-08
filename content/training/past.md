@@ -19,6 +19,7 @@ hide:
 * **29.05.2025** - [Bring your own DMP workshop](https://elixir.ut.ee/news/2025/04/17/BYO_DMP_20250529/)
 * **28.08.2025** - [Crash Course in Data Management](https://elixir.ut.ee/news/2025/08/11/Crash_course_DM_28_08/)
 * **1.09.20205** - [RStudio for beginners](https://elixir.ut.ee/news/2025/08/11/RStudio_Basic_01_09_2025/)
+* **5.09.2025** - [Licensing Research Outputs](https://elixir.ut.ee/news/2025/08/18/Licensing_05-09/)
 
 
 ## 2024

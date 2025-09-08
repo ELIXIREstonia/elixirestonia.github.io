@@ -49,6 +49,7 @@ Useful sites:
 
 ## Data Management
 
+* Inno, H. (2025, September 8). __Licensing Research Outputs.__ Zenodo. https://doi.org/10.5281/zenodo.17076073
 * Inno, H. (2025, August 29). __Crash Course In Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.16993293
 * Pilvar, D. (2025, May 28). __Bring Your Own Data Management Plan.__ Zenodo. https://doi.org/10.5281/zenodo.15538895
 * Inno, H. (2025, March 10). __Getting organised with Notion.__ Zenodo. https://doi.org/10.5281/zenodo.14998033
@@ -61,7 +62,6 @@ Useful sites:
 * Pilvar, D. (2023, September 5). __AKKI andmehalduse seminar.__ Zenodo. https://doi.org/10.5281/zenodo.8318151
 * Pilvar, D. (2023, April 25). __Licensing Research Outputs.__ Zenodo. https://doi.org/10.5281/zenodo.7863005
 * Heleri Inno, & Diana Pilvar. (2022, November 8). __How to make your messy data usable? - PART 2 Course.__ Zenodo. https://doi.org/10.5281/zenodo.7304308
-* Heleri Inno. (2022, September 28). __Licensing Research Outputs course.__ Zenodo. https://doi.org/10.5281/zenodo.7118427
 * Heleri Inno. (2022, April 11). __Metadata and README course.__ Zenodo. https://doi.org/10.5281/zenodo.6446879
 * Heleri Inno. (2022, March 29).__How to make your messy data usable? Course.__ Zenodo. https://doi.org/10.5281/zenodo.6393647
 * Heleri Inno. (2021). __The FAIR Principle Lecture Extra material (Version v1).__ Zenodo. https://doi.org/10.5281/zenodo.5769084

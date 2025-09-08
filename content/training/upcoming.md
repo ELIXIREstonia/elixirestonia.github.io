@@ -12,8 +12,6 @@ hands-on courses in the life science community on various topics.
 
 ## Free Autumn courses 2025 by ELIXIR Estonia
 
-**5.09.2025** [Licensing Research Outputs](https://elixir.ut.ee/news/2025/08/18/Licensing_05-09/)
-
 **30.09.2025** [Data visualisation (theory)](https://elixir.ut.ee/news/2025/09/01/data_visualisation_theory_30-09-2025/)  - Registration OPEN
 
 

@@ -69,8 +69,6 @@ hide:
 
 ## Free Autumn courses 2025 by ELIXIR Estonia
 
-**5.09.2025** [Licensing Research Outputs](news/posts/2025/Licensing_05-09.md)
-
 **30.09.2025** [Data visualisation (theory)](news/posts/2025/data_visualisation_theory_30-09-2025.md)  - Registration OPEN
 
 
