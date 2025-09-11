@@ -83,6 +83,13 @@ hide:
 ## Latest news and announcements
 
 
+### FiBar: A New Tool for Fiber Diameter Analysis in Drug Delivery Research
+
+This summer, Marilin Moor, Product Manager of ELIXIR Estonia and now a PhD student at the University of Tartu, published a new [article](https://doi.org/10.1016/j.ejps.2025.107179) presenting [FiBar](https://fibar.elixir.ut.ee/), a tool for analysing fiber diameters in complex drug delivery systems. The research was carried out in collaboration with the Institute of Pharmacy (Laura Männaste, Marta Putrinš and Professor Karin Kogermann) and Dmytro Fishman, Associate Professor in Artificial Intelligence at the Institute of Computer Science, University of Tartu.
+
+[More info](https://elixir.ut.ee/news/2025/09/11/FiBar_aricle/) 
+
+
 ### RDMkit: Guiding Life Scientists in Research Data Management
 
 ELIXIR Estonia is proud to showcase the [Research Data Management Kit (RDMkit)](https://rdmkit.elixir-europe.org/), a community-led knowledge resource for life sciences that helps researchers and data stewards navigate the complexities of managing research data. Developed through the [ELIXIR CONVERGE project](https://elixir-europe.org/about-us/how-funded/eu-projects/converge ) and supported by the European Union’s Horizon 2020 programme, the RDMkit provides guidance on Research Data management that aligns with FAIR principles, ensuring data is findable, accessible, interoperable, and reusable.
