@@ -14,6 +14,8 @@ hands-on courses in the life science community on various topics.
 
 **30.09.2025** [Data visualisation (theory)](https://elixir.ut.ee/news/2025/09/01/data_visualisation_theory_30-09-2025/)  - Registration OPEN
 
+**23.10.2025** [How to make your messy data usable? / OpenRefine]() - Registration OPEN
+
 
 ## We are willing to train researchers on the following topics:
 

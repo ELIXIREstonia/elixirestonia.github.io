@@ -71,6 +71,8 @@ hide:
 
 **30.09.2025** [Data visualisation (theory)](news/posts/2025/data_visualisation_theory_30-09-2025.md)  - Registration OPEN
 
+**23.10.2025** [How to make your messy data usable? / OpenRefine](news/posts/2025/OpenRefine_Tartu_23-10-2025.md) - Registration OPEN
+
 
 !!! note ""
     If you would like to be notified about the events, trainings and workshops
