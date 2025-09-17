@@ -343,3 +343,111 @@ What happens when you forget to back up your research data? Or when a tiny mista
  data-deadline-date="2025-10-09">
  </text-tile>
 </div>
+
+<div class="tile-grid">
+<text-tile
+ title="Tallinn: LUMI Intro Course"
+ description="Two-day hybrid course (online and on-site) that introduces the LUMI architecture and setup. It will include lessons about the hardware architecture, compiling, using software, and running jobs efficiently."
+ link="https://www.lumi-supercomputer.eu/events/lumi-intro-course-tallinn/"
+ deadline="Registration deadline: 14 Oct 2025"
+ dates="Date: 20.-21.10.2025"
+ data-deadline-date="2025-10-15">
+ </text-tile>
+ <text-tile
+ title="LUMI Profiling and Optimization Workshop"
+ description="The on-site 3-day course is designed for experienced HPC users. The course combines theoretical knowledge with practical hands-on exercises to maximize your efficiency on both CPU and GPU partitions."
+ link=" https://www.lumi-supercomputer.eu/events/profiling-ws-tallinn/"
+ deadline="Registration deadline: 14 Oct 2025"
+ dates="Date: 22.-24.10.2025"
+ data-deadline-date="2025-10-15">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+ title="Sweden: Moving your AI training jobs to LUMI"
+ description="This two-day workshop helps you transition your AI projects from smaller computing environments to LUMI's powerful GPU platform. Please bring your own AI training scripts for personalized support when adapting them to LUMI. Perfect for users with Python/PyTorch experience looking to scale up their AI workloads across multiple GPUs."
+ link="https://www.lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop/"
+ deadline="Registration deadline:  2 Oct 2025"
+ dates="Date: 8.-9. 10.2025"
+ data-deadline-date="2025-10-03">
+ </text-tile>
+ <text-tile
+ title="Switzerland: Best Practices for Investigating Gene Expression Differences by Biological Sex"
+ description="This course is addressed to life scientists and computational biologists working in basic or biomedical research, on human or animals, involved in planning/experimental design and/or performing downstream analysis. Pure data analysts are welcome as they can have a role to play from the beginning of research projects!"
+ link="https://www.sib.swiss/training/course/20251027_BIOSE"
+ deadline="Registration deadline: 20 Oct 2025"
+ dates="Date: 27 Oct 2025"
+ data-deadline-date="2025-10-20">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+ title="Online: Enhancing Data Support: Understanding Reproducibility, Part 1"
+ description=" This training is ideal for data support personnel and librarians who wish to deepen their understanding of reproducibility. Researchers are also very welcome. This webinar explores the theoretical foundations of research reproducibility and replicability, along with the necessary infrastructures to support these practices. It also addresses the concept of the reproducibility crisis."
+ link="https://csc.fi/koulutuskalenteri/enhancing-data-support-understanding-reproducibility-part-1/"
+ dates="Date: 9.10.2025"
+ data-deadline-date="2025-10-09">
+ </text-tile>
+ <text-tile
+ title="Online: Enhancing Data Support: Practical Reproducibility, Part 2"
+ description="This session will provide a glimpse into version control with Git(-Hub) and the use of Jupyter Notebooks for reproducibility."
+ link="https://csc.fi/koulutuskalenteri/enhancing-data-support-practical-reproducibility-part-2/"
+ dates="Date: 29.10.2025"
+ data-deadline-date="2025-10-29">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+ title="Online: The epitranscriptome conference"
+ description="The 2025 meeting will highlight recent developments and focus on future aspects and current challenges in the field: Critical evaluation of novel methods quantifying RNA modifications at single-nucleotide resolution — with a focus on RNA modification direct sequencing, Biosynthetic mechanism of native and synthetic RNA modifications — implications for therapeutic use, Epitranscriptomic regulation mediated by RNA modifications during gene expression and signalling, Novel metabolic pathways requiring RNA modifications to respond to changes in the microenvironment, RNA modifications as prognostic marker in disease"
+ link="https://www.embl.org/about/info/course-and-conference-office/events/etc25-01/#vf-tabs__section-overview"
+ deadline="Registration deadline: 13 Oct 2025"
+ dates="Date: 28-30 Oct 2025"
+ data-deadline-date="2025-10-14">
+ </text-tile>
+ <text-tile
+ title="Online: Training clinic- How AI Can Help Trainers"
+ description="We will explore the growing impact of artificial intelligence on education and discover practical ways trainers can leverage AI to enhance both teaching and learning. Whether you’re new to AI or already experimenting with AI-powered tools, this edition will provide valuable strategies for streamlining course preparation, personalizing learning experiences, and managing classroom challenges. Learn how to use AI to automate routine tasks, gain insights from learning analytics, and develop tailored content to meet your learners' diverse needs. Don’t miss this opportunity to boost your teaching toolkit and transform your training sessions with the help of artificial intelligence!"
+ link="https://www.denbi.de/training-courses-2025/1922-training-clinic-october-2025"
+ dates="Date: 9 Oct 2025"
+ data-deadline-date="2025-10-09">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+ title="Online: Introduction to pangenomes and why they are worth exploring"
+ description="This webinar is suitable for students, biologists, bioinformaticians and researchers interested in learning about pangenomics. No prior knowledge of the field is required, but an undergraduate level of biology would be helpful."
+ link="https://www.ebi.ac.uk/training/events/introduction-pangenomes-and-why-they-are-worth-exploring/"
+ dates="Date: 1 Oct 2025"
+ data-deadline-date="2025-10-01">
+ </text-tile>
+ <text-tile
+ title="Online: Evolution of the accessory genome"
+ description="In this webinar, we will explore how accessory genomes evolve, why their composition remains stable despite turnover of lineages, and how this evolutionary perspective allows us to better understand pathogen persistence and predict responses to selective pressures."
+ link="https://www.ebi.ac.uk/training/events/evolution-accessory-genome/"
+ dates="Date: 8 Oct 2025"
+ data-deadline-date="2025-10-08">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+ title="Online: Basic statistics in R"
+ description="This introductory course is designed for students, researchers, and professionals with no prior experience in R who want to gain programming skills in R. Using R—a free, powerful, and widely used statistical programming language—you will learn how to manage and visualize data and perform basic statistical tests. By the end of the training, you will be able to confidently use R and RStudio to conduct basic tests such as t-tests, ANOVA, and non-parametric counterparts, and to generate publication-ready plots."
+ link=" https://training.vib.be/all-trainings/basic-statistics-r-18"
+ deadline="Registration deadline: 1 Oct 2025"
+ dates="Date:6,13, 20,27 October 2025"
+ data-deadline-date= "2025-10-02">
+ </text-tile>
+ <text-tile
+ title="Online: Qualitative Open Research: Meaningful Exchange and Mutual Learning"
+ description="Dr Cole will commence this interactive webinar with an overview of empirical and conceptual work that connects qualitative research with open and reproducible research. She will highlight both relevant obstacles as well as underexplored opportunities for open and reproducible research. Next, Dr Jamieson will zoom in on a specific practice from qualitative scholarship, namely positionality statements, and examine how this practice can help quantitative research to become more open and transparent."
+ link="https://events.teams.microsoft.com/event/5cbdf608-5301-4d8d-bf21-83af8571a3c4@335122f9-d4f4-4d67-a2fc-cd6dc20dde70"
+ dates="Date: 16 Oct 2025"
+ data-deadline-date="2025-10-16">
+ </text-tile>
+</div>
