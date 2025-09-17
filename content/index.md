@@ -106,13 +106,6 @@ What happens when you forget to back up your research data? Or when a tiny mista
 [More info](https://elixir.ut.ee/news/2025/09/02/Data_Horror_Story_Event/) 
 
 
-### ELIXIR Estonia hosted the ELIXIR ELITMa module 2 and Interoperability Platform meeting in Tartu
-
-In May, the [University of Tartu Institute of Computer Science](https://cs.ut.ee/en ) and [ELIXIR Estonia](https://elixir.ut.ee/) had the pleasure of hosting a productive [ELIXIR](https://elixir-europe.org/) Week, featuring both the [ELITMa](https://elixir-europe.org/platforms/training/elitma) and a co-located [Interoperability Platform](https://elixir-europe.org/platforms/interoperability) workshop. From May 19th to 22nd, data management experts and colleagues from 11 ELIXIR Nodes across Europe gathered at the Institute of Computer Science to focus on key research data management and interoperability areas.
-
-[More info](https://elixir.ut.ee/news/2025/06/30/ELITMa_May2025/) 
-
-
 ---
 ## External courses/materials
 
@@ -125,95 +118,6 @@ In May, the [University of Tartu Institute of Computer Science](https://cs.ut.ee
   data-deadline-date="2025-09-22">
 </text-tile>
 </div> 
-
-<div class="tile-grid">
-<text-tile
-  title="Switzerland: Bioinformatics meets AI: shaping the future of data-driven biology"
-  description="The [BC]2 Basel Computational Biology Conference is the flagship scientific meeting of the SIB Swiss Institute of Bioinformatics, held every two years. As Switzerland's leading event in computational biology and one of the largest of its kind in Europe, [BC]² attracts around 500 scientists from academia, industry, and healthcare. Attendees explore cutting-edge advancements in bioinformatics, ranging from evolutionary and environmental dynamics to infectious diseases, cancer research, protein design, single-cell omics, and AI-driven innovations in clinical data science."
-deadline="Early registration deadline: 30 June 2025, Standard registration deadline: 1 September 2025"
-  link="https://www.bc2.ch/"
-  dates="Date: 8 September 2025, main conference: 8-10 September 2025"
-  data-deadline-date="2025-09-02">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-  title="Online: Developmental metabolism: flows of energy, matter, and information"
-  description="In this rapidly advancing field, metabolomic methods play a crucial role in unraveling complex processes. The workshop will again aim to bring together researchers from diverse backgrounds: developmental biology, genetics, epigenetics, ecology, physics and math, to provide the developmental metabolism community with cutting-edge research and methodologies applied across scales, insights into the latest advancements in metabolomic techniques and their application to developmental biology."
-deadline="Registration Deadline: 2 September 2025"
-  link="https://www.embl.org/about/info/course-and-conference-office/events/dmb25-01/"
-  linktext="More info"
-  dates="Date: 9-12 September 2025"
-  data-deadline-date="2025-09-03">
-</text-tile>
-<text-tile
-  title="Online: INTOXICOM Webinar 5"
-  description="Schedule:
-* Biomodels, INtAct, SBML etc. Rahuman Sheriff, EBI, ELIXIR-EBI
-* WikiPathways (for process descriptions). Marvin Martens, Maastricht University, ELIXIR-NL
-* Network analysis approaches, fluxomics models/model standardization and integrated models, Maria Klapa, Institute of Chemical Engineering Sciences, Foundation for Research and Technology, Hellas, ELIXIR-GR"
-  link="https://elixir-europe.org/events/intoxicom-webinar-5"
-  dates="Date: 2 September 2025"
-  data-deadline-date="2025-09-03">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-  title="Online: CodeRefinery workshop"
-  description="Are you writing code for your research? Do you struggle to reproduce results of your own or others computations? Join the online CodeRefinery workshop on nine half days:
-* Intro to git and collaborative git: 9+10+11/September 11:00-13:00 + 14:00-15:30 (CEST)
-* Reproducible research and other topics spread over 6 following weeks Wednesdays with exercises: 17.9+24.9+1.10+8.10+15.10 + 22.10.
-The CodeRefinery workshop aims to support researchers of all domains, levels and preferred programming languages to write more reproducible research code. The workshop is held online (streamed on Twitch) with interactive hands-on sessions during the first week. The event is free of charge."
-deadline="Registration deadline: 8 September 2025"
-  link="https://coderefinery.github.io/2025-09-09-workshop/"
-  data-deadline-date="2025-09-09">
-</text-tile>
-<text-tile
-  title="Belgium: Analysis of single cell RNASeq data"
-  description="In this course, we will go through the whole pipeline to analyze short-read scRNASeq data. We will teach you how to:
-* Do proper quality control and filtering on the gene level and the cell level
-* Remove as much noise as possible
-* Cluster your cells and create UMAP plots
-* Get potential markers for these subsets of cells
-* Identify genes that are differentially expressed genes between conditions
-The content of the course is tailored to the participants' needs. On the second day, participants can bring their data to analyze."
-deadline="Registration deadline:  9 September 2025"
-  link="https://training.vib.be/all-trainings/analysis-single-cell-rnaseq-data-11"
-  dates="Date: 23, 26 September 2025"
-  data-deadline-date="2025-09-10">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Advancing FAIR data practices for rare disease Research"
-  description="The first three-day training webinar is designed to provide researchers, data stewards, healthcare professionals, funders, and patient advocates with a comprehensive introduction to the FAIR data principles—Findability, Accessibility, Interoperability, and Reusability—with a specific focus on their application in rare disease and health research."
-  deadline="Registration deadline: 12 September 2025"
-  dates="Date: 24–26 September 2025"
-  link="https://us06web.zoom.us/webinar/register/WN_sUntc_lZTuKszYLrTRTtpQ?_x_zm_rtaid=O3RKi0zITtOV0Jebom47nw.1756214120845.33fb25cd4f89014c42b6ce87dea30f9c&_x_zm_rhtaid=349#/registration"
-  data-deadline-date="2025-09-13">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-  title="Sweden: Biomarker Discovery: from theory to real world examples"
-  description="The main purpose of this course is to provide a good overview of biomarkers and biomarker studies. This course will explore recent research, showcasing diverse biomarker applications within clinical trials. Methods employed to identify biomarkers through various omics datasets will be reviewed. Participants will engage in discussion on biomarker studies and data analysis exercises that encompass approaches like machine learning methods and other integrative omics strategies used in biomarker discovery."
-  deadline="Registration deadline: 12 September 2025"
-  dates="Date: 13-16 October 2025"
-  link="https://training.scilifelab.se/events/biomarker-discovery-from-theory-to-real-world-examples"
-  data-deadline-date="2025-09-13">
-</text-tile>
-<text-tile
-  title="Webinar: Researchers’ Journeys in Opening Cultural and Historical Data"
-  description="Join us for a webinar dedicated to making cultural and historical data open. The session aims to demystify the process of data publishing and help participants better understand what it involves. By sharing concrete examples, we hope to lower the barriers to opening up research data."
-  dates="Date: 16 September 2025"
-  link="https://csc.fi/koulutuskalenteri/webinar-researchers-journeys-in-opening-cultural-and-historical-data/"
-  data-deadline-date=2025-09-17>
-</text-tile>
-</div>
 
 <div class="tile-grid">
 <text-tile
@@ -377,24 +281,6 @@ title="Online: Advancing FAIR data practices for rare disease Research"
  link="https://www.ghga.de/events/detail/ghga-lecture-series-leslie-matalonga-virtual"
  dates="Date:17 September 2025"
  data-deadline-date="2025-09-18">
- </text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
- title="Online: Advancing FAIR data practices for rare disease Research"
- description="Three-day training webinar is designed to provide researchers, data stewards, healthcare professionals, funders, and patient advocates with a comprehensive introduction to the FAIR data principles—Findability, Accessibility, Interoperability, and Reusability—with a specific focus on their application in rare disease and health research."
- link="https://us06web.zoom.us/webinar/register/WN_sUntc_lZTuKszYLrTRTtpQ?_x_zm_rtaid=uBz_CGGbQBqKFpvBeUu9Lw.1756734591304.eb6db1f7ec465962768784aecd018286&_x_zm_rhtaid=321#/registration"
- deadline="Registration deadline: 12 September 2025"
- dates="Date: 24–26 September 2025"
- data-deadline-date="2025-09-13">
- </text-tile>
- <text-tile
- title="Online: Electronic Research Notebooks"
- description="Electronic Research Notebooks (ERN) provide many benefits to researchers, but their implementation is complex.  Dr. Andrew Porter will share an overview of their process so far - software, testing, user feedback and in-lab hardware trials - as well as their participation in a UKRI Metascience project (with the University of Manchester Research Lifecycle Programme) aimed at sharing their findings so others can learn from them. "
- link="https://jisc.zoom.us/meeting/register/w3SMMBcMTQG28-iD7UMSug#/registration"
- dates="Date: 10 September 2025"
- data-deadline-date="2025-09-11">
  </text-tile>
 </div>
 
