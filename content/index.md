@@ -86,6 +86,17 @@ hide:
 
 ## Latest news and announcements
 
+### ELIXIR’s student topics for ATI Day 24.09.2025
+
+ELIXIR Estonia is building and maintaining web tools and other resources for life science research. We aim to build things that last and are useful over a longer period. 
+We offer 4 topics: 
+
+* Topic 1: Modernising KEGGanim web application
+* Topic 2: Contrastive Learning for Microscopy Image Understanding 
+* Topic 3: Vision learning to understand how good a basketball player X is in situation Y? 
+* Topic 4: Evaluating the Impact of Data Update Frequency on Functional Annotations Across 1000 Species Using g:Profiler data archives
+
+[More info](news/posts/2025/Thesis_topics.md)
 
 ### FiBar: A New Tool for Fiber Diameter Analysis in Drug Delivery Research
 
