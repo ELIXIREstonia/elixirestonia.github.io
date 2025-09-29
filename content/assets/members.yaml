@@ -1,91 +1,210 @@
 - title: Prof. Hedi Peterson
-  content: Professor of bioinformatics<br>University of Tartu<br>Head of Node
   image: ../assets/images/people/hedi.png
+  content: |
+    Professor of bioinformatics
+    <br>University of Tartu
+    <br>Head of Node
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Hedi_Peterson/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0001-9951-5116"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/hedipeterson/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    <a target="_blank" href="https://scholar.google.com/citations?user=kXR6DCAAAAAJ&hl=en"><img src="/assets/images/social/scholar.png" width="20" height="20" alt="Google Scholar" title="Google Scholar"/></a>
+    </span>
 
 - title: Kairi Koort, PhD
-  content: Lecturer of Systems Biology<br>Tallinn University<br>Deputy Head of Node
   image: ../assets/images/people/kairi.jpg
+  content: |
+    Lecturer of Systems Biology
+    <br>Tallinn University
+    <br>Deputy Head of Node
+
 
 - title: Diana Pilvar
-  content: ELIXIR Data Manager<br>University of Tartu<br>Training coordinator
   image: ../assets/images/people/diana.jpg
+  content: |
+    ELIXIR Data Manager
+    <br>University of Tartu
+    <br>Training coordinator
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Diana_N%C3%B5mmemees/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0002-5788-2687"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/diana-pilvar-28545187/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    <a target="_blank" href="https://github.com/diana-pilvar"><img src="/assets/images/social/github.png" width="20" height="20" alt="GitHub" title="GitHub"/></a>
+    </span>
 
 - title: Uku Raudvere
-  content: Developer<br>University of Tartu<br>Technical coordinator
+  content: |
+    Developer
+    <br>University of Tartu
+    <br>Technical coordinator
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Uku_Raudvere/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0001-7243-8595"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/uku-raudvere-04b632234/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    </span>
   image: ../assets/images/people/uku.jpg
 
 - title: Agne Velthut-Meikas, PhD
-  content: Management board member<br>Tallinn Technical University
   image: ../assets/images/people/agne.png
+  content: |
+    Management board member
+    <br>Tallinn Technical University
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Agne_Velthut-Meikas/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0003-1927-9016"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/agne-velthut-meikas-47751662/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    </span>
 
 - title: Indrek Reile, PhD
-  content: Management board member<br>National Institute of Chemical Physics and Biophysics
   image: ../assets/images/people/indrek.jpg
+  content: |
+    Management board member
+    <br>National Institute of Chemical Physics and Biophysics
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Indrek_Reile/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0003-3278-7947"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="http://www.linkedin.com/in/indrek-reile-5b112072/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    <a target="_blank" href="https://scholar.google.nl/citations?user=g7hyIVMAAAAJ&hl=en"><img src="/assets/images/social/scholar.png" width="20" height="20" alt="Google Scholar" title="Google Scholar"/></a>
+    </span>
 
 - title: Tanel Kaart, PhD
-  content: Management board member<br>Estonian University of Life Sciences
   image: ../assets/images/people/tanel.jpg
+  content: |
+    Management board member
+    <br>Estonian University of Life Sciences
 
 - title: Prof. Jaak Vilo
-  content: Professor of bioinformatics<br>University of Tartu<br>Main driver and the first Head of Node of ELIXIR Estonia 2013-2022
   image: ../assets/images/people/jaak.jpg
-  
+  content: |
+    Professor of bioinformatics
+    <br>University of Tartu
+    <br>Main driver and the first Head of Node of ELIXIR Estonia 2013-2022
+
 - title: Priit Adler, PhD
-  content: Research Fellow of Bioinformatics<br>University of Tartu
   image: ../assets/images/people/lemps.jpg
+  content: |
+    Research Fellow of Bioinformatics
+    <br>University of Tartu
 
 - title: Marko Arrak
-  content: Principal Analyst (GDI)<br>University of Tartu
   image: ../assets/images/people/marko.jpg
+  content: |
+    Principal Analyst (GDI)
+    <br>University of Tartu
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.linkedin.com/in/marko-arrak/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    </span>
 
 - title: Heleri Inno
-  content: ELIXIR Data Manager<br>University of Tartu
   image: ../assets/images/people/heleri.jpg
+  content: |
+    ELIXIR Data Manager
+    <br>University of Tartu
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Heleri_Kirsip/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0003-2043-0772"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/heleri-inno-961910a6/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    <a target="_blank" href="https://github.com/heleriinno"><img src="/assets/images/social/github.png" width="20" height="20" alt="GitHub" title="GitHub"/></a>
+    </span>
 
 - title: Erik Jaaniso
-  content: Developer<br>University of Tartu
   image: ../assets/images/people/erik.png
+  content: |
+    Developer
+    <br>University of Tartu
 
 - title: Kersti Jääger, PhD
-  content: Data Expert (GDI)<br>University of Tartu
   image: ../assets/images/people/kersti.png
+  content: |
+    Data Expert (GDI)
+    <br>University of Tartu
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Kersti_J%C3%A4%C3%A4ger/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    </span>
 
 - title: Martin Kaljula
-  content: Coordinator of Research Projects<br>University of Tartu
   image: ../assets/images/people/martin.png
+  content: |
+    Coordinator of Research Projects
+    <br>University of Tartu
 
 - title: Nurlan Kerimov, PhD
-  content: Bioinformatician<br>University of Tartu
   image: ../assets/images/people/nurlan.png
+  content: |
+    Bioinformatician
+    <br>University of Tartu
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Nurlan_Kerimov/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0001-7660-3148"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/nurlan-kerimov-36992945/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    <a target="_blank" href="https://github.com/kerimoff"><img src="/assets/images/social/github.png" width="20" height="20" alt="GitHub" title="GitHub"/></a>
+    <a target="_blank" href="https://kerimoff.github.io/"><img src="/assets/images/social/website.png" width="20" height="20" alt="Website" title="Website"/></a>
+    </span>
 
 - title: Liis Kolberg, PhD
-  content: Research Software Engineer<br>University of Tartu
   image: ../assets/images/people/liis_k.png
+  content: |
+    Research Software Engineer
+    <br>University of Tartu
 
 - title: Ivan Kuzmin
-  content: Developer<br>University of Tartu
   image: ../assets/images/people/ivan.png
+  content: |
+    Developer
+    <br>University of Tartu
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/inkuzmin"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0001-9138-9901"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://github.com/inkuzmin"><img src="/assets/images/social/github.png" width="20" height="20" alt="GitHub" title="GitHub"/></a>
+    </span>
 
 - title: Liis Lemsalu
-  content: Project Manager (GDI)<br>University of Tartu
   image: ../assets/images/people/user.png
+  content: |
+    Project Manager (GDI)
+    <br>University of Tartu
 
 - title: Markus Marandi
-  content: DevOps Engineer (GDI)<br>University of Tartu
   image: ../assets/images/people/markus.png
+  content: |
+    DevOps Engineer (GDI)
+    <br>University of Tartu
 
 - title: Marilin Moor
-  content: Product Manager<br>University of Tartu
   image: ../assets/images/people/marilin.png
-
-- title: Mai Müür
-  content: Project Manager (GDI)<br>University of Tartu
-  image: ../assets/images/people/mai.jpg
+  content: |
+    Product Manager
+    <br>University of Tartu
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Marilin_Moor/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0009-0006-1964-5388"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/marilin-moor/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    </span>
 
 - title: Martti Tamm
-  content: Lead Developer (GDI)<br>University of Tartu
   image: ../assets/images/people/martti.png
+  content: |
+    Lead Developer (GDI)
+    <br>University of Tartu
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.linkedin.com/in/martti-tamm-33a62a379/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    <a target="_blank" href="https://github.com/mrtamm"><img src="/assets/images/social/github.png" width="20" height="20" alt="GitHub" title="GitHub"/></a>
+    </span>
 
 - title: Karl-Martin Voovere
-  content: Software Analyst (GDI)<br>University of Tartu
   image: ../assets/images/people/user.png
+  content: |
+    Software Analyst (GDI)
+    <br>University of Tartu

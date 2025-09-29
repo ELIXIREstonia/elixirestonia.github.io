@@ -163,6 +163,26 @@ footer a, footer a:link, footer a:visited {
   }
 }
 
+.social {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.social a {
+  padding: 8px;
+  line-height: normal;
+  font-size: 10px;
+}
+
+.social a:hover {
+  border-radius: 2px;
+  background-color: #eeeeee;
+}
+
 @media screen and (min-width: 769px) {
   .tool-tiles {
     display: flex;
@@ -176,7 +196,7 @@ footer a, footer a:link, footer a:visited {
     justify-content: space-between; /* space out evenly */
     margin-bottom: 120px;
   }
-  
+
   .tool-tile-wrapper {
     flex: 1;
     min-width: 300px; /* prevent too small tiles */
