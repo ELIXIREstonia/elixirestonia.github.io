@@ -86,6 +86,13 @@ hide:
 
 ## Latest news and announcements
 
+### ELIXIR Estonia’s January to June 2025 Highlights
+
+The first half of 2025 has shown how ELIXIR Estonia combines international collaboration, national community-building, and innovative training to support researchers. With initiatives in citizen science, data management network, and skill development, the team is contributing to the foundation for a strong, sustainable research data ecosystem in Estonia.
+
+[More info](news/posts/2025/Newsletter_2025-01.md)
+
+
 ### ELIXIR’s student topics for ATI Day 24.09.2025
 
 ELIXIR Estonia is building and maintaining web tools and other resources for life science research. We aim to build things that last and are useful over a longer period. 
@@ -97,6 +104,7 @@ We offer 4 topics:
 * Topic 4: Evaluating the Impact of Data Update Frequency on Functional Annotations Across 1000 Species Using g:Profiler data archives
 
 [More info](news/posts/2025/Thesis_topics.md)
+
 
 ### FiBar: A New Tool for Fiber Diameter Analysis in Drug Delivery Research
 
