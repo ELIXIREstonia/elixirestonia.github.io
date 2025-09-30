@@ -69,11 +69,11 @@ hide:
 
 ## Free Autumn courses 2025 by ELIXIR Estonia
 
-**30.09.2025** [Data visualisation (theory)](news/posts/2025/data_visualisation_theory_30-09-2025.md)
-
 **10.10.2025** [Andmehaldus 101](news/posts/2025/Andmehaldus_101_10-10-2025.md) - Kutsega
 
 **23.10.2025** [How to make your messy data usable? / OpenRefine](news/posts/2025/OpenRefine_Tartu_23-10-2025.md) - Registration OPEN
+
+**07.11.2025** [OpenRefine andmete puhastamiseks](news/posts/2025/OpenRefine_TLU.md) - Kutsega
 
 
 !!! note ""
