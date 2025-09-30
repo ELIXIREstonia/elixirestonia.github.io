@@ -128,6 +128,7 @@
     <br>
     <span class="social">
     <a target="_blank" href="https://www.etis.ee/CV/Kersti_J%C3%A4%C3%A4ger/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0002-0503-9292"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
     </span>
 
 - title: Martin Kaljula
@@ -208,3 +209,7 @@
   content: |
     Software Analyst (GDI)
     <br>University of Tartu
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.linkedin.com/in/kmvoovere/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    </span>

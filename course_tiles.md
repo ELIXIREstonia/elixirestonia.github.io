@@ -3,14 +3,14 @@ This guide explains how to add and format course tiles for the index.md page. If
 
 ### How to Add Course Tiles
 To create a course tile, you need to use a div element with the class tile-grid. This acts as a container (one row) for your course tiles. Each tile-grid can hold a maximum of two <text-tile> elements.
-    
-1. **Create a container**  
-   Start by adding:  
+
+1. **Create a container**
+   Start by adding:
    ```html
    <div class="tile-grid">
     ```
-       
-2. Add your course tiles (up to 2 text-tiles, can be just 1): 
+
+2. Add your course tiles (up to 2 text-tiles, can be just 1):
     ```html
    <div class="tile-grid">
        <text-tile Course no 1 info here (using attributes)></text-tile>
