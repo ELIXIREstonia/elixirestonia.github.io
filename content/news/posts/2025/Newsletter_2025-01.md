@@ -32,14 +32,14 @@ The first half of 2025 has shown how ELIXIR Estonia combines international colla
 
 ![University of Tartu Data Management Network Training event picture](../../../assets/images/events/DM_Vorgustik_Koolitus_Heleri.jpg)
 
-  - Citizen Science Discussion Day: We’re Looking for Spunk! (11 June, Tartu) – Heleri joined this event organised by the Estonian Research Council to discuss current challenges and opportunities in citizen science. [More info](Citizen Science Discussion Day: We’re Looking for Spunk! (11 June, Tartu) – Heleri joined this event organised by the Estonian Research Council to discuss current challenges and opportunities in citizen science. More info)
+  - Citizen Science Discussion Day: We’re Looking for Spunk! (11 June, Tartu) – Heleri joined this event organised by the Estonian Research Council to discuss current challenges and opportunities in citizen science.
 
 ## Strengthening International Collaborations
 
   - STEERS General Assembly and WP4 meetings (27–29 January, Brussels) - During the several days, there was an overview of the [ELIXIR STEERS](https://elixir-europe.org/about-us/how-funded/eu-projects/steers) project work and collaboration with other Work Packages to strengthen project outcomes.
 
 ![ELIXIR STEERS General Assembly meeting picture](../../../assets/images/events/STEERS-GA2025.jpg)
-  
+
   - ELIXIR DATAREX WP3 meeting (24-26 March, Bari) - Diana helped to expand the [Research Data Management Maturity Model](https://registry.ds-wizard.org/knowledge-models/datarex:RDM-MM:0.1.2) and align it with the [Data Stewardship Handbook](https://elixir-uk.github.io/elixir-ds-handbook/). The work was done in groups, where they successfully transformed simple keywords into a comprehensive set of indicators, each defined by three to five maturity levels. Alongside this, they also established the applicability of each indicator and developed detailed descriptions, along with specific guidance for the Data Stewardship Handbook on how to achieve these goals.
 
 ![ELIXIR DATAREX Project WP3 meeting picture](../../../assets/images/events/Bari2025.jpg)
@@ -65,13 +65,13 @@ The first half of 2025 has shown how ELIXIR Estonia combines international colla
 
 ## Publications
 
-  - A new study [analysing SARS-CoV-2 lineage dynamics in Estonia](https://bit.ly/40mzcOG) was published in PLOS One, revealing differences in regional spread, travel-related cases, and diversity. 
+  - A new study [analysing SARS-CoV-2 lineage dynamics in Estonia](https://bit.ly/40mzcOG) was published in PLOS One, revealing differences in regional spread, travel-related cases, and diversity.
 
 This work was part of the Estonian [KoroGenoEST project](https://kliinilinemeditsiin.ut.ee/et/sisu/eesti-sars-cov-2-taisgenoomide-jarjestamine-ja-analuus-korogeno-est-1est-2est-3), in which ELIXIR Estonia contributed during the COVID-19 pandemic.
 
 ## Industry Collaboration
 
-Ongoing collaboration with [Protobios](https://protobios.com/) regarding genome analysis and modelling. 
+Ongoing collaboration with [Protobios](https://protobios.com/) regarding genome analysis and modelling.
 
 ## Expanding Training Opportunities
 
@@ -86,7 +86,7 @@ In April, Diana, Marilin, and Priit were invited to Prague by [ELIXIR CZ](https:
 
 ![Priit, Marilin and Diana in Prague](../../../assets/images/events/CourseCZ.jpeg)
 
-In April 2025, our training coordinator Diana Pilvar was invited to be a guest lecturer for the [Data Steward curriculum](https://rdm.univie.ac.at/data-stewards-at-the-university/become-a-data-steward/) at the [University of Vienna](https://www.univie.ac.at/en/). She was part of the [“Module 3: FAIR Research Data in the Life Cycle”](https://www.postgraduatecenter.at/en/programs/communication-media/data-steward/content-and-objectives/), giving the lecture [“Data Stewardship in the Natural and Life Sciences”](https://doi.org/10.5281/zenodo.15423435). She highlighted different useful resources, talked about the specificity of data steward work in life sciences and introduced different data steward communities within Europe. 
+In April 2025, our training coordinator Diana Pilvar was invited to be a guest lecturer for the [Data Steward curriculum](https://rdm.univie.ac.at/data-stewards-at-the-university/become-a-data-steward/) at the [University of Vienna](https://www.univie.ac.at/en/). She was part of the [“Module 3: FAIR Research Data in the Life Cycle”](https://www.postgraduatecenter.at/en/programs/communication-media/data-steward/content-and-objectives/), giving the lecture [“Data Stewardship in the Natural and Life Sciences”](https://doi.org/10.5281/zenodo.15423435). She highlighted different useful resources, talked about the specificity of data steward work in life sciences and introduced different data steward communities within Europe.
 
 These courses support ELIXIR Estonia’s long-term training strategy, equipping researchers with both foundational and advanced skills in bioinformatics, data management, analysis, and research organisation.
 
