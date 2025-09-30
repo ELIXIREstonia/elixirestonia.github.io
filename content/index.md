@@ -69,7 +69,7 @@ hide:
 
 ## Free Autumn courses 2025 by ELIXIR Estonia
 
-**30.09.2025** [Data visualisation (theory)](news/posts/2025/data_visualisation_theory_30-09-2025.md)  - Registration OPEN
+**30.09.2025** [Data visualisation (theory)](news/posts/2025/data_visualisation_theory_30-09-2025.md)
 
 **10.10.2025** [Andmehaldus 101](news/posts/2025/Andmehaldus_101_10-10-2025.md) - Kutsega
 
