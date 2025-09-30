@@ -16,7 +16,7 @@ hands-on courses in the life science community on various topics.
 
 **23.10.2025** [How to make your messy data usable? / OpenRefine](https://elixir.ut.ee/news/2025/09/15/OpenRefine_Tartu_23-10-2025/) - Registration OPEN
 
-**07.11.2025** [OpenRefine andmete puhastamiseks]() - Kutsega
+**07.11.2025** [OpenRefine andmete puhastamiseks](https://elixir.ut.ee/news/2025/09/30/OpenRefine_TLU/) - Kutsega
 
 
 ## We are willing to train researchers on the following topics:
