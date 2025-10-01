@@ -17,8 +17,10 @@ Tools and services are linked from the title of the corresponding paper.
 
 ### 2025
 
-1. Alper, P., D'Anna, F., Droesbeke, B., Andrabi, M., Andrade Buono, R., Bianchini, F., Bösl, K., Chandramouliswaran, I., Cook, M., Faria, D., Fatima, N., Hooft, R., Jareborg, N., Jetten, M., Pilvar, D., Poires-Oliveira, G., Popleteeva, M., Portell-Silva, L., Slifka, J., Suchánek, M., van Gelder, C., Welter, D., Wittig, U., Coppens, F., Goble, C. (2025). [**RDMkit: A research data management toolkit for life sciences**](https://rdmkit.elixir-europe.org/). Patterns, 101345. [https://doi.org/10.1016/j.patter.2025.101345](https://doi.org/10.1016/j.patter.2025.101345)
+1. Mladenovic, D., Brealey, J., Peacock, B., Koort, K., Zarovni, N. (2025) **Quantitative fluorescent nanoparticle tracking analysis and nano-flow cytometry enable advanced characterization of single extracellular vesicles.** J. Extracell. Biol., 4(1), e70031. [https://doi.org/10.1002/jex2.70031](https://doi.org/10.1002/jex2.70031)
 2. Moor, M., Männaste, L., Putrinš, M., Fishman, D., & Kogermann, K. (2025). [**FiBar: A tool for analyzing fiber diameters in complex drug delivery systems from scanning electron microscopy images.**](https://fibar.elixir.ut.ee/) European Journal of Pharmaceutical Sciences, 212, 107179. [https://doi.org/10.1016/j.ejps.2025.107179](https://doi.org/10.1016/j.ejps.2025.107179)
+3. Alper, P., D'Anna, F., Droesbeke, B., Andrabi, M., Andrade Buono, R., Bianchini, F., Bösl, K., Chandramouliswaran, I., Cook, M., Faria, D., Fatima, N., Hooft, R., Jareborg, N., Jetten, M., Pilvar, D., Poires-Oliveira, G., Popleteeva, M., Portell-Silva, L., Slifka, J., Suchánek, M., van Gelder, C., Welter, D., Wittig, U., Coppens, F., Goble, C. (2025). [**RDMkit: A research data management toolkit for life sciences**](https://rdmkit.elixir-europe.org/). Patterns, 101345. [https://doi.org/10.1016/j.patter.2025.101345](https://doi.org/10.1016/j.patter.2025.101345)
+
 
 ### 2024
 
