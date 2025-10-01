@@ -353,7 +353,7 @@ What happens when you forget to back up your research data? Or when a tiny mista
  data-deadline-date="2025-10-01">
  </text-tile>
  <text-tile
- title="Switzerland: When immunology meets bioinformatics"
+ title="Online: When immunology meets bioinformatics"
  description="This course is addressed to life scientists and  bioinformaticians, from academia or industry,  with little to no knowledge in immunology who are or will be working with immunological datasets."
  link="https://www.sib.swiss/training/course/20251024_IMBIO"
  deadline="Registration deadline: 10 October 2025"
