@@ -9,6 +9,7 @@ hide:
 
 1. Inno, H., & Peterson, H. (2025). **ELIXIR Estonia: A Year of Growth, Progress, and Impact** (1.0). ELIXIR All Hands 2025 (AHM25), Thessaloniki, Greece. Zenodo. https://doi.org/10.5281/zenodo.15656761
 2. Inno, H., & Peterson, H. (2024). **Empowering Life Sciences Research: ELIXIR Estonia** poster. Zenodo. Available from: https://doi.org/10.5281/zenodo.13847963
+3. Neves A, Willassen NP, Hjerde E et al. **A survey into the contribution of regional/national pathogen data platforms and on the resources needed to develop and maintain them [version 1; peer review: awaiting peer review].** F1000Research 2023, 12(ELIXIR):1590 [https://doi.org/10.12688/f1000research.142165.1](https://doi.org/10.12688/f1000research.142165.1)
 
 ## Peer reviewed publications
 
@@ -72,7 +73,7 @@ Available from: [https://doi.org/10.1186/s12859-020-03722-z](https://doi.org/10.
 *Briefings in Bioinformatics*, 21\(5\):1697–1705, Sep 2020.
 Available from: [https://doi.org/10.1093/bib/bbz075](https://doi.org/10.1093/bib/bbz075)
  4. Kolberg, L., Raudvere, U., Kuzmin, I., Vilo, J., and Peterson, H.
-**[gprofiler2 – an R package for gene list functional enrichment analysis and namespace conversion toolset g:Profiler \[version 2; peer review: 2 approved\] .](https://cran.r-project.org/web/packages/gprofiler2/index.html)**
+**[gprofiler2 – an R package for gene list functional enrichment analysis and namespace conversion toolset g:Profiler \[version 2; peer review: 2 approved\].](https://cran.r-project.org/web/packages/gprofiler2/index.html)**
 *F1000Res*, Nov 2020.
 Available from: [https://doi.org/10.12688/f1000research.24956.2](https://doi.org/10.12688/f1000research.24956.2)
 
