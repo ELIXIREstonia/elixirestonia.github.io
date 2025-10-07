@@ -18,6 +18,13 @@
     Lecturer of Systems Biology
     <br>Tallinn University
     <br>Deputy Head of Node
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Kairi_Koort/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0001-7831-8973"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/kairi-koort-858837/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    <a target="_blank" href="https://scholar.google.com/citations?user=1fZ695gAAAAJ&hl=en"><img src="/assets/images/social/scholar.png" width="20" height="20" alt="Google Scholar" title="Google Scholar"/></a>
+    </span>
 
 
 - title: Diana Pilvar
@@ -84,12 +91,24 @@
     Professor of bioinformatics
     <br>University of Tartu
     <br>Main driver and the first Head of Node of ELIXIR Estonia 2013-2022
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Jaak_Vilo/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0001-5604-4107"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://scholar.google.com/citations?user=87E06MgAAAAJ&hl=en"><img src="/assets/images/social/scholar.png" width="20" height="20" alt="Google Scholar" title="Google Scholar"/></a>
+    </span>
 
 - title: Priit Adler, PhD
   image: ../assets/images/people/lemps.jpg
   content: |
     Research Fellow of Bioinformatics
     <br>University of Tartu
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Priit_Adler/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0001-8276-5135"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://github.com/adlerpriit"><img src="/assets/images/social/github.png" width="20" height="20" alt="GitHub" title="GitHub"/></a>
+    </span>
 
 - title: Marko Arrak
   image: ../assets/images/people/marko.jpg
@@ -119,6 +138,13 @@
   content: |
     Developer
     <br>University of Tartu
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Erik_Jaaniso/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0009-0003-4246-6546"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/erik-jaaniso/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    <a target="_blank" href="https://github.com/jaanisoe"><img src="/assets/images/social/github.png" width="20" height="20" alt="GitHub" title="GitHub"/></a>
+    </span>
 
 - title: Kersti Jääger, PhD
   image: ../assets/images/people/kersti.png
@@ -148,7 +174,7 @@
     <a target="_blank" href="https://orcid.org/0000-0001-7660-3148"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
     <a target="_blank" href="https://www.linkedin.com/in/nurlan-kerimov-36992945/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
     <a target="_blank" href="https://github.com/kerimoff"><img src="/assets/images/social/github.png" width="20" height="20" alt="GitHub" title="GitHub"/></a>
-    <a target="_blank" href="https://kerimoff.github.io/"><img src="/assets/images/social/website.png" width="20" height="20" alt="Website" title="Website"/></a>
+    <a target="_blank" href="https://kerimoff.github.io/"><img src="/assets/images/social/website.png" width="20" height="20" alt="Website" title="Personal website"/></a>
     </span>
 
 - title: Liis Kolberg, PhD
@@ -156,6 +182,12 @@
   content: |
     Research Software Engineer
     <br>University of Tartu
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Liis_Kolberg/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0002-0118-7562"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/liis-kolberg/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    </span>
 
 - title: Ivan Kuzmin
   image: ../assets/images/people/ivan.png
@@ -212,4 +244,18 @@
     <br>
     <span class="social">
     <a target="_blank" href="https://www.linkedin.com/in/kmvoovere/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    </span>
+
+- title: Marko Vendelin
+  image: ../assets/images/people/user.png
+  content: |
+    Software Analyst (GDI)
+    <br>University of Tartu
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Marko_Vendelin/eng"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0002-6459-0391"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://scholar.google.nl/citations?hl=en&pli=1&user=rmlzRHYAAAAJ"><img src="/assets/images/social/scholar.png" width="20" height="20" alt="Google Scholar" title="Google Scholar"/></a>
+    <a target="_blank" href="https://gitlab.com/iocbio"><img src="/assets/images/social/gitlab.png" width="20" height="20" alt="GitLab" title="GitLab"/></a>
+    <a target="_blank" href="https://sysbio.ioc.ee/"><img src="/assets/images/social/website.png" width="20" height="20" alt="Website" title="Website"/></a>
     </span>
