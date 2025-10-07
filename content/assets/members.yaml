@@ -58,12 +58,26 @@
   image: ../assets/images/people/agne.png
   content: |
     Management board member
-    <br>Tallinn Technical University
+    <br>Tallinn University of Technology
     <br>
     <span class="social">
     <a target="_blank" href="https://www.etis.ee/CV/Agne_Velthut-Meikas/eng/"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
     <a target="_blank" href="https://orcid.org/0000-0003-1927-9016"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
     <a target="_blank" href="https://www.linkedin.com/in/agne-velthut-meikas-47751662/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    </span>
+
+- title: Marko Vendelin
+  image: ../assets/images/people/user.png
+  content: |
+    Head of Laboratory of Systems Biology
+    <br>Tallinn University of Technology
+    <br>
+    <span class="social">
+    <a target="_blank" href="https://www.etis.ee/CV/Marko_Vendelin/eng"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
+    <a target="_blank" href="https://orcid.org/0000-0002-6459-0391"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
+    <a target="_blank" href="https://scholar.google.nl/citations?hl=en&pli=1&user=rmlzRHYAAAAJ"><img src="/assets/images/social/scholar.png" width="20" height="20" alt="Google Scholar" title="Google Scholar"/></a>
+    <a target="_blank" href="https://gitlab.com/iocbio"><img src="/assets/images/social/gitlab.png" width="20" height="20" alt="GitLab" title="GitLab"/></a>
+    <a target="_blank" href="https://sysbio.ioc.ee/"><img src="/assets/images/social/website.png" width="20" height="20" alt="Website" title="Website"/></a>
     </span>
 
 - title: Indrek Reile, PhD
@@ -244,18 +258,4 @@
     <br>
     <span class="social">
     <a target="_blank" href="https://www.linkedin.com/in/kmvoovere/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
-    </span>
-
-- title: Marko Vendelin
-  image: ../assets/images/people/user.png
-  content: |
-    Software Analyst (GDI)
-    <br>University of Tartu
-    <br>
-    <span class="social">
-    <a target="_blank" href="https://www.etis.ee/CV/Marko_Vendelin/eng"><img src="/assets/images/social/etis.png" width="50" height="20" alt="ETIS" title="Estonian Research Information System"/></a>
-    <a target="_blank" href="https://orcid.org/0000-0002-6459-0391"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
-    <a target="_blank" href="https://scholar.google.nl/citations?hl=en&pli=1&user=rmlzRHYAAAAJ"><img src="/assets/images/social/scholar.png" width="20" height="20" alt="Google Scholar" title="Google Scholar"/></a>
-    <a target="_blank" href="https://gitlab.com/iocbio"><img src="/assets/images/social/gitlab.png" width="20" height="20" alt="GitLab" title="GitLab"/></a>
-    <a target="_blank" href="https://sysbio.ioc.ee/"><img src="/assets/images/social/website.png" width="20" height="20" alt="Website" title="Website"/></a>
     </span>
