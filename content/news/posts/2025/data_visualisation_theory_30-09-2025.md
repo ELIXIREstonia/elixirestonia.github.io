@@ -73,8 +73,8 @@ course:
   # Optional "External resources" to be shown in TeSS under the course:
   # Multiple items can be added; for each item the title and the url are mandatory.
   externalResources:
-    #- title:
-    #  url:
+    - title: Data Visualisation (theory) slides
+      url: https://doi.org/10.5281/zenodo.17243790
 
   # Specify occurrences here:
   instances:
