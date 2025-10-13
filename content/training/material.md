@@ -49,6 +49,7 @@ Useful sites:
 
 ## Data Management
 
+* Inno, H. (2025, October 13). __Andmehaldus 101.__ Zenodo. https://doi.org/10.5281/zenodo.17337418
 * Inno, H. (2025, September 8). __Licensing Research Outputs.__ Zenodo. https://doi.org/10.5281/zenodo.17076073
 * Inno, H. (2025, August 29). __Crash Course In Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.16993293
 * Pilvar, D. (2025, May 28). __Bring Your Own Data Management Plan.__ Zenodo. https://doi.org/10.5281/zenodo.15538895

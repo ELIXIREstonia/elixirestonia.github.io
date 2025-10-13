@@ -21,6 +21,7 @@ hide:
 * **1.09.20205** - [RStudio for beginners](https://elixir.ut.ee/news/2025/08/11/RStudio_Basic_01_09_2025/)
 * **5.09.2025** - [Licensing Research Outputs](https://elixir.ut.ee/news/2025/08/18/Licensing_05-09/)
 * **30.09.2025** - [Data visualisation (theory)](https://elixir.ut.ee/news/2025/09/01/data_visualisation_theory_30-09-2025/)
+* **10.10.2025** - [Andmehaldus 101](https://elixir.ut.ee/news/2025/09/17/Andmehaldus_101_10-10-2025/)
 
 
 ## 2024

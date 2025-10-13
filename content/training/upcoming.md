@@ -12,8 +12,6 @@ hands-on courses in the life science community on various topics.
 
 ## Free Autumn courses 2025 by ELIXIR Estonia
 
-**10.10.2025** [Andmehaldus 101](https://elixir.ut.ee/news/2025/09/17/Andmehaldus_101_10-10-2025/) - Kutsega
-
 **23.10.2025** [How to make your messy data usable? / OpenRefine](https://elixir.ut.ee/news/2025/09/15/OpenRefine_Tartu_23-10-2025/) - Registration OPEN
 
 **07.11.2025** [OpenRefine andmete puhastamiseks](https://elixir.ut.ee/news/2025/09/30/OpenRefine_TLU/) - Kutsega
