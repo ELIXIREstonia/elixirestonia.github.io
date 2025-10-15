@@ -84,6 +84,14 @@ hide:
 
 ## Latest news and announcements
 
+
+### Review of An Intuitive Primer of Effective Genomics Study Design
+
+[“*An Intuitive Primer on Effective Functional Genomics Study Design*”](https://www.amazon.com/Intuitive-Primer-Effective-Functional-Genomics/dp/B0DT9JLT6S/ref=sr_1_1?crid=5BI8RC5JVU7G&dib=eyJ2IjoiMSJ9.H120vigtXK6rCO9fMttISA.selz7w3qgD8ZD-Ijrx993KubvqGOUcg6QLVgb0saoZw&dib_tag=se&keywords=An+Intuitive+Primer+on+Effective+Functional+Genomics+Study+Design&qid=1760528768&sprefix=an+intuitive+primer+on+effective+functional+genomics+study+design%2Caps%2C171&sr=8-1) by [Yoav Gilad](https://www.linkedin.com/in/yoav-gilad-3a5589130/) provides a clear and accessible guide to the principles of effective functional genomics study design. Instead of prescribing fixed protocols, it encourages readers to think critically about their choices. For students, teachers, and researchers entering the field, it is an insightful and practical resource that I highly recommend.
+
+[More info](news/posts/2025/Review_GenomicsStudyDesign.md)
+
+
 ### ELIXIR Estonia’s January to June 2025 Highlights
 
 The first half of 2025 has shown how ELIXIR Estonia combines international collaboration, national community-building, and innovative training to support researchers. With initiatives in citizen science, data management network, and skill development, the team is contributing to the foundation for a strong, sustainable research data ecosystem in Estonia.
@@ -109,13 +117,6 @@ We offer 4 topics:
 This summer, Marilin Moor, Product Manager of ELIXIR Estonia and now a PhD student at the University of Tartu, published a new [article](https://doi.org/10.1016/j.ejps.2025.107179) presenting [FiBar](https://fibar.elixir.ut.ee/), a tool for analysing fiber diameters in complex drug delivery systems. The research was carried out in collaboration with the Institute of Pharmacy (Laura Männaste, Marta Putrinš and Professor Karin Kogermann) and Dmytro Fishman, Associate Professor in Artificial Intelligence at the Institute of Computer Science, University of Tartu.
 
 [More info](https://elixir.ut.ee/news/2025/09/11/FiBar_aricle/) 
-
-
-### RDMkit: Guiding Life Scientists in Research Data Management
-
-ELIXIR Estonia is proud to showcase the [Research Data Management Kit (RDMkit)](https://rdmkit.elixir-europe.org/), a community-led knowledge resource for life sciences that helps researchers and data stewards navigate the complexities of managing research data. Developed through the [ELIXIR CONVERGE project](https://elixir-europe.org/about-us/how-funded/eu-projects/converge ) and supported by the European Union’s Horizon 2020 programme, the RDMkit provides guidance on Research Data management that aligns with FAIR principles, ensuring data is findable, accessible, interoperable, and reusable.
-
-[More info](https://elixir.ut.ee/news/2025/09/04/RDMkit_Publication/) 
 
 
 ### Learning Data Management the Scary Way
