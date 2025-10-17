@@ -73,6 +73,8 @@ hide:
 
 **07.11.2025** [OpenRefine andmete puhastamiseks](news/posts/2025/OpenRefine_TLU.md) - Kutsega
 
+**24.11.2025** [Data Visualisation with RStudio](news/posts/2025/Data_visualisation_R.md) - Registration OPEN
+
 
 !!! note ""
     If you would like to be notified about the events, trainings and workshops

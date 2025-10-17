@@ -16,6 +16,8 @@ hands-on courses in the life science community on various topics.
 
 **07.11.2025** [OpenRefine andmete puhastamiseks](https://elixir.ut.ee/news/2025/09/30/OpenRefine_TLU/) - Kutsega
 
+**24.11.2025** [Data Visualisation with RStudio]() - Registration OPEN
+
 
 ## We are willing to train researchers on the following topics:
 
