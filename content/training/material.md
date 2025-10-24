@@ -49,6 +49,7 @@ Useful sites:
 
 ## Data Management
 
+* Pilvar, D. (2025, October 23). __How to make your messy data usable? / OpenRefine__. Zenodo. https://doi.org/10.5281/zenodo.10224703
 * Inno, H. (2025, October 13). __Andmehaldus 101.__ Zenodo. https://doi.org/10.5281/zenodo.17337418
 * Inno, H. (2025, September 8). __Licensing Research Outputs.__ Zenodo. https://doi.org/10.5281/zenodo.17076073
 * Inno, H. (2025, August 29). __Crash Course In Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.16993293
@@ -56,7 +57,6 @@ Useful sites:
 * Inno, H. (2025, March 10). __Getting organised with Notion.__ Zenodo. https://doi.org/10.5281/zenodo.14998033
 * Pilvar, D. (2025, February 10). __Crash Course in Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.13801447
 * Inno, H. (2024, October 31). __Laboratory documentation with Markdown.__ Zenodo. https://doi.org/10.5281/zenodo.14016131
-* Pilvar, D. (2024, September 24). __How to make your messy data usable? / OpenRefine__. Zenodo. https://doi.org/10.5281/zenodo.13832071
 * Pilvar, D. (2024, May 14). __Metadata and README.__ Zenodo. https://doi.org/10.5281/zenodo.7835048.
 * Pilvar, D. (2024, May 1). __FAIR in a Nutshell.__ Zenodo. https://doi.org/10.5281/zenodo.7660007.
 * Pilvar, D. (2024, February 23). __Andmehaldus 101.__ Zenodo. https://doi.org/10.5281/zenodo.10006022

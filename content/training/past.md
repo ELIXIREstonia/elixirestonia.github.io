@@ -22,6 +22,7 @@ hide:
 * **5.09.2025** - [Licensing Research Outputs](https://elixir.ut.ee/news/2025/08/18/Licensing_05-09/)
 * **30.09.2025** - [Data visualisation (theory)](https://elixir.ut.ee/news/2025/09/01/data_visualisation_theory_30-09-2025/)
 * **10.10.2025** - [Andmehaldus 101](https://elixir.ut.ee/news/2025/09/17/Andmehaldus_101_10-10-2025/)
+* **23.10.2025** [How to make your messy data usable? / OpenRefine](https://elixir.ut.ee/news/2025/09/15/OpenRefine_Tartu_23-10-2025/)
 
 
 ## 2024

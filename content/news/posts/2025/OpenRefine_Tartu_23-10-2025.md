@@ -77,8 +77,8 @@ course:
   # Optional "External resources" to be shown in TeSS under the course:
   # Multiple items can be added; for each item the title and the url are mandatory.
   externalResources:
-    #- title:
-    #  url:
+    - title: materials for OpenRefine course
+      url: https://doi.org/10.5281/zenodo.17416533
 
   # Specify occurrences here:
   instances:
