@@ -131,14 +131,6 @@ What happens when you forget to back up your research data? Or when a tiny mista
 
 <div class="tile-grid">
 <text-tile
-  title="Hybrid: Emerging Applications of Microbes"
-  description="This conference will delve into cutting-edge applications, from sustainable agriculture and bioremediation to breakthroughs in human and animal health, circular economy innovations, and next-generation food technologies. We will also spotlight microbial cell factories, synthetic biology, and microbial engineering as key drivers of progress in industrial and applied microbiology."
-  deadline="Registration deadline: 23 October 2025"
-  dates="Date: 6-7 November 2025"
-  link="https://www.vibconferences.be/events/emerging-applications-of-microbes-3rd-edition"
-  data-deadline-date="2025-10-24">
-</text-tile>
-<text-tile
   title="Material: GRAY SCOTT SCHOOL 2025 - Revolutions"
   description="The GRAY SCOTT SCHOOL 2025 - Revolutions will be a deep dive into High Performance Computing, computing optimisation, profiling, and software engineering. Before the summer school, Gray Scott Thursdays are 17 webinars to guide you through important topics such as CPU/GPU architectures, Unit Tests, Computing Precision, Memory Allocation and profiling, with modern C++, Rust, Fortran and Python languages, and libraries such as Sycl, EVE, Vulkan, CUDA, Thrust, PyTorch."
   link="https://cta-lapp.pages.in2p3.fr/cours/gray_scott_revolutions/grayscottrevolution/index.html"
@@ -181,88 +173,6 @@ What happens when you forget to back up your research data? Or when a tiny mista
  materials="https://www.embl.org/about/info/course-and-conference-office/wp-content/uploads/20250716_GenericPoster_2026_interaktiv.pdf"
  materialstext="Poster"
  data-added-date="2025-09-03">
- </text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
- title="The Netherlands: Dynamic Modeling in Systems Biology (Fundamental) 2025"
- description="The course is aimed at PhD students with a background in bioinformatics, systems biology, computer science or a related field, and life sciences. Participants from the private sector are also welcome. In this course we offer the participants the possibility to learn and exercise the modeling process. A considerable part of this course is spent on getting you acquainted with the optimization techniques that are nowadays available and widely used. The course is a mixture of theory sessions and computer practicals."
- link="https://www.dtls.nl/courses/dynamic-modeling-in-systems-biology-2025/"
- deadline="Registration deadline: 27 October 2025"
- dates="Date: 8-12 December 2025"
- data-deadline-date="2025-10-28">
- </text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
- title="Tallinn: LUMI Intro Course"
- description="Two-day hybrid course (online and on-site) that introduces the LUMI architecture and setup. It will include lessons about the hardware architecture, compiling, using software, and running jobs efficiently."
- link="https://www.lumi-supercomputer.eu/events/lumi-intro-course-tallinn/"
- deadline="Registration deadline: 14 Oct 2025"
- dates="Date: 20.-21.10.2025"
- data-deadline-date="2025-10-15">
- </text-tile>
- <text-tile
- title="LUMI Profiling and Optimization Workshop"
- description="The on-site 3-day course is designed for experienced HPC users. The course combines theoretical knowledge with practical hands-on exercises to maximize your efficiency on both CPU and GPU partitions."
- link=" https://www.lumi-supercomputer.eu/events/profiling-ws-tallinn/"
- deadline="Registration deadline: 14 Oct 2025"
- dates="Date: 22.-24.10.2025"
- data-deadline-date="2025-10-15">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
- title="Switzerland: Best Practices for Investigating Gene Expression Differences by Biological Sex"
- description="This course is addressed to life scientists and computational biologists working in basic or biomedical research, on human or animals, involved in planning/experimental design and/or performing downstream analysis. Pure data analysts are welcome as they can have a role to play from the beginning of research projects!"
- link="https://www.sib.swiss/training/course/20251027_BIOSE"
- deadline="Registration deadline: 20 Oct 2025"
- dates="Date: 27 Oct 2025"
- data-deadline-date="2025-10-20">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
- title="Online: Enhancing Data Support: Practical Reproducibility, Part 2"
- description="This session will provide a glimpse into version control with Git(-Hub) and the use of Jupyter Notebooks for reproducibility."
- link="https://csc.fi/koulutuskalenteri/enhancing-data-support-practical-reproducibility-part-2/"
- dates="Date: 29.10.2025"
- data-deadline-date="2025-10-29">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
- title="Online: Qualitative Open Research: Meaningful Exchange and Mutual Learning"
- description="Dr Cole will commence this interactive webinar with an overview of empirical and conceptual work that connects qualitative research with open and reproducible research. She will highlight both relevant obstacles as well as underexplored opportunities for open and reproducible research. Next, Dr Jamieson will zoom in on a specific practice from qualitative scholarship, namely positionality statements, and examine how this practice can help quantitative research to become more open and transparent."
- link="https://events.teams.microsoft.com/event/5cbdf608-5301-4d8d-bf21-83af8571a3c4@335122f9-d4f4-4d67-a2fc-cd6dc20dde70"
- dates="Date: 16 Oct 2025"
- data-deadline-date="2025-10-16">
- </text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
- title="Online: Version Control with Git"
- description="This course is aimed at people who are interested in using a version control system for collaborative work, or simply to keep track of modifications in their scripts, files or code base. This includes people working on code development, but also scientists interested in improving the reproducibility of their data analyses by keeping track of their scripts using version control."
- link="https://www.sib.swiss/training/course/20251028_GIT"
- deadline="Registration deadline: 19 October 2025"
- dates="Date: 28 - 29 October 2025"
- materials="https://gitlab.sib.swiss/rengler/git_course_public/-/blob/main/README.md"
- data-deadline-date="2025-10-20">
- </text-tile>
- <text-tile
- title="Online: UNIX Shell Scripting in Life Sciences"
- description="This course targets UNIX users who have basic knowledge of interactive shell use  and are interested in moving from interactive to automated tasks."
- link="https://www.sib.swiss/training/course/20251105_ADVUN"
- deadline="Registration deadline: 15 October 2025"
- dates="Date: 4 afternoons, at 5, 12, 19 and 26 November 2025"
- materials="https://gitlab.sib.swiss/tjunier/scripting-course/-/blob/master/README.md"
- data-deadline-date="2025-10-16">
  </text-tile>
 </div>
 
@@ -316,14 +226,6 @@ What happens when you forget to back up your research data? Or when a tiny mista
 </div>
 
 <div class="tile-grid">
-<text-tile
- title="Germany and Spain (parallel): Exploratory analysis of biological data: data carpentry"
- description="The missing step between data collection and research progress is a lack of training for researchers in crucial skills for effectively managing and analysing data, often in large amounts. Topics included: Data organisation and cleaning, Versioning with Git, Introduction to R, Data analysis and visualisation in R, Data analysis with applications to genomics."
- link="https://www.embl.org/about/info/course-and-conference-office/events/dtc26-01/"
- deadline="Registration deadline: 27 Oct 2025"
- dates="Date:  2 - 6 Feb 2026"
- data-deadline-date="2025-10-28">
- </text-tile>
  <text-tile
  title="Switzerland: Single-Cell Transcriptomics with R"
  description= "This course is intended for life scientists and bioinformaticians familiar with Next Generation Sequencing who want to acquire the necessary skills to analyse scRNA-seq gene expression data."
@@ -354,14 +256,6 @@ What happens when you forget to back up your research data? Or when a tiny mista
 </div>
 
 <div class="tile-grid">
-<text-tile
- title="Online: The mobile genome: genetic and physiological impacts of transposable elements"
- description="The 2025 Mobile Genome conference will assemble recognized experts from diverse disciplines (e.g., genomics, epigenetics, structural biology, evolutionary biology, and developmental biology), as well as the next generation of scientists who will become leaders in the field, to discuss the broad impact of TEs on organismal biology."
- link="https://www.embl.org/about/info/course-and-conference-office/events/mge25-01/"
- deadline="Registration deadline: 28 Oct 2025"
- dates="Date:  4-7 Nov 2025"
- data-deadline-date="2025-10-29">
- </text-tile>
  <text-tile
  title="Online: Cell biology of the nucleus"
  description="We intend to bring together scientists from a range of backgrounds working on different aspects of the nucleus, including nuclear architecture, nuclear envelope remodeling, nuclear transport, nuclear mechanics, molecular machines, nuclear divisions, evolution, and biophysics of the nucleus."
@@ -373,23 +267,6 @@ What happens when you forget to back up your research data? Or when a tiny mista
 </div>
 
 <div class="tile-grid">
- <text-tile
- title="Online: Inferring bacterial pangenomes with gene-based approaches"
- description="Topics: properties of prokaryotic microbes which make pangenome-based analysis essential, the theoretical basis of gene-based methods for inferring bacterial pangenomes, contemporary and ongoing developments to this class of methods"
- link="https://www.ebi.ac.uk/training/events/inferring-bacterial-pangenomes-gene-based-approaches/#vf-tabs__section--tab1"
- dates="Date: 15 October 2025"
- data-deadline-date="2025-10-16">
- </text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
- title="Online: Making sense of massive genomic data by indexing at scale"
- description="This webinar introduces approaches to organising and searching large-scale genomic data, exploring how indexing strategies improve data accessibility, reproducibility, and analytical power. We’ll discuss current challenges, practical frameworks, and future directions for handling genomics at the population scale."
- link="https://www.ebi.ac.uk/training/events/making-sense-massive-genomic-data-indexing-scale/"
- dates="Date: 22 October 2025"
- data-deadline-date="2025-10-23">
- </text-tile>
  <text-tile
  title="Online: Pangenome graphs as a new paradigm in comparative genomics"
  description="Instead of describing genomes in a linear fashion, as is done conventionally, pangenome graphs represent population diversity as a network, compacting similar sequences and implicitly encoding variation. In this session, we will discuss different types of pangenome graphs and their applications, as well as tools developed by our group that leverage pangenome graphs to improve the accuracy of conventional bioinformatics tasks."
@@ -406,68 +283,6 @@ What happens when you forget to back up your research data? Or when a tiny mista
  link="https://www.ebi.ac.uk/training/events/pangenome-annotations-and-resources-ensembl/"
  dates="Date: 12 November 2025"
  data-deadline-date="2025-11-13">
- </text-tile>
- <text-tile
- title="Online: Chemicals in a biological context: metabolites, drugs, and beyond"
- description="This course is aimed at wet-lab scientists, such as cell biologists, enzymologists, biochemists and medicinal chemists, as well as bioinformaticians and those exploring cheminformatics. It is designed for those who would like to use EMBL-EBI data resources to interpret the effects of small molecule drugs binding to a biological target. No programming experience is required."
- link="https://www.ebi.ac.uk/training/events/chemicals-biological-context-metabolites-drugs-and-beyond/"
- deadline="Registration deadline: 19 October 2025"
- dates="Date: 13 November 2025"
- data-deadline-date="2025-10-20">
- </text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
- title="Webinar: Qualitative Open Research"
- description="Dr Cole will commence this interactive webinar with an overview of empirical and conceptual work that connects qualitative research with open and reproducible research. She will highlight both relevant obstacles as well as underexplored opportunities for open and reproducible research. Next, Dr Jamieson will zoom in on a specific practice from qualitative scholarship, namely positionality statements, and examine how this practice can help quantitative research to become more open and transparent. "
- link="https://events.teams.microsoft.com/event/5cbdf608-5301-4d8d-bf21-83af8571a3c4@335122f9-d4f4-4d67-a2fc-cd6dc20dde70"
- dates="Date: 16 Oct 2025"
- data-deadline-date="2025-10-17">
- </text-tile>
- <text-tile
- title="Webinar: One size does not fit all: New insights into qualitative data sharing"
- description="In this webinar we will be joined by three special guests from different disciplines and different areas of qualitative inquiry to discuss the unique contexts in which qualitative data sharing should not only be considered but also encouraged and those where a push for openness can lead to many ethical dilemmas or even harm.
-Our answer is that one solution simply cannot fit all and qualitative data sharing should be assessed individually, taking into consideration contextual information on the background, method, research tradition and participating communities. "
- link="https://www.openscience.no/one-size-does-not-fit-all-new-insights-qualitative-data-sharing"
- dates="Date: 20 Oct 2025"
- data-deadline-date="2025-10-21">
- </text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
- title="Webinar: Who Owns Our Knowledge? The Future of Equitable Open Access"
- description="Who truly owns the knowledge we create? As open access grows, so do concerns about commercialization, AI exploitation, and inequitable participation. This webinar will explore how to design open access models that center community ownership, protect against extractive practices, and amplify marginalized voices. Panelists will share strategies for balancing openness with privacy and consent, ensuring a future where knowledge is not only free to access but also ethically and equitably shared. "
- link="https://events.teams.microsoft.com/event/71ff1254-e8fc-42b2-afd0-d8267491f870@068bde83-3dda-41fc-9565-4b16e4ebb35b"
- dates="Date: 20 Oct 2025"
- data-deadline-date="2025-10-21">
- </text-tile>
- <text-tile
- title="Webinar: Reusing Research Data: Opportunities, Challenges, and the FAIR Way Forward"
- description="Making sense of someone else’s data isn’t always easy. What are the challenges of interpreting and integrating datasets generated by others? Why is it crucial that the FAIR principles – Findable, Accessible, Interoperable, and Resuable, are followed when data are shared?
-In this session, we’ll hear from two experienced practitioners of secondary data analysis. Join us to learn how FAIR data can lead to new discoveries — and what it takes to make that happen"
- link="https://www.openscience.no/reusing-research-data-opportunities-challenges-and-fair-way-forward"
- dates="Date: 22 Oct 2025"
- data-deadline-date="2025-10-23">
- </text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
- title="Online: Fast forward Open Science"
- description="As part of International Open Access Week 2025, experts will share insights on open access publishing, research data management, open source code and software, and open education. "
- link="https://www.circle-u.eu/events/2025/fast-forward-open-science.html"
- deadline="Registration deadline: 20 oct 2025"
- dates="Date: 22 Oct 2025"
- data-deadline-date="2025-10-21">
- </text-tile>
- <text-tile
- title="Open Data in the Humanities: Balancing Legal Constraints, FAIR Principles and AI"
- description="In our online presentation, we share practical experiences from our collaboration with humanities projects. Our focus is on facilitating the sharing and reuse of data by providing clear legal information for the users of our platform. But the reality is often complex: many cultural institutions do not make their archives publicly available or do not allow the data to be reused in its entirety. How could a project reuse material that they are not allowed to share publicly?In addition, new technologies such as AI raise questions – and sometimes fears. What influence can it have on the open access mentality?"
- link="https://dasch.swiss/news/openaccessweek"
- dates="Date: 23 Oct 2025"
- data-deadline-date="2025-10-24">
  </text-tile>
 </div>
 
@@ -498,3 +313,168 @@ How can Open Science – with its emphasis on transparency, collaboration, effic
  data-deadline-date="2025-11-18">
  </text-tile>
 </div>
+
+<div class="tile-grid">
+ <text-tile
+ title="Online: ELIXIR-GOBLET Train-the-Trainer"
+ description="This course introduces learning principles and practical training techniques for life sciences educators, drawing on research-driven methodologies. Participants will learn to design effective sessions, develop assessments, and address academic teaching challenges."
+ link="https://www.sib.swiss/training/course/20251124_TTTCH"
+ dates="Date: 24 - 27 November 2025"
+ deadline="Registration deadline: 3 Nov 2025"
+ data-deadline-date="2025-11-04">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+  title="Germany: Protein quality control for downstream processes"
+  description="This course is designed for life science researchers working with purified proteins in experiments, focusing on ensuring high protein quality for reliable and relevant downstream applications. Participants will learn to apply and interpret key biophysical and biochemical techniques for protein quality assessment and characterization, with hands-on opportunities to analyze their own samples. Upon completion, attendees will have the skills to assess protein suitability and enhance the success and reproducibility of their research."
+  link="https://www.embl.org/about/info/course-and-conference-office/events/pqc26-01/"
+  deadline="Registration deadline: 17 November 2025"
+  dates="Date: 9 - 13 March 2026"
+  data-deadline-date="2025-11-18">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+ title="United Kingdom: Introduction to multi-omics data integration and visualisation"
+ description="This introductory course highlights the challenges of integrating multi-omics data sets using biological examples, focusing on public data resources and open access tools for integrated working, with an emphasis on data visualisation. The course includes hands-on group projects where participants work on practical bioinformatics challenges, culminating in collaborative presentations. It is suitable for biologists and beginner bioinformaticians seeking practical experience in multi-omics data integration."
+ link="https://www.ebi.ac.uk/training/events/introduction-multi-omics-data-integration-and-visualisation-2026/"
+ deadline="Registration deadline: 16 November 2025"
+ dates="Date: 02 – 06 March 2026"
+ data-deadline-date="2025-11-17">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+  title="Germany: From Gene Models to Biological Insights - Functional Annotation"
+  description="This course focuses on turning structural gene annotations into meaningful biological interpretations through rigorous quality control and comprehensive functional annotation. Participants will learn to use tools such as BUSCO, InterProScan, KIPEs, and more to assess and analyze genome annotation quality, gene functions, and gene family evolution. Designed for those with basic command-line experience, it is ideal for researchers aiming to connect genome annotations to biological function and evolutionary context."
+  link="https://www.denbi.de/training-courses-2025/1949-from-gene-models-to-biological-insights-functional-annotation"
+  dates="Date: 10 - 12 December 2025"
+  data-deadline-date="2025-12-01">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+ title="Germany: Plant Genome Sequence Assembly and Annotation"
+ description="Unlock the secrets of plant genomes with this intensive, hands-on course in plant genome sequence assembly and annotation. Designed for doctoral students and postdoctoral researchers in genomics and bioinformatics, it offers practical training using Oxford Nanopore Technologies long-read sequencing data. You'll learn to perform quality control, sequence assembly, and gene annotation using state-of-the-art tools, with a focus on real-world applications to interpret, validate, and refine plant genomic data."
+ link="https://www.denbi.de/training-courses-2025/1948-plant-genome-sequence-assembly-and-annotation"
+ dates="Date: 8 - 10 December 2025"
+ data-deadline-date="2025-12-01">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+ title="Germany: Spatial gene expression at species agnostic level"
+ description="This interactive course introduces participants to the Visium Cytassist Spatial Gene Expression Solution by 10x Genomics, with a focus on practical lab work and theoretical sessions covering the complete workflow from sample prep to data analysis. Attendees will learn techniques for tissue sectioning, staining, and library preparation, as well as hands-on training in spatial transcriptomics data analysis using the Loupe Browser pipeline. Designed for molecular biologists and morphology researchers, the course offers insights into the importance of spatially resolved transcriptomics data and practical experience with the latest tools."
+ link="https://www.embl.org/about/info/course-and-conference-office/events/spa26-01/"
+ deadline="Registration deadline: 24 November 2025"
+ dates="Date: 2 - 6 March 2026"
+ data-deadline-date="2025-11-25">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+ title="Switzerland: Introduction to Sequencing-based Spatial Transcriptomics Data Analysis"
+ description="Spatial transcriptomics allows researchers to study gene expression within the spatial context of tissue architecture. This course provides a practical introduction to sequencing-based spatially resolved transcriptomics (SRT) data analysis, covering theory and hands-on exercises mainly in R/Bioconductor. Participants will learn about experimental design, data preprocessing, and downstream analysis, equipping them to interpret spatial transcriptomics results in biological contexts."
+ link="https://www.sib.swiss/training/course/20251209_SBSRT"
+ deadline="Registration deadline: 25 November 2025"
+ dates="Date: 9 - 10 December 2025"
+ data-deadline-date="2025-11-26">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+  title="Finland: Data Analysis with R"
+  description="R is a language that has become one of the most popular tools for manipulating, visualizing and analyzing data. This course aims to help beginners overcome the initial learning curve by equipping them with essential skills in using R, including data wrangling and plotting. Participants will learn data importing/exporting, handling real-life datasets, and creating publication-ready plots with hands-on teaching."
+  link="https://csc.fi/en/training-calendar/data-analysis-with-r-5/"
+  deadline="Registration deadline: 24 November 2025"
+  dates="Date: 1 - 2 December 2025"
+  data-deadline-date="2025-11-25">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: Data Analysis and Representation in Python"
+    description="This intermediate-level 1-day course introduces participants to key Python modules and recipes for effective data analysis and representation of real-life datasets in life sciences. Attendees will learn to parse, transform, and visually represent data using pandas, numpy, and seaborn, with practical exercises geared towards daily data wrangling tasks. The training is streamed online, making it accessible to a wide range of researchers looking to build confidence in advanced Python for omics data."
+    link="https://www.sib.swiss/training/course/20251110_DARPY"
+    deadline="Registration deadline: 03 November 2025"
+    dates="Date: 10 November 2025"
+    data-deadline-date="2025-11-04"
+    material="https://github.com/sib-swiss/intermediate-python-training">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+ title="Online: Interactive Visualization with Python"
+ description="This one-day streamed course will introduce essential tools and techniques for creating interactive data visualizations using Python. Participants will learn to choose suitable visualization solutions, create and customize interactive plots with Plotly, and develop web-based visualizations using Plotly-Dash. The course is aimed at life science researchers wanting to enhance their data exploration and presentation with interactive visualizations."
+ link="https://www.sib.swiss/training/course/20251118_IVIPY"
+ deadline="Registration deadline: 05 November 2025"
+ dates="Date: 18 November 2025"
+ data-deadline-date="2025-11-06">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+ title="Online: Introduction to RNA-seq and functional interpretation"
+ description="Gain an introduction to the technology, data analysis, tools and resources used in RNA sequencing and transcriptomics. The content provides a broad overview and guides participants through basic transcriptomics analysis with the command line, highlighting key public repositories and biological interpretation methods. Sessions include lectures, practical exercises, and interactive discussions, using example data sets for computational work."
+ link="https://www.ebi.ac.uk/training/events/introduction-rna-seq-and-functional-interpretation-2026/"
+ deadline="Registration deadline: 09 November 2025"
+ dates="Date: 09 – 13 February 2026"
+ data-deadline-date="2025-11-10">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+  title="Online: Diving into deep learning - theory and applications with PyTorch"
+  description="This course offers practical knowledge on implementing deep learning models in life sciences, utilizing the PyTorch library. Participants will learn about building, tuning, and monitoring neural network models for biological and medical data analysis. The sessions will cover the design, training, and adaptation of models, making deep learning approachable for those familiar with machine learning."
+  link="https://www.sib.swiss/training/course/20251201_DEEPP"
+  deadline="Registration deadline: 17 November 2025"
+  dates="Date: 1 - 2 December 2025"
+  data-deadline-date="2025-11-18"
+  material= "https://github.com/sib-swiss/pytorch-practical-training">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+  title="Online: How to make your research reproducible with AI tools"
+  description="Science is about standing on the shoulders of giants, but reproducibility and reusability often remain a challenge. This free webinar discusses the reproducibility crisis in research, why some results are hard to reproduce, and how AI tools and best practices can help improve reproducibility of scientific data, methods, and code. Practical examples, documentation tips, and open discussion will be included."
+  link="https://www.aalto.fi/en/events/how-to-make-your-research-reproducible-with-ai-tools-nov-19-2025"
+  dates="Date: 19 November 2025"
+  data-deadline-date="2025-11-20">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+  title="Online: Enrichment Analysis"
+  description="Experiments designed to quantify gene expression often yield hundreds of genes with statistically significant differences between groups. After identifying these genes, enrichment analysis (EA) methods help explore the biological functions associated with them. This course covers Gene Set Enrichment Analysis (GSEA) and alternative methods, with an overview of annotation databases such as Gene Ontology."
+  link="https://www.sib.swiss/training/course/20251128_ENRIC"
+  deadline="Registration deadline: 20 November 2025"
+  dates="Date: 28 November 2025"
+  data-deadline-date="2025-11-21">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+ title="Online: Cancer Variant Analysis"
+ description="This course addresses the genomic origins of cancer and the role of somatic mutations in disease development. Participants will learn how to call and annotate somatic variants from next generation sequencing data, using the GATK4 (Mutect2) pipeline and Ensembl's Variant Effect Predictor. The course includes both conceptual lessons and hands-on practice, making it suitable for researchers in cancer biology who want to analyze and interpret somatic variants."
+ link="https://www.sib.swiss/training/course/20251212_CVANA"
+ deadline="Registration deadline: 28 November 2025"
+ dates="Date: 12 December 2025"
+ data-deadline-date="2025-11-29">
+ </text-tile>
+</div>
+
