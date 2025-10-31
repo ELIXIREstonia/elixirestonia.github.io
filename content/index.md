@@ -291,8 +291,8 @@ What happens when you forget to back up your research data? Or when a tiny mista
  title="Webinar: Horizon Europe Open Science requirements in practice"
  description="We will present the HE requirements, followed by some time for your questions to our experts. You will also get a preview of the main tools and services OpenAIRE provides to help project coordinators and research support staff on the requirements' compliance."
  link="https://zoom.us/webinar/register/WN_xqsYqxUwTAOWvAOW_jtAPQ#/registration"
- dates="Date: 4 Nov 2025"
- data-deadline-date="2025-11-05">
+ dates="Date: 7 Nov 2025"
+ data-deadline-date="2025-11-08">
  </text-tile>
  <text-tile
  title="Hybrid: Open Science in the Light of Geopolitical Polarization"
