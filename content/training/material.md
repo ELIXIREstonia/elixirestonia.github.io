@@ -49,7 +49,7 @@ Useful sites:
 
 ## Data Management
 
-* Pilvar, D. (2025, October 23). __How to make your messy data usable? / OpenRefine__. Zenodo. https://doi.org/10.5281/zenodo.10224703
+* Pilvar, D. (2025, November 6). __How to make your messy data usable? / OpenRefine__. Zenodo. https://doi.org/10.5281/zenodo.10224703
 * Inno, H. (2025, October 13). __Andmehaldus 101.__ Zenodo. https://doi.org/10.5281/zenodo.17337418
 * Inno, H. (2025, September 8). __Licensing Research Outputs.__ Zenodo. https://doi.org/10.5281/zenodo.17076073
 * Inno, H. (2025, August 29). __Crash Course In Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.16993293

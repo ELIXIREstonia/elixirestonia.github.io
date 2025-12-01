@@ -3,7 +3,7 @@
 template: training_et.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: OpenRefine andmete puhastamiseks - 07.11.2025 - Kutsega
+title: OpenRefine andmete puhastamiseks - 07.11.2025
 draft: false
 hide:
   - toc
@@ -78,8 +78,8 @@ course:
   # Optional "External resources" to be shown in TeSS under the course:
   # Multiple items can be added; for each item the title and the url are mandatory.
   externalResources:
-    #- title:
-    #  url:
+    - title: slides for How to make your messy data usable? / OpenRefine
+      url: https://doi.org/10.5281/zenodo.17546041
 
   # Specify occurrences here:
   instances:

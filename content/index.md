@@ -69,9 +69,7 @@ hide:
 
 ## Free Autumn courses 2025 by ELIXIR Estonia
 
-**07.11.2025** [OpenRefine andmete puhastamiseks](news/posts/2025/OpenRefine_TLU.md) - Kutsega
-
-**24.11.2025** [Data Visualisation with RStudio](news/posts/2025/Data_visualisation_R.md) - Registration OPEN
+No more upcoming. 2026 courses will be announced soon
 
 
 !!! note ""
