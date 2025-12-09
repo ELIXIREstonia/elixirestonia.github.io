@@ -24,7 +24,7 @@ hide:
 * **10.10.2025** - [Andmehaldus 101](https://elixir.ut.ee/news/2025/09/17/Andmehaldus_101_10-10-2025/)
 * **23.10.2025** [How to make your messy data usable? / OpenRefine](https://elixir.ut.ee/news/2025/09/15/OpenRefine_Tartu_23-10-2025/)
 * **07.11.2025** [OpenRefine andmete puhastamiseks](https://elixir.ut.ee/news/2025/09/30/OpenRefine_TLU/)
-
+* **24.11.2025** [Data Visualisation with RStudio](https://elixir.ut.ee/news/2025/10/17/Data_visualisation_R/)
 
 ## 2024
 

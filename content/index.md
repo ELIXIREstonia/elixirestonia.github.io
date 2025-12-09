@@ -69,7 +69,7 @@ hide:
 
 ## Free Autumn courses 2025 by ELIXIR Estonia
 
-No more upcoming. 2026 courses will be announced soon
+No more upcoming courses in 2025. 2026 courses will be announced soon
 
 
 !!! note ""

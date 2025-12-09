@@ -3,7 +3,7 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: Data Visualisation with RStudio - 24.11.2025 - Registration OPEN
+title: Data Visualisation with RStudio - 24.11.2025
 draft: false
 hide:
   - toc
@@ -32,7 +32,7 @@ course:
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register: https://forms.gle/AwVGnNms2YqQx4BZ6
+    register:
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
 
@@ -72,6 +72,10 @@ course:
     - edam:
         # Specified as – code: label
         0092: Data visualisation
+
+  externalResources:
+    - title: ELIXIR-EE training course on R, Rstudio and ggplot2 graphical grammar. 
+      url: https://github.com/ELIXIREstonia/2025-11-24-R-visualisation
 
   # Specify occurrences here:
   instances:

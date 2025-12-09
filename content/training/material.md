@@ -27,9 +27,9 @@ All slides are available on Zenodo under [community ELIXIR-Estonia](https://zeno
 
 ## Data Visualisation
 
+* ELIXIR Estonia (2025). __R visualisation__ https://github.com/ELIXIREstonia/2025-11-24-R-visualisation
 * Pilvar, D. (2025, October 1). __Data Visualisation__. Zenodo. https://doi.org/10.5281/zenodo.7819286.
 * Pilvar, D. (2024, April 12). __Tableau for beginners.__ Zenodo. https://doi.org/10.5281/zenodo.10963883.
-* ELIXIR Estonia (2024). __R visualisation__ https://github.com/ELIXIREstonia/2024-10-09-R-visualisation 
 * Heleri Inno. (2022, October 26). __Data Visualisation I - Figures.__ Zenodo. https://doi.org/10.5281/zenodo.7251489
 
 Useful sites:
