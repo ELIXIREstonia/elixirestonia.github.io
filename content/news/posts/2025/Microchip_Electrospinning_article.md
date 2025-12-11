@@ -3,6 +3,7 @@ draft: false
 date: 2025-12-11
 authors:
   - Heleri
+  - Marilin Moor
 categories:
   - ELIXIR Estonia
   - news
