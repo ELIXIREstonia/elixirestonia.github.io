@@ -7,6 +7,10 @@ authors:
     name: Heleri
     description: ELIXIR Data Manager
     avatar: /assets/images/people/heleri.jpg
+  Marilin:
+    name: Marilin Moor
+    description: ELIXIR Product Manager
+    avatar: /assets/images/people/marilin.jpg
   elixir:
     name: ELIXIR Estonia
     description: ELIXIR Estonia
