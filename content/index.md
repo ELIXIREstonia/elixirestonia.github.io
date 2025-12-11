@@ -87,7 +87,7 @@ No more upcoming courses in 2025. 2026 courses will be announced soon
 
 We are proud to share a recent publication by our team member, Marilin Moor, who contributed to a study on advanced wound care. Published in Materials Today Bio, the article titled [“Living probiotics-loaded wound matrices prepared by microchip electrospinning”](https://doi.org/10.1016/j.mtbio.2025.102403) introduces a novel method for treating skin infections.
 
-[More info](news/posts/2025/Review_GenomicsStudyDesign.md)
+[More info](news/posts/2025/Microchip_Electrospinning_article.md)
 
 
 ### Review of An Intuitive Primer of Effective Genomics Study Design
