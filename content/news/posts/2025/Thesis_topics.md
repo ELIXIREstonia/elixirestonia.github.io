@@ -16,7 +16,7 @@ hide:
 ELIXIR Estonia is building and maintaining web tools and other resources for life science research. We aim to build things that last and are useful over a longer period. we offer 4 topics: 
 
 * Topic 1: Modernising KEGGanim web application
-* Topic 2: Contrastive Learning for Microscopy Image Understanding 
+* Topic 2: Contrastive Learning for Microscopy Image Understanding (taken)
 * Topic 3: Vision learning to understand how good a basketball player X is in situation Y? 
 * Topic 4: Evaluating the Impact of Data Update Frequency on Functional Annotations Across 1000 Species Using g:Profiler data archives
 
@@ -37,7 +37,7 @@ This project will give you valuable experience in modern web development technol
 
 For more info contact: Priit Adler priit.adler@ut.ee
 
-## Topic 2: Contrastive Learning for Microscopy Image Understanding 
+## Topic 2: Contrastive Learning for Microscopy Image Understanding (taken)
 
 Benchmarks like BIOMEDICA and Micro-Bench are designed to test how well vision-language models (such as GPT-4o and PaliGEMMA) can help biologists analyze images. These large datasets contain microscopy images paired with captions and other metadata.
 
