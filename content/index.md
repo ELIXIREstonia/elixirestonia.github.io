@@ -344,3 +344,99 @@ data-added-date="2025-11-19">
  </text-tile>
 </div>
 
+<div class="tile-grid">
+  <text-tile
+    title="Material: Metadata"
+    description="The aim of this lesson is to explain why metadata is crucial for making data more FAIR and how it influences data discoverability and reuse. It introduces metadata standards, controlled vocabularies, and ontologies, and shows how these can be applied to describe data in a consistent and structured way. Participants also learn practical strategies for documenting which standards they use and for finding suitable ontologies for their own datasets."
+    materials="https://nbisweden.github.io/module-metadata-dm-practices/index.html"
+    materialstext="Lesson homepage"
+    data-added-date="2025-12-15">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Material: Data organisation practices"
+    description="This lesson introduces core principles for organising digital research data so that projects remain understandable, reusable, and ready for collaboration over time. It explains how careful structuring of files, folders, and documentation underpins efficient workflows and supports later publication and data sharing. Participants also explore practical approaches for keeping research records and structuring tabular data and metadata."
+    materials="https://nbisweden.github.io/module-organising-data-dm-practices/index.html"
+    materialstext="Material page"
+    data-added-date="2025-12-15">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Belgium: Tracer metabolomics"
+    description="Understanding metabolic fluxes is crucial for uncovering how diseases, drugs, and genetic changes affect cellular biochemistry, and tracer metabolomics tracks labelled substrates through metabolic pathways to study these dynamic processes. This three-day, in-person course in Leuven provides foundational concepts, experimental design tips, and practical exposure to tracer metabolomics workflows, including data interpretation and a guided tour of the Metabolomics Core facility."
+    link="https://training.vib.be/all-trainings/tracer-metabolomics"
+    deadline="Registration deadline: 1 February 2026"
+    dates="Date: 11 – 13 February 2026"
+    data-deadline-date="2026-02-02">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Hybrid: The cellular mechanics of symbiosis: sensing friend from foe"
+    description="This EMBO | EMBL symposium explores how host–microbe interactions shift along the spectrum from pathogenic to beneficial, focusing on the cellular systems and metabolic pathways that drive changes in symbiotic states. The meeting will bring together researchers using cellular, molecular, ecological, physiological and theoretical approaches to understand how hosts distinguish friends from foes and maintain stable, specific partnerships with microbes."
+    link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-03/"
+    deadline="Registration deadline:  (on-site) 3 February 2026;  (virtual) 10 March 2026"
+    dates="Date: 17 – 20 March 2026"
+    data-deadline-date="2026-03-11">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Belgium: Spatial metabolomics"
+    description="This training introduces spatial metabolomics using mass spectrometry imaging to directly detect metabolites, lipids, and proteins from tissue sections. It targets researchers in metabolomics and provides hands-on experience with tools such as the Cardinal Shiny app in R and IsoScope for processing, visualization, and analysis of spatial (tracer) metabolomics data. By the end of the course, participants will be able to integrate a spatial dimension into their metabolomics workflows and interpret mass spectrometry imaging results."
+    link="https://training.vib.be/all-trainings/spatial-metabolomics"
+    deadline="Registration deadline: 8 February 2026"
+    dates="Date: 17 February 2026"
+    data-deadline-date="2026-02-09">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Hybrid: Biological oscillators: rhythms and synchronisation across scales"
+    description="This symposium explores oscillatory phenomena in biological and natural systems across temporal and spatial scales, bringing together researchers working on molecular, organismal, ecological, and planetary rhythms. Topics include neuronal and cardiac dynamics, circadian and developmental rhythms, as well as oscillations in ecological and climate systems, with a strong focus on bridging experimental and theoretical perspectives to uncover common principles of rhythmic behaviour."
+    link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-04/"
+    deadline="Registration deadline:10 February 2026 (on-site); 17 March 2026 (virtual)"
+    dates="Date: 24 – 27 March 2026"
+    data-deadline-date="2026-003-18">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Switzerland: Biology-informed Integration and Visualization of Multiomics Data"
+    description="This 3-day course introduces practical strategies to integrate and visualise multiomics datasets, including ATAC-seq, RNA-seq, ChIP-seq and bisulphite-seq, to obtain a comprehensive view of regulatory mechanisms in biological systems. Participants will learn to process and combine pre-processed datasets, build overlap matrices, perform functional analyses and produce advanced visualisations that clearly communicate complex findings. The course is highly hands-on and project-based, enabling participants to directly apply the methods to real multiomics research data in group projects." 
+    link="https://www.sib.swiss/training/course/20260217_BIVMD"
+    deadline="Registration deadline: 06 February 2026" 
+    dates="Date: 17 - 19 February 2026"
+    data-deadline-date="2026-02-07">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Italy: Summer School on Biomolecular Simulations 2026"
+    description="This on-site summer school in Sardinia provides a comprehensive combination of lectures and hands-on tutorials on biomolecular modelling and simulations using modern applications and tools. Participants will learn to use flagship software such as GROMACS, HADDOCK, PMX and BioExcel Building Blocks (BioBB) while also gaining exposure to topics like docking, free energy calculations, and advanced sampling methods."
+    link="https://bioexcel.eu/events/summer-school-on-biomolecular-simulations-2026/"
+    deadline="Registration deadline: 1 February 2026"
+    dates="Date: 7 – 12 June 2026"
+    data-deadline-date="2026-02-02">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Material: Repository Resilience"
+    description="This page introduces the Repository Crisis Scorecards project, which helps data repositories assess their resilience to disruptions such as outages, disasters, and funding changes. It explains how the tool, surveys, and focus groups collectively support better planning, risk mitigation, and community-wide understanding of repository resilience."
+    materials="https://www.esipfed.org/repository-resilience/"
+    materialstext="Materials page"
+    data-added-date="2025-12-15">
+  </text-tile>
+</div>
+
