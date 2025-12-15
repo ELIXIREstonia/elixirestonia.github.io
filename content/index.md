@@ -160,18 +160,6 @@ We offer 4 topics:
  </text-tile>
 </div>
 
-<div class="tile-grid">
- <text-tile
- title="Germany: Spring School - Interpretable Machine Learning Models in Biomedicine"
- description="Participants will gain hands-on experience in interpretable machine learning for multimodal biomedical data, developing the skills to collaboratively design and implement (publication-ready) bioinformatic analyses that drive insight and impact in translational research."
- link="https://www.denbi.de/training-courses-2025/1892-spring-school-interpretable-machine-learning-models-in-biomedicine"
- deadline="Registration deadline: early bird- 20 Oct 2025; 20 Nov 2025"
- dates="Date: 2-6 March 2026"
- data-deadline-date="2025-11-21">
- </text-tile>
-</div>
-
-
 
 <div class="tile-grid">
 <text-tile
@@ -180,92 +168,6 @@ We offer 4 topics:
  materials="https://www.youtube.com/watch?v=vCkGbWuyLaQ"
  materialstext="Webinar recording"
  data-added-date="2025-10-14">
- </text-tile>
-</div>
-
-
-<div class="tile-grid">
- <text-tile
-  title="Germany: From Gene Models to Biological Insights - Functional Annotation"
-  description="This course focuses on turning structural gene annotations into meaningful biological interpretations through rigorous quality control and comprehensive functional annotation. Participants will learn to use tools such as BUSCO, InterProScan, KIPEs, and more to assess and analyze genome annotation quality, gene functions, and gene family evolution. Designed for those with basic command-line experience, it is ideal for researchers aiming to connect genome annotations to biological function and evolutionary context."
-  link="https://www.denbi.de/training-courses-2025/1949-from-gene-models-to-biological-insights-functional-annotation"
-  dates="Date: 10 - 12 December 2025"
-  data-deadline-date="2025-12-01">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
- title="Germany: Plant Genome Sequence Assembly and Annotation"
- description="Unlock the secrets of plant genomes with this intensive, hands-on course in plant genome sequence assembly and annotation. Designed for doctoral students and postdoctoral researchers in genomics and bioinformatics, it offers practical training using Oxford Nanopore Technologies long-read sequencing data. You'll learn to perform quality control, sequence assembly, and gene annotation using state-of-the-art tools, with a focus on real-world applications to interpret, validate, and refine plant genomic data."
- link="https://www.denbi.de/training-courses-2025/1948-plant-genome-sequence-assembly-and-annotation"
- dates="Date: 8 - 10 December 2025"
- data-deadline-date="2025-12-01">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
- title="Germany: Spatial gene expression at species agnostic level"
- description="This interactive course introduces participants to the Visium Cytassist Spatial Gene Expression Solution by 10x Genomics, with a focus on practical lab work and theoretical sessions covering the complete workflow from sample prep to data analysis. Attendees will learn techniques for tissue sectioning, staining, and library preparation, as well as hands-on training in spatial transcriptomics data analysis using the Loupe Browser pipeline. Designed for molecular biologists and morphology researchers, the course offers insights into the importance of spatially resolved transcriptomics data and practical experience with the latest tools."
- link="https://www.embl.org/about/info/course-and-conference-office/events/spa26-01/"
- deadline="Registration deadline: 24 November 2025"
- dates="Date: 2 - 6 March 2026"
- data-deadline-date="2025-11-25">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
- title="Switzerland: Introduction to Sequencing-based Spatial Transcriptomics Data Analysis"
- description="Spatial transcriptomics allows researchers to study gene expression within the spatial context of tissue architecture. This course provides a practical introduction to sequencing-based spatially resolved transcriptomics (SRT) data analysis, covering theory and hands-on exercises mainly in R/Bioconductor. Participants will learn about experimental design, data preprocessing, and downstream analysis, equipping them to interpret spatial transcriptomics results in biological contexts."
- link="https://www.sib.swiss/training/course/20251209_SBSRT"
- deadline="Registration deadline: 25 November 2025"
- dates="Date: 9 - 10 December 2025"
- data-deadline-date="2025-11-26">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
-  title="Finland: Data Analysis with R"
-  description="R is a language that has become one of the most popular tools for manipulating, visualizing and analyzing data. This course aims to help beginners overcome the initial learning curve by equipping them with essential skills in using R, including data wrangling and plotting. Participants will learn data importing/exporting, handling real-life datasets, and creating publication-ready plots with hands-on teaching."
-  link="https://csc.fi/en/training-calendar/data-analysis-with-r-5/"
-  deadline="Registration deadline: 24 November 2025"
-  dates="Date: 1 - 2 December 2025"
-  data-deadline-date="2025-11-25">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
-  title="Online: How to make your research reproducible with AI tools"
-  description="Science is about standing on the shoulders of giants, but reproducibility and reusability often remain a challenge. This free webinar discusses the reproducibility crisis in research, why some results are hard to reproduce, and how AI tools and best practices can help improve reproducibility of scientific data, methods, and code. Practical examples, documentation tips, and open discussion will be included."
-  link="https://www.aalto.fi/en/events/how-to-make-your-research-reproducible-with-ai-tools-nov-19-2025"
-  dates="Date: 19 November 2025"
-  data-deadline-date="2025-11-20">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
-  title="Online: Enrichment Analysis"
-  description="Experiments designed to quantify gene expression often yield hundreds of genes with statistically significant differences between groups. After identifying these genes, enrichment analysis (EA) methods help explore the biological functions associated with them. This course covers Gene Set Enrichment Analysis (GSEA) and alternative methods, with an overview of annotation databases such as Gene Ontology."
-  link="https://www.sib.swiss/training/course/20251128_ENRIC"
-  deadline="Registration deadline: 20 November 2025"
-  dates="Date: 28 November 2025"
-  data-deadline-date="2025-11-21">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
- title="Online: Cancer Variant Analysis"
- description="This course addresses the genomic origins of cancer and the role of somatic mutations in disease development. Participants will learn how to call and annotate somatic variants from next generation sequencing data, using the GATK4 (Mutect2) pipeline and Ensembl's Variant Effect Predictor. The course includes both conceptual lessons and hands-on practice, making it suitable for researchers in cancer biology who want to analyze and interpret somatic variants."
- link="https://www.sib.swiss/training/course/20251212_CVANA"
- deadline="Registration deadline: 28 November 2025"
- dates="Date: 12 December 2025"
- data-deadline-date="2025-11-29">
  </text-tile>
 </div>
 
@@ -324,17 +226,6 @@ data-added-date="2025-11-19">
 
 <div class="tile-grid">
  <text-tile
-  title="Online: Microscopy data analysis: machine learning and the BioImage Archive"
-  description="This virtual course demonstrates how public bioimaging data resources, centred around the BioImage Archive, enable and enhance machine learning-based image analysis. Participants will explore contemporary image analysis methods, learn to apply and train machine learning models on microscopy data, and gain practical experience with databases and computational tools. No prior experience with machine learning or the BioImage Archive is required, but basic programming experience with Python is recommended."
-  link="https://www.ebi.ac.uk/training/events/microscopy-data-analysis-2026/"
-  deadline="Registration deadline: 7 December 2025"
-  dates="Date: 16–20 March 2026"
-  data-deadline-date="2025-12-08">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
  title="Germany: Ultrastructure expansion microscopy: from cells to tissue"
  description="Expansion microscopy (ExM) physically magnifies biological specimens, enabling super-resolution imaging with standard confocal microscopes. This course, focused on U-ExM techniques for mammalian cells, offers hands-on training in sample preparation, imaging, and the application of protocols from tissue to cells. It is intended for researchers and imaging platform staff interested in establishing expansion microscopy techniques in their institutes."
  link="https://www.embl.org/about/info/course-and-conference-office/events/uex26-01/"
@@ -355,16 +246,6 @@ data-added-date="2025-11-19">
  </text-tile>
 </div>
 
-<div class="tile-grid">
- <text-tile
- title="Germany: C. elegans: from genome editing to imaging"
- description="This hands-on course offers essential training for early-career researchers and specialists looking to expand their expertise using C. elegans. Through practical sessions and lectures, participants will learn modern genome editing, advanced imaging, microfluidics-based microscopy, and AI-driven image analysis to address key scientific questions in genomics, cell biology, and neurobiology. The course is designed to empower attendees to fully leverage C. elegans in their research."
- link="https://www.embl.org/about/info/course-and-conference-office/events/cel26-01/"
- deadline="Registration deadline: 8 December 2025"
- dates="Date: 23 - 29 March 2026"
- data-deadline-date="2025-12-09">
- </text-tile>
-</div>
 
 <div class="tile-grid">
  <text-tile
@@ -411,27 +292,6 @@ data-added-date="2025-11-19">
 </div>
 
 <div class="tile-grid">
- <text-tile
-  title="Belgium: Scywalker for processing long-read single-cell RNASeq data"
-  description="Understanding transcript diversity at the single-cell level is increasingly important for researchers studying gene regulation, cell identity, and disease mechanisms. This hands-on training introduces Scywalker, guiding participants through processing long-read single-cell RNA-Seq data and interpreting outputs for isoform analysis. By the end, attendees will be equipped to use Scywalker for gene and isoform expression analysis across samples and cell types."
-  link="https://training.vib.be/all-trainings/scywalker-processing-long-read-single-cell-rnaseq-data-0"
-  deadline="Registration deadline: 26 November 2025"
-  dates="Date: 2 December 2025"
-  data-deadline-date="2025-11-27">
- </text-tile>
-</div>
-
-<div class="tile-grid">
-  <text-tile
-    title="Online: Python for Scientific Computing"
-    description="This is a medium-advanced course in Python tools such as NumPy, SciPy, Matplotlib, and Pandas, provided by Aalto Scientific Computing. It is suitable for people who know basic Python and want to understand some internals and important libraries for science—basically, how a typical scientist actually uses Python. The actual material and schedule are publicly available and the course is streamed online via Twitch."
-    link="https://csc.fi/en/training-calendar/python-for-scientific-computing/"
-    dates="Date: 25 - 27 November 2025"
-    data-deadline-date="2025-11-26">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
 <text-tile
 title="SIB Swiss Institute of Bioinformatics training calendar 2026"
 materials="https://www.sib.swiss/training/upcoming-training-courses"
@@ -442,43 +302,12 @@ data-added-date="2025-11-19">
 
 <div class="tile-grid">
  <text-tile
- title="Hybrid: Practical machine learning with spatial data"
- description="This course gives a practical introduction to machine learning with spatial data, focusing on both shallow and deep learning models, including convolutional neural networks (CNNs). It is aimed primarily at geoinformatics specialists and data scientists who want to apply machine learning to spatial data using Python and will leverage the LUMI supercomputer for hands-on exercises. The course runs in hybrid format—participants can join online or attend in Espoo, Finland."
- link="https://csc.fi/en/training-calendar/practical-machine-learning-with-spatial-data-2"
- deadline="Registration deadline: 2 December 2025"
- dates="Date: 10 - 12 December 2025"
- data-deadline-date="2025-12-03">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
- title="Online: FAIR play: Mastering Metadata to Empower Life Scientists"
- description="Unlock the potential of your research by mastering metadata management and the FAIR Data Principles—Findable, Accessible, Interoperable, and Reusable. This session offers practical guidance for life scientists, focusing on best practices for organizing and sharing data effectively. Good metadata practices enhance collaboration, ensure reproducibility, and align research with Open Science principles, increasing the impact of your work."
- link="https://www.scilifelab.se/event/openscience-fair/"
- dates="Date: 25 November 2025"
- data-deadline-date="2025-11-25">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
  title="Hybrid: 9th Advanced in silico Drug Design workshop 2026"
  description="This advanced workshop focuses on computational tools and methods for drug design, combining structure-based and ligand-based approaches such as molecular docking, molecular dynamics, QSAR, and deep learning. Participants will engage in both lectures and hands-on tutorials, with materials and lectures available online while practical tutorials require on-site attendance. The event features a prominent lineup of invited lecturers and offers opportunities for poster presentations and discussions via Discord."
  link="https://www.kfc.upol.cz/9add"
  deadline="Registration deadline: 31 Dec 2025"
  dates="Date: 26 - 30 January 2026"
  data-deadline-date="2026-01-01">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
- title="Online: From bench to database: the journey of a UniProt entry"
- description="UniProt serves as a leading global data resource for protein sequence and functional information. This free webinar will explain how protein data travels from experimental discovery, through literature curation, to integration within the UniProt Knowledgebase, helping researchers understand how to use and evaluate functional protein information. Designed for students or early stage researchers beginning to use bioinformatics resources, no prior experience is required."
- link="https://www.ebi.ac.uk/training/events/bench-database-journey-uniprot-entry/"
- dates="Date: 11 December 2025"
- data-deadline-date="2025-12-11">
  </text-tile>
 </div>
 
@@ -496,32 +325,12 @@ data-added-date="2025-11-19">
 
 <div class="tile-grid">
  <text-tile
-  title="Online: R for geospatial predictive mapping"
-  description="This talk introduces practical workflows for building reliable spatial predictions in R, illustrated with a real-world case study on predicting plant species richness across South America. We’ll start with classic interpolation methods like IDW and kriging, then move to machine learning approaches using Random Forests. Common pitfalls like unrealistic predictions and spatial bias will be discussed, along with practical solutions such as the Area of Applicability (AoA) and adaptive cross-validation methods. All examples include reproducible R code, making it easy to adapt the workflows to different spatial prediction tasks."
-  link="https://www.meetup.com/rome-r-users-group/events/311982601/"
-  dates="Date: 27 November 2025"
-  data-deadline-date="2025-11-27">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
  title="Switzerland: First Steps with Julia in Life Sciences"
  description="Julia is a modern, high-performance, open-source language designed for scientific computing. This 2-day beginner-level course will teach participants how to use Julia for scientific and life sciences applications, covering coding in Jupyter notebooks, data analysis, BioJulia, and visualization. Participants should bring a laptop with Julia and Jupyter installed."
  link="https://www.sib.swiss/training/course/20260119_FSWJU"
  deadline="Registration deadline: 5 January 2026"
  dates="Date: 19 - 20 January 2026"
  data-deadline-date="2026-01-06">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
- title="Online: Python for Scientific Computing"
- description="This medium-advanced online course introduces Python tools such as NumPy, SciPy, Matplotlib, and Pandas, focusing on scientific computing practices. It is suitable for those with basic Python knowledge who wish to understand internals and important libraries for science—essentially, how scientists actually use Python in research. The training broadcasts via Twitch, with interactive sessions and collaborative Q&A notes, and course materials are openly available."
- link="https://scicomp.aalto.fi/training/scip/python-for-scicomp-2025/"
- dates="Date: 25–27 November 2025"
- data-deadline-date="2025-11-25">
  </text-tile>
 </div>
 
@@ -535,12 +344,3 @@ data-added-date="2025-11-19">
  </text-tile>
 </div>
 
-<div class="tile-grid">
- <text-tile
-   title="Online: Modern cells, ancient proteins and complexes"
-   description="You are invited to join this webinar led by Pro. Edward M. Marcotte (University of Texas at Austin), where he will describe how interest in deeply conserved human genes and pathways led to systematic determination of core multi-protein assemblies, shared widely across eukaryotes—many dating back to the last common ancestor. Insights from mass spectrometry experiments will reveal their composition, interactions, and inform functions and 3D molecular assemblies. Moderation by Prof. Arne Elofsson and support by Dr Gonzalo Parra."
-   link="https://elixir-europe.org/events/modern-cells-ancient-proteins-and-complexes"
-   dates="Date: 25 November 2025, 16:00–17:00 GMT"
-   data-deadline-date="2025-11-25">
- </text-tile>
-</div>
