@@ -82,6 +82,12 @@ No more upcoming courses in 2025. 2026 courses will be announced soon
 
 ## Latest news and announcements
 
+### University of Tartu Electronic Lab Notebook usage survey by ELIXIR Estonia
+
+Have you used electronic lab notebook? Would you like to? Please fill in [our survey](https://forms.office.com/e/re5vfzUnpZ). (For University of Tartu members only)
+
+[More info](news/posts/2025/ELN_survey.md)
+
 
 ### New Microchip Electrospinning Technology Paves the Way for Probiotic Wound Treatments
 
@@ -437,6 +443,17 @@ data-added-date="2025-11-19">
     materials="https://www.esipfed.org/repository-resilience/"
     materialstext="Materials page"
     data-added-date="2025-12-15">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Sweden: RaukR 2026 – Summer school – Data Science With R"
+    description="The R programming language is a powerful tool for data transformation, statistical analysis, and creating publication-ready visualizations. This workshop goes beyond the basics, giving participants a comprehensive understanding of the R ecosystem, including best coding practices, code profiling, data wrangling, generating reports from notebooks, and developing web applications using R."
+    link="https://nbisweden.github.io/raukr-2026/"
+    deadline="Registration deadline: 1 May 2026"
+    dates="Date: 10–20 August 2026"
+    data-deadline-date="2026-05-02">
   </text-tile>
 </div>
 
