@@ -17,6 +17,6 @@ Have you used electronic lab notebook? Would you like to? Please fill in our sur
 
 <!-- more -->
 
-The purpose of this survey is to understand what electronic lab notebooks (ELNs) are currently in use, which ones could be in use and with sufficient interest if we could have local ELN with UT support. 
+The purpose of this survey is to identify which electronic lab notebooks (ELNs) are currently in use and to assess interest in adopting a locally hosted ELN with UT-provided support.
 
 🔗 https://forms.office.com/e/re5vfzUnpZ

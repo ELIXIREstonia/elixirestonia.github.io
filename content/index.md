@@ -457,3 +457,52 @@ data-added-date="2025-11-19">
   </text-tile>
 </div>
 
+<div class="tile-grid">
+  <text-tile
+    title="Finland: CSC Spring School on Computational Chemistry 2026"
+    description="The Spring School provides a comprehensive tutorial-style introduction to essential methods in molecular modelling and computational chemistry using modern supercomputers. It covers classical molecular dynamics, electronic structure theory, and special topics such as enhanced sampling methods and potential energy surface exploration. The school is aimed at graduate students and researchers, as well as industrial participants seeking a hands-on crash course in computational modelling and networking opportunities."
+    link="https://csc.fi/en/training-calendar/csc-spring-school-on-computational-chemistry-2026/"
+    deadline="Registration deadline: 8 March 2026"
+    dates="Date: 8 – 10 April 2026"
+    data-deadline-date="2026-03-09">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: Mastering Research Data Management for Human Data: Safeguarding Sensitive Information and Elevating Data Security 2026"
+    description="This interactive online course focuses on research data management principles for human data, combining presentations with hands-on exercises on managing sensitive information. It covers ethical and legal aspects, GDPR compliance, and best practices for securely handling, storing, and sharing human research data."
+    link="https://www.denbi.de/training-courses-2025/1989-mastering-research-data-management-for-human-data-safeguarding-sensitive-information-and-elevating-data-security-2026"
+    dates="Date: 27 - 28 January 2026"
+    data-deadline-date="2026-01-27">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: Training Clinic - February 2026"
+    description="The Training Clinic aims to equip participants with practical knowledge and skills to design and deliver more effective training courses and create better training material. It targets current and aspiring trainers who want to improve their training practice, connect with peers, and exchange problem-solving approaches in an interactive format."
+    link="https://www.denbi.de/training-courses-2025/1999-training-clinic-february-2026"
+    dates="Date: 3 February 2026"
+    data-deadline-date="2026-02-03">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: Bioexcel webinar: Mastering the Accelerated Weight Histogram Method: from Principles to Practice"
+    description="The Accelerated Weight Histogram (AWH) method is an enhanced sampling technique for molecular dynamics simulations that accelerates demanding tasks such as sampling protein conformational changes or computing binding free energies. In this webinar, two new GROMACS-based tutorials (awh-basic and awh-advanced) will demonstrate how to apply AWH to obtain potentials of mean force, explore multidimensional reaction coordinates, and derive complex free energy landscapes describing protein conformational spaces. The event is aimed at novice and advanced users interested in solving real scientific problems with AWH in GROMACS."
+    link="https://csc.fi/en/training-calendar/bioexcel-webinar-mastering-the-accelerated-weight-histogram-method-from-principles-to-practice/"
+    dates="Date: 20 January 2026"
+    data-deadline-date="2026-01-20">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: The loss of community in open science: a sign of a failing movement?"
+description="This article examines why the open science movement has struggled to achieve lasting change despite decades of effort, highlighting how traditional publishers, weak leadership, and a lack of cultural focus have limited progress. It argues that neglecting community building—through lost grassroots initiatives, homogenised voices, and underfunded community efforts—has made the movement fragile and overly top‑down, and calls for renewed, diverse, community‑driven leadership to avoid long‑term failure."
+materials="https://www.themodernpeer.com/the-loss-of-community-in-open-science-a-sign-of-a-failing-movement/"
+data-added-date="2025-12-17">
+</text-tile>
+</div>
