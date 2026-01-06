@@ -11,6 +11,13 @@ hide:
 2. Inno, H., & Peterson, H. (2024). **Empowering Life Sciences Research: ELIXIR Estonia** poster. Zenodo. Available from: https://doi.org/10.5281/zenodo.13847963
 3. Neves A, Willassen NP, Hjerde E et al. **A survey into the contribution of regional/national pathogen data platforms and on the resources needed to develop and maintain them [version 1; peer review: awaiting peer review].** F1000Research 2023, 12(ELIXIR):1590 [https://doi.org/10.12688/f1000research.142165.1](https://doi.org/10.12688/f1000research.142165.1)
 
+## Other Resources
+
+1. [FAIR Lesson Plan Handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Converge/) (*in progress*)
+2. [Data Stewardship Handbook](https://elixir-europe.github.io/ds-handbook/) (*in progress*)
+3. [Maturity Model of Research Data Management](https://registry.ds-wizard.org/knowledge-models/datarex:RDM-MM:0.1.2) (*in progress*)
+4. [Training SPLASH - Your companion for impactful training](https://elixir-europe-training.github.io/ELIXIR-Training-SPLASH/)
+
 ## Peer reviewed publications
 
 Publications from ELIXIR Europe collaborations are printed in _cursive_.
