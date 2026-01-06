@@ -12,6 +12,9 @@ ELIXIR Train-the-Trainer course alumni:
 * Ivan Kuzmin
 * Heleri Inno
 * Diana Pilvar
+* Uku Raudvere
+* Marilin Moor
+* Erik Jaaniso
 
 Training ELIXIR Node services:
 
