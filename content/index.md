@@ -67,9 +67,9 @@ hide:
   document.addEventListener("DOMContentLoaded", () => new Splide("#lecturers", splideOpts).mount());
 </script>
 
-## Free Autumn courses 2025 by ELIXIR Estonia
+## Free spring courses 2026 by ELIXIR Estonia
 
-No more upcoming courses in 2025. 2026 courses will be announced soon
+__19.02.2026__ - [Crash Course in Data Management](news/posts/2026/Crash-course_DM_19_02.md) - Registration open
 
 
 !!! note ""

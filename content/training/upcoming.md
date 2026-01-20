@@ -10,9 +10,9 @@ in Paris, and locally in Estonia. Internationally we train people how to use
 ELIXIR Estonia services in their research setting. Locally we train with
 hands-on courses in the life science community on various topics.
 
-## Free Autumn courses 2025 by ELIXIR Estonia
+## Free spring courses 2026 by ELIXIR Estonia
 
-No more upcoming courses in 2025. 2026 courses will be announced soon
+__19.02.2026__ - [Crash Course in Data Management](../news/posts/2026/Crash-course_DM_19_02.md) - Registration open
 
 
 ## We are willing to train researchers on the following topics:
