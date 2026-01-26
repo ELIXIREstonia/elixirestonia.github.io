@@ -232,46 +232,12 @@ data-added-date="2025-11-19">
 
 <div class="tile-grid">
  <text-tile
- title="Germany: Ultrastructure expansion microscopy: from cells to tissue"
- description="Expansion microscopy (ExM) physically magnifies biological specimens, enabling super-resolution imaging with standard confocal microscopes. This course, focused on U-ExM techniques for mammalian cells, offers hands-on training in sample preparation, imaging, and the application of protocols from tissue to cells. It is intended for researchers and imaging platform staff interested in establishing expansion microscopy techniques in their institutes."
- link="https://www.embl.org/about/info/course-and-conference-office/events/uex26-01/"
- deadline="Registration deadline: 12 January 2026"
- dates="Date: 20 - 24 April 2026"
- data-deadline-date="2026-01-13">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
   title="Belgium: Analysis of single-cell RNASeq data"
   description="Single-cell RNASeq provides transcriptome data from single cells and enables the discovery of heterogeneous cell populations, cell types, and developmental trajectories, which are masked in bulk RNASeq. This hands-on course covers the complete pipeline for analyzing short-read scRNASeq data, including quality control, clustering, marker gene identification, and differential expression analysis. On the second day, participants are encouraged to bring their own data for analysis."
   link="https://training.vib.be/all-trainings/analysis-single-cell-rnaseq-data-13"
   deadline="Registration deadline: 30 January 2026"
   dates="Date: 9 February 2026 & 16 February 2026"
   data-deadline-date="2026-01-31">
- </text-tile>
-</div>
-
-
-<div class="tile-grid">
- <text-tile
- title="Belgium: Variant analysis using long-reads"
- description="Understanding genomic variation is essential for uncovering the genetic basis of disease, evolution, and phenotypic traits. While short-read sequencing has long been the standard, long-read technologies now offer superior resolution for detecting structural variants and phasing complex regions. This course offers hands-on experience using the GenomeComb package to process long-read (and short-read) data, perform variant and structural variant calling, and annotate results."
- link="https://training.vib.be/all-trainings/variant-analysis-using-long-reads"
- deadline="Registration deadline: 21 January 2026"
- dates="Date: 30 January 2026"
- data-deadline-date="2026-01-22">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
-  title="Belgium: Genome assembly using long-reads"
-  description="This course in Ghent introduces researchers to the principles and practical steps of assembling high-quality genomes using long-read sequencing technologies like Oxford Nanopore. Participants will learn common assembly pipelines, quality control, and tools, with a practical Q&A session included."
-  link="https://training.vib.be/all-trainings/genome-assembly-using-long-reads"
-  deadline="Registration deadline: 15 January 2026"
-  dates="Date: 23 January 2026"
-  data-deadline-date="2026-01-16">
  </text-tile>
 </div>
 
@@ -287,67 +253,12 @@ data-added-date="2025-11-19">
 </div>
 
 <div class="tile-grid">
- <text-tile
-   title="Belgium: Assess protein dynamics & post-translational modifications"
-   description="The course guides participants through the use of Bio2Byte Tools and Scop3P to interrogate protein sequence, structural dynamics, and post-translational modifications. Attendees will analyze protein biophysical profiles, structural dynamics via AlphaFold predictions, and correlate properties to PTMs, using online platforms and hands-on Google Colab activities. This course is free for academic attendees thanks to sponsoring by ELIXIR Belgium."
-   link="https://training.vib.be/all-trainings/assess-protein-dynamics-post-translational-modifications"
-   deadline="Registration deadline: 9 January 2026"
-   dates="Date: 19 January 2026"
-   data-deadline-date="2026-01-10">
- </text-tile>
-</div>
-
-<div class="tile-grid">
 <text-tile
 title="SIB Swiss Institute of Bioinformatics training calendar 2026"
 materials="https://www.sib.swiss/training/upcoming-training-courses"
 materialstext="Link"
 data-added-date="2025-11-19">
 </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
- title="Hybrid: 9th Advanced in silico Drug Design workshop 2026"
- description="This advanced workshop focuses on computational tools and methods for drug design, combining structure-based and ligand-based approaches such as molecular docking, molecular dynamics, QSAR, and deep learning. Participants will engage in both lectures and hands-on tutorials, with materials and lectures available online while practical tutorials require on-site attendance. The event features a prominent lineup of invited lecturers and offers opportunities for poster presentations and discussions via Discord."
- link="https://www.kfc.upol.cz/9add"
- deadline="Registration deadline: 31 Dec 2025"
- dates="Date: 26 - 30 January 2026"
- data-deadline-date="2026-01-01">
- </text-tile>
-</div>
-
-
-<div class="tile-grid">
- <text-tile
- title="Online: Hands-on Computational Enzyme Design Course"
- description="This interactive course provides essential theory and hands-on experience with software tools for engineering proteins, including the use of machine learning and quantum computing for enzyme design. Participants will practice structure-based (molecular docking, dynamics, structural bioinformatics) and ligand-based drug design (QSAR, pharmacophores, deep learning) in user-personalized tutorials, guided by expert developers. Ideal for protein and metabolic engineers with no prior computer modeling experience, as well as experts looking to broaden their toolbox."
- link="https://loschmidt.chemi.muni.cz/academy/"
- deadline="Registration deadline: 15 December 2025"
- dates="Date: 9 - 13 February 2026"
- data-deadline-date="2025-12-16">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
- title="Switzerland: First Steps with Julia in Life Sciences"
- description="Julia is a modern, high-performance, open-source language designed for scientific computing. This 2-day beginner-level course will teach participants how to use Julia for scientific and life sciences applications, covering coding in Jupyter notebooks, data analysis, BioJulia, and visualization. Participants should bring a laptop with Julia and Jupyter installed."
- link="https://www.sib.swiss/training/course/20260119_FSWJU"
- deadline="Registration deadline: 5 January 2026"
- dates="Date: 19 - 20 January 2026"
- data-deadline-date="2026-01-06">
- </text-tile>
-</div>
-
-<div class="tile-grid">
- <text-tile
- title="Online: Using UniProt for protein structure-function analysis"
- description="This webinar provides a comprehensive walkthrough on accessing and exploring structural data associated with protein entries in UniProt. Participants will learn about various structural information types captured in UniProt, methods for finding all available structures for a protein, and tools for analyzing multi-protein complexes, including how to retrieve this information via the UniProt Proteins API using basic Python. Ideal for scientists interested in protein structure-function analysis, with no prior structural biology knowledge required."
- link="https://www.ebi.ac.uk/training/events/using-uniprot-protein-structure-function-analysis/"
- dates="Date: 15 January 2026, 15:00 - 16:00 GMT"
- data-deadline-date="2026-01-15">
- </text-tile>
 </div>
 
 <div class="tile-grid">
@@ -485,16 +396,6 @@ data-added-date="2025-11-19">
     link="https://www.denbi.de/training-courses-2025/1999-training-clinic-february-2026"
     dates="Date: 3 February 2026"
     data-deadline-date="2026-02-03">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
-  <text-tile
-    title="Online: Bioexcel webinar: Mastering the Accelerated Weight Histogram Method: from Principles to Practice"
-    description="The Accelerated Weight Histogram (AWH) method is an enhanced sampling technique for molecular dynamics simulations that accelerates demanding tasks such as sampling protein conformational changes or computing binding free energies. In this webinar, two new GROMACS-based tutorials (awh-basic and awh-advanced) will demonstrate how to apply AWH to obtain potentials of mean force, explore multidimensional reaction coordinates, and derive complex free energy landscapes describing protein conformational spaces. The event is aimed at novice and advanced users interested in solving real scientific problems with AWH in GROMACS."
-    link="https://csc.fi/en/training-calendar/bioexcel-webinar-mastering-the-accelerated-weight-histogram-method-from-principles-to-practice/"
-    dates="Date: 20 January 2026"
-    data-deadline-date="2026-01-20">
   </text-tile>
 </div>
 
