@@ -100,7 +100,7 @@ We are proud to share a recent publication by our team member, Marilin Moor, who
 
 [“*An Intuitive Primer on Effective Functional Genomics Study Design*”](https://www.amazon.com/Intuitive-Primer-Effective-Functional-Genomics/dp/B0DT9JLT6S/ref=sr_1_1?crid=5BI8RC5JVU7G&dib=eyJ2IjoiMSJ9.H120vigtXK6rCO9fMttISA.selz7w3qgD8ZD-Ijrx993KubvqGOUcg6QLVgb0saoZw&dib_tag=se&keywords=An+Intuitive+Primer+on+Effective+Functional+Genomics+Study+Design&qid=1760528768&sprefix=an+intuitive+primer+on+effective+functional+genomics+study+design%2Caps%2C171&sr=8-1) by [Yoav Gilad](https://www.linkedin.com/in/yoav-gilad-3a5589130/) provides a clear and accessible guide to the principles of effective functional genomics study design. Instead of prescribing fixed protocols, it encourages readers to think critically about their choices. For students, teachers, and researchers entering the field, it is an insightful and practical resource that I highly recommend.
 
-[More info](news/posts/2025/Microchip_Electrospinning_article.md)
+[More info](news/posts/2025/Review_GenomicsStudyDesign.md)
 
 
 ### ELIXIR’s student topics for ATI Day 24.09.2025
