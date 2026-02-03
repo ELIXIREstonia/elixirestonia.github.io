@@ -63,6 +63,6 @@ In the second half of 2025, ELIXIR Estonia continued to deepen its collaboration
 
 ## Industry Collaboration
 
- - Ongoing collaboration with Protobios (https://protobios.com/ ) regarding genome analysis and modelling.
+ - Ongoing collaboration with [Protobios](https://protobios.com/) regarding genome analysis and modelling.
 
 *This text was edited with the help of AI (ChatGPT 5.0, developed by OpenAI).*
