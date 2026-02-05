@@ -69,7 +69,9 @@ hide:
 
 ## Free spring courses 2026 by ELIXIR Estonia
 
-__19.02.2026__ - [Crash Course in Data Management](news/posts/2026/Crash-course_DM_19_02.md) - Registration open
+* __19.02.2026__ - [Crash Course in Data Management](news/posts/2026/Crash-course_DM_19_02.md) - Registration open
+
+* __17.03.2026__ - [CodeRefinery workshop for reproducible research code - March 17-19 and 24-26, 2026](news/posts/2026/CodeRefinery_march_local.md) - Registration open
 
 
 !!! note ""
@@ -407,3 +409,13 @@ materials="https://www.themodernpeer.com/the-loss-of-community-in-open-science-a
 data-added-date="2025-12-17">
 </text-tile>
 </div>
+
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: CodeRefinery workshop"
+    description="This free online workshop introduces best practices for version control, collaborative coding, testing, documentation, and reproducible research aimed at researchers and scientists using code in their work. It combines lectures with hands-on exercises, and participants can join only the days or sessions most relevant to them. The event is streamed and also supports local in-person study groups at several universities."
+    link="https://coderefinery.github.io/2026-03-17-workshop/"
+    dates="Date: 17–19 and 24–26 March 2026"
+    data-deadline-date="2026-03-26">
+  </text-tile>

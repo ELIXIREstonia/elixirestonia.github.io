@@ -12,7 +12,9 @@ hands-on courses in the life science community on various topics.
 
 ## Free spring courses 2026 by ELIXIR Estonia
 
-__19.02.2026__ - [Crash Course in Data Management](../news/posts/2026/Crash-course_DM_19_02.md) - Registration open
+* __19.02.2026__ - [Crash Course in Data Management](../news/posts/2026/Crash-course_DM_19_02.md) - Registration open
+
+* __17.03.2026__ - [CodeRefinery workshop for reproducible research code - March 17-19 and 24-26, 2026](../news/posts/2026/CodeRefinery_march_local.md) - Registration open
 
 
 ## We are willing to train researchers on the following topics:
