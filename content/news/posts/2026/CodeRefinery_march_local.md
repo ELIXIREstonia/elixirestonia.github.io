@@ -157,7 +157,7 @@ FOR STREAMING ONLY:
 
 FOR LOCAL CLASSROOM: 
 
-**Tartu offers an in-person session where you can watch the live stream and get on-site support from an instructor to help clarify concepts and troubleshoot errors.** Both the streaming and local classroom events are free of charge.
+**Tartu offers an in-person sessions where you can watch the live stream and get on-site support from an instructor to help clarify concepts and troubleshoot errors.** Both the streaming and local classroom events are free of charge.
 
 **If you wish to register for local classroom in Tartu, use the link provided below. Make note, that you still need to register for streaming separately. It is not necessary to attend all workshops.**
 
