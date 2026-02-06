@@ -423,3 +423,48 @@ data-added-date="2025-12-17">
     dates="Date: 17–19 and 24–26 March 2026"
     data-deadline-date="2026-03-26">
   </text-tile>
+
+  <div class="tile-grid">
+  <text-tile
+    title="Hybrid: Cellular mechanisms driven by phase separation"
+    description="This EMBO | EMBL Symposium explores how intracellular phase transitions and biomolecular condensates organise cellular space and time. It brings together experts from cell biology, genetics, biochemistry, biophysics, and soft matter physics to discuss principles of condensate formation, cellular adaptation, and disease. The meeting aims to foster interdisciplinary collaborations and inspire new approaches to understanding cellular organisation and robustness."
+    link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-08/"
+    deadline="Registration deadline: 7 April 2026 (on-site) / 12 May 2026 (virtual)"
+    dates="Date: 19 - 22 May 2026"
+    data-deadline-date="2026-05-12">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Sex differences in health and disease"
+description="TThis symposium will take place at EMBL Heidelberg with the option to attend virtually and will bring together scientists to explore how sex differences impact physiology, disease susceptibility, treatment response and underlying molecular mechanisms, drawing on both classic models and cutting-edge approaches. Topics include hormone regulation of immunity, genetic drivers of disease differences and systems approaches to sexual dimorphisms across species."
+link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-07/"
+deadline="Registration deadline: 16 March 2026 (on-site) / 23 April 2026 (virtual)"
+dates="Date: 27 – 30 April 2026"
+data-deadline-date="2026-04-24">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Spain: Building networks: engineering in vascular biology"
+description="This EMBO Workshop will take place at EMBL Barcelona and brings together researchers at the intersection of engineering and vascular biology to discuss advances in spatial omics, imaging and bioengineered models of vascular systems. The programme covers vascular development and identity, mechano-vascular biology, computational models and new in vitro approaches to study vascular biology."
+link="https://www.embl.org/about/info/course-and-conference-office/events/evb26-01/"
+deadline="Registration deadline: 1 April 2026"
+dates="Date: 13 – 15 May 2026"
+data-deadline-date="2026-04-02">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="online: Train the Trainer"
+description="This online course offers guidance on designing, planning and delivering effective training activities using research-driven educational principles, covering learning principles, session design, engagement techniques and assessment."
+link="https://training.scilifelab.se/events/train-the-trainer-online-546d1cc7-f45b-4e2d-b4d3-b366e717272d"
+deadline="Registration deadline: 16 February 2026"
+dates="Date: 16 March – 13 April 2026"
+data-deadline-date="2026-02-17">
+</text-tile>
+</div>
+
