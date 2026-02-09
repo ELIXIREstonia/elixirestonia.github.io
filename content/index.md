@@ -69,6 +69,8 @@ hide:
 
 ## Free spring courses 2026 by ELIXIR Estonia
 
+* __12.02.2026__ - [Research funding information day ‘Funding Nudge 2026’ workshop](news/posts/2026/Grandimuks.md) - Invitation only
+
 * __19.02.2026__ - [Crash Course in Data Management](news/posts/2026/Crash-course_DM_19_02.md) - Registration open
 
 * __5.03.2026__ - [RStudio for beginners](news/posts/2026/RStudio_05_03.md) - Registration open
@@ -463,3 +465,146 @@ data-deadline-date="2026-02-17">
 </text-tile>
 </div>
 
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Multiomics Data Analysis and Integration"
+description="This 2-day course in Lausanne introduces life scientists to omics data structures and integrative statistical analysis methods including PCA, PLS and advanced multiomics techniques, with both theory and practical exercises using R."
+link="https://www.sib.swiss/training/course/20260305_MODAI"
+deadline="Registration deadline: 24 February 2026"
+dates="Date: 5 – 6 March 2026"
+data-deadline-date="2026-02-25">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Love Data Week 2026"
+description="An international online celebration of research data and data literacy with English-language sessions exploring data planning, analysis, FAIR repositories, sensitive data publishing and other key data topics during the week of Valentine’s Day."
+link="https://fwo.idloom.events/love-data-week-2026"
+deadline="Registration deadline: Free registration, no fixed deadline"
+dates="Date: 9 – 13 February 2026"
+data-deadline-date="2026-02-14">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Love Data Week (Switzerland / International)"
+description="Love Data Week is an annual event celebrating research data and data management, with Swiss institutions offering workshops, talks and events to raise awareness and promote best practices during the week of 9–13 February 2026."
+link="https://www.researchdatasupport.ch/lovedata"
+dates="Date: 9–13 February 2026"
+data-deadline-date="2026-02-14">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Next-Generation Sequencing Data Analysis: A Practical Introduction"
+description="A 3-day hands-on workshop providing practical NGS bioinformatics training with quality control, read mapping, and variant calling using real sequencing datasets and open-source tools."
+link="https://www.ecseq.com/workshops/workshop_2026-02-NGS-Next-Generation-Sequencing-Data-Analysis-A-Practical-Introduction"
+deadline="Registration deadline: 20 February 2026"
+dates="Date: 24–26 February 2026"
+data-deadline-date="2026-02-21">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Exploring large-scale proteomics data in UniProt"
+description="A free online webinar from EMBL-EBI introducing the use of UniProt proteomics data and programmatic access via the UniProt Proteins API, with a supporting Google Colab workbook for analysis."
+link="https://www.ebi.ac.uk/training/events/exploring-large-scale-proteomics-data-uniprot/"
+dates="Date: 12 February 2026"
+data-deadline-date="2026-02-12">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Online: Mapping biology in space: a guide to technologies and workflows in spatial transcriptomics"
+description="This webinar introduces the main spatial transcriptomics technologies and analysis workflows, providing an overview of experimental approaches and data types used to map gene expression in tissues."
+link="https://www.ebi.ac.uk/training/events/mapping-biology-in-space-guide-technologies-workflows-spatial-transcriptomics/"
+dates="Date: 18 February 2026"
+data-deadline-date="2026-02-18">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Imaging-based spatial transcriptomics: methods, preprocessing, and quality control"
+description="This webinar focuses on imaging-based spatial transcriptomics technologies, covering experimental methods, data preprocessing steps, and quality control considerations for spatial datasets."
+link="https://www.ebi.ac.uk/training/events/imaging-based-spatial-transcriptomics-methods-preprocessing-quality-control/"
+dates="Date: 25 February 2026"
+data-deadline-date="2026-02-25">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Mapping tissue remodelling using sequencing-based spatial transcriptomics"
+description="This webinar explores sequencing-based spatial transcriptomics approaches and how they can be applied to study tissue remodelling and spatial gene expression patterns."
+link="https://www.ebi.ac.uk/training/events/mapping-tissue-remodelling-using-sequencing-based-spatial-transcriptomics/"
+dates="Date: 4 March 2026"
+data-deadline-date="2026-03-04">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Interactive visualisation of spatial transcriptomics data"
+description="This webinar introduces tools and strategies for interactive visualisation of spatial transcriptomics data, helping researchers explore and interpret complex spatial datasets."
+link="https://www.ebi.ac.uk/training/events/interactive-visualisation-spatial-transcriptomics-data/"
+dates="Date: 11 March 2026"
+data-deadline-date="2026-03-11">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Integrating single-cell and spatial transcriptomics to map the rules of neurological conditions"
+description="This webinar discusses approaches for integrating single-cell and spatial transcriptomics data to study neurological conditions and understand cellular organisation in the brain."
+link="https://www.ebi.ac.uk/training/events/integrating-single-cell-spatial-transcriptomics-to-map-rules-neurological-conditions/"
+dates="Date: 18 March 2026"
+data-deadline-date="2026-03-18">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Managing spatial data: insights from developing the HuBMAP data portal"
+description="This webinar presents challenges and solutions for managing large-scale spatial data, drawing on experience from developing the Human Biomolecular Atlas Program data portal."
+link="https://www.ebi.ac.uk/training/events/managing-spatial-data-insights-from-developing-hubmap-data-portal/"
+dates="Date: 1 April 2026"
+data-deadline-date="2026-04-01">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Spatial transcriptomics in action: a case study from human reproductive development"
+description="This webinar showcases a real-world case study applying spatial transcriptomics to human reproductive development, highlighting biological insights and analytical approaches."
+link="https://www.ebi.ac.uk/training/events/spatial-transcriptomics-in-action-case-study-human-reproductive-development/"
+dates="Date: 8 April 2026"
+data-deadline-date="2026-04-08">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: The loss of community in open science: a sign of a failing movement?"
+description="The article explores how the Open Science movement—despite decades of advocacy—struggles with sustaining a genuine community and cultural change, leading to fragility and reduced diversity of voices. It argues that the movement’s focus has shifted toward infrastructure and top-down policy at the expense of grassroots engagement, making long-term transformation harder to achieve."
+materials="https://www.themodernpeer.com/the-loss-of-community-in-open-science-a-sign-of-a-failing-movement/"
+materialstext="Webpage"
+data-added-date="2026-02-09">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: Communities as Policy Instruments"
+description="This publication explains how communities can be used as effective policy instruments by the European Commission to bridge the gap between policy design and implementation through stakeholder-driven collaboration, structured dialogue, and peer learning. It argues that beyond traditional regulation or funding programmes, communities help close implementation gaps, encourage shared purpose among actors, and translate policy into practice in more adaptive, inclusive ways."
+materials="https://knowledge4policy.ec.europa.eu/publication/communities-policy-instruments_en"
+materialstext="Publication"
+data-added-date="2026-02-09">
+</text-tile>
+</div>

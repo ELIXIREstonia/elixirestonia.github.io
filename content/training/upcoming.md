@@ -12,6 +12,8 @@ hands-on courses in the life science community on various topics.
 
 ## Free spring courses 2026 by ELIXIR Estonia
 
+* __12.02.2026__ - [Research funding information day ‘Funding Nudge 2026’ workshop](../news/posts/2026/Grandimuks.md) - Invitation only
+
 * __19.02.2026__ - [Crash Course in Data Management](../news/posts/2026/Crash-course_DM_19_02.md) - Registration open
 
 * __5.03.2026__ - [RStudio for beginners](../news/posts/2026/RStudio_05_03.md) - Registration open
