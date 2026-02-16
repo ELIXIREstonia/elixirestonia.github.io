@@ -592,16 +592,6 @@ data-deadline-date="2026-04-08">
 
 <div class="tile-grid">
 <text-tile
-title="Material: The loss of community in open science: a sign of a failing movement?"
-description="The article explores how the Open Science movement—despite decades of advocacy—struggles with sustaining a genuine community and cultural change, leading to fragility and reduced diversity of voices. It argues that the movement’s focus has shifted toward infrastructure and top-down policy at the expense of grassroots engagement, making long-term transformation harder to achieve."
-materials="https://www.themodernpeer.com/the-loss-of-community-in-open-science-a-sign-of-a-failing-movement/"
-materialstext="Webpage"
-data-added-date="2026-02-09">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Communities as Policy Instruments"
 description="This publication explains how communities can be used as effective policy instruments by the European Commission to bridge the gap between policy design and implementation through stakeholder-driven collaboration, structured dialogue, and peer learning. It argues that beyond traditional regulation or funding programmes, communities help close implementation gaps, encourage shared purpose among actors, and translate policy into practice in more adaptive, inclusive ways."
 materials="https://knowledge4policy.ec.europa.eu/publication/communities-policy-instruments_en"
