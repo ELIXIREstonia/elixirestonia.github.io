@@ -4,6 +4,10 @@ hide:
 ---
 # Past Trainings
 
+## 2026
+
+* __12.02.2026__ - [Research funding information day ‘Funding Nudge 2026’ workshop](../news/posts/2026/Grandimuks.md)
+
 ## 2025
 
 * **22.01.2025** - [Getting organised with Notion (F2F, Tartu)](https://elixir.ut.ee/news/2025/01/02/Notion_22-01/)

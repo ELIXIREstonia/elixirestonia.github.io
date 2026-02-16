@@ -3,70 +3,64 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: RStudio for beginners - 05.03.2026 - Registration open
+title: Data visualisation (theory) - 12.03.2026 - Registration OPEN
 draft: false
 hide:
   - toc
 
 # Date of this blog post:
-date: 2026-02-10
+date: 2026-02-16
 authors:
   - Diana
 
 # These are used only for ELIXIR EE site categories, not the course keywords on TESS
 categories:
-  - workshop
-  - R
-  - RStudio
+  - charts
+  - Data visualisation
 
 # Fill in the course details:
 course:
-  name: RStudio for beginners
+  name: Data visualisation (theory)
 
   # Keep this in English (used in metadata)
   provider: University of Tartu, Institute of Computer Science
   # Specify duration in hours:
-  hours: 7
+  hours: 3
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register: https://forms.gle/ArMESVmzWRgK86JK8
+    register: https://forms.gle/Dmuk1RUsnFpRcDb56
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
     invite:
 
     # Specify audience in plain-text in the language of the template:
-    audience: researchers, PIs, PhD students
+    audience: researchers, PhD students, students
 
     # Specify lecturers in plain-text in the language of the template:
-    lecturers: Nurlan Kerimov
+    lecturers: Diana Pilvar
 
     # Specify "Key Topics" as a YAML list:
     topics:
-    - Basic R Data Structures
-    - Data Transformation with Tidyverse
-    - Data Categorization and Conditional Operations
-    - Application of Data Manipulation Techniques
-    - Using AI to write R code
 
     # Specify "Learning outcomes" as a YAML list:
     outcomes:
-      - Navigate RStudio features
-      - Write and execute R scripts
-      - Manage projects efficiently within the IDE
-      - Import, clean, and manipulate data
+     - Choose appropriate chart types
+     - Avoid common mistakes in data visualisation
+     - Maximise data-ink ratio
 
   # Specify keywords (for metadata) as a YAML list:
   keywords:
-    - R
-    - R language
-    - R Studio
+    - Data visualisation
+    - Data Visualization
+    - data visualisation
+    - Data visualization
 
   # Specify audience keywords (for metadata) as a YAML list:
   audience:
     - Researchers
-    - Beginner
     - Students
+    - PhD students
 
   # Mostly don't need to change (needed for metadata). Find more values here:
   # https://www.ebi.ac.uk/ols4/ontologies/edam/classes/http%253A%252F%252Fedamontology.org%252Ftopic_0003?lang=en
@@ -74,25 +68,23 @@ course:
     # "edam" indicates special ontology, other types not yet supported.
     - edam:
         # Specified as – code: label
-        0091: Bioinformatics
+        0092: Data visualisation
 
   # Optional "External resources" to be shown in TeSS under the course:
   # Multiple items can be added; for each item the title and the url are mandatory.
-  #externalResources:
-   # - title: RStudio basic course
-    #  url: 
+  externalResources:
+    #- title:
+    #  url:
 
   # Specify occurrences here:
   instances:
-    - start: 2026-03-05T09:00:00
-      end: 2026-03-05T16:00:00
+    - start: 2026-03-12T09:30:00
+      end: 2026-03-12T12:30:00
       organisation: ELIXIR Estonia
-      maximumAttendeeCapacity: 20
+      maximumAttendeeCapacity: 50
       instructors:
-        - Nurlan Kerimov
-      onsite:
-        building: DELTA
-        room: 2017
+        - Diana Pilvar
+      online: Zoom, link will be given a few days before the course.
 
       # or TLU (Narva mnt 25):
       # onsite:
@@ -118,6 +110,6 @@ course:
 # Description will be rendered on web-page and also in TeSS JSON (as a string of HTML).
 ---
 
-R is a free software environment for statistical computing and graphics. It compiles and runs on various UNIX platforms, Windows and MacOS.
+Researchers often face overwhelming raw data, making it crucial to utilize data visualization effectively. This skill transforms complex datasets into clear, insightful narratives, avoiding the pitfalls of misinterpretation through poor design. In this course, we’ll explore optimal chart types for different data, engage in interactive exercises, and  discuss best practices, all illustrated with practical examples.
 
-RStudio is an essential tool for anyone involved in R programming. It plays a vital role in data analysis by facilitating data import, access, transformation, exploration, visualization, and modeling tasks. If you’re embarking on your journey to learn R, now is the perfect moment to familiarize yourself with RStudio. Discover what RStudio is, how to install it, and begin harnessing its capabilities to enhance your data analysis and programming skills.
+NB! This is a theoretical interactive course with many examples and tips, group work and discussion. There is no hands-on chart creation.

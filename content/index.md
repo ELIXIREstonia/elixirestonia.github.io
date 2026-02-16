@@ -69,11 +69,12 @@ hide:
 
 ## Free spring courses 2026 by ELIXIR Estonia
 
-* __12.02.2026__ - [Research funding information day ‘Funding Nudge 2026’ workshop](news/posts/2026/Grandimuks.md) - Invitation only
-
 * __19.02.2026__ - [Crash Course in Data Management](news/posts/2026/Crash-course_DM_19_02.md) - Registration open
 
 * __5.03.2026__ - [RStudio for beginners](news/posts/2026/RStudio_05_03.md) - Registration open
+
+* __12.03.2026__ - [Data visualisation (theory)](news/posts/2026/Data_visualisation_theory_12_03.md) - Registration open
+
 
 * __17.03.2026__ - [CodeRefinery workshop for reproducible research code - March 17-19 and 24-26, 2026](news/posts/2026/CodeRefinery_march_local.md) - Registration open
 
@@ -608,3 +609,249 @@ materialstext="Publication"
 data-added-date="2026-02-09">
 </text-tile>
 </div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: Open Science and FAIR"
+description="This lesson introduces the principles of Open Science and the FAIR data principles, helping learners reflect on why openness and transparency are becoming central in research. You’ll gain an understanding of the reasons for Open Science, what FAIR means for research data, and emerging expectations from the wider research ecosystem."
+materials="https://nbisweden.github.io/module-open-science-dm-practices/index.html"
+materialstext="Material"
+data-added-date="2026-02-16">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: Cleaning tabular data with OpenRefine"
+description="This lesson introduces OpenRefine, a powerful open-source tool for cleaning and transforming messy tabular data as part of a reproducible data workflow. You’ll learn how to import, clean, filter, sort, and export data as well as how to track and reuse your steps to save time and improve reproducibility."
+materials="https://nbisweden.github.io/module-openrefine-dm-practices/"
+materialstext="Material"
+data-added-date="2026-02-16">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Belgium: Next-generation mRNA vaccines against complex pathogens: From antigen selection to clinical translation"
+description="This international conference focuses on the state of the art in mRNA vaccine development against complex infectious pathogens, covering topics including antigen identification strategies, mRNA design & production, vaccine formulation and pathogen-specific development progress. Featuring keynote lectures from pioneers in mRNA-based nanomedicines and insights from leading experts in academia and industry."
+link="https://www.vibconferences.be/events/next-generation-mrna-vaccines-against-complex-pathogens-from-antigen-selection-to-clinical"
+deadline="Registration deadline: 11 March 2026"
+dates="Date: 25 - 26 March 2026"
+data-deadline-date="2026-03-12">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Brain (epi)genome"
+description="This EMBO-funded workshop brings together leaders in genomics, neuroscience, and epigenetics to explore how the genome and epigenome shape brain cell diversity, function and disease. The programme features cutting-edge sessions on neural identity, chromatin dynamics, epigenomics of brain plasticity and neurological disorders, and the latest single-cell and spatial genomics approaches."
+link="https://www.embl.org/about/info/course-and-conference-office/events/brg26-01/"
+deadline="Registration deadline: 10 March 2026 (on-site) / 14 Apr 2026 (virtual)"
+dates="Date: 21 – 24 April 2026"
+data-deadline-date="2026-04-15">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Whole transcriptome data analysis"
+description="This course will teach biological researchers how to analyse biological data sets using open-source software and provides an introduction to the fundamental approaches for analysing bulk RNA-seq, single-cell RNA-seq, and single-cell multi-omics data using practical workflows."
+link="https://www.embl.org/about/info/course-and-conference-office/events/dat26-01/"
+deadline="Registration deadline: 2 March 2026"
+dates="Date: 7 – 12 June 2026"
+data-deadline-date="2026-03-03">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Belgium: Targeted spatial transcriptomics analysis"
+description="This two-day training offers a hands-on introduction to the analysis of targeted spatial transcriptomics data using the SPArrOW/Harpy pipeline, including cell segmentation, clustering, and visualization workflows."
+link="https://training.vib.be/all-trainings/targeted-spatial-transcriptomics-analysis"
+deadline="Registration deadline: 2 March 2026"
+dates="Date: 11 – 12 March 2026"
+data-deadline-date="2026-03-03">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Belgium: Spatial proteomics analysis"
+description="This training focuses on spatial proteomics data analysis using the Harpy pipeline, covering data structures from imaging platforms, segmentation optimization, marker quantification and annotation evaluation."
+link="https://training.vib.be/all-trainings/spatial-proteomics-analysis"
+deadline="Registration deadline: 4 March 2026"
+dates="Date: 13 March 2026"
+data-deadline-date="2026-03-05">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Bulk RNASeq: from counts to differential expression"
+description="This training teaches the workflow from RNASeq count files to differential expression analysis in R, covering count processing, statistical testing and interpretation using standard tools."
+link="https://training.vib.be/all-trainings/bulk-rnaseq-counts-differential-expression-7"
+deadline="Registration deadline: 2 March 2026"
+dates="Date: 9 March – 19 March 2026"
+data-deadline-date="2026-03-03">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Synthetic biology in action: maturing tools and their potential"
+description="This course explores cutting-edge synthetic biology tools through lectures and practical modules in genome engineering, RNA-based control systems, and AI-assisted design across diverse biological systems."
+link="https://www.embl.org/about/info/course-and-conference-office/events/syn26-01/"
+deadline="Registration deadline: 24 March 2026"
+dates="Date: 30 June – 6 July 2026"
+data-deadline-date="2026-03-25">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Hands-on course for sample preparation and data analysis in proteomics"
+description="This practical proteomics course covers theoretical aspects and hands-on experience in sample preparation, TMT labeling, mass spectrometry workflows and bioinformatics analysis using FragPipe."
+link="https://www.embl.org/about/info/course-and-conference-office/events/sdp26-01/"
+deadline="Registration deadline: 3 March 2026"
+dates="Date: 16 – 19 June 2026"
+data-deadline-date="2026-03-04">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: What is the public value of openly accessible research? – Open Research Week 2026 Opening Keynote"
+description="A keynote exploring the societal value of open access research and how the public engages with freely accessible scholarly outputs, challenging assumptions about openness."
+link="https://libcal.essex.ac.uk/event/4465239"
+dates="Date: 2 March 2026"
+data-deadline-date="2026-03-02">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Many researchers use code, how many share? TADA is a wizard way to enable you to improve code sharing"
+description="In this session Dr Joel Pick (University of Edinburgh) and Dr Edward Ivimey-Cook (University of East Anglia) will discuss why code sharing is vital for reproducible research and how to make your code functional, reproducible, and discoverable. Part of Open Research Week 2026, this event is open to academic staff, postgraduate researchers, and the public."
+link="https://libcal.essex.ac.uk/event/4465297"
+dates="Date: 3 March 2026"
+data-deadline-date="2026-03-03">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Bitesize Replication Games"
+description="A hands-on online workshop where researchers test their skills by attempting to reproduce a key result from a published paper, gaining practical insight into reproducibility and methodological transparency. Part of Open Research Week 2026 and open to academic staff, postgraduate researchers, and the public."
+link="https://libcal.essex.ac.uk/event/4465346"
+dates="Date: 3 March 2026"
+data-deadline-date="2026-03-03">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Making archives and special collections open"
+description="An online session exploring how digitisation can transform access to unique and often hidden archival materials, featuring presentations on projects such as the Human Remains Digital Library and Unity Theatre Archive. Part of Open Research Week 2026 and open to academic staff, postgraduate researchers, and the public."
+link="https://libcal.essex.ac.uk/event/4465350"
+dates="Date: 5 March 2026"
+data-deadline-date="2026-03-05">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: It makes sense to be open: experiences from researchers in two very different disciplines"
+description="Hear first-hand experiences from a historian and a life scientist on how openness affects research across disciplines. Part of Open Research Week 2026 and open to academic staff, postgraduate researchers, and the public."
+link="https://libcal.essex.ac.uk/event/4465362"
+dates="Date: 5 March 2026"
+data-deadline-date="2026-03-05">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="UK: Data science for life scientists"
+description="A hands-on training course at EMBL-EBI focused on practical data science methods for life scientists, including statistics, Python, and machine learning, with lectures, exercises, and group projects."
+link="https://www.ebi.ac.uk/training/events/data-science-for-life-scientists-2026/"
+deadline="Registration deadline: 1 March 2026"
+dates="Date: 15 – 19 June 2026"
+data-deadline-date="2026-03-02">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Single-Cell RNA-Seq Data Analysis"
+description="This workshop provides a comprehensive introduction to the analysis of single-cell RNA sequencing (scRNA-seq) data, covering quality control, normalization, dimensionality reduction, clustering, and differential expression analysis. Participants will gain hands-on experience using established bioinformatics tools and workflows to interpret and visualise single-cell transcriptomic data."
+link="https://www.ecseq.com/workshops/workshop_2026-03-Single-Cell-RNA-Seq-Data-Analysis"
+deadline="Registration deadline: 20 March 2026"
+dates="Date: 23 – 25 March 2026"
+data-deadline-date="2026-03-21">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Single cell RNAseq data analysis"
+description="This course covers the foundations of bioinformatic analysis of single cell RNA-seq and aims to provide participants with the theoretical knowledge and practical tools needed for robust analyses. Through a combination of lectures and hands-on exercises in R or Python, participants will learn to run analyses on their own data, select appropriate methods and interpret the results."
+link="https://uppsala.instructure.com/courses/119502"
+deadline="Registration deadline: 13 March 2026"
+dates="Date: 13 - 16 April and 27 April 2026"
+data-deadline-date="2026-03-14">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Careers in Data Stewardship"
+description="Are you an early-career researcher (MSc, PhD, post-doc) thinking about your next career step in data-intensive fields? This online event explores a fast-evolving career at the intersection of research, data, and policy, and features data stewards from organizations such as MeteoSwiss, the Federal Office for Agriculture, and the NEXUS Personalized Health Technologies platform sharing their career journeys. Register now and come prepared with questions to engage with experienced professionals and learn more about career opportunities in data stewardship."
+link="https://events.teams.microsoft.com/event/6e23fd24-da74-41be-a926-7b593c6ae313@9e71e497-063e-482f-aaf7-0fbe05494a14"
+dates="Date: 10 March 2026"
+data-deadline-date="2026-03-11">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Bioinformatics of Arboviruses: Genomics, Evolution and Surveillance"
+description="This half-day course introduces the genomics, evolutionary history, diversity, and surveillance of arboviruses, using resources such as ViralZone to interpret genomic information and methods for detection. It is designed for life science researchers interested in virology and public health and requires no prior bioinformatics experience beyond basic molecular biology knowledge."
+link="https://www.sib.swiss/training/course/20260304_BAGES"
+deadline="Registration deadline: 27 February 2026"
+dates="Date: 04 March 2026"
+data-deadline-date="2026-02-28">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Practical Deep Learning"
+description="This course gives a practical introduction to deep learning, including common neural network architectures such as convolutional, recurrent and transformer models, as well as GPU computing and hands-on exercises using PyTorch. Participants will get to run exercises on the GPU-accelerated LUMI supercomputer and can join either on-site in Espoo, Finland or remotely via Zoom."
+link="https://csc.fi/en/training-calendar/practical-deep-learning-7/"
+dates="Date: 14 – 15 April 2026"
+data-deadline-date="2026-04-14">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Galaxy Metagenome Training Course 2026"
+description="This online, hands-on workshop introduces methods and tools for analyzing next-generation sequencing (NGS) metagenomics data using the Galaxy platform. Participants will learn Galaxy basics, amplicon sequencing workflows, whole-metagenome assembly, binning, taxonomic and functional analyses, and data submission techniques through lectures and guided exercises. The course is beginner-friendly and free of charge."
+link="https://www.denbi.de/training-courses-2026/2018-galaxy-metagenome-training-course-2026"
+dates="Date: 05 – 06 March 2026"
+data-deadline-date="2026-03-05">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Biodiversity Bioinformatics Summer School"
+description="This intensive summer school provides hands-on training in biodiversity bioinformatics, covering environmental DNA (eDNA) metabarcoding, genome assembly and annotation, biodiversity metrics, and comparative genomics. Designed for life science researchers and PhD students, the course combines lectures with collaborative projects and practical pipeline work to build skills in analysis and interpretation of biodiversity data."
+link="https://www.sib.swiss/training/course/20260621_SSBIB"
+deadline="Registration deadline: 16 March 2026"
+dates="Date: 21 – 26 June 2026"
+data-deadline-date="2026-03-17">
+</text-tile>
+</div>
+
