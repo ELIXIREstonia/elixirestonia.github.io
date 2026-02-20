@@ -49,13 +49,14 @@ Useful sites:
 
 ## Data Management
 
+* Pilvar, D. (2026, February 19). __Crash Course in Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.13801447
+* Inno, H. (2026, February 16). __Grandimüks 2026 "Andmehalduse tugivõrgustik TÜs kui hea teadlase tagala".__ Zenodo. https://doi.org/10.5281/zenodo.18656745
 * Pilvar, D. (2025, November 6). __How to make your messy data usable? / OpenRefine__. Zenodo. https://doi.org/10.5281/zenodo.10224703
 * Inno, H. (2025, October 13). __Andmehaldus 101.__ Zenodo. https://doi.org/10.5281/zenodo.17337418
 * Inno, H. (2025, September 8). __Licensing Research Outputs.__ Zenodo. https://doi.org/10.5281/zenodo.17076073
 * Inno, H. (2025, August 29). __Crash Course In Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.16993293
 * Pilvar, D. (2025, May 28). __Bring Your Own Data Management Plan.__ Zenodo. https://doi.org/10.5281/zenodo.15538895
 * Inno, H. (2025, March 10). __Getting organised with Notion.__ Zenodo. https://doi.org/10.5281/zenodo.14998033
-* Pilvar, D. (2025, February 10). __Crash Course in Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.13801447
 * Inno, H. (2024, October 31). __Laboratory documentation with Markdown.__ Zenodo. https://doi.org/10.5281/zenodo.14016131
 * Pilvar, D. (2024, May 14). __Metadata and README.__ Zenodo. https://doi.org/10.5281/zenodo.7835048.
 * Pilvar, D. (2024, May 1). __FAIR in a Nutshell.__ Zenodo. https://doi.org/10.5281/zenodo.7660007.

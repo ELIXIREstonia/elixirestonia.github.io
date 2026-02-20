@@ -3,7 +3,7 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: Crash Course in Data Management - 19.02.2026 - Registration OPEN
+title: Crash Course in Data Management - 19.02.2026
 draft: false
 hide:
   - toc
@@ -29,7 +29,7 @@ course:
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register: https://forms.gle/FEWJToUTSCvGHzAS8
+    register:
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
 
@@ -71,8 +71,8 @@ course:
   # Optional "External resources" to be shown in TeSS under the course:
   # Multiple items can be added; for each item the title and the url are mandatory.
   externalResources:
-    #- title:
-    #  url:
+    - title: Crash Course in Data Management slides
+      url: https://doi.org/10.5281/zenodo.18700849
 
   # Specify occurrences here:
   instances:
