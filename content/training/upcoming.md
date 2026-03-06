@@ -18,6 +18,8 @@ hands-on courses in the life science community on various topics.
 
 * __02.04.2026__ - [Data Visualisation with RStudio](../news/posts/2026/Data_visualisation_RStudio_02-04.md)- Registration open
 
+* __08.04.2026__ - [Bring your own DMP workshop](../news/posts/2026/BYO_DMP_08-04.md) - Registration open
+
 ## We are willing to train researchers on the following topics:
 
 * Python programming for beginners
