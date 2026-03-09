@@ -629,3 +629,119 @@ data-deadline-date="2026-03-24">
 </text-tile>
 </div>
 
+<div class="tile-grid">
+<text-tile
+title="Online: Statistics and Machine Learning for Life Sciences"
+description="This course introduces participants to key concepts in statistical modelling and machine learning, focusing on both regression and classification methods and their interpretation for life science datasets. Participants will explore model evaluation and understand how to apply these approaches to real data."
+link="https://www.sib.swiss/training/course/20260331_STAML"
+deadline="Registration deadline: 17 March 2026"
+dates="Date: 31 March – 01 April 2026"
+data-deadline-date="2026-03-18">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Data Analysis and Representation in Python"
+description="This 1-day course introduces essential Python modules (mainly pandas and seaborn) and teaches how to parse, transform, explore, summarize and visually represent real-life datasets for effective data analysis. Participants will practice data wrangling and quality control tasks that are key to everyday scientific data exploration."
+link="https://www.sib.swiss/training/course/20260414_DARPY"
+deadline="Registration deadline: 31 March 2026"
+dates="Date: 14 April 2026"
+data-deadline-date="2026-04-01">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Data Visualisation for librarians, information and knowledge professionals"
+description="This UKeiG CPD workshop explores the role of data visualisation in transforming and communicating complex datasets, covering theory, design critique, practical tools (including Excel and open-source options), and a hands-on session using Tableau. It’s ideal for librarians, information and knowledge professionals, researchers, research support staff and communication teams looking to enhance their data skills."
+link="https://www.cilip.org.uk/events/EventDetails.aspx?id=2037009&group=201314"
+deadline="Registration deadline: 24 March 2026"
+dates="Date: 26 March 2026, 1 p.m. – 4 p.m. (UK time)"
+data-deadline-date="2026-03-25">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Introduction to Bayesian Statistical Learning"
+description="This course introduces the basic theoretical concepts of Bayesian statistics and Bayesian inference, covering Bayes’ theorem, prior/posterior distributions, computational techniques such as MCMC and variational approaches, and practical exercises using the PyMC3 framework on real datasets. Participants will work with different Bayesian models and learn how to apply them in practice over a series of half-day sessions."
+link="https://www.fz-juelich.de/en/jsc/news/events/training-courses/training-courses-2026/bayesian-sl-1"
+dates="Date: 16–20 March 2026"
+data-deadline-date="2026-03-16">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Federated Learning in Bioinformatics"
+description="This course introduces the principles and applications of federated learning (FL), focusing on privacy-preserving collaborative model training and its use in bioinformatics. Participants will explore theoretical foundations and gain hands-on experience simulating federated learning workflows and developing basic FL algorithms using the Flower framework."
+link="https://www.sib.swiss/training/course/20260427_FEDBX"
+deadline="Registration deadline: 06 April 2026"
+dates="Date: 27 April 2026"
+data-deadline-date="2026-04-07">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Nanopore Direct RNA Sequencing Data Analysis"
+description="This intermediate-level in-person training course covers analysis of Nanopore direct RNA sequencing data, focusing on advanced topics such as RNA modification detection, isoform usage and polyA-tail analysis with practical exercises."
+link="https://www.sib.swiss/training/course/20260416_DIRNA"
+deadline="Registration deadline: 02 April 2026"
+dates="Date: 16 - 17 April 2026"
+data-deadline-date="2026-04-03">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Demystifying Data Journals: Experiences of data journal editors"
+description="This online session introduces data journals — a publication format for datasets — and features editors sharing insights and practical advice for publishing data papers, with opportunities for discussion."
+link="https://www.eventbrite.co.uk/e/demystifying-data-journals-experiences-of-data-journal-editors-tickets-1984303305603"
+dates="Date: 10 March 2026"
+data-deadline-date="2026-03-11">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: 11th Horizon Europe Open Science requirements in practice"
+description="This webinar covers Horizon Europe’s Open Science requirements, including Open Access to publications and research data management, with expert guidance and an overview of OpenAIRE tools to support compliance."
+link="https://www.openaire.eu/11th-horizon-europe-open-science-requirements-in-practice"
+dates="Date: 3 April 2026"
+data-deadline-date="2026-04-04">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Time-resolved STED nanoscopy in life sciences"
+description="This six-day advanced microscopy course focuses on stimulated emission depletion (STED) microscopy and its application to biological questions, combining lectures, tutorials and hands-on workshops with expert faculty from EMBL and Leica Microsystems."
+link="https://www.embl.org/about/info/course-and-conference-office/events/let26-01/"
+deadline="Registration deadline: 6 april 2026"
+dates="Date: 13 – 18 July 2026"
+data-deadline-date="2026-04-07">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Bioexcel webinar: DynaPIN – A Tool for Characterizing Dynamic Protein Interfaces"
+description="This webinar introduces DynaPIN, an open-source tool for extracting dynamic protein interface fingerprints from molecular simulations, integrating quality control, interface prediction and atomistic analysis into a unified workflow."
+link="https://csc.fi/en/training-calendar/bioexcel-webinar-dynapin-a-tool-for-characterizing-dynamic-protein-interfaces/"
+dates="Date: 31 March 2026, 15:00 CEST / 16:00 EEST"
+data-deadline-date="2026-04-01">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Automatic annotation systems in UniProt"
+description="This free webinar introduces UniProt’s automated annotation systems (UniRule and ARBA) and demonstrates how to use UniFIRE to create functional predictions for protein sequences, aimed at researchers and UniProt users interested in automatic protein annotation."
+link="https://www.ebi.ac.uk/training/events/automatic-annotation-systems-uniprot/"
+dates="Date: 12 March 2026"
+data-deadline-date="2026-03-12">
+</text-tile>
+</div>
+
