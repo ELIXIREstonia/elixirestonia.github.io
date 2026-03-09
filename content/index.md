@@ -262,8 +262,9 @@ data-added-date="2025-12-17">
     dates="Date: 17–19 and 24–26 March 2026"
     data-deadline-date="2026-03-26">
   </text-tile>
+</div>
 
-  <div class="tile-grid">
+<div class="tile-grid">
   <text-tile
     title="Hybrid: Cellular mechanisms driven by phase separation"
     description="This EMBO | EMBL Symposium explores how intracellular phase transitions and biomolecular condensates organise cellular space and time. It brings together experts from cell biology, genetics, biochemistry, biophysics, and soft matter physics to discuss principles of condensate formation, cellular adaptation, and disease. The meeting aims to foster interdisciplinary collaborations and inspire new approaches to understanding cellular organisation and robustness."
