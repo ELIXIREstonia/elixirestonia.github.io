@@ -206,7 +206,7 @@ data-added-date="2025-11-19">
     link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-04/"
     deadline="Registration deadline:10 February 2026 (on-site); 17 March 2026 (virtual)"
     dates="Date: 24 – 27 March 2026"
-    data-deadline-date="2026-003-18">
+    data-deadline-date="2026-03-18">
   </text-tile>
 </div>
 
@@ -563,8 +563,6 @@ materialstext="Webpage"
 data-added-date="2026-03-06">
 </text-tile>
 </div>
-
-<!-- Homepage tile format -->
 
 <div class="tile-grid">
 <text-tile
