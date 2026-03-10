@@ -233,18 +233,6 @@ data-added-date="2025-11-19">
 </div>
 
 <div class="tile-grid">
-  <text-tile
-    title="Finland: CSC Spring School on Computational Chemistry 2026"
-    description="The Spring School provides a comprehensive tutorial-style introduction to essential methods in molecular modelling and computational chemistry using modern supercomputers. It covers classical molecular dynamics, electronic structure theory, and special topics such as enhanced sampling methods and potential energy surface exploration. The school is aimed at graduate students and researchers, as well as industrial participants seeking a hands-on crash course in computational modelling and networking opportunities."
-    link="https://csc.fi/en/training-calendar/csc-spring-school-on-computational-chemistry-2026/"
-    deadline="Registration deadline: 8 March 2026"
-    dates="Date: 8 – 10 April 2026"
-    data-deadline-date="2026-03-09">
-  </text-tile>
-</div>
-
-
-<div class="tile-grid">
 <text-tile
 title="Material: The loss of community in open science: a sign of a failing movement?"
 description="This article examines why the open science movement has struggled to achieve lasting change despite decades of effort, highlighting how traditional publishers, weak leadership, and a lack of cultural focus have limited progress. It argues that neglecting community building—through lost grassroots initiatives, homogenised voices, and underfunded community efforts—has made the movement fragile and overly top‑down, and calls for renewed, diverse, community‑driven leadership to avoid long‑term failure."
