@@ -189,18 +189,6 @@ data-added-date="2025-11-19">
 
 <div class="tile-grid">
   <text-tile
-    title="Hybrid: The cellular mechanics of symbiosis: sensing friend from foe"
-    description="This EMBO | EMBL symposium explores how host–microbe interactions shift along the spectrum from pathogenic to beneficial, focusing on the cellular systems and metabolic pathways that drive changes in symbiotic states. The meeting will bring together researchers using cellular, molecular, ecological, physiological and theoretical approaches to understand how hosts distinguish friends from foes and maintain stable, specific partnerships with microbes."
-    link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-03/"
-    deadline="Registration deadline:  (on-site) 3 February 2026;  (virtual) 10 March 2026"
-    dates="Date: 17 – 20 March 2026"
-    data-deadline-date="2026-03-11">
-  </text-tile>
-</div>
-
-
-<div class="tile-grid">
-  <text-tile
     title="Hybrid: Biological oscillators: rhythms and synchronisation across scales"
     description="This symposium explores oscillatory phenomena in biological and natural systems across temporal and spatial scales, bringing together researchers working on molecular, organismal, ecological, and planetary rhythms. Topics include neuronal and cardiac dynamics, circadian and developmental rhythms, as well as oscillations in ecological and climate systems, with a strong focus on bridging experimental and theoretical perspectives to uncover common principles of rhythmic behaviour."
     link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-04/"
@@ -285,16 +273,6 @@ data-deadline-date="2026-04-02">
 </text-tile>
 </div>
 
-
-<div class="tile-grid">
-<text-tile
-title="Online: Interactive visualisation of spatial transcriptomics data"
-description="This webinar introduces tools and strategies for interactive visualisation of spatial transcriptomics data, helping researchers explore and interpret complex spatial datasets."
-link="https://www.ebi.ac.uk/training/events/interactive-visualisation-spatial-transcriptomics-data/"
-dates="Date: 11 March 2026"
-data-deadline-date="2026-03-11">
-</text-tile>
-</div>
 
 <div class="tile-grid">
 <text-tile
@@ -410,17 +388,6 @@ dates="Date: 13 - 16 April and 27 April 2026"
 data-deadline-date="2026-03-14">
 </text-tile>
 </div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Careers in Data Stewardship"
-description="Are you an early-career researcher (MSc, PhD, post-doc) thinking about your next career step in data-intensive fields? This online event explores a fast-evolving career at the intersection of research, data, and policy, and features data stewards from organizations such as MeteoSwiss, the Federal Office for Agriculture, and the NEXUS Personalized Health Technologies platform sharing their career journeys. Register now and come prepared with questions to engage with experienced professionals and learn more about career opportunities in data stewardship."
-link="https://events.teams.microsoft.com/event/6e23fd24-da74-41be-a926-7b593c6ae313@9e71e497-063e-482f-aaf7-0fbe05494a14"
-dates="Date: 10 March 2026"
-data-deadline-date="2026-03-11">
-</text-tile>
-</div>
-
 
 <div class="tile-grid">
 <text-tile
@@ -678,16 +645,6 @@ link="https://www.sib.swiss/training/course/20260416_DIRNA"
 deadline="Registration deadline: 02 April 2026"
 dates="Date: 16 - 17 April 2026"
 data-deadline-date="2026-04-03">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Demystifying Data Journals: Experiences of data journal editors"
-description="This online session introduces data journals — a publication format for datasets — and features editors sharing insights and practical advice for publishing data papers, with opportunities for discussion."
-link="https://www.eventbrite.co.uk/e/demystifying-data-journals-experiences-of-data-journal-editors-tickets-1984303305603"
-dates="Date: 10 March 2026"
-data-deadline-date="2026-03-11">
 </text-tile>
 </div>
 
