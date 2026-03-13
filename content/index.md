@@ -336,17 +336,6 @@ data-added-date="2026-02-16">
 
 <div class="tile-grid">
 <text-tile
-title="Belgium: Next-generation mRNA vaccines against complex pathogens: From antigen selection to clinical translation"
-description="This international conference focuses on the state of the art in mRNA vaccine development against complex infectious pathogens, covering topics including antigen identification strategies, mRNA design & production, vaccine formulation and pathogen-specific development progress. Featuring keynote lectures from pioneers in mRNA-based nanomedicines and insights from leading experts in academia and industry."
-link="https://www.vibconferences.be/events/next-generation-mrna-vaccines-against-complex-pathogens-from-antigen-selection-to-clinical"
-deadline="Registration deadline: 11 March 2026"
-dates="Date: 25 - 26 March 2026"
-data-deadline-date="2026-03-12">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: Brain (epi)genome"
 description="This EMBO-funded workshop brings together leaders in genomics, neuroscience, and epigenetics to explore how the genome and epigenome shape brain cell diversity, function and disease. The programme features cutting-edge sessions on neural identity, chromatin dynamics, epigenomics of brain plasticity and neurological disorders, and the latest single-cell and spatial genomics approaches."
 link="https://www.embl.org/about/info/course-and-conference-office/events/brg26-01/"
@@ -676,16 +665,6 @@ description="This webinar introduces DynaPIN, an open-source tool for extracting
 link="https://csc.fi/en/training-calendar/bioexcel-webinar-dynapin-a-tool-for-characterizing-dynamic-protein-interfaces/"
 dates="Date: 31 March 2026, 15:00 CEST / 16:00 EEST"
 data-deadline-date="2026-04-01">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Automatic annotation systems in UniProt"
-description="This free webinar introduces UniProt’s automated annotation systems (UniRule and ARBA) and demonstrates how to use UniFIRE to create functional predictions for protein sequences, aimed at researchers and UniProt users interested in automatic protein annotation."
-link="https://www.ebi.ac.uk/training/events/automatic-annotation-systems-uniprot/"
-dates="Date: 12 March 2026"
-data-deadline-date="2026-03-12">
 </text-tile>
 </div>
 
