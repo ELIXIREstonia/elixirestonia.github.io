@@ -369,17 +369,6 @@ data-deadline-date="2026-03-21">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Single cell RNAseq data analysis"
-description="This course covers the foundations of bioinformatic analysis of single cell RNA-seq and aims to provide participants with the theoretical knowledge and practical tools needed for robust analyses. Through a combination of lectures and hands-on exercises in R or Python, participants will learn to run analyses on their own data, select appropriate methods and interpret the results."
-link="https://uppsala.instructure.com/courses/119502"
-deadline="Registration deadline: 13 March 2026"
-dates="Date: 13 - 16 April and 27 April 2026"
-data-deadline-date="2026-03-14">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: Practical Deep Learning"
 description="This course gives a practical introduction to deep learning, including common neural network architectures such as convolutional, recurrent and transformer models, as well as GPU computing and hands-on exercises using PyTorch. Participants will get to run exercises on the GPU-accelerated LUMI supercomputer and can join either on-site in Espoo, Finland or remotely via Zoom."
 link="https://csc.fi/en/training-calendar/practical-deep-learning-7/"
