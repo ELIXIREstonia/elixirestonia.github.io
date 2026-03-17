@@ -9,7 +9,7 @@ All slides are available on Zenodo under [community ELIXIR-Estonia](https://zeno
 
 ## Bioinformatics
 
-* ELIXIR Estonia (2025). __R basic__ https://github.com/ELIXIREstonia/2025-09-01-R-basic 
+* ELIXIR Estonia (2026). __R basic__ https://github.com/ELIXIREstonia/2026-03-05-R-basic 
 * ELIXIR Estonia (2025). __Introduction to statistics with R__
     * Repositorium for R code:  https://github.com/ELIXIREstonia/2025-04-28-R-basic-stat 
     * Slides: Moor, M., Joao, L., & Rachel, M. (2025, April 29). Introduction to statistics in R course. Zenodo. https://doi.org/10.5281/zenodo.15301106
