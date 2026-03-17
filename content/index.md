@@ -596,16 +596,6 @@ data-deadline-date="2026-03-25">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Introduction to Bayesian Statistical Learning"
-description="This course introduces the basic theoretical concepts of Bayesian statistics and Bayesian inference, covering Bayes’ theorem, prior/posterior distributions, computational techniques such as MCMC and variational approaches, and practical exercises using the PyMC3 framework on real datasets. Participants will work with different Bayesian models and learn how to apply them in practice over a series of half-day sessions."
-link="https://www.fz-juelich.de/en/jsc/news/events/training-courses/training-courses-2026/bayesian-sl-1"
-dates="Date: 16–20 March 2026"
-data-deadline-date="2026-03-16">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Switzerland: Federated Learning in Bioinformatics"
 description="This course introduces the principles and applications of federated learning (FL), focusing on privacy-preserving collaborative model training and its use in bioinformatics. Participants will explore theoretical foundations and gain hands-on experience simulating federated learning workflows and developing basic FL algorithms using the Flower framework."
 link="https://www.sib.swiss/training/course/20260427_FEDBX"
