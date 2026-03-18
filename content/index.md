@@ -376,17 +376,6 @@ data-deadline-date="2026-04-14">
 
 <div class="tile-grid">
 <text-tile
-title="Germany: Biodiversity Bioinformatics Summer School"
-description="This intensive summer school provides hands-on training in biodiversity bioinformatics, covering environmental DNA (eDNA) metabarcoding, genome assembly and annotation, biodiversity metrics, and comparative genomics. Designed for life science researchers and PhD students, the course combines lectures with collaborative projects and practical pipeline work to build skills in analysis and interpretation of biodiversity data."
-link="https://www.sib.swiss/training/course/20260621_SSBIB"
-deadline="Registration deadline: 16 March 2026"
-dates="Date: 21 – 26 June 2026"
-data-deadline-date="2026-03-17">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Genome Annotation Workshop 2026"
 description="The Genome Annotation Workshop offers a comprehensive, 3-day virtual training in eukaryotic genome annotation. Participants will learn about sequencing technologies, transcriptome assembly, gene prediction methodologies, and hands-on annotation tool usage to improve their genome annotation workflows."
 link="https://www.earlham.ac.uk/events/genome-annotation-workshop-2026"
