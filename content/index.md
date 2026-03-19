@@ -186,18 +186,6 @@ data-added-date="2025-11-19">
 
 <div class="tile-grid">
   <text-tile
-    title="Hybrid: Biological oscillators: rhythms and synchronisation across scales"
-    description="This symposium explores oscillatory phenomena in biological and natural systems across temporal and spatial scales, bringing together researchers working on molecular, organismal, ecological, and planetary rhythms. Topics include neuronal and cardiac dynamics, circadian and developmental rhythms, as well as oscillations in ecological and climate systems, with a strong focus on bridging experimental and theoretical perspectives to uncover common principles of rhythmic behaviour."
-    link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-04/"
-    deadline="Registration deadline:10 February 2026 (on-site); 17 March 2026 (virtual)"
-    dates="Date: 24 – 27 March 2026"
-    data-deadline-date="2026-03-18">
-  </text-tile>
-</div>
-
-
-<div class="tile-grid">
-  <text-tile
     title="Material: Repository Resilience"
     description="This page introduces the Repository Crisis Scorecards project, which helps data repositories assess their resilience to disruptions such as outages, disasters, and funding changes. It explains how the tool, surveys, and focus groups collectively support better planning, risk mitigation, and community-wide understanding of repository resilience."
     materials="https://www.esipfed.org/repository-resilience/"
@@ -270,16 +258,6 @@ data-deadline-date="2026-04-02">
 </text-tile>
 </div>
 
-
-<div class="tile-grid">
-<text-tile
-title="Online: Integrating single-cell and spatial transcriptomics to map the rules of neurological conditions"
-description="This webinar discusses approaches for integrating single-cell and spatial transcriptomics data to study neurological conditions and understand cellular organisation in the brain."
-link="https://www.ebi.ac.uk/training/events/integrating-single-cell-spatial-transcriptomics-to-map-rules-neurological-conditions/"
-dates="Date: 18 March 2026"
-data-deadline-date="2026-03-18">
-</text-tile>
-</div>
 
 <div class="tile-grid">
 <text-tile
@@ -544,17 +522,6 @@ link="https://www.sib.swiss/training/course/20260402_SHINY"
 deadline="Registration deadline: 23 March 2026"
 dates="Date: 02 April 2026"
 data-deadline-date="2026-03-24">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Statistics and Machine Learning for Life Sciences"
-description="This course introduces participants to key concepts in statistical modelling and machine learning, focusing on both regression and classification methods and their interpretation for life science datasets. Participants will explore model evaluation and understand how to apply these approaches to real data."
-link="https://www.sib.swiss/training/course/20260331_STAML"
-deadline="Registration deadline: 17 March 2026"
-dates="Date: 31 March – 01 April 2026"
-data-deadline-date="2026-03-18">
 </text-tile>
 </div>
 
