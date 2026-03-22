@@ -333,17 +333,6 @@ data-deadline-date="2026-03-25">
 
 <div class="tile-grid">
 <text-tile
-title="Germany: Single-Cell RNA-Seq Data Analysis"
-description="This workshop provides a comprehensive introduction to the analysis of single-cell RNA sequencing (scRNA-seq) data, covering quality control, normalization, dimensionality reduction, clustering, and differential expression analysis. Participants will gain hands-on experience using established bioinformatics tools and workflows to interpret and visualise single-cell transcriptomic data."
-link="https://www.ecseq.com/workshops/workshop_2026-03-Single-Cell-RNA-Seq-Data-Analysis"
-deadline="Registration deadline: 20 March 2026"
-dates="Date: 23 – 25 March 2026"
-data-deadline-date="2026-03-21">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: Practical Deep Learning"
 description="This course gives a practical introduction to deep learning, including common neural network architectures such as convolutional, recurrent and transformer models, as well as GPU computing and hands-on exercises using PyTorch. Participants will get to run exercises on the GPU-accelerated LUMI supercomputer and can join either on-site in Espoo, Finland or remotely via Zoom."
 link="https://csc.fi/en/training-calendar/practical-deep-learning-7/"
