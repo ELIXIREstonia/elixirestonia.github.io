@@ -75,7 +75,7 @@ hide:
 
 * __08.04.2026__ - [Bring your own DMP workshop](news/posts/2026/BYO_DMP_08-04.md) - Registration open
 
-
+* __09.04.2026__ - [Andmehaldus projektijuhtidele](news/posts/2026/data_management_project_managers.md) - Kutsega
 
 
 !!! note ""
