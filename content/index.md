@@ -79,6 +79,8 @@ hide:
 
 * __14.04.2026__ - [Introduction to Exploratory Data Analysis (EDA) with R](news/posts/2026/EDA_1404.md) - Registration open
 
+* __23.04.2026- 24.04.2026__ - [Introduction to statistics with R](news/posts/2026/intro-statistics_R.md) - Registration open
+
 
 !!! note ""
     If you would like to be notified about the events, trainings and workshops
