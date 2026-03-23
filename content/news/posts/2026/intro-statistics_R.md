@@ -144,5 +144,6 @@ Technical prerequisites:
 To do the exercises, you are required to have 
 
 * your own computer with at least 4 Gb of RAM and with an internet connection,
-* as well as the latest the version of [R](https://cran.rstudio.com/) (version 4.4.2, release date 2024-10-31)
+* as well as the latest the version of R version 4.5.1 (2025-06-13) -- "Great Square Root"
+(R studio ver): 2026.01.1 
 * the free version of [RStudio](https://posit.co/download/rstudio-desktop/) installed. 
