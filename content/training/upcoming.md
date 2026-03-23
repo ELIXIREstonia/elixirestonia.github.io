@@ -20,6 +20,8 @@ hands-on courses in the life science community on various topics.
 
 * __09.04.2026__ - [Andmehaldus projektijuhtidele](../news/posts/2026/data_management_project_managers.md) - Kutsega
 
+* __14.04.2026__ - [Introduction to Exploratory Data Analysis (EDA) with R](../news/posts/2026/EDA_1404.md) - Registration open
+
 ## We are willing to train researchers on the following topics:
 
 * Python programming for beginners

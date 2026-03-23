@@ -77,6 +77,8 @@ hide:
 
 * __09.04.2026__ - [Andmehaldus projektijuhtidele](news/posts/2026/data_management_project_managers.md) - Kutsega
 
+* __14.04.2026__ - [Introduction to Exploratory Data Analysis (EDA) with R](news/posts/2026/EDA_1404.md) - Registration open
+
 
 !!! note ""
     If you would like to be notified about the events, trainings and workshops
@@ -87,13 +89,6 @@ hide:
 <hr class="elixir-clear" />
 
 ## Latest news and announcements
-
-
-### University of Tartu Electronic Lab Notebook usage survey by ELIXIR Estonia
-
-Have you used electronic lab notebook? Would you like to? Please fill in [our survey](https://forms.office.com/e/re5vfzUnpZ). (For University of Tartu members only)
-
-[More info](news/posts/2025/ELN_survey.md)
 
 
 ### ELIXIR Estonia’s July to December 2025 Highlights
