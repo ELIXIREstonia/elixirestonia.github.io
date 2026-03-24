@@ -575,3 +575,249 @@ data-deadline-date="2026-04-01">
 </text-tile>
 </div>
 
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Microtubules: from atoms to complex systems"
+description="This symposium brings together early-career and established researchers interested in microtubule biology and its relevance to human health and disease. It provides a platform for collaboration and exchange of new ideas, covering diverse cellular processes such as cell division, transport, and neurobiology. Participants will explore interdisciplinary advances and emerging concepts in microtubule research."
+link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-09/"
+deadline="Registration deadline: 6 May 2026 (on-site); 10 June 2026 (virtual)"
+dates="Date: 17 - 20 June 2026"
+data-deadline-date="2026-06-11">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Material: The Communities of Practice Playbook"
+description="The Communities of Practice Playbook is a practical guide developed by the European Commission to help organisations build, manage, and grow communities of practice. It provides step-by-step guidance, good practices, and interactive tools to support collaboration, knowledge sharing, and community development. The playbook focuses on key success factors such as vision, governance, leadership, and engagement across the community lifecycle. Playbook includes:  [Your Community Roadmap](https://dx.doi.org/10.2760/5296677), [The Communities of Practice Checklist](https://dx.doi.org/10.2760/8175409), [The Communities of Practice Barometer](https://dx.doi.org/10.2760/0749239), [The Community Digital Compass](https://dx.doi.org/10.2760/7062939)"
+materials="https://op.europa.eu/webpub/jrc/communities-of-practice-playbook/en/index.html"
+data-added-date="2026-03-24">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: European Conference on Computational Biology (ECCB) 2026"
+description="The European Conference on Computational Biology (ECCB) is a premier event bringing together researchers in computational biology, bioinformatics, and data-driven life sciences. It offers a platform to share ideas, explore new methods, and address global challenges through computational biology. The programme includes conference sessions, as well as dedicated tutorials and workshops providing hands-on training and discussions on emerging topics."
+link="https://eccb2026.org/"
+deadline="Registration deadline: 14 August 2026"
+dates="Date: 31 August - 4 September 2026"
+data-deadline-date="2026-08-15">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: An introduction to Nextflow"
+description="This webinar introduces workflow management systems and explains their importance in handling large-scale biological data in a reproducible and scalable way. Through a practical example, participants learn how to transform simple bash scripts into a portable Nextflow pipeline that can run across HPC and cloud environments. It is designed for beginners and provides a clear overview of Nextflow concepts, structure, and best practices."
+materials="https://www.ebi.ac.uk/training/events/introduction-nextflow/"
+materialstext="Webinar recording"
+data-added-date="2026-03-24">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Spain: Valencia Long-Read Transcriptomics (VALT) symposium"
+description="VALT 2026 will bring together leading researchers and professionals from around the world to share the latest advances and ideas in long-read transcriptomics. This event offers an excellent opportunity to engage directly  with an  international audience of experts.The VALT symposium will be preceded by a Summer School in long-read transcriptomics"
+link="https://longtrec.eu/valt/"
+deadline="Registration deadline: 7 June 2026"
+dates="29  June - 1 July 2026"
+data-deadline-date="2026-06-08">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: First Steps with SQL for Data Science"
+description="This course introduces the fundamentals of SQL for working with relational databases in data science. Participants will learn how to retrieve, manipulate, and analyze large datasets efficiently, as well as understand database structures and data handling concepts. The training also covers filtering, grouping, joining tables, and using SQL for data preparation and validation."
+link="https://www.sib.swiss/training/course/20260420_FSSQL"
+deadline="Registration deadline: 13 April 2026"
+dates="Date: 20 - 21 April 2026"
+data-deadline-date="2026-04-14">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: From sequences to structures: Protein characterisation using EMBL-EBI APIs"
+description="Proteins are fundamental to biological processes, and understanding their sequence, structure, and function is crucial for many research applications. This one-day, hands-on virtual workshop introduces a programmatic workflow using EMBL-EBI resources, including retrieving sequences, identifying homologs, and analysing structural information via APIs. Participants will gain practical experience building automated protein analysis pipelines using Python and EMBL-EBI tools."
+link="https://www.ebi.ac.uk/training/events/sequences-structures-2026"
+deadline="Registration deadline: 08 April 2026"
+dates="Date: 2 June 2026"
+data-deadline-date="2026-04-09">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Biodiversity Data Unlocked: Publishing in GBIF with IPT"
+description="This course introduces participants to the principles and practical steps of publishing biodiversity data using the GBIF Integrated Publishing Toolkit (IPT). Participants will learn how to structure, standardize, and share datasets to make them accessible and reusable within the global biodiversity data infrastructure. The course combines theoretical background with hands-on exercises to ensure practical understanding."
+link="https://www.sib.swiss/training/course/20260521_BDIPT"
+deadline="Registration deadline: 24 April 2026"
+dates="Date: 21 - 22 May 2026"
+data-deadline-date="2026-04-25">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Introduction to Effective and Practical Research Data Management"
+description="This course introduces the key principles of research data management, focusing on practical strategies to organise, store, and share data effectively. Participants will learn how to apply best practices to ensure data is well-managed throughout the research lifecycle. The session also highlights tools and resources that support reproducible and FAIR research."
+link="https://ukdataservice.ac.uk/events/introduction-to-effective-and-practical-research-data-management-2026-03-19/"
+dates="Date: 15 May 2026"
+data-deadline-date="2026-04-15">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: RDAP Summit 2026 – Practical, Personalized, Impactful: Research Data in the Real World"
+    description="The RDAP Summit is a three-day event for all who work toward management, access, and preservation of research data. The program includes presentations, lightning talks, panels, keynotes, workshops, and optional social activities, all focused on making research data services genuinely useful and impactful. The 2026 theme highlights strategic thinking, creative problem-solving, and collaborative approaches to research data in real-world contexts."
+    link="https://rdapassociation.org/summit"
+    dates="Date: 14 – 16 April 2026"
+    data-deadline-date="2026-04-14">
+  </text-tile>
+</div>
+
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: The Global Open Research Commons International Model: A path towards greater interoperability for digital research infrastructures"
+    description="The Global Open Research Commons (GORC) International Model is a mature framework to guide implementation decisions for research commons, support new commons implementers, and provide a shared language for interoperability discussions. This online seminar will present the GORC approach, its current uptake, and future plans, and is aimed at anyone interested in interoperability within and between digital research infrastructures."
+    link="https://www.scilifelab.se/event/openscience-gorc/"
+    dates="Date: 21 April"
+    data-deadline-date="2026-04-21">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: Role of informed consent in ethical data collection, sharing and reuse"
+    description="Are you collecting research data involving human participants and planning to share these data? This free online workshop guides researchers through the complexities of informed consent in the context of data archiving and future reuse, clarifying ethical versus legal consent and how to respect participants’ rights. It also covers preparing documentation such as consent forms and participant information sheets, using real-world examples and the UK Data Service model consent form, with time for questions and discussion."
+    link="https://ukdataservice.ac.uk/events/role-of-informed-consent-in-ethical-data-collection-sharing-and-reuse-2026-04-30/"
+    dates="Date: 30 April 2026"
+    data-deadline-date="2026-05-01">
+  </text-tile>
+</div>
+
+
+<div class="tile-grid">
+  <text-tile
+   title="Switzerland: Introduction to Metagenomics Data Analysis of Microbial Communities"
+   description="This course will cover the metagenomics data analysis workflow from data generation to downstream analysis, including issues of data quality control and data processing until publication. Both targeted marker-gene (e.g. 16S) and whole-genome shotgun approaches will be covered, with discussions on sequencing options, analysis pipelines, and downstream analysis tools for metagenomics data."
+   link="https://www.sib.swiss/training/course/20260504_MEMIC"
+   deadline="Registration deadline: 27 April 2026"
+   dates="Date: 04 - 06 May 2026"
+   data-deadline-date="2026-04-28">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: Microbial community / environmental DNA analysis with Chipster"
+    description="This online hands-on course focuses on amplicon-based community analysis methods using microbial communities as an example, with approaches applicable to environmental DNA (eDNA) studies of other organisms as well. The course covers the full workflow from quality control and filtering to quantification and statistical analysis using DADA2 and Phyloseq tools integrated into the user-friendly Chipster software, and includes lectures and practical exercises with Zoom sessions from 9:00–13:00 on both days."
+    link="https://csc.fi/en/training-calendar/microbial-community-environmental-dna-analysis-with-chipster/"
+    deadline="Registration deadline: 1 April 2026"
+    dates="Date: 14 - 15 April 2026"
+    data-deadline-date="2026-04-02">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Germany: Biodiversity Bioinformatics Summer School"
+    description="Biodiversity bioinformatics enables researchers to study genetic and ecosystem diversity at scale using omics data and integrative computational approaches. This summer school combines lectures with an intensive, week‑long hackathon-style group project, where participants work on topics such as eDNA metabarcoding, pangenomes, genomic essential biodiversity variables and large-scale comparative genomics, guided by expert trainers. Participants will gain hands-on experience with real datasets, collaborate closely within their project group, and develop skills in reproducible analysis pipelines, data interpretation and scientific presentation."
+    link="https://www.sib.swiss/training/course/20260621_SSBIB"
+    deadline="Registration deadline: 31 March 2026"
+    dates="Date: 21 - 26 June 2026"
+    data-deadline-date="2026-04-01">
+  </text-tile>
+</div>
+
+
+<div class="tile-grid">
+  <text-tile
+    title="Germany: Time-resolved STED nanoscopy in life sciences"
+    description="This six-day comprehensive advanced microscopy course focuses on stimulated emission depletion microscopy (STED) and its application to biological questions. Through lectures, tutorials and hands-on workshops on state-of-the-art STED microscopes, participants will learn about technical implementations, sample preparation and image acquisition strategies for fixed samples and live cells. The course is intended for early-career life science researchers who need to apply STED nanoscopy in their work and ideally have access to a STED microscope."
+    link="https://www.embl.org/about/info/course-and-conference-office/events/let26-01/"
+    deadline="Registration deadline: 6 April 2026"
+    dates="Date: 13 - 18 July 2026"
+    data-deadline-date="2026-04-07">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+ <text-tile
+ title="Germany: Integrative analysis of multi-omics data"
+ description="Biological and biomedical research increasingly relies on multi-omics approaches that profile multiple molecular layers such as DNA, RNA, proteins, and metabolites, often at single-cell or spatial resolution. This course provides a foundational mathematical and conceptual understanding of integrative multi-modal data analysis methods, with hands-on sessions on state-of-the-art datasets using tools such as factor analysis, multi-table ordination, dimensionality reduction (including MOFA), and related approaches. Participants will assess data quality and method performance, optimise model parameters, interpret outcomes, and incorporate open-science practices in their workflows."
+ link="https://www.embl.org/about/info/course-and-conference-office/events/mmd26-01/"
+ deadline="Registration deadline: 21 April 2026"
+ dates="Date: 28 - 31 July 2026"
+ data-deadline-date="2026-04-22">
+ </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: Data Analysis and Representation in Python"
+    description="Python is an open-source scripting language that has become a language of choice for bioinformatics and data analysis, particularly in machine learning and deep learning applications. This 1-day course introduces key modules such as pandas, numpy and seaborn to support efficient day-to-day data exploration, transformation and clear visual representation of real-life datasets."
+    link="https://www.sib.swiss/training/course/20260414_DARPY"
+    deadline="Registration deadline: 31 March 2026"
+    dates="Date: 14 April 2026"
+    data-deadline-date="2026-04-01">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Switzerland: Federated Learning in Bioinformatics"
+    description="In this 1-day course, participants will explore the concepts and operational framework of federated learning, with a focus on privacy, security and regulatory constraints in biomedical research. They will learn how federated methods can be applied in bioinformatics and gain hands-on experience simulating a federated learning consortium and developing a basic federated learning algorithm using the Flower framework."
+    link="https://www.sib.swiss/training/course/20260427_FEDBX"
+    deadline="Registration deadline: 06 April 2026"
+    dates="Date: 27 April 2026"
+    data-deadline-date="2026-04-07">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: Curating proteins involved in Antimicrobial Resistance (AMR) in UniProt"
+    description="UniProt is a comprehensive, expert-led, publicly available database of protein sequence, function, and variation information. This webinar will introduce the UniProt website and highlight resources of interest to those beginning work on antimicrobial resistance (AMR), including students, early-stage researchers, and clinicians. Using curated examples of AMR-related proteins such as beta-lactamases, efflux pumps, ABC transporters and proteins involved in quorum sensing and biofilm formation, it will showcase UniProt resources relevant to this urgent public health challenge."
+    link="https://www.ebi.ac.uk/training/events/curating-proteins-involved-antimicrobial-resistance-amr-uniprot-2026/"
+    dates="Date: 16 April 2026"
+    data-deadline-date="2026-04-16">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: A gentle introduction to semantic web"
+    description="HELIOS and HemaFAIR invite you to a webinar that introduces the fundamentals of the Semantic Web and its relevance for biomedical research. The session will provide a clear and accessible overview of how Semantic Web technologies enable better data integration, interoperability, and reuse, as key components of FAIR data practices."
+    link="https://hemafairproject.eu/event/lecture-series-14-a-gentle-introduction-to-semantic-web/"
+    dates="Date: 20 April 2026"
+    data-deadline-date="2026-04-21">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: Open Science: Theory and Practice."
+    description="HELIOS and HemaFAIR invite you to a webinar on Open Science: Theory and Practice, featuring Vasiliki Koukouounidou from the University of Cyprus and OpenAIRE. The session will introduce the principles of Open Science and demonstrate how open and transparent practices can enhance research visibility, reproducibility, and collaboration. It will also cover practical tools and infrastructures for open research, including open access, research data management, FAIR practices, and European initiatives such as OpenAIRE."
+    link="https://hemafairproject.eu/event/lecture-series-14-a-gentle-introduction-to-semantic-web-copy/"
+    dates="Date: 23 April 2026"
+    data-deadline-date="2026-04-23">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Online: A gentle introduction to federated learning"
+    description="HELIOS and HemaFAIR invite you to a webinar offering an accessible overview of federated learning, a key approach for collaborative data analysis while keeping sensitive data locally controlled and secure. The session will outline core concepts, contrast federated approaches with traditional data sharing, and highlight applications, opportunities, and challenges in healthcare and biomedical research."
+    link="https://hemafairproject.eu/event/lecture-series-13-a-gentle-introduction-to-federated-learning/"
+    dates="Date: 30 March 2026, 14:00–15:00 CET"
+    data-deadline-date="2026-03-31">
+  </text-tile>
+</div>
+
