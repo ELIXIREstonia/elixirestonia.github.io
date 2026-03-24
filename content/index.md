@@ -340,17 +340,6 @@ data-deadline-date="2026-04-14">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Genome Annotation Workshop 2026"
-description="The Genome Annotation Workshop offers a comprehensive, 3-day virtual training in eukaryotic genome annotation. Participants will learn about sequencing technologies, transcriptome assembly, gene prediction methodologies, and hands-on annotation tool usage to improve their genome annotation workflows."
-link="https://www.earlham.ac.uk/events/genome-annotation-workshop-2026"
-deadline="Registration deadline: 22 March 2026"
-dates="Date: 28 – 30 April 2026"
-data-deadline-date="2026-03-23">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Welcome to the Research Data Management Video Series"
 description="This introductory video presents a comprehensive video series on research data management, from planning and organizing data to sharing it ethically and effectively. It explains the recommended viewing order and highlights how the series supports students, early-career researchers, and data stewards in building good data practices across disciplines."
 materials="https://www.youtube.com/watch?v=GBrpv8ZzBZ0&list=PLCgtsnEJOw6zUBZv7lqWiWAcEbv5n41JK"
