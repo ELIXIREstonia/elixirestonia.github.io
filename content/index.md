@@ -491,17 +491,6 @@ data-deadline-date="2026-05-18">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Introduction to R Shiny"
-description="In this one-day streamed course, you’ll be introduced to the R Shiny framework and learn how to build and deploy interactive web applications from R, enabling exploration and sharing of data without web-development experience."
-link="https://www.sib.swiss/training/course/20260402_SHINY"
-deadline="Registration deadline: 23 March 2026"
-dates="Date: 02 April 2026"
-data-deadline-date="2026-03-24">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Data Analysis and Representation in Python"
 description="This 1-day course introduces essential Python modules (mainly pandas and seaborn) and teaches how to parse, transform, explore, summarize and visually represent real-life datasets for effective data analysis. Participants will practice data wrangling and quality control tasks that are key to everyday scientific data exploration."
 link="https://www.sib.swiss/training/course/20260414_DARPY"
