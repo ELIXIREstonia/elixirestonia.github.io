@@ -3,7 +3,7 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: CodeRefinery workshop for reproducible research code  - March 17-19 and 24-26, 2026 - Registration OPEN
+title: CodeRefinery workshop for reproducible research code  - March 17-19 and 24-26, 2026
 draft: false
 hide:
   - toc
@@ -31,7 +31,7 @@ course:
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register: https://forms.gle/XFZn6LiSDDc4bECJA
+    register:
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
     invite: 
