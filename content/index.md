@@ -319,17 +319,6 @@ data-deadline-date="2026-04-15">
 
 <div class="tile-grid">
 <text-tile
-title="Germany: Synthetic biology in action: maturing tools and their potential"
-description="This course explores cutting-edge synthetic biology tools through lectures and practical modules in genome engineering, RNA-based control systems, and AI-assisted design across diverse biological systems."
-link="https://www.embl.org/about/info/course-and-conference-office/events/syn26-01/"
-deadline="Registration deadline: 24 March 2026"
-dates="Date: 30 June – 6 July 2026"
-data-deadline-date="2026-03-25">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: Practical Deep Learning"
 description="This course gives a practical introduction to deep learning, including common neural network architectures such as convolutional, recurrent and transformer models, as well as GPU computing and hands-on exercises using PyTorch. Participants will get to run exercises on the GPU-accelerated LUMI supercomputer and can join either on-site in Espoo, Finland or remotely via Zoom."
 link="https://csc.fi/en/training-calendar/practical-deep-learning-7/"
@@ -468,17 +457,6 @@ data-added-date="2026-03-06">
 </div>
 
 <div class="tile-grid">
-  <text-tile
-    title="Online: Interactive Visualisation with Python"
-    description="This one-day streamed course is designed to provide you with a solid grounding in interactive data visualization using Python. You’ll learn to select the right visualization tools, create and customize interactive plots with Plotly, and develop web-based applications with Plotly-Dash, helping make your data exploration intuitive and your results easier to share."
-    link="https://www.sib.swiss/training/course/20260407_IVIPY"
-    deadline="Registration deadline: 24 March 2026"
-    dates="Date: 07 April 2026"
-    data-deadline-date="2026-03-25">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
 <text-tile
 title="Online: Galaxy Training Academy 2026"
 description="The Galaxy Training Academy is a 5-day, asynchronous, self-paced online training event for beginners and advanced learners who want to improve their bioinformatics and data analysis skills using the Galaxy platform. Across the week you can follow a range of learning tracks at your own pace, with support from trainers worldwide via Slack and the opportunity to earn a certificate after completion."
@@ -497,17 +475,6 @@ link="https://www.sib.swiss/training/course/20260414_DARPY"
 deadline="Registration deadline: 31 March 2026"
 dates="Date: 14 April 2026"
 data-deadline-date="2026-04-01">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Data Visualisation for librarians, information and knowledge professionals"
-description="This UKeiG CPD workshop explores the role of data visualisation in transforming and communicating complex datasets, covering theory, design critique, practical tools (including Excel and open-source options), and a hands-on session using Tableau. It’s ideal for librarians, information and knowledge professionals, researchers, research support staff and communication teams looking to enhance their data skills."
-link="https://www.cilip.org.uk/events/EventDetails.aspx?id=2037009&group=201314"
-deadline="Registration deadline: 24 March 2026"
-dates="Date: 26 March 2026, 1 p.m. – 4 p.m. (UK time)"
-data-deadline-date="2026-03-25">
 </text-tile>
 </div>
 
