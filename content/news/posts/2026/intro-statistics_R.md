@@ -120,7 +120,7 @@ course:
 # Description will be rendered on web-page and also in TeSS JSON (as a string of HTML).
 ---
 
-This course is designed to provide researchers in biomedical sciences with experience in the application of basic statistical analysis techniques to a variety of biological problems.
+This __2 day__ course is designed to provide researchers in biomedical sciences with experience in the application of basic statistical analysis techniques to a variety of biological problems.
 The course will combine lectures on statistics and practical exercises, during which the participants will learn how to work with the widely used "R" language and environment for statistical computing and graphics.
 
 Topics covered during the course include: reminders about numerical and graphical summaries, and hypothesis testing; multiple testing, linear models, correlation and regression, and other topics. Participants will also have the opportunity to ask questions about the analysis of their own data.
