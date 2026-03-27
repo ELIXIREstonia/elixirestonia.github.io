@@ -214,16 +214,6 @@ data-added-date="2025-12-17">
 
 <div class="tile-grid">
   <text-tile
-    title="Online: CodeRefinery workshop"
-    description="This free online workshop introduces best practices for version control, collaborative coding, testing, documentation, and reproducible research aimed at researchers and scientists using code in their work. It combines lectures with hands-on exercises, and participants can join only the days or sessions most relevant to them. The event is streamed and also supports local in-person study groups at several universities."
-    link="https://coderefinery.github.io/2026-03-17-workshop/"
-    dates="Date: 17–19 and 24–26 March 2026"
-    data-deadline-date="2026-03-26">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
-  <text-tile
     title="Hybrid: Cellular mechanisms driven by phase separation"
     description="This EMBO | EMBL Symposium explores how intracellular phase transitions and biomolecular condensates organise cellular space and time. It brings together experts from cell biology, genetics, biochemistry, biophysics, and soft matter physics to discuss principles of condensate formation, cellular adaptation, and disease. The meeting aims to foster interdisciplinary collaborations and inspire new approaches to understanding cellular organisation and robustness."
     link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-08/"
