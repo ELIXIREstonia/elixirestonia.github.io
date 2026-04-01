@@ -755,13 +755,3 @@ data-deadline-date="2026-04-15">
   </text-tile>
 </div>
 
-<div class="tile-grid">
-  <text-tile
-    title="Online: A gentle introduction to federated learning"
-    description="HELIOS and HemaFAIR invite you to a webinar offering an accessible overview of federated learning, a key approach for collaborative data analysis while keeping sensitive data locally controlled and secure. The session will outline core concepts, contrast federated approaches with traditional data sharing, and highlight applications, opportunities, and challenges in healthcare and biomedical research."
-    link="https://hemafairproject.eu/event/lecture-series-13-a-gentle-introduction-to-federated-learning/"
-    dates="Date: 30 March 2026, 14:00–15:00 CET"
-    data-deadline-date="2026-03-31">
-  </text-tile>
-</div>
-
