@@ -234,18 +234,6 @@ data-deadline-date="2026-04-24">
 
 <div class="tile-grid">
 <text-tile
-title="Spain: Building networks: engineering in vascular biology"
-description="This EMBO Workshop will take place at EMBL Barcelona and brings together researchers at the intersection of engineering and vascular biology to discuss advances in spatial omics, imaging and bioengineered models of vascular systems. The programme covers vascular development and identity, mechano-vascular biology, computational models and new in vitro approaches to study vascular biology."
-link="https://www.embl.org/about/info/course-and-conference-office/events/evb26-01/"
-deadline="Registration deadline: 1 April 2026"
-dates="Date: 13 – 15 May 2026"
-data-deadline-date="2026-04-02">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Online: Spatial transcriptomics in action: a case study from human reproductive development"
 description="This webinar showcases a real-world case study applying spatial transcriptomics to human reproductive development, highlighting biological insights and analytical approaches."
 link="https://www.ebi.ac.uk/training/events/spatial-transcriptomics-in-action-case-study-human-reproductive-development/"
@@ -624,17 +612,6 @@ data-deadline-date="2026-04-15">
    deadline="Registration deadline: 27 April 2026"
    dates="Date: 04 - 06 May 2026"
    data-deadline-date="2026-04-28">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
-  <text-tile
-    title="Online: Microbial community / environmental DNA analysis with Chipster"
-    description="This online hands-on course focuses on amplicon-based community analysis methods using microbial communities as an example, with approaches applicable to environmental DNA (eDNA) studies of other organisms as well. The course covers the full workflow from quality control and filtering to quantification and statistical analysis using DADA2 and Phyloseq tools integrated into the user-friendly Chipster software, and includes lectures and practical exercises with Zoom sessions from 9:00–13:00 on both days."
-    link="https://csc.fi/en/training-calendar/microbial-community-environmental-dna-analysis-with-chipster/"
-    deadline="Registration deadline: 1 April 2026"
-    dates="Date: 14 - 15 April 2026"
-    data-deadline-date="2026-04-02">
   </text-tile>
 </div>
 
