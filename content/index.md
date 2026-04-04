@@ -446,17 +446,6 @@ data-deadline-date="2026-04-07">
 
 <div class="tile-grid">
 <text-tile
-title="Switzerland: Nanopore Direct RNA Sequencing Data Analysis"
-description="This intermediate-level in-person training course covers analysis of Nanopore direct RNA sequencing data, focusing on advanced topics such as RNA modification detection, isoform usage and polyA-tail analysis with practical exercises."
-link="https://www.sib.swiss/training/course/20260416_DIRNA"
-deadline="Registration deadline: 02 April 2026"
-dates="Date: 16 - 17 April 2026"
-data-deadline-date="2026-04-03">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: 11th Horizon Europe Open Science requirements in practice"
 description="This webinar covers Horizon Europe’s Open Science requirements, including Open Access to publications and research data management, with expert guidance and an overview of OpenAIRE tools to support compliance."
 link="https://www.openaire.eu/11th-horizon-europe-open-science-requirements-in-practice"
