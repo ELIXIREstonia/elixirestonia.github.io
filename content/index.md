@@ -446,16 +446,6 @@ data-deadline-date="2026-04-07">
 
 <div class="tile-grid">
 <text-tile
-title="Online: 11th Horizon Europe Open Science requirements in practice"
-description="This webinar covers Horizon Europe’s Open Science requirements, including Open Access to publications and research data management, with expert guidance and an overview of OpenAIRE tools to support compliance."
-link="https://www.openaire.eu/11th-horizon-europe-open-science-requirements-in-practice"
-dates="Date: 3 April 2026"
-data-deadline-date="2026-04-04">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Germany: Time-resolved STED nanoscopy in life sciences"
 description="This six-day advanced microscopy course focuses on stimulated emission depletion (STED) microscopy and its application to biological questions, combining lectures, tutorials and hands-on workshops with expert faculty from EMBL and Leica Microsystems."
 link="https://www.embl.org/about/info/course-and-conference-office/events/let26-01/"
