@@ -11,6 +11,7 @@ hide:
 * __5.03.2026__ - [RStudio for beginners](../news/posts/2026/RStudio_05_03.md)
 * __12.03.2026__ - [Data visualisation (theory)](../news/posts/2026/Data_visualisation_theory_12_03.md)
 * __17.03.2026__ - [CodeRefinery workshop for reproducible research code - March 17-19 and 24-26, 2026](../news/posts/2026/CodeRefinery_march_local.md)
+* __02.04.2026__ - [Data Visualisation with RStudio](../news/posts/2026/Data_visualisation_RStudio_02-04.md)
 
 
 ## 2025

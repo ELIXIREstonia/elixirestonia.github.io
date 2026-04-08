@@ -12,9 +12,7 @@ hands-on courses in the life science community on various topics.
 
 ## Free spring courses 2026 by ELIXIR Estonia
 
-* __02.04.2026__ - [Data Visualisation with RStudio](../news/posts/2026/Data_visualisation_RStudio_02-04.md)- Registration open
-
-* __08.04.2026__ - [Bring your own DMP workshop](../news/posts/2026/BYO_DMP_08-04.md) - Registration open
+* __08.04.2026__ - [Bring your own DMP workshop](../news/posts/2026/BYO_DMP_08-04.md)
 
 * __09.04.2026__ - [Andmehaldus projektijuhtidele](../news/posts/2026/data_management_project_managers.md) - Kutsega
 
