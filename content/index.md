@@ -433,28 +433,6 @@ data-deadline-date="2026-05-18">
 
 <div class="tile-grid">
 <text-tile
-title="Switzerland: Federated Learning in Bioinformatics"
-description="This course introduces the principles and applications of federated learning (FL), focusing on privacy-preserving collaborative model training and its use in bioinformatics. Participants will explore theoretical foundations and gain hands-on experience simulating federated learning workflows and developing basic FL algorithms using the Flower framework."
-link="https://www.sib.swiss/training/course/20260427_FEDBX"
-deadline="Registration deadline: 06 April 2026"
-dates="Date: 27 April 2026"
-data-deadline-date="2026-04-07">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Germany: Time-resolved STED nanoscopy in life sciences"
-description="This six-day advanced microscopy course focuses on stimulated emission depletion (STED) microscopy and its application to biological questions, combining lectures, tutorials and hands-on workshops with expert faculty from EMBL and Leica Microsystems."
-link="https://www.embl.org/about/info/course-and-conference-office/events/let26-01/"
-deadline="Registration deadline: 6 april 2026"
-dates="Date: 13 – 18 July 2026"
-data-deadline-date="2026-04-07">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: Microtubules: from atoms to complex systems"
 description="This symposium brings together early-career and established researchers interested in microtubule biology and its relevance to human health and disease. It provides a platform for collaboration and exchange of new ideas, covering diverse cellular processes such as cell division, transport, and neurobiology. Participants will explore interdisciplinary advances and emerging concepts in microtubule research."
 link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-09/"
@@ -593,17 +571,6 @@ data-deadline-date="2026-04-15">
 </div>
 
 <div class="tile-grid">
-  <text-tile
-    title="Germany: Time-resolved STED nanoscopy in life sciences"
-    description="This six-day comprehensive advanced microscopy course focuses on stimulated emission depletion microscopy (STED) and its application to biological questions. Through lectures, tutorials and hands-on workshops on state-of-the-art STED microscopes, participants will learn about technical implementations, sample preparation and image acquisition strategies for fixed samples and live cells. The course is intended for early-career life science researchers who need to apply STED nanoscopy in their work and ideally have access to a STED microscope."
-    link="https://www.embl.org/about/info/course-and-conference-office/events/let26-01/"
-    deadline="Registration deadline: 6 April 2026"
-    dates="Date: 13 - 18 July 2026"
-    data-deadline-date="2026-04-07">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
  <text-tile
  title="Germany: Integrative analysis of multi-omics data"
  description="Biological and biomedical research increasingly relies on multi-omics approaches that profile multiple molecular layers such as DNA, RNA, proteins, and metabolites, often at single-cell or spatial resolution. This course provides a foundational mathematical and conceptual understanding of integrative multi-modal data analysis methods, with hands-on sessions on state-of-the-art datasets using tools such as factor analysis, multi-table ordination, dimensionality reduction (including MOFA), and related approaches. Participants will assess data quality and method performance, optimise model parameters, interpret outcomes, and incorporate open-science practices in their workflows."
@@ -612,17 +579,6 @@ data-deadline-date="2026-04-15">
  dates="Date: 28 - 31 July 2026"
  data-deadline-date="2026-04-22">
  </text-tile>
-</div>
-
-<div class="tile-grid">
-  <text-tile
-    title="Switzerland: Federated Learning in Bioinformatics"
-    description="In this 1-day course, participants will explore the concepts and operational framework of federated learning, with a focus on privacy, security and regulatory constraints in biomedical research. They will learn how federated methods can be applied in bioinformatics and gain hands-on experience simulating a federated learning consortium and developing a basic federated learning algorithm using the Flower framework."
-    link="https://www.sib.swiss/training/course/20260427_FEDBX"
-    deadline="Registration deadline: 06 April 2026"
-    dates="Date: 27 April 2026"
-    data-deadline-date="2026-04-07">
-  </text-tile>
 </div>
 
 <div class="tile-grid">
