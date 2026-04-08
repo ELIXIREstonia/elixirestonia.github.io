@@ -232,28 +232,6 @@ data-deadline-date="2026-04-24">
 
 <div class="tile-grid">
 <text-tile
-title="Spain: Building networks: engineering in vascular biology"
-description="This EMBO Workshop will take place at EMBL Barcelona and brings together researchers at the intersection of engineering and vascular biology to discuss advances in spatial omics, imaging and bioengineered models of vascular systems. The programme covers vascular development and identity, mechano-vascular biology, computational models and new in vitro approaches to study vascular biology."
-link="https://www.embl.org/about/info/course-and-conference-office/events/evb26-01/"
-deadline="Registration deadline: 1 April 2026"
-dates="Date: 13 – 15 May 2026"
-data-deadline-date="2026-04-02">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
-title="Online: Managing spatial data: insights from developing the HuBMAP data portal"
-description="This webinar presents challenges and solutions for managing large-scale spatial data, drawing on experience from developing the Human Biomolecular Atlas Program data portal."
-link="https://www.ebi.ac.uk/training/events/managing-spatial-data-insights-from-developing-hubmap-data-portal/"
-dates="Date: 1 April 2026"
-data-deadline-date="2026-04-01">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Spatial transcriptomics in action: a case study from human reproductive development"
 description="This webinar showcases a real-world case study applying spatial transcriptomics to human reproductive development, highlighting biological insights and analytical approaches."
 link="https://www.ebi.ac.uk/training/events/spatial-transcriptomics-in-action-case-study-human-reproductive-development/"
@@ -455,17 +433,6 @@ data-deadline-date="2026-05-18">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Data Analysis and Representation in Python"
-description="This 1-day course introduces essential Python modules (mainly pandas and seaborn) and teaches how to parse, transform, explore, summarize and visually represent real-life datasets for effective data analysis. Participants will practice data wrangling and quality control tasks that are key to everyday scientific data exploration."
-link="https://www.sib.swiss/training/course/20260414_DARPY"
-deadline="Registration deadline: 31 March 2026"
-dates="Date: 14 April 2026"
-data-deadline-date="2026-04-01">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Switzerland: Federated Learning in Bioinformatics"
 description="This course introduces the principles and applications of federated learning (FL), focusing on privacy-preserving collaborative model training and its use in bioinformatics. Participants will explore theoretical foundations and gain hands-on experience simulating federated learning workflows and developing basic FL algorithms using the Flower framework."
 link="https://www.sib.swiss/training/course/20260427_FEDBX"
@@ -477,43 +444,12 @@ data-deadline-date="2026-04-07">
 
 <div class="tile-grid">
 <text-tile
-title="Switzerland: Nanopore Direct RNA Sequencing Data Analysis"
-description="This intermediate-level in-person training course covers analysis of Nanopore direct RNA sequencing data, focusing on advanced topics such as RNA modification detection, isoform usage and polyA-tail analysis with practical exercises."
-link="https://www.sib.swiss/training/course/20260416_DIRNA"
-deadline="Registration deadline: 02 April 2026"
-dates="Date: 16 - 17 April 2026"
-data-deadline-date="2026-04-03">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: 11th Horizon Europe Open Science requirements in practice"
-description="This webinar covers Horizon Europe’s Open Science requirements, including Open Access to publications and research data management, with expert guidance and an overview of OpenAIRE tools to support compliance."
-link="https://www.openaire.eu/11th-horizon-europe-open-science-requirements-in-practice"
-dates="Date: 3 April 2026"
-data-deadline-date="2026-04-04">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Germany: Time-resolved STED nanoscopy in life sciences"
 description="This six-day advanced microscopy course focuses on stimulated emission depletion (STED) microscopy and its application to biological questions, combining lectures, tutorials and hands-on workshops with expert faculty from EMBL and Leica Microsystems."
 link="https://www.embl.org/about/info/course-and-conference-office/events/let26-01/"
 deadline="Registration deadline: 6 april 2026"
 dates="Date: 13 – 18 July 2026"
 data-deadline-date="2026-04-07">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Bioexcel webinar: DynaPIN – A Tool for Characterizing Dynamic Protein Interfaces"
-description="This webinar introduces DynaPIN, an open-source tool for extracting dynamic protein interface fingerprints from molecular simulations, integrating quality control, interface prediction and atomistic analysis into a unified workflow."
-link="https://csc.fi/en/training-calendar/bioexcel-webinar-dynapin-a-tool-for-characterizing-dynamic-protein-interfaces/"
-dates="Date: 31 March 2026, 15:00 CEST / 16:00 EEST"
-data-deadline-date="2026-04-01">
 </text-tile>
 </div>
 
@@ -658,29 +594,6 @@ data-deadline-date="2026-04-15">
 
 <div class="tile-grid">
   <text-tile
-    title="Online: Microbial community / environmental DNA analysis with Chipster"
-    description="This online hands-on course focuses on amplicon-based community analysis methods using microbial communities as an example, with approaches applicable to environmental DNA (eDNA) studies of other organisms as well. The course covers the full workflow from quality control and filtering to quantification and statistical analysis using DADA2 and Phyloseq tools integrated into the user-friendly Chipster software, and includes lectures and practical exercises with Zoom sessions from 9:00–13:00 on both days."
-    link="https://csc.fi/en/training-calendar/microbial-community-environmental-dna-analysis-with-chipster/"
-    deadline="Registration deadline: 1 April 2026"
-    dates="Date: 14 - 15 April 2026"
-    data-deadline-date="2026-04-02">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
-  <text-tile
-    title="Germany: Biodiversity Bioinformatics Summer School"
-    description="Biodiversity bioinformatics enables researchers to study genetic and ecosystem diversity at scale using omics data and integrative computational approaches. This summer school combines lectures with an intensive, week‑long hackathon-style group project, where participants work on topics such as eDNA metabarcoding, pangenomes, genomic essential biodiversity variables and large-scale comparative genomics, guided by expert trainers. Participants will gain hands-on experience with real datasets, collaborate closely within their project group, and develop skills in reproducible analysis pipelines, data interpretation and scientific presentation."
-    link="https://www.sib.swiss/training/course/20260621_SSBIB"
-    deadline="Registration deadline: 31 March 2026"
-    dates="Date: 21 - 26 June 2026"
-    data-deadline-date="2026-04-01">
-  </text-tile>
-</div>
-
-
-<div class="tile-grid">
-  <text-tile
     title="Germany: Time-resolved STED nanoscopy in life sciences"
     description="This six-day comprehensive advanced microscopy course focuses on stimulated emission depletion microscopy (STED) and its application to biological questions. Through lectures, tutorials and hands-on workshops on state-of-the-art STED microscopes, participants will learn about technical implementations, sample preparation and image acquisition strategies for fixed samples and live cells. The course is intended for early-career life science researchers who need to apply STED nanoscopy in their work and ideally have access to a STED microscope."
     link="https://www.embl.org/about/info/course-and-conference-office/events/let26-01/"
@@ -699,17 +612,6 @@ data-deadline-date="2026-04-15">
  dates="Date: 28 - 31 July 2026"
  data-deadline-date="2026-04-22">
  </text-tile>
-</div>
-
-<div class="tile-grid">
-  <text-tile
-    title="Online: Data Analysis and Representation in Python"
-    description="Python is an open-source scripting language that has become a language of choice for bioinformatics and data analysis, particularly in machine learning and deep learning applications. This 1-day course introduces key modules such as pandas, numpy and seaborn to support efficient day-to-day data exploration, transformation and clear visual representation of real-life datasets."
-    link="https://www.sib.swiss/training/course/20260414_DARPY"
-    deadline="Registration deadline: 31 March 2026"
-    dates="Date: 14 April 2026"
-    data-deadline-date="2026-04-01">
-  </text-tile>
 </div>
 
 <div class="tile-grid">
@@ -750,16 +652,6 @@ data-deadline-date="2026-04-15">
     link="https://hemafairproject.eu/event/lecture-series-14-a-gentle-introduction-to-semantic-web-copy/"
     dates="Date: 23 April 2026"
     data-deadline-date="2026-04-23">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
-  <text-tile
-    title="Online: A gentle introduction to federated learning"
-    description="HELIOS and HemaFAIR invite you to a webinar offering an accessible overview of federated learning, a key approach for collaborative data analysis while keeping sensitive data locally controlled and secure. The session will outline core concepts, contrast federated approaches with traditional data sharing, and highlight applications, opportunities, and challenges in healthcare and biomedical research."
-    link="https://hemafairproject.eu/event/lecture-series-13-a-gentle-introduction-to-federated-learning/"
-    dates="Date: 30 March 2026, 14:00–15:00 CET"
-    data-deadline-date="2026-03-31">
   </text-tile>
 </div>
 
