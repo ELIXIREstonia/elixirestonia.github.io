@@ -232,16 +232,6 @@ data-deadline-date="2026-04-24">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Spatial transcriptomics in action: a case study from human reproductive development"
-description="This webinar showcases a real-world case study applying spatial transcriptomics to human reproductive development, highlighting biological insights and analytical approaches."
-link="https://www.ebi.ac.uk/training/events/spatial-transcriptomics-in-action-case-study-human-reproductive-development/"
-dates="Date: 8 April 2026"
-data-deadline-date="2026-04-08">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Communities as Policy Instruments"
 description="This publication explains how communities can be used as effective policy instruments by the European Commission to bridge the gap between policy design and implementation through stakeholder-driven collaboration, structured dialogue, and peer learning. It argues that beyond traditional regulation or funding programmes, communities help close implementation gaps, encourage shared purpose among actors, and translate policy into practice in more adaptive, inclusive ways."
 materials="https://knowledge4policy.ec.europa.eu/publication/communities-policy-instruments_en"
