@@ -334,17 +334,6 @@ data-added-date="2026-03-06">
 
 <div class="tile-grid">
 <text-tile
-title="Belgium: Bioimage analysis in Python"
-description="This introductory course provides researchers with practical skills for handling and processing microscopy images using Python. Participants will learn to visualize, manipulate, and analyze multi-dimensional image data and apply essential image analysis tasks interactively with tools such as Napari."
-link="https://training.vib.be/all-trainings/bioimage-analysis-python"
-deadline="Registration deadline: 8 April 2026"
-dates="Date: 21 – 22 April 2026"
-data-deadline-date="2026-04-09">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: BioMalPar XXII: biology and pathology of the malaria parasite"
 description="This international conference brings together researchers to highlight recent advances in basic and translational research on malaria parasites, their interactions with hosts and vectors, and development of new interventions."
 link="https://www.embl.org/about/info/course-and-conference-office/events/bmp26-01/"
@@ -478,17 +467,6 @@ link="https://www.sib.swiss/training/course/20260420_FSSQL"
 deadline="Registration deadline: 13 April 2026"
 dates="Date: 20 - 21 April 2026"
 data-deadline-date="2026-04-14">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: From sequences to structures: Protein characterisation using EMBL-EBI APIs"
-description="Proteins are fundamental to biological processes, and understanding their sequence, structure, and function is crucial for many research applications. This one-day, hands-on virtual workshop introduces a programmatic workflow using EMBL-EBI resources, including retrieving sequences, identifying homologs, and analysing structural information via APIs. Participants will gain practical experience building automated protein analysis pipelines using Python and EMBL-EBI tools."
-link="https://www.ebi.ac.uk/training/events/sequences-structures-2026"
-deadline="Registration deadline: 08 April 2026"
-dates="Date: 2 June 2026"
-data-deadline-date="2026-04-09">
 </text-tile>
 </div>
 
