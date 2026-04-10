@@ -3,7 +3,7 @@
 template: training_et.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: Andmehaldus projektijuhtidele - 09.04.2024 - Kutsega
+title: Andmehaldus projektijuhtidele - 09.04.2024
 draft: false
 hide:
   - toc

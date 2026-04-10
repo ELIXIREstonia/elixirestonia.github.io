@@ -12,10 +12,6 @@ hands-on courses in the life science community on various topics.
 
 ## Free spring courses 2026 by ELIXIR Estonia
 
-* __08.04.2026__ - [Bring your own DMP workshop](../news/posts/2026/BYO_DMP_08-04.md)
-
-* __09.04.2026__ - [Andmehaldus projektijuhtidele](../news/posts/2026/data_management_project_managers.md) - Kutsega
-
 * __14.04.2026__ - [Introduction to Exploratory Data Analysis (EDA) with R](../news/posts/2026/EDA_1404.md) - Registration open
 
 * __23.04.2026- 24.04.2026__ - [Introduction to statistics with R](../news/posts/2026/intro-statistics_R.md) - Registration open
