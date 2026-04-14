@@ -113,16 +113,6 @@ We are proud to share a recent publication by our team member, Marilin Moor, who
 
 <div class="tile-grid">
 <text-tile
- title="Material: Our journey incorporating AI into our cancer computational research"
- description="Dr. Anna Trigos session focuses on exploring the real-world challenges that many researchers face before any models are built or predictions made. Expect practical reflections, and inspiration for those at the beginning of their own AI journeys."
- materials="https://www.youtube.com/watch?v=vCkGbWuyLaQ"
- materialstext="Webinar recording"
- data-added-date="2025-10-14">
- </text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Data publication"
 description="The datasets produced during a research project is a treasure on its own, and should be treated as such. When publicly available and appropriately described, they are ready to be re-used by yourself as well as others. This lesson gives the why, where and how of data sharing via repository submission, including hands-on exercise on creating a data publication plan."
 materials="https://nbisweden.github.io/module-data-publication-dm-practices/index.html"
