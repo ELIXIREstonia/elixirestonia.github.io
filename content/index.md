@@ -259,16 +259,6 @@ data-deadline-date="2026-04-15">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Practical Deep Learning"
-description="This course gives a practical introduction to deep learning, including common neural network architectures such as convolutional, recurrent and transformer models, as well as GPU computing and hands-on exercises using PyTorch. Participants will get to run exercises on the GPU-accelerated LUMI supercomputer and can join either on-site in Espoo, Finland or remotely via Zoom."
-link="https://csc.fi/en/training-calendar/practical-deep-learning-7/"
-dates="Date: 14 – 15 April 2026"
-data-deadline-date="2026-04-14">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Welcome to the Research Data Management Video Series"
 description="This introductory video presents a comprehensive video series on research data management, from planning and organizing data to sharing it ethically and effectively. It explains the recommended viewing order and highlights how the series supports students, early-career researchers, and data stewards in building good data practices across disciplines."
 materials="https://www.youtube.com/watch?v=GBrpv8ZzBZ0&list=PLCgtsnEJOw6zUBZv7lqWiWAcEbv5n41JK"
@@ -451,17 +441,6 @@ data-deadline-date="2026-06-08">
 
 <div class="tile-grid">
 <text-tile
-title="Online: First Steps with SQL for Data Science"
-description="This course introduces the fundamentals of SQL for working with relational databases in data science. Participants will learn how to retrieve, manipulate, and analyze large datasets efficiently, as well as understand database structures and data handling concepts. The training also covers filtering, grouping, joining tables, and using SQL for data preparation and validation."
-link="https://www.sib.swiss/training/course/20260420_FSSQL"
-deadline="Registration deadline: 13 April 2026"
-dates="Date: 20 - 21 April 2026"
-data-deadline-date="2026-04-14">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Switzerland: Biodiversity Data Unlocked: Publishing in GBIF with IPT"
 description="This course introduces participants to the principles and practical steps of publishing biodiversity data using the GBIF Integrated Publishing Toolkit (IPT). Participants will learn how to structure, standardize, and share datasets to make them accessible and reusable within the global biodiversity data infrastructure. The course combines theoretical background with hands-on exercises to ensure practical understanding."
 link="https://www.sib.swiss/training/course/20260521_BDIPT"
@@ -480,17 +459,6 @@ dates="Date: 15 May 2026"
 data-deadline-date="2026-04-15">
 </text-tile>
 </div>
-
-<div class="tile-grid">
-  <text-tile
-    title="Online: RDAP Summit 2026 – Practical, Personalized, Impactful: Research Data in the Real World"
-    description="The RDAP Summit is a three-day event for all who work toward management, access, and preservation of research data. The program includes presentations, lightning talks, panels, keynotes, workshops, and optional social activities, all focused on making research data services genuinely useful and impactful. The 2026 theme highlights strategic thinking, creative problem-solving, and collaborative approaches to research data in real-world contexts."
-    link="https://rdapassociation.org/summit"
-    dates="Date: 14 – 16 April 2026"
-    data-deadline-date="2026-04-14">
-  </text-tile>
-</div>
-
 
 <div class="tile-grid">
   <text-tile
