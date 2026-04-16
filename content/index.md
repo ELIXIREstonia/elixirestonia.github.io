@@ -248,17 +248,6 @@ data-added-date="2026-02-16">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Brain (epi)genome"
-description="This EMBO-funded workshop brings together leaders in genomics, neuroscience, and epigenetics to explore how the genome and epigenome shape brain cell diversity, function and disease. The programme features cutting-edge sessions on neural identity, chromatin dynamics, epigenomics of brain plasticity and neurological disorders, and the latest single-cell and spatial genomics approaches."
-link="https://www.embl.org/about/info/course-and-conference-office/events/brg26-01/"
-deadline="Registration deadline: 10 March 2026 (on-site) / 14 Apr 2026 (virtual)"
-dates="Date: 21 – 24 April 2026"
-data-deadline-date="2026-04-15">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Welcome to the Research Data Management Video Series"
 description="This introductory video presents a comprehensive video series on research data management, from planning and organizing data to sharing it ethically and effectively. It explains the recommended viewing order and highlights how the series supports students, early-career researchers, and data stewards in building good data practices across disciplines."
 materials="https://www.youtube.com/watch?v=GBrpv8ZzBZ0&list=PLCgtsnEJOw6zUBZv7lqWiWAcEbv5n41JK"
@@ -447,16 +436,6 @@ link="https://www.sib.swiss/training/course/20260521_BDIPT"
 deadline="Registration deadline: 24 April 2026"
 dates="Date: 21 - 22 May 2026"
 data-deadline-date="2026-04-25">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Introduction to Effective and Practical Research Data Management"
-description="This course introduces the key principles of research data management, focusing on practical strategies to organise, store, and share data effectively. Participants will learn how to apply best practices to ensure data is well-managed throughout the research lifecycle. The session also highlights tools and resources that support reproducible and FAIR research."
-link="https://ukdataservice.ac.uk/events/introduction-to-effective-and-practical-research-data-management-2026-03-19/"
-dates="Date: 15 May 2026"
-data-deadline-date="2026-04-15">
 </text-tile>
 </div>
 
