@@ -484,16 +484,6 @@ data-deadline-date="2026-04-25">
 
 <div class="tile-grid">
   <text-tile
-    title="Online: Curating proteins involved in Antimicrobial Resistance (AMR) in UniProt"
-    description="UniProt is a comprehensive, expert-led, publicly available database of protein sequence, function, and variation information. This webinar will introduce the UniProt website and highlight resources of interest to those beginning work on antimicrobial resistance (AMR), including students, early-stage researchers, and clinicians. Using curated examples of AMR-related proteins such as beta-lactamases, efflux pumps, ABC transporters and proteins involved in quorum sensing and biofilm formation, it will showcase UniProt resources relevant to this urgent public health challenge."
-    link="https://www.ebi.ac.uk/training/events/curating-proteins-involved-antimicrobial-resistance-amr-uniprot-2026/"
-    dates="Date: 16 April 2026"
-    data-deadline-date="2026-04-16">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
-  <text-tile
     title="Online: A gentle introduction to semantic web"
     description="HELIOS and HemaFAIR invite you to a webinar that introduces the fundamentals of the Semantic Web and its relevance for biomedical research. The session will provide a clear and accessible overview of how Semantic Web technologies enable better data integration, interoperability, and reuse, as key components of FAIR data practices."
     link="https://hemafairproject.eu/event/lecture-series-14-a-gentle-introduction-to-semantic-web/"
