@@ -14,6 +14,8 @@ hide:
 * __02.04.2026__ - [Data Visualisation with RStudio](../news/posts/2026/Data_visualisation_RStudio_02-04.md)
 * __08.04.2026__ - [Bring your own DMP workshop](../news/posts/2026/BYO_DMP_08-04.md)
 * __09.04.2026__ - [Andmehaldus projektijuhtidele](../news/posts/2026/data_management_project_managers.md)
+* __14.04.2026__ - [Introduction to Exploratory Data Analysis (EDA) with R](../news/posts/2026/EDA_1404.md) - CANCELLED
+
 
 ## 2025
 

@@ -69,9 +69,7 @@ hide:
 
 ## Free spring courses 2026 by ELIXIR Estonia
 
-* __14.04.2026__ - [Introduction to Exploratory Data Analysis (EDA) with R](news/posts/2026/EDA_1404.md) - CANCELLED
-
-* __23.04.2026- 24.04.2026__ - [Introduction to statistics with R](news/posts/2026/intro-statistics_R.md) - Registration open
+* __23.04.2026- 24.04.2026__ - [Introduction to statistics with R](news/posts/2026/intro-statistics_R.md) - Cancelled
 
 
 !!! note ""
