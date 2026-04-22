@@ -279,17 +279,6 @@ data-deadline-date="2026-06-03">
 
 <div class="tile-grid">
 <text-tile
-title="Netherlands: RNA-seq Data Analysis – 2026"
-description="This 5-day intensive BioSB course offers hands-on training in RNA-seq data analysis, spanning experimental design, preprocessing, bulk and single-cell workflows, and practical use of analysis tools."
-link="https://www.dtls.nl/courses/rna-seq-data-analysis-2026/"
-deadline="Registration: early bird until 06 April 2026; wildcard until 20 April 2026"
-dates="Date: 1 - 5 June 2026"
-data-deadline-date="2026-04-21">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: RDA and National Open Science Policies"
 description="RDA’s interactive resource maps RDA groups, recommendations and outputs to European national Open Science policies, showing how RDA’s community-driven work supports strategic open science needs across Europe. This resource highlights areas of current support and opportunities to strengthen national and regional research data and open science policy alignment. Explore the mapping to see how RDA contributes to FAIR data and open science policy frameworks."
 materials="https://www.rd-alliance.org/rda-and-national-open-science-policies/"
@@ -439,16 +428,6 @@ data-deadline-date="2026-04-25">
 
 <div class="tile-grid">
   <text-tile
-    title="Online: The Global Open Research Commons International Model: A path towards greater interoperability for digital research infrastructures"
-    description="The Global Open Research Commons (GORC) International Model is a mature framework to guide implementation decisions for research commons, support new commons implementers, and provide a shared language for interoperability discussions. This online seminar will present the GORC approach, its current uptake, and future plans, and is aimed at anyone interested in interoperability within and between digital research infrastructures."
-    link="https://www.scilifelab.se/event/openscience-gorc/"
-    dates="Date: 21 April"
-    data-deadline-date="2026-04-21">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
-  <text-tile
     title="Online: Role of informed consent in ethical data collection, sharing and reuse"
     description="Are you collecting research data involving human participants and planning to share these data? This free online workshop guides researchers through the complexities of informed consent in the context of data archiving and future reuse, clarifying ethical versus legal consent and how to respect participants’ rights. It also covers preparing documentation such as consent forms and participant information sheets, using real-world examples and the UK Data Service model consent form, with time for questions and discussion."
     link="https://ukdataservice.ac.uk/events/role-of-informed-consent-in-ethical-data-collection-sharing-and-reuse-2026-04-30/"
@@ -478,16 +457,6 @@ data-deadline-date="2026-04-25">
  dates="Date: 28 - 31 July 2026"
  data-deadline-date="2026-04-22">
  </text-tile>
-</div>
-
-<div class="tile-grid">
-  <text-tile
-    title="Online: A gentle introduction to semantic web"
-    description="HELIOS and HemaFAIR invite you to a webinar that introduces the fundamentals of the Semantic Web and its relevance for biomedical research. The session will provide a clear and accessible overview of how Semantic Web technologies enable better data integration, interoperability, and reuse, as key components of FAIR data practices."
-    link="https://hemafairproject.eu/event/lecture-series-14-a-gentle-introduction-to-semantic-web/"
-    dates="Date: 20 April 2026"
-    data-deadline-date="2026-04-21">
-  </text-tile>
 </div>
 
 <div class="tile-grid">
