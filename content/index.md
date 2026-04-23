@@ -449,17 +449,6 @@ data-deadline-date="2026-04-25">
 </div>
 
 <div class="tile-grid">
- <text-tile
- title="Germany: Integrative analysis of multi-omics data"
- description="Biological and biomedical research increasingly relies on multi-omics approaches that profile multiple molecular layers such as DNA, RNA, proteins, and metabolites, often at single-cell or spatial resolution. This course provides a foundational mathematical and conceptual understanding of integrative multi-modal data analysis methods, with hands-on sessions on state-of-the-art datasets using tools such as factor analysis, multi-table ordination, dimensionality reduction (including MOFA), and related approaches. Participants will assess data quality and method performance, optimise model parameters, interpret outcomes, and incorporate open-science practices in their workflows."
- link="https://www.embl.org/about/info/course-and-conference-office/events/mmd26-01/"
- deadline="Registration deadline: 21 April 2026"
- dates="Date: 28 - 31 July 2026"
- data-deadline-date="2026-04-22">
- </text-tile>
-</div>
-
-<div class="tile-grid">
   <text-tile
     title="Online: Open Science: Theory and Practice."
     description="HELIOS and HemaFAIR invite you to a webinar on Open Science: Theory and Practice, featuring Vasiliki Koukouounidou from the University of Cyprus and OpenAIRE. The session will introduce the principles of Open Science and demonstrate how open and transparent practices can enhance research visibility, reproducibility, and collaboration. It will also cover practical tools and infrastructures for open research, including open access, research data management, FAIR practices, and European initiatives such as OpenAIRE."
