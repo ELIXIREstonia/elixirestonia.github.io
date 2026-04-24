@@ -448,13 +448,3 @@ data-deadline-date="2026-04-25">
   </text-tile>
 </div>
 
-<div class="tile-grid">
-  <text-tile
-    title="Online: Open Science: Theory and Practice."
-    description="HELIOS and HemaFAIR invite you to a webinar on Open Science: Theory and Practice, featuring Vasiliki Koukouounidou from the University of Cyprus and OpenAIRE. The session will introduce the principles of Open Science and demonstrate how open and transparent practices can enhance research visibility, reproducibility, and collaboration. It will also cover practical tools and infrastructures for open research, including open access, research data management, FAIR practices, and European initiatives such as OpenAIRE."
-    link="https://hemafairproject.eu/event/lecture-series-14-a-gentle-introduction-to-semantic-web-copy/"
-    dates="Date: 23 April 2026"
-    data-deadline-date="2026-04-23">
-  </text-tile>
-</div>
-
