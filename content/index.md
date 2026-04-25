@@ -205,17 +205,6 @@ data-added-date="2025-12-17">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Sex differences in health and disease"
-description="TThis symposium will take place at EMBL Heidelberg with the option to attend virtually and will bring together scientists to explore how sex differences impact physiology, disease susceptibility, treatment response and underlying molecular mechanisms, drawing on both classic models and cutting-edge approaches. Topics include hormone regulation of immunity, genetic drivers of disease differences and systems approaches to sexual dimorphisms across species."
-link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-07/"
-deadline="Registration deadline: 16 March 2026 (on-site) / 23 April 2026 (virtual)"
-dates="Date: 27 – 30 April 2026"
-data-deadline-date="2026-04-24">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Communities as Policy Instruments"
 description="This publication explains how communities can be used as effective policy instruments by the European Commission to bridge the gap between policy design and implementation through stakeholder-driven collaboration, structured dialogue, and peer learning. It argues that beyond traditional regulation or funding programmes, communities help close implementation gaps, encourage shared purpose among actors, and translate policy into practice in more adaptive, inclusive ways."
 materials="https://knowledge4policy.ec.europa.eu/publication/communities-policy-instruments_en"
