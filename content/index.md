@@ -405,17 +405,6 @@ data-deadline-date="2026-06-08">
 </div>
 
 <div class="tile-grid">
-<text-tile
-title="Switzerland: Biodiversity Data Unlocked: Publishing in GBIF with IPT"
-description="This course introduces participants to the principles and practical steps of publishing biodiversity data using the GBIF Integrated Publishing Toolkit (IPT). Participants will learn how to structure, standardize, and share datasets to make them accessible and reusable within the global biodiversity data infrastructure. The course combines theoretical background with hands-on exercises to ensure practical understanding."
-link="https://www.sib.swiss/training/course/20260521_BDIPT"
-deadline="Registration deadline: 24 April 2026"
-dates="Date: 21 - 22 May 2026"
-data-deadline-date="2026-04-25">
-</text-tile>
-</div>
-
-<div class="tile-grid">
   <text-tile
     title="Online: Role of informed consent in ethical data collection, sharing and reuse"
     description="Are you collecting research data involving human participants and planning to share these data? This free online workshop guides researchers through the complexities of informed consent in the context of data archiving and future reuse, clarifying ethical versus legal consent and how to respect participants’ rights. It also covers preparing documentation such as consent forms and participant information sheets, using real-world examples and the UK Data Service model consent form, with time for questions and discussion."
