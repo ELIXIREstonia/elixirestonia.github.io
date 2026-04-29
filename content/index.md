@@ -415,14 +415,3 @@ data-deadline-date="2026-06-08">
 </div>
 
 
-<div class="tile-grid">
-  <text-tile
-   title="Switzerland: Introduction to Metagenomics Data Analysis of Microbial Communities"
-   description="This course will cover the metagenomics data analysis workflow from data generation to downstream analysis, including issues of data quality control and data processing until publication. Both targeted marker-gene (e.g. 16S) and whole-genome shotgun approaches will be covered, with discussions on sequencing options, analysis pipelines, and downstream analysis tools for metagenomics data."
-   link="https://www.sib.swiss/training/course/20260504_MEMIC"
-   deadline="Registration deadline: 27 April 2026"
-   dates="Date: 04 - 06 May 2026"
-   data-deadline-date="2026-04-28">
-  </text-tile>
-</div>
-
