@@ -404,14 +404,3 @@ data-deadline-date="2026-06-08">
 </text-tile>
 </div>
 
-<div class="tile-grid">
-  <text-tile
-    title="Online: Role of informed consent in ethical data collection, sharing and reuse"
-    description="Are you collecting research data involving human participants and planning to share these data? This free online workshop guides researchers through the complexities of informed consent in the context of data archiving and future reuse, clarifying ethical versus legal consent and how to respect participants’ rights. It also covers preparing documentation such as consent forms and participant information sheets, using real-world examples and the UK Data Service model consent form, with time for questions and discussion."
-    link="https://ukdataservice.ac.uk/events/role-of-informed-consent-in-ethical-data-collection-sharing-and-reuse-2026-04-30/"
-    dates="Date: 30 April 2026"
-    data-deadline-date="2026-05-01">
-  </text-tile>
-</div>
-
-
