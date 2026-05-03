@@ -172,17 +172,6 @@ data-added-date="2025-11-19">
 </div>
 
 <div class="tile-grid">
-  <text-tile
-    title="Sweden: RaukR 2026 – Summer school – Data Science With R"
-    description="The R programming language is a powerful tool for data transformation, statistical analysis, and creating publication-ready visualizations. This workshop goes beyond the basics, giving participants a comprehensive understanding of the R ecosystem, including best coding practices, code profiling, data wrangling, generating reports from notebooks, and developing web applications using R."
-    link="https://nbisweden.github.io/raukr-2026/"
-    deadline="Registration deadline: 1 May 2026"
-    dates="Date: 10–20 August 2026"
-    data-deadline-date="2026-05-02">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
 <text-tile
 title="Material: The loss of community in open science: a sign of a failing movement?"
 description="This article examines why the open science movement has struggled to achieve lasting change despite decades of effort, highlighting how traditional publishers, weak leadership, and a lack of cultural focus have limited progress. It argues that neglecting community building—through lost grassroots initiatives, homogenised voices, and underfunded community efforts—has made the movement fragile and overly top‑down, and calls for renewed, diverse, community‑driven leadership to avoid long‑term failure."
@@ -316,17 +305,6 @@ description="The EMBL Fellows’ Career Service’s complementary skills resourc
 materials="https://www.embl.org/about/info/embl-fellows-career-service/info-resources/complementary-skills-resources/"
 materialstext="Webinar & resources page"
 data-added-date="2026-03-06">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Germany: NGS Epigenomics Workshop"
-description="Learn how to process, analyze, and interpret epigenomic NGS data — from raw reads to biological insights — with hands-on workflows for DNA methylation and chromatin profiling, including bisulfite-seq, ChIP-seq, and ATAC-seq. This course combines theory with practical bioinformatics tools to explore differential changes and integrate omics layers."
-link="https://www.ecseq.com/workshops/workshop_2026-04-NGS-Epigenomics-with-ChiP-Seq-and-Bisulfite"
-deadline="Registration deadline: 1 May 2026"
-dates="Date: 6 – 8 May 2026"
-data-deadline-date="2026-05-02">
 </text-tile>
 </div>
 
