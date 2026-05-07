@@ -69,7 +69,7 @@ hide:
 
 ## Free spring courses 2026 by ELIXIR Estonia
 
-* __23.04.2026- 24.04.2026__ - [Introduction to statistics with R](news/posts/2026/intro-statistics_R.md) - Cancelled
+No upcoming free courses until August
 
 
 !!! note ""
