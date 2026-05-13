@@ -182,17 +182,6 @@ data-added-date="2025-12-17">
 
 
 <div class="tile-grid">
-  <text-tile
-    title="Hybrid: Cellular mechanisms driven by phase separation"
-    description="This EMBO | EMBL Symposium explores how intracellular phase transitions and biomolecular condensates organise cellular space and time. It brings together experts from cell biology, genetics, biochemistry, biophysics, and soft matter physics to discuss principles of condensate formation, cellular adaptation, and disease. The meeting aims to foster interdisciplinary collaborations and inspire new approaches to understanding cellular organisation and robustness."
-    link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-08/"
-    deadline="Registration deadline: 7 April 2026 (on-site) / 12 May 2026 (virtual)"
-    dates="Date: 19 - 22 May 2026"
-    data-deadline-date="2026-05-12">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
 <text-tile
 title="Material: Communities as Policy Instruments"
 description="This publication explains how communities can be used as effective policy instruments by the European Commission to bridge the gap between policy design and implementation through stakeholder-driven collaboration, structured dialogue, and peer learning. It argues that beyond traditional regulation or funding programmes, communities help close implementation gaps, encourage shared purpose among actors, and translate policy into practice in more adaptive, inclusive ways."
