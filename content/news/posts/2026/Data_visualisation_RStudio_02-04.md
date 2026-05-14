@@ -78,8 +78,8 @@ course:
   # Optional "External resources" to be shown in TeSS under the course:
   # Multiple items can be added; for each item the title and the url are mandatory.
   externalResources:
-    #- title:
-    #  url:
+    - title: Course materials
+      url: https://github.com/ELIXIREstonia/2026-04-02-R-visualisation
 
   # Specify occurrences here:
   instances:
