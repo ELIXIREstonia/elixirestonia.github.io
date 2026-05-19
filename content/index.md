@@ -110,37 +110,6 @@ We are proud to share a recent publication by our team member, Marilin Moor, who
 
 
 <div class="tile-grid">
-<text-tile
-title="Material: Data publication"
-description="The datasets produced during a research project is a treasure on its own, and should be treated as such. When publicly available and appropriately described, they are ready to be re-used by yourself as well as others. This lesson gives the why, where and how of data sharing via repository submission, including hands-on exercise on creating a data publication plan."
-materials="https://nbisweden.github.io/module-data-publication-dm-practices/index.html"
-materialstext="Material"
-data-added-date="2025-11-19">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
-title="Material: Data Repositories for Bioinformatics"
-description="Are you working on a bioinformatic project generating data but unsure where to deposit it to make it open and FAIR? This beginner, asynchronous e-learning course teaches you what data repositories are, how they help manage bioinformatic data, and where you can deposit or find data for re-use. Designed for students, postdocs, researchers, and data managers, this 1-hour course can be completed online at your own pace."
-materials="https://www.sib.swiss/training/course/2025_DREPB"
-materialstext="Course material"
-data-added-date="2025-11-19">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
-title="SIB Swiss Institute of Bioinformatics training calendar 2026"
-materials="https://www.sib.swiss/training/upcoming-training-courses"
-materialstext="Link"
-data-added-date="2025-11-19">
-</text-tile>
-</div>
-
-<div class="tile-grid">
   <text-tile
     title="Material: Metadata"
     description="The aim of this lesson is to explain why metadata is crucial for making data more FAIR and how it influences data discoverability and reuse. It introduces metadata standards, controlled vocabularies, and ontologies, and shows how these can be applied to describe data in a consistent and structured way. Participants also learn practical strategies for documenting which standards they use and for finding suitable ontologies for their own datasets."
@@ -304,17 +273,6 @@ description="The Data Management for Researchers learning path is designed to su
 materials="https://tess.elixir-europe.org/learning_paths/data-management-for-researchers"
 materialstext="Material link"
 data-added-date="2026-03-06">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Galaxy Training Academy 2026"
-description="The Galaxy Training Academy is a 5-day, asynchronous, self-paced online training event for beginners and advanced learners who want to improve their bioinformatics and data analysis skills using the Galaxy platform. Across the week you can follow a range of learning tracks at your own pace, with support from trainers worldwide via Slack and the opportunity to earn a certificate after completion."
-link="https://training.galaxyproject.org/training-material/events/2026-05-18-galaxy-academy.html"
-deadline="Registration opens on March the 6th and the places fill up quickly"
-dates="Date: 18 – 22 May 2026"
-data-deadline-date="2026-05-18">
 </text-tile>
 </div>
 
