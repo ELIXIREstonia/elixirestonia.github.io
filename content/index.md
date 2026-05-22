@@ -226,17 +226,6 @@ data-added-date="2026-03-06">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: BioMalPar XXII: biology and pathology of the malaria parasite"
-description="This international conference brings together researchers to highlight recent advances in basic and translational research on malaria parasites, their interactions with hosts and vectors, and development of new interventions."
-link="https://www.embl.org/about/info/course-and-conference-office/events/bmp26-01/"
-deadline="Registration deadline: 15 April 2026 in-person; 20 May 2026 Virtual"
-dates="Date: 27 – 29 May 2026"
-data-deadline-date="2026-05-21">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Belgium: Spatial omics (2nd edition)"
 description="This VIB Tools & Technologies conference highlights cutting-edge advances in spatial transcriptomics, proteomics, metabolomics, and multi-modal strategies to uncover spatial organization in biological systems."
 link="https://www.vibconferences.be/events/spatial-omics-2nd-edition"
