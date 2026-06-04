@@ -203,18 +203,6 @@ data-deadline-date="2026-06-07">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Mechanobiology across the tree of life"
-description="This EMBO | EMBL Symposium explores the principles and mechanisms by which cells and tissues build themselves and respond to their environment, with interdisciplinary insights from biology, physics, and engineering."
-link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-06/"
-deadline="Registration deadline: 28 April 2026 (On-site); 2 June 2026 (Virtual)"
-dates="Date: 9 - 12 June 2026"
-data-deadline-date="2026-06-03">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Material: RDA and National Open Science Policies"
 description="RDA’s interactive resource maps RDA groups, recommendations and outputs to European national Open Science policies, showing how RDA’s community-driven work supports strategic open science needs across Europe. This resource highlights areas of current support and opportunities to strengthen national and regional research data and open science policy alignment. Explore the mapping to see how RDA contributes to FAIR data and open science policy frameworks."
 materials="https://www.rd-alliance.org/rda-and-national-open-science-policies/"
