@@ -192,17 +192,6 @@ data-added-date="2026-03-06">
 
 <div class="tile-grid">
 <text-tile
-title="useR! 2026 Conference — Warsaw, Poland"
-description="The useR! 2026 conference brings together R users, developers, and data scientists worldwide for talks, workshops, and community collaboration, organized by volunteers and supported by the R Foundation."
-link="https://user2026.r-project.org/"
-deadline="Registration deadline: 6 June 2026"
-dates="Date: 6 - 9 July 2026"
-data-deadline-date="2026-06-07">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: RDA and National Open Science Policies"
 description="RDA’s interactive resource maps RDA groups, recommendations and outputs to European national Open Science policies, showing how RDA’s community-driven work supports strategic open science needs across Europe. This resource highlights areas of current support and opportunities to strengthen national and regional research data and open science policy alignment. Explore the mapping to see how RDA contributes to FAIR data and open science policy frameworks."
 materials="https://www.rd-alliance.org/rda-and-national-open-science-policies/"
