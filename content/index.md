@@ -284,14 +284,3 @@ data-added-date="2026-03-24">
 </text-tile>
 </div>
 
-<div class="tile-grid">
-<text-tile
-title="Spain: Valencia Long-Read Transcriptomics (VALT) symposium"
-description="VALT 2026 will bring together leading researchers and professionals from around the world to share the latest advances and ideas in long-read transcriptomics. This event offers an excellent opportunity to engage directly  with an  international audience of experts.The VALT symposium will be preceded by a Summer School in long-read transcriptomics"
-link="https://longtrec.eu/valt/"
-deadline="Registration deadline: 7 June 2026"
-dates="29  June - 1 July 2026"
-data-deadline-date="2026-06-08">
-</text-tile>
-</div>
-
