@@ -203,17 +203,6 @@ data-added-date="2026-03-06">
 
 <div class="tile-grid">
 <text-tile
-title="Belgium: Spatial omics (2nd edition)"
-description="This VIB Tools & Technologies conference highlights cutting-edge advances in spatial transcriptomics, proteomics, metabolomics, and multi-modal strategies to uncover spatial organization in biological systems."
-link="https://www.vibconferences.be/events/spatial-omics-2nd-edition"
-deadline="Registration deadline: 8 June 2026"
-dates="Date: 22 – 24 June 2026"
-data-deadline-date="2026-06-09">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: A fast, accurate ‘sequence search engine’"
 description="The MetaGraph tool can rapidly search through millions of published DNA, RNA, and protein sequences, overcoming current limitations in analysing vast biological data. Developed by SIB scientists at ETH Zurich and published in Nature, this tool functions like a search engine for biological sequences, accelerating life-science research and biomedical discovery."
 materials="https://www.sib.swiss/news/a-fast-accurate-sequence-search-engine"
