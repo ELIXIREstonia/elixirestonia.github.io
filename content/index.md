@@ -233,18 +233,6 @@ data-added-date="2026-03-06">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Microtubules: from atoms to complex systems"
-description="This symposium brings together early-career and established researchers interested in microtubule biology and its relevance to human health and disease. It provides a platform for collaboration and exchange of new ideas, covering diverse cellular processes such as cell division, transport, and neurobiology. Participants will explore interdisciplinary advances and emerging concepts in microtubule research."
-link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-09/"
-deadline="Registration deadline: 6 May 2026 (on-site); 10 June 2026 (virtual)"
-dates="Date: 17 - 20 June 2026"
-data-deadline-date="2026-06-11">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Material: The Communities of Practice Playbook"
 description="The Communities of Practice Playbook is a practical guide developed by the European Commission to help organisations build, manage, and grow communities of practice. It provides step-by-step guidance, good practices, and interactive tools to support collaboration, knowledge sharing, and community development. The playbook focuses on key success factors such as vision, governance, leadership, and engagement across the community lifecycle. Playbook includes:  [Your Community Roadmap](https://dx.doi.org/10.2760/5296677), [The Communities of Practice Checklist](https://dx.doi.org/10.2760/8175409), [The Communities of Practice Barometer](https://dx.doi.org/10.2760/0749239), [The Community Digital Compass](https://dx.doi.org/10.2760/7062939)"
 materials="https://op.europa.eu/webpub/jrc/communities-of-practice-playbook/en/index.html"
