@@ -110,37 +110,6 @@ We are proud to share a recent publication by our team member, Marilin Moor, who
 
 
 <div class="tile-grid">
-  <text-tile
-    title="Material: Metadata"
-    description="The aim of this lesson is to explain why metadata is crucial for making data more FAIR and how it influences data discoverability and reuse. It introduces metadata standards, controlled vocabularies, and ontologies, and shows how these can be applied to describe data in a consistent and structured way. Participants also learn practical strategies for documenting which standards they use and for finding suitable ontologies for their own datasets."
-    materials="https://nbisweden.github.io/module-metadata-dm-practices/index.html"
-    materialstext="Lesson homepage"
-    data-added-date="2025-12-15">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
-  <text-tile
-    title="Material: Data organisation practices"
-    description="This lesson introduces core principles for organising digital research data so that projects remain understandable, reusable, and ready for collaboration over time. It explains how careful structuring of files, folders, and documentation underpins efficient workflows and supports later publication and data sharing. Participants also explore practical approaches for keeping research records and structuring tabular data and metadata."
-    materials="https://nbisweden.github.io/module-organising-data-dm-practices/index.html"
-    materialstext="Material page"
-    data-added-date="2025-12-15">
-  </text-tile>
-</div>
-
-
-<div class="tile-grid">
-  <text-tile
-    title="Material: Repository Resilience"
-    description="This page introduces the Repository Crisis Scorecards project, which helps data repositories assess their resilience to disruptions such as outages, disasters, and funding changes. It explains how the tool, surveys, and focus groups collectively support better planning, risk mitigation, and community-wide understanding of repository resilience."
-    materials="https://www.esipfed.org/repository-resilience/"
-    materialstext="Materials page"
-    data-added-date="2025-12-15">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
 <text-tile
 title="Material: The loss of community in open science: a sign of a failing movement?"
 description="This article examines why the open science movement has struggled to achieve lasting change despite decades of effort, highlighting how traditional publishers, weak leadership, and a lack of cultural focus have limited progress. It argues that neglecting community building—through lost grassroots initiatives, homogenised voices, and underfunded community efforts—has made the movement fragile and overly top‑down, and calls for renewed, diverse, community‑driven leadership to avoid long‑term failure."
