@@ -67,9 +67,9 @@ hide:
   document.addEventListener("DOMContentLoaded", () => new Splide("#lecturers", splideOpts).mount());
 </script>
 
-## Free spring courses 2026 by ELIXIR Estonia
+## Free autumn courses 2026 by ELIXIR Estonia
 
-No upcoming free courses until August
+7-10.09.2026 - [scRNA-seq Data Analysis](news/posts/2026/scRNA-seq_Data_Analysis.md) - Registration Open
 
 
 !!! note ""

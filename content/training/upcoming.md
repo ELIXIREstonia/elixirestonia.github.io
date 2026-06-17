@@ -10,9 +10,9 @@ in Paris, and locally in Estonia. Internationally we train people how to use
 ELIXIR Estonia services in their research setting. Locally we train with
 hands-on courses in the life science community on various topics.
 
-## Free spring courses 2026 by ELIXIR Estonia
+## Free autumn courses 2026 by ELIXIR Estonia
 
-No upcoming free courses until August
+7-10.09.2026 - [scRNA-seq Data Analysis](../news/posts/2026/scRNA-seq_Data_Analysis.md) - Registration Open
 
 ## We are willing to train researchers on the following topics:
 

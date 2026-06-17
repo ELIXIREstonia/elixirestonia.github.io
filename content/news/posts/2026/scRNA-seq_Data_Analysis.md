@@ -1,0 +1,177 @@
+---
+# For trainings in Estonian language use template: training_et.html
+template: training_en.html
+
+# You may use full custom title here. If omitted, it will be generated from course name.
+title: scRNA-seq Data Analysis - 07.-10.  Sept 2026 - Registration OPEN
+draft: false
+hide:
+  - toc
+
+# Date of this blog post:
+date: 2026-09-07
+authors:
+  - Diana
+
+# These are used only for ELIXIR EE site categories, not the course keywords on TESS
+categories:
+  - workshop
+  - Bioinformatics
+  - Data analysis
+  - R
+  - RNA-seq
+  - single-cell-transcriptomics
+  - single cell
+
+# Fill in the course details:
+course:
+  name: scRNA-seq Data Analysis 
+
+  # Keep this in English (used in metadata)
+  provider: University of Tartu, Institute of Computer Science
+  # Specify duration in hours:
+  hours: 27
+
+  general:
+    # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
+    register: https://forms.gle/GrVuE4RiR1YwxHp38
+
+    # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
+    invite:
+
+    # Specify audience in plain-text in the language of the template:
+    audience: This course is designed for life scientists and bioinformaticians with experience in next-generation sequencing who aspire to analyse scRNA-seq gene expression data.
+
+    # Specify lecturers in plain-text in the language of the template:
+    lecturers: Jan Kubovčiak, Lucie Pfeiferová, Kateřina Večerková
+
+
+    # Specify "Key Topics" as a YAML list:
+    topics:
+
+    # Specify "Learning outcomes" as a YAML list:
+    outcomes:
+      - Distinguish advantages and pitfalls of scRNA-seq.
+      - Design their own scRNA-seq experiment, using common technologies like 10× Genomics.
+      - Apply quality control (QC) measures and utilise analysis tools to preprocess scRNA-seq data.
+      - Apply normalisation, scaling, dimensionality reduction, integration and clustering on scRNA-seq data using R.
+      - Differentiate between cell annotation techniques to identify and characterise cell populations.
+      - Use differential gene expression analysis methods on scRNA-seq data to gain biological insights.
+      - Select enrichment analysis methods appropriate to the biological question and data.
+      - Develop an scRNA-seq data analysis workflow from raw count matrix to differential gene expression with peer support and light guidance.
+
+  # Specify keywords (for metadata) as a YAML list:
+  keywords:
+    - Bioinformatics
+    - Data analysis
+    - R
+    - RNA-seq
+    - single-cell-transcriptomics
+    - single cell
+
+  # Specify audience keywords (for metadata) as a YAML list:
+  audience:
+    - Researchers
+
+  # Mostly don't need to change (needed for metadata). Find more values here:
+  # https://www.ebi.ac.uk/ols4/ontologies/edam/classes/http%253A%252F%252Fedamontology.org%252Ftopic_0003?lang=en
+  about:
+    # "edam" indicates special ontology, other types not yet supported.
+    - edam:
+        # Specified as – code: label
+        3680: RNA-Seq analysis
+
+  # Optional "External resources" to be shown in TeSS under the course:
+  # Multiple items can be added; for each item the title and the url are mandatory.
+  externalResources:
+    #- title:
+    #  url:
+
+  # Specify occurrences here:
+  instances:
+    - start: 2026-09-07T09:00:00
+      end: 2026-09-10T15:00:00
+      organisation: ELIXIR Estonia
+      maximumAttendeeCapacity: 20
+      instructors:
+        - Jan Kubovčiak
+        - Lucie Pfeiferová
+        - Kateřina Večerková
+      onsite:
+        building: DELTA
+        room: 2029
+
+      # or TLU (Narva mnt 25):
+      # onsite:
+      #   building: TLU
+      #   room: A-123
+
+      # or custom:
+      # onsite:
+      #   alternateName: Hotel ABC
+      #   room: Lounge
+      #   streetAddress: 123 Main Street
+      #   addressLocality: City
+      #   addressRegion: County
+      #   addressCountry: Country
+      #   postalCode: 12345
+      #   latitude:
+      #   longitude:
+
+      # or online:
+      # online: Zoom, link will be given a few days before the course.
+
+# Finally, the course description in Markdown/HTML below (as many paragraphs as needed).
+# Description will be rendered on web-page and also in TeSS JSON (as a string of HTML).
+---
+
+Single-cell RNA sequencing (scRNA-seq) allows researchers to study gene expression at the level of individual cells. This approach can, for example, help to identify different cell populations in a complex sample and describe their expression patterns. To generate and analyse scRNA-seq data, several methods are available, all with their strengths and weaknesses depending on the researchers’ needs. This 3-day course will cover the main technologies as well as the main aspects to consider while designing an scRNA-seq experiment. In particular, it will combine the theoretical background of analytical methods with hands-on data analysis sessions focused on data generated by droplet-based platforms.
+
+<!-- more -->
+
+### Requirements
+
+This course is designed for life scientists and bioinformaticians with experience in next-generation sequencing who aspire to analyse scRNA-seq gene expression data.
+ 
+The course exercises are conducted in the R statistical language, so a basic understanding of R and RStudio is essential and strictly required.
+ 
+### Attribution
+
+This course is heavily based on the course developed by the Swiss Institute of Bioinformatics (https://sib-swiss.github.io/single-cell-r-training/). It also draws inspiration from the Broad Institute Single Cell Workshop and the CRUK CI Introduction to Single-Cell RNA-Seq Data Analysis course.
+
+### Programme
+
+Day 1 – Monday, 7th of September
+
+    9:00 –  9:30   Introduction
+    9:30 –  10:30  Introduction to scRNA-seq
+    10:30 – 11:00  Break
+    11:00 – 12:30  10× and Cellranger
+    12:30 – 13:30  Lunch
+    13:30 – 15:00  Analysis tools and QC
+    15:00 – 15:30  Break
+    15:30 – 17:00  Group work
+ 
+Day 2 – Tuesday 8th of September
+
+    9:00 –  10:30  Normalisation and scaling
+    10:30 – 11:00  Break
+    11:00 – 12:30  Dimensionality reduction and integration
+    12:30 – 13:30  Lunch
+    13:30 – 15:00  Clustering
+    15:00 – 15:30  Break
+    15:30 – 17:00  Group work
+ 
+Day 3 – Wednesday 9th of September
+
+    9:00 –  10:30  Cell annotation
+    10:30 – 11:00  Break
+    11:00 – 12:30  Differential gene expression
+    12:30 – 13:30  Lunch
+    13:30 – 15:00  Group work  
+
+Day 4 - Thursday 10th of September
+
+    10:00 – 12:00  Group work
+    12:00 – 13:00  Lunch
+    14:00 – 15:00  Presentations
