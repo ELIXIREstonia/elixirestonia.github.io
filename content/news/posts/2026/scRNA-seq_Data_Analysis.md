@@ -175,3 +175,23 @@ Day 4 - Thursday 10th of September
     10:00 – 12:00  Group work
     12:00 – 13:00  Lunch
     14:00 – 15:00  Presentations
+
+
+### Topics
+
+* __Introduction to Single-Cell RNA Sequencing__ Jan Kubovciak
+    * Topics covered: Overview of single-cell RNA sequencing (scRNA-seq) technologies and applications. Key advantages and limitations of scRNA-seq approaches. Experimental design considerations and introduction to droplet-based technologies such as 10× Genomics.
+* __scRNA-seq Data Processing and Quality Control__ Jan Kubovciak
+    * Topics covered: Introduction to the 10× Genomics workflow and the Cell Ranger pipeline. Overview of commonly used analysis tools for scRNA-seq data. Quality control metrics and strategies for identifying low-quality cells and technical artefacts.
+* __Data Normalisation and Scaling__ Jan Kubovciak/Lucie Pfeiferova
+    * Topics covered: Methods for normalising and scaling scRNA-seq data. Handling technical variability and preparing datasets for downstream analysis using R-based workflows.
+* __Dimensionality Reduction and Data Integration__ Lucie Pfeiferova
+    * Topics covered: Techniques for reducing data dimensionality (e.g., PCA, UMAP, t-SNE) and integrating multiple datasets. Strategies for correcting batch effects and combining datasets from different experiments.
+* __Clustering of Single Cells__  Lucie Pfeiferova
+    * Topics covered: Clustering algorithms used to identify cell populations in scRNA-seq data. Interpretation of clustering results and strategies for identifying biologically meaningful groups.
+* __Cell Annotation and Biological Interpretation__ Lucie Pfeiferova
+    * Topics covered: Approaches for annotating cell types using marker genes, reference datasets, and automated annotation tools. Interpretation of cell population identities.
+* __Differential Gene Expression Analysis__
+    * Topics covered: Methods for identifying differentially expressed genes between cell populations. Considerations specific to scRNA-seq datasets and interpretation of results.
+* __Group Work: scRNA-seq Analysis Workflow__
+    * Topics covered: Hands-on analysis of scRNA-seq datasets. Participants will apply the full workflow, including quality control, normalisation, clustering, annotation, and differential expression analysis. Results will be discussed in group presentations.
