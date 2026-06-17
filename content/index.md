@@ -111,16 +111,6 @@ We are proud to share a recent publication by our team member, Marilin Moor, who
 
 <div class="tile-grid">
 <text-tile
-title="Material: The loss of community in open science: a sign of a failing movement?"
-description="This article examines why the open science movement has struggled to achieve lasting change despite decades of effort, highlighting how traditional publishers, weak leadership, and a lack of cultural focus have limited progress. It argues that neglecting community building—through lost grassroots initiatives, homogenised voices, and underfunded community efforts—has made the movement fragile and overly top‑down, and calls for renewed, diverse, community‑driven leadership to avoid long‑term failure."
-materials="https://www.themodernpeer.com/the-loss-of-community-in-open-science-a-sign-of-a-failing-movement/"
-data-added-date="2025-12-17">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Material: Communities as Policy Instruments"
 description="This publication explains how communities can be used as effective policy instruments by the European Commission to bridge the gap between policy design and implementation through stakeholder-driven collaboration, structured dialogue, and peer learning. It argues that beyond traditional regulation or funding programmes, communities help close implementation gaps, encourage shared purpose among actors, and translate policy into practice in more adaptive, inclusive ways."
 materials="https://knowledge4policy.ec.europa.eu/publication/communities-policy-instruments_en"
