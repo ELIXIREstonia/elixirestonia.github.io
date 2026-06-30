@@ -220,3 +220,221 @@ data-added-date="2026-03-24">
 </text-tile>
 </div>
 
+<div class="tile-grid">
+<text-tile
+title="Germany: A new view of plankton in the global ocean: celebrating 10 years of Tara Oceans"
+description="This conference will explore how a decade of Tara Oceans research has transformed our understanding of plankton communities, ocean ecosystems, and their evolution. It brings together researchers from diverse disciplines to discuss cutting-edge advances in ocean genomics, imaging, modelling, and computational analysis while fostering new collaborations across aquatic and molecular sciences."
+link="https://www.embl.org/about/info/course-and-conference-office/events/pgo26-01/"
+deadline="Registration deadline: 21 July 2026 (on-site); 25 Aug (virtual)"
+dates="Date: 1 - 4 September 2026"
+data-deadline-date="2026-08-26">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Chemical biology 2026"
+description="This conference brings together researchers from academia and industry to showcase the latest advances across the rapidly evolving field of chemical biology. Participants will explore topics ranging from chemical technologies and synthetic biology to AI-driven design, RNA biology, and emerging therapeutic approaches, while benefiting from extensive opportunities for collaboration and networking."
+link="https://www.embl.org/about/info/course-and-conference-office/events/chb26-01/"
+deadline="Registration deadline: 28 July 2026 (on-site); 1 September 2026 (virtual)"
+dates="Date: 8 - 11 September 2026"
+data-deadline-date="2026-09-02">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Applied Metaproteomics Workshop Magdeburg 2026"
+description="This hands-on workshop provides comprehensive training in the complete metaproteomics workflow, from experimental design and sample preparation to high-resolution mass spectrometry and bioinformatics analysis. Participants will gain practical experience by working with leading experts and may bring their own samples to begin their own metaproteomics projects."
+link="https://www.denbi.de/training-courses-2026/2074-applied-metaproteomics-workshop-magdeburg-2026"
+dates="Date: 21 - 25 September 2026"
+data-deadline-date="2026-09-01">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Joint de.NBI and de.KCD Summer School 2026 - Cloud Enabled (Meta/Pan)Genomics"
+description="Join de.NBI and de.KCD for an intensive five-day summer school exploring the intersection of life sciences, cloud computing, and research data management. Participants will gain hands-on experience in genomics, metagenomics, pangenomics, reproducible workflows on the de.NBI Cloud, and FAIR data management while learning from experts and networking with fellow researchers."
+link="https://www.denbi.de/training-courses-2026/2108-joint-de-nbi-de-kcd-summer-school-2026-cloud-enabled-meta-pan-genomics"
+deadline="Registration deadline: 31 July 2026"
+dates="Date: 28 September - 2 October 2026"
+data-deadline-date="2026-08-01">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Reconstructing the human past: using ancient and modern genomics"
+description="This EMBO | EMBL Symposium brings together researchers using ancient and modern genomics to investigate human history, evolution, migration, and adaptation. The programme highlights recent methodological advances and interdisciplinary approaches that connect archaeology, genetics, anthropology, and computational biology to reconstruct the human past."
+link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-10/"
+deadline="Registration deadline: 4 August 2026 (On-site) / 8 September 2026 (Virtual)"
+dates="Date: 15 - 18 September 2026"
+data-deadline-date="2026-09-08">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Structural bioinformatics"
+description="This virtual course provides a guide to the commonly used methods and tools for analysing and interpreting experimentally determined and AI-predicted macromolecular structure data. Participants will learn how to access, analyse, and interpret structural bioinformatics resources to investigate protein structure, function, interactions, and drug discovery applications through lectures, practical exercises, and group activities."
+link="https://www.ebi.ac.uk/training/events/structural-bioinformatics-2026/"
+deadline="Registration deadline: 19 July 2026"
+dates="Date: 19 - 23 October 2026"
+data-deadline-date="2026-07-20">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Metabolite and species dynamics in microbial communities"
+description="This EMBO Practical Course introduces state-of-the-art experimental and computational approaches for studying microbial community dynamics, with a focus on understanding the mechanistic interactions between microbial species and metabolites. Participants will gain hands-on experience in experimental design, sequencing, metabolomics, and computational analysis while learning how to apply these methods to their own microbiome research. The course also fosters networking and collaboration across microbiology, metabolomics, ecology, and computational biology."
+link="https://www.embl.org/about/info/course-and-conference-office/events/mcd26-01/"
+deadline="Registration deadline: 5 July 2026"
+dates="Date: 4 - 9 October 2026"
+data-deadline-date="2026-07-06">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Imaging down to single-molecule resolution: STED & MINFLUX nanoscopy"
+description="This hands-on EMBL course introduces researchers to the principles and practical application of STED and MINFLUX super-resolution microscopy. Through lectures from leading experts and extensive laboratory sessions, participants will learn sample preparation, image acquisition, data analysis, and how to select the most appropriate super-resolution technique for their biological research."
+link="https://www.embl.org/about/info/course-and-conference-office/events/abi26-01/"
+deadline="Registration deadline: 27 July 2026"
+dates="Date: 23 - 28 November 2026"
+data-deadline-date="2026-07-28">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Germany: GESIS Fall Seminar in Computational Social Science"
+    description="The GESIS Fall Seminar in Computational Social Science covers a wide range of methods for collecting, processing, and analysing digital data in the social sciences. Topics include web and mobile data collection, text and image analysis, machine learning, large language models, causal inference, agent-based modelling, and computational research workflows using R and Python. Courses are available both in Mannheim and online via Zoom. All courses can be taken independently, allowing participants to tailor the programme to their interests."
+    link="https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science"
+    dates="Date: 31 August – 29 September 2026"
+    data-deadline-date="2026-08-31">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: GESIS Summer School in Survey Methodology"
+description="The GESIS Summer School offers a comprehensive programme covering the full survey research lifecycle, from questionnaire design, survey implementation, and sampling to causal inference, latent variable modelling, and data science methods. Participants can also explore practical topics such as AI-assisted surveys, web-based studies, systematic reviews, R and Stata for data analysis, and advanced techniques for producing high-quality survey data."
+link="https://www.gesis.org/en/gesis-training/what-we-offer/summer-school-in-survey-methodology"
+deadline="Registration deadline: Not specified"
+dates="Date: 22 July - 14 August 2026"
+data-deadline-date="2026-07-22">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Ensembl transition webinars"
+description="Ensembl provides genome annotation data for more than 5,000 species through its genome browser and programmatic services. This webinar introduces the transition to the new Ensembl platform, highlighting upcoming changes to the website, APIs, and data access, and explaining how users can prepare for the migration."
+link="https://www.ebi.ac.uk/training/events/ensembl-transition/"
+dates="Date: 1 and 8 July 2026"
+data-deadline-date="2026-07-08">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: Ensembl transition webinars"
+description="This series will cover a range of topics including: What to train on if you include Ensembl as a topic in your own genomics modules, Resources for those who teach on Ensembl or who want to train on genome browsers, The transition plan for Ensembl platforms and what to expect from Ensembl resources ahead, The new ways of programmatically accessing Ensembl data as we move to more scalable and accessible architecture."
+materials="https://www.ebi.ac.uk/training/events/ensembl-transition/"
+materialstext="Webinar recording"
+data-added-date="2026-06-29">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Transcription and chromatin"
+description="The 17th EMBL Conference on Transcription and chromatin brings together leading experts to explore the latest advances in transcriptional regulation, chromatin biology, and genome organization. The programme covers topics including cis-regulatory function, RNA polymerase regulation, chromatin modifications, genome topology, epigenetic regulation, and quantitative approaches, with invited talks, selected abstracts, and extensive networking opportunities for researchers."
+link="https://www.embl.org/about/info/course-and-conference-office/events/trm26-01/"
+deadline="Registration deadline: 14 July 2026 (on-site); 18 Aug 2026 (virtual)"
+dates="Date: 25 - 28 August 2026"
+data-deadline-date="2026-08-18">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Czech Republic: 3rd BioExcel Conference on Advances in Biomolecular Simulations"
+    description="This four-day conference brings together the biomolecular research community to explore the latest advances in integrative modelling, free energy calculations, drug design, workflows, automation and data integration. The programme features keynote lectures, invited talks, selected presentations, poster sessions and networking opportunities for researchers working in biomolecular simulations."
+    link="https://bioexcel.eu/events/3rd-bioexcel-conference-on-advances-in-biomolecular-simulations/"
+    deadline="Registration deadline: 31 August 2026"
+    dates="Date: 27 - 30 September 2026"
+    data-deadline-date="2026-09-01">
+  </text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Spain: Artificial Intelligence and Machine Learning in Life Science: from foundations to applications"
+description="This five-day hands-on course provides researchers with the conceptual foundations and practical skills needed to apply artificial intelligence and machine learning methods appropriately, critically, and reproducibly in life-science research. Participants will learn machine learning workflows, deep learning, foundation models, generative AI, reproducibility, and AI regulations through lectures and practical sessions using real biological datasets."
+link="https://courses.crg.eu/events/artificial-intelligence-and-machine-learning-life-science-foundations-applications-2026"
+deadline="Registration deadline: 10 July 2026"
+dates="Date: 14 - 18 September 2026"
+data-deadline-date="2026-07-11">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+  <text-tile
+    title="Germany: Introduction to SBX and advanced NGS for genomic research"
+    description="This hands-on course introduces participants to Sequencing by Expansion (SBX), a next-generation sequencing technology, and its application in modern genomics research. Through practical laboratory sessions and data analysis exercises, attendees will learn SBX library preparation, sequencing workflows, bioinformatics analysis, and explore how the technology can be applied in genomics and translational research."
+    link="https://www.embl.org/about/info/course-and-conference-office/events/sbx26-01/"
+    deadline="Registration deadline: 27 Jul 2026"
+    dates="Date: 9–13 November 2026"
+    data-deadline-date="2026-07-28">
+  </text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Advanced Programming with R"
+description="This 3-day advanced course is designed for life scientists and bioinformaticians who already use R and want to deepen their programming skills. Through lectures and hands-on practical sessions, participants will learn advanced R concepts including data structures, object-oriented programming, reproducible analysis, code profiling, and programming best practices. The course emphasizes writing more efficient, maintainable, and reliable R code."
+link="https://www.sib.swiss/training/course/20260824_APRWR"
+deadline="Registration deadline: 10 August 2026"
+dates="Date: 24 - 26 August 2026"
+data-deadline-date="2026-08-11">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Online: Small molecules and their protein targets: interactions, function, and classification"
+description="This six-hour virtual workshop provides hands-on training in EMBL-EBI resources for exploring the biological interactions between small molecules and their protein targets. Using case studies, participants will investigate drug–target interactions with ChEMBL and PDBe, and learn how to standardise and classify these interactions using ChEBI and UniProt annotations."
+link="https://www.ebi.ac.uk/training/events/small-molecules-and-their-protein-targets-interactions-function-and-classification/"
+deadline="Registration deadline: 10 August 2026"
+dates="Date: 10 September 2026"
+data-deadline-date="2026-08-11">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Advanced Statistics: Statistical Modelling"
+description="This 4-day course introduces advanced statistical modelling techniques for life science researchers who already have experience with R and basic statistics. Participants will learn to apply generalized linear models, mixed-effects models, non-linear modelling approaches, and model evaluation techniques such as regularization and cross-validation using real-world biological and clinical datasets."
+link="https://www.sib.swiss/training/course/20260907_ADDMG"
+deadline="Registration deadline: 23 August 2026"
+dates="Date: 07 - 10 September 2026"
+data-deadline-date="2026-08-24">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: The Drain of Scientific Publishing"
+description="This paper examines how the dominance of major commercial publishers in scientific publishing diverts financial resources, researcher time, and control away from the research community. It argues that current publishing incentives undermine science and proposes reforms led by researchers, universities, funders, and governments to reclaim scholarly publishing as a community-driven enterprise."
+materials="https://doi.org/10.48550/arXiv.2511.04820"
+materialstext="Article link"
+data-added-date="2026-06-29">
+</text-tile>
+</div>
