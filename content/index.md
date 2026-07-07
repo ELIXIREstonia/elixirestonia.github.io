@@ -287,18 +287,6 @@ data-deadline-date="2026-07-20">
 
 <div class="tile-grid">
 <text-tile
-title="Germany: Metabolite and species dynamics in microbial communities"
-description="This EMBO Practical Course introduces state-of-the-art experimental and computational approaches for studying microbial community dynamics, with a focus on understanding the mechanistic interactions between microbial species and metabolites. Participants will gain hands-on experience in experimental design, sequencing, metabolomics, and computational analysis while learning how to apply these methods to their own microbiome research. The course also fosters networking and collaboration across microbiology, metabolomics, ecology, and computational biology."
-link="https://www.embl.org/about/info/course-and-conference-office/events/mcd26-01/"
-deadline="Registration deadline: 5 July 2026"
-dates="Date: 4 - 9 October 2026"
-data-deadline-date="2026-07-06">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Germany: Imaging down to single-molecule resolution: STED & MINFLUX nanoscopy"
 description="This hands-on EMBL course introduces researchers to the principles and practical application of STED and MINFLUX super-resolution microscopy. Through lectures from leading experts and extensive laboratory sessions, participants will learn sample preparation, image acquisition, data analysis, and how to select the most appropriate super-resolution technique for their biological research."
 link="https://www.embl.org/about/info/course-and-conference-office/events/abi26-01/"
