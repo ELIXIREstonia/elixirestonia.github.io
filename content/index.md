@@ -319,16 +319,6 @@ data-deadline-date="2026-07-22">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Ensembl transition webinars"
-description="Ensembl provides genome annotation data for more than 5,000 species through its genome browser and programmatic services. This webinar introduces the transition to the new Ensembl platform, highlighting upcoming changes to the website, APIs, and data access, and explaining how users can prepare for the migration."
-link="https://www.ebi.ac.uk/training/events/ensembl-transition/"
-dates="Date: 1 and 8 July 2026"
-data-deadline-date="2026-07-08">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Ensembl transition webinars"
 description="This series will cover a range of topics including: What to train on if you include Ensembl as a topic in your own genomics modules, Resources for those who teach on Ensembl or who want to train on genome browsers, The transition plan for Ensembl platforms and what to expect from Ensembl resources ahead, The new ways of programmatically accessing Ensembl data as we move to more scalable and accessible architecture."
 materials="https://www.ebi.ac.uk/training/events/ensembl-transition/"
