@@ -351,17 +351,6 @@ data-deadline-date="2026-08-18">
 </div>
 
 <div class="tile-grid">
-<text-tile
-title="Spain: Artificial Intelligence and Machine Learning in Life Science: from foundations to applications"
-description="This five-day hands-on course provides researchers with the conceptual foundations and practical skills needed to apply artificial intelligence and machine learning methods appropriately, critically, and reproducibly in life-science research. Participants will learn machine learning workflows, deep learning, foundation models, generative AI, reproducibility, and AI regulations through lectures and practical sessions using real biological datasets."
-link="https://courses.crg.eu/events/artificial-intelligence-and-machine-learning-life-science-foundations-applications-2026"
-deadline="Registration deadline: 10 July 2026"
-dates="Date: 14 - 18 September 2026"
-data-deadline-date="2026-07-11">
-</text-tile>
-</div>
-
-<div class="tile-grid">
   <text-tile
     title="Germany: Introduction to SBX and advanced NGS for genomic research"
     description="This hands-on course introduces participants to Sequencing by Expansion (SBX), a next-generation sequencing technology, and its application in modern genomics research. Through practical laboratory sessions and data analysis exercises, attendees will learn SBX library preparation, sequencing workflows, bioinformatics analysis, and explore how the technology can be applied in genomics and translational research."
