@@ -276,17 +276,6 @@ data-deadline-date="2026-09-08">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Structural bioinformatics"
-description="This virtual course provides a guide to the commonly used methods and tools for analysing and interpreting experimentally determined and AI-predicted macromolecular structure data. Participants will learn how to access, analyse, and interpret structural bioinformatics resources to investigate protein structure, function, interactions, and drug discovery applications through lectures, practical exercises, and group activities."
-link="https://www.ebi.ac.uk/training/events/structural-bioinformatics-2026/"
-deadline="Registration deadline: 19 July 2026"
-dates="Date: 19 - 23 October 2026"
-data-deadline-date="2026-07-20">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Germany: Imaging down to single-molecule resolution: STED & MINFLUX nanoscopy"
 description="This hands-on EMBL course introduces researchers to the principles and practical application of STED and MINFLUX super-resolution microscopy. Through lectures from leading experts and extensive laboratory sessions, participants will learn sample preparation, image acquisition, data analysis, and how to select the most appropriate super-resolution technique for their biological research."
 link="https://www.embl.org/about/info/course-and-conference-office/events/abi26-01/"
