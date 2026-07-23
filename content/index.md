@@ -297,17 +297,6 @@ data-deadline-date="2026-07-28">
 
 <div class="tile-grid">
 <text-tile
-title="Germany: GESIS Summer School in Survey Methodology"
-description="The GESIS Summer School offers a comprehensive programme covering the full survey research lifecycle, from questionnaire design, survey implementation, and sampling to causal inference, latent variable modelling, and data science methods. Participants can also explore practical topics such as AI-assisted surveys, web-based studies, systematic reviews, R and Stata for data analysis, and advanced techniques for producing high-quality survey data."
-link="https://www.gesis.org/en/gesis-training/what-we-offer/summer-school-in-survey-methodology"
-deadline="Registration deadline: Not specified"
-dates="Date: 22 July - 14 August 2026"
-data-deadline-date="2026-07-22">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Ensembl transition webinars"
 description="This series will cover a range of topics including: What to train on if you include Ensembl as a topic in your own genomics modules, Resources for those who teach on Ensembl or who want to train on genome browsers, The transition plan for Ensembl platforms and what to expect from Ensembl resources ahead, The new ways of programmatically accessing Ensembl data as we move to more scalable and accessible architecture."
 materials="https://www.ebi.ac.uk/training/events/ensembl-transition/"
