@@ -275,17 +275,6 @@ data-deadline-date="2026-09-08">
 </div>
 
 <div class="tile-grid">
-<text-tile
-title="Germany: Imaging down to single-molecule resolution: STED & MINFLUX nanoscopy"
-description="This hands-on EMBL course introduces researchers to the principles and practical application of STED and MINFLUX super-resolution microscopy. Through lectures from leading experts and extensive laboratory sessions, participants will learn sample preparation, image acquisition, data analysis, and how to select the most appropriate super-resolution technique for their biological research."
-link="https://www.embl.org/about/info/course-and-conference-office/events/abi26-01/"
-deadline="Registration deadline: 27 July 2026"
-dates="Date: 23 - 28 November 2026"
-data-deadline-date="2026-07-28">
-</text-tile>
-</div>
-
-<div class="tile-grid">
   <text-tile
     title="Germany: GESIS Fall Seminar in Computational Social Science"
     description="The GESIS Fall Seminar in Computational Social Science covers a wide range of methods for collecting, processing, and analysing digital data in the social sciences. Topics include web and mobile data collection, text and image analysis, machine learning, large language models, causal inference, agent-based modelling, and computational research workflows using R and Python. Courses are available both in Mannheim and online via Zoom. All courses can be taken independently, allowing participants to tailor the programme to their interests."
@@ -327,18 +316,6 @@ data-deadline-date="2026-08-18">
     data-deadline-date="2026-09-01">
   </text-tile>
 </div>
-
-<div class="tile-grid">
-  <text-tile
-    title="Germany: Introduction to SBX and advanced NGS for genomic research"
-    description="This hands-on course introduces participants to Sequencing by Expansion (SBX), a next-generation sequencing technology, and its application in modern genomics research. Through practical laboratory sessions and data analysis exercises, attendees will learn SBX library preparation, sequencing workflows, bioinformatics analysis, and explore how the technology can be applied in genomics and translational research."
-    link="https://www.embl.org/about/info/course-and-conference-office/events/sbx26-01/"
-    deadline="Registration deadline: 27 Jul 2026"
-    dates="Date: 9–13 November 2026"
-    data-deadline-date="2026-07-28">
-  </text-tile>
-</div>
-
 
 <div class="tile-grid">
 <text-tile
