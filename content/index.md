@@ -254,17 +254,6 @@ data-deadline-date="2026-09-01">
 
 <div class="tile-grid">
 <text-tile
-title="Germany: Joint de.NBI and de.KCD Summer School 2026 - Cloud Enabled (Meta/Pan)Genomics"
-description="Join de.NBI and de.KCD for an intensive five-day summer school exploring the intersection of life sciences, cloud computing, and research data management. Participants will gain hands-on experience in genomics, metagenomics, pangenomics, reproducible workflows on the de.NBI Cloud, and FAIR data management while learning from experts and networking with fellow researchers."
-link="https://www.denbi.de/training-courses-2026/2108-joint-de-nbi-de-kcd-summer-school-2026-cloud-enabled-meta-pan-genomics"
-deadline="Registration deadline: 31 July 2026"
-dates="Date: 28 September - 2 October 2026"
-data-deadline-date="2026-08-01">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Germany: Reconstructing the human past: using ancient and modern genomics"
 description="This EMBO | EMBL Symposium brings together researchers using ancient and modern genomics to investigate human history, evolution, migration, and adaptation. The programme highlights recent methodological advances and interdisciplinary approaches that connect archaeology, genetics, anthropology, and computational biology to reconstruct the human past."
 link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-10/"
