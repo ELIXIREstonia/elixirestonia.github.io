@@ -17,6 +17,7 @@ hands-on courses in the life science community on various topics.
 ## We are willing to train researchers on the following topics:
 
 * Python programming for beginners
+* Data Visualisation with Python
 * RStudio for beginners
 * RStudio visualisations
 * Linux command line
