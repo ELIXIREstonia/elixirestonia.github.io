@@ -9,11 +9,11 @@ All slides are available on Zenodo under [community ELIXIR-Estonia](https://zeno
 
 ## Bioinformatics
 
-* ELIXIR Estonia (2026). __Python Basics__ https://github.com/ELIXIREstonia/2026-05-25-Python
-* ELIXIR Estonia (2026). __R basic__ https://github.com/ELIXIREstonia/2026-03-05-R-basic 
-* ELIXIR Estonia (2025). __Introduction to statistics with R__
-    * Repositorium for R code:  https://github.com/ELIXIREstonia/2025-04-28-R-basic-stat 
+* ELIXIR Estonia (2026). __Introduction to statistics with R__
+    * Repositorium for R code:  https://github.com/ELIXIREstonia/2026-06-17-R-basic-stat 
     * Slides: Moor, M., Joao, L., & Rachel, M. (2025, April 29). Introduction to statistics in R course. Zenodo. https://doi.org/10.5281/zenodo.15301106
+* ELIXIR Estonia (2026). __R basic__ https://github.com/ELIXIREstonia/2026-06-16-R-basic
+* ELIXIR Estonia (2026). __Python Basics__ https://github.com/ELIXIREstonia/2026-05-25-Python
 * ELIXIR Estonia (2025). __Python for Beginners__ https://github.com/ELIXIREstonia/2025-02-11-Python/tree/main
 * ELIXIR Estonia (2025). __Introduction to Exploratory Data Analysis (EDA) with R__ https://github.com/ELIXIREstonia/2025-01-29-EDA
 * Kolberg, L., & Raudvere, U. (2024, June 3). __Introduction to g:Profiler.__ Zenodo. https://doi.org/10.5281/zenodo.11207911.
@@ -28,8 +28,8 @@ All slides are available on Zenodo under [community ELIXIR-Estonia](https://zeno
 
 ## Data Visualisation
 
-* ELIXIR Estonia (2026). __R visualisation__ https://github.com/ELIXIREstonia/2026-04-02-R-visualisation
-* Pilvar, D. (2026, March 12). __Data Visualisation (theory)__. Zenodo. https://doi.org/10.5281/zenodo.18982634
+* ELIXIR Estonia (2026). __R visualisation__ https://github.com/ELIXIREstonia/2026-06-17-R-visualisation
+* Pilvar, D. (2026, June 16). __Data Visualisation (theory)__. Zenodo. https://doi.org/10.5281/zenodo.7819286
 * Pilvar, D. (2024, April 12). __Tableau for beginners.__ Zenodo. https://doi.org/10.5281/zenodo.10963883.
 * Heleri Inno. (2022, October 26). __Data Visualisation I - Figures.__ Zenodo. https://doi.org/10.5281/zenodo.7251489
 
@@ -50,9 +50,9 @@ Useful sites:
 
 ## Data Management
 
+* Pilvar, D. (2026, June 15). __Crash Course in Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.13801447
 * Inno, H. (2026, April 10). __Andmehaldus Projektijuhtidele.__ Zenodo. https://doi.org/10.5281/zenodo.19492798
 * Pilvar, D. (2026, April 7). __Bring Your Own Data Management Plan.__ Zenodo. https://doi.org/10.5281/zenodo.19450095
-* Pilvar, D. (2026, February 19). __Crash Course in Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.13801447
 * Inno, H. (2026, February 16). __Grandimüks 2026 "Andmehalduse tugivõrgustik TÜs kui hea teadlase tagala".__ Zenodo. https://doi.org/10.5281/zenodo.18656745
 * Pilvar, D. (2025, November 6). __How to make your messy data usable? / OpenRefine__. Zenodo. https://doi.org/10.5281/zenodo.10224703
 * Inno, H. (2025, October 13). __Andmehaldus 101.__ Zenodo. https://doi.org/10.5281/zenodo.17337418

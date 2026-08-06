@@ -17,6 +17,7 @@ hide:
 * __14.04.2026__ - [Introduction to Exploratory Data Analysis (EDA) with R](../news/posts/2026/EDA_1404.md) - CANCELLED
 * __23.04.2026- 24.04.2026__ - [Introduction to statistics with R](../news/posts/2026/intro-statistics_R.md) - Cancelled
 * __25.05.2026- 26.05.2026__ - [Python Basics (in Prague)](https://www.elixir-czech.cz/events/python-basics-05-2026)
+* __15.06.2026- 18.06.2026__ - [Special course in bioinformatics](../news/posts/2026/Taltech_special_course_bioinformatics.md)
 
 
 ## 2025
