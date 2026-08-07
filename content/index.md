@@ -445,3 +445,110 @@ data-deadline-date="2026-09-01">
 </text-tile>
 </div>
 
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Workshop – Data and workflow management with LabID"
+description="This 1.5-day workshop introduces data management with LabID through hands-on tutorials and practical use cases covering concepts such as studies, assays, samples, and raw data registration. Participants will also explore LabID’s workflow integration for documenting the provenance of derived datasets, with examples involving sequencing and image-conversion workflows."
+link="https://bio-it.embl.de/events/workshop-data-and-workflow-management-with-labid/"
+deadline=""
+dates="Date: 28 - 29 September 2026"
+data-deadline-date="2026-09-28">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Introduction to Small RNA-seq Data Analysis with R"
+description="Small RNA sequencing enables researchers to investigate the expression and regulatory roles of short non-coding RNAs across diverse biological systems. This course provides a practical introduction to small RNA sequencing data analysis, combining essential theoretical background with hands-on exercises using primarily the R/Bioconductor ecosystem, including data preprocessing and differential expression analysis."
+link="https://www.sib.swiss/training/course/20261019_SMALR"
+deadline="Registration deadline: 28 September 2026"
+dates="Date: 19 - 20 October 2026"
+data-deadline-date="2026-09-29">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Biology-informed Integration and Visualisation of Multiomics Data"
+description="This 3-day course focuses on the practical application of R to integrate and visualise multiomics data, including ATAC-seq, RNA-seq, ChIP-seq, and bisulphite-seq. Participants will learn to combine pre-processed datasets, perform functional analyses, and create effective visualisations, with hands-on exercises and group projects using published multiomics research data."
+link="https://www.sib.swiss/training/course/20260923_BIVMD"
+deadline="Registration deadline: 09 September 2026"
+dates="Date: 23 - 25 September 2026"
+data-deadline-date="2026-09-10">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: CodeRefinery Workshop"
+description="A free online workshop on research software development tools and best practices. The workshop covers version control with Git, collaborative development, reproducible research, software documentation, responsible use of generative AI, automated testing, and modular code development."
+link="https://coderefinery.github.io/2026-09-22-workshop/"
+dates="Date: 22 - 24 September and 29 September - 1 October 2026"
+data-deadline-date="2026-10-01">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: 1-hour pre-conference online presentation and public speaking tips"
+description="This one-hour online session is designed to help conference speakers strengthen their presentation and public speaking skills. Participants will receive practical tips to communicate their message clearly and deliver their presentation with greater confidence and impact."
+link="https://training.vib.be/all-trainings/1-hour-pre-conference-online-presentation-and-public-speaking-tips-0"
+dates="Date: 3 September 2026"
+data-deadline-date="2026-09-03">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Online: 1-hour pre-conference online poster and pitching tips"
+description="This one-hour online session helps participants prepare for conferences by improving how they design and present scientific posters. It provides practical tips for creating an effective poster and delivering a clear, engaging pitch to communicate research successfully."
+link="https://training.vib.be/all-trainings/1-hour-pre-conference-online-poster-and-pitching-tips-0"
+dates="Date: 2 September 2026"
+data-deadline-date="2026-09-02">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Advanced Statistics: Statistical Modelling"
+description="This advanced course covers statistical models and techniques beyond classical linear modelling, including generalized and mixed-effects linear models, longitudinal data analysis, and extensions such as polynomial regression, splines and generalized additive models. Participants will also explore model performance, regularization and cross-validation, with an emphasis on practical applications using real-world clinical and biological data."
+link="https://www.sib.swiss/training/course/20260907_ADDMG"
+deadline="Registration deadline: 23 August 2026"
+dates="Date: 7 - 10 September 2026"
+data-deadline-date="2026-08-24">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Luxembourg: Statistical tests and statistical learning for omics data"
+description="This advanced statistics course covers feature selection in statistical tests, clustering and statistical learning methods for omics data. Participants will gain experience in data preprocessing, quality control, pathway and network analysis, as well as machine learning approaches for sample clustering and classification."
+link="https://elixir-luxembourg.org/events/2026-09-08-statisticallearning/"
+dates="Date: 2 - 3 September 2026"
+data-deadline-date="2026-09-02">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: At the forefront of plant research (4th edition)"
+description="Understanding and harnessing plant life is essential for developing sustainable solutions that improve crop productivity and quality while supporting environmentally responsible agriculture. This conference brings together leading experts to explore future directions in plant life science, covering topics such as AI and machine learning, genome engineering, single-cell and omics technologies, evolution and development, cell signalling, and structural biology."
+link="https://www.vibconferences.be/events/at-the-forefront-of-plant-research-4th-edition"
+deadline="Registration deadline: 3 September 2026"
+dates="Date: 17 - 18 September 2026"
+data-deadline-date="2026-09-04">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: High Performance R"
+description="This hybrid course is designed for R users who want to make their analyses more efficient and get more from available computing resources. Participants will learn to benchmark and profile R code, improve performance, and use parallel and distributed computing on both local and supercomputing resources."
+link="https://csc.fi/en/training-calendar/high-performance-r-3/"
+deadline="Registration deadline: 2 September 2026"
+dates="Date: 7 - 8 September 2026"
+data-deadline-date="2026-09-03">
+</text-tile>
+</div>
+
