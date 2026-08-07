@@ -349,3 +349,99 @@ materialstext="Article link"
 data-added-date="2026-06-29">
 </text-tile>
 </div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Defining and defeating metastasis: from plasticity to immune evasion to therapy resistance"
+description="This symposium explores emerging concepts in metastasis research, including tumour cell dissemination, metastatic heterogeneity, EMT and plasticity, immune evasion, metabolic adaptations, and transcriptional and epigenetic control. It brings together interdisciplinary approaches such as intravital imaging, single-cell and spatial transcriptomics, genomics, tissue modelling, and machine learning to advance understanding of metastasis and its therapeutic challenges."
+link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-05/"
+deadline="Registration deadline: 29 September 2026 (on-site); 3 November 2026 (virtual)"
+dates="Date: 10 - 13 November 2026"
+data-deadline-date="2026-11-03">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: The complex life of RNA"
+description="This EMBO | EMBL Symposium brings together leaders in the RNA field, postdocs and students to discuss the latest findings in RNA biology. The programme covers co-transcriptional RNA biology, RNA processing and modification, RNA transport, co-translational biology, RNA structure and regulation, and RNA pathogens and therapeutics."
+link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-12/"
+deadline="Registration deadline: 1 September 2026 (on-site); 6 October 2026 (virtual)"
+dates="Date: 13 - 16 October 2026"
+data-deadline-date="2026-10-06">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Molecular mechanisms in evolution and ecology"
+description="This conference explores interspecies and cell-environment interactions across living organisms, highlighting technological advances, biodiversity, and the role of microbes in planetary ecosystems. It brings together researchers from diverse fields and microbial systems to investigate the molecular mechanisms driving ecological and evolutionary change and to showcase novel experimental and computational approaches."
+link="https://www.embl.org/about/info/course-and-conference-office/events/eae26-01/"
+deadline="Registration deadline:  25 August 2026 (on-site); 29 Sep 2026 (virtual)"
+dates="Date: 6 - 9 October 2026"
+data-deadline-date="2026-09-29">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: Ten simple rules on how to write a standard operating procedure"
+description="This article provides a practical, step-by-step framework for creating clear and reliable standard operating procedures (SOPs) in research. It covers the full SOP lifecycle, from defining purpose and structure to testing, approval, regular review, and publication, with a focus on improving reproducibility, transparency, and research quality."
+materials="https://doi.org/10.1371/journal.pcbi.1008095"
+materialstext="Article"
+data-added-date="2026-08-07">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: AIR: AI in Research – A framework for transparent and responsible AI use mapped to the research process"
+description="The AIR Framework is a structured tool that helps researchers describe how and where AI is used across the research process, including the level of human judgement involved and potential risks. It supports clearer, more consistent reporting of AI use and provides guidance for transparency, verification and responsible research practice."
+materials="https://doi.org/10.6084/m9.figshare.31268020"
+materialstext="Material"
+data-added-date="2026-08-07">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: 2027 EMBL Annual Poster is here!"
+description="The 2027 EMBL Annual Poster highlights new courses and conferences for the year ahead in the life sciences. It also brings back established favourites such as AI and biology, The expanding world of RBPs, Structural bioinformatics, and Organoids."
+materials="https://www.embl.org/about/info/course-and-conference-office/2026/07/2027-embl-annual-poster/"
+materialstext="Webpage"
+data-added-date="2026-08-07">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Netherlands: Computational Metagenomics (2026)"
+description="This course teaches state-of-the-art computational methods for analysing metagenomic and metatranscriptomic data, combining lectures with hands-on sessions using real data. Participants will cover experimental design, sequencing technologies, quality control, assembly, taxonomic analysis, statistical techniques and functional annotation of microbiomes."
+link="https://www.dtls.nl/courses/computational-metagenomics-2026/"
+deadline="Registration deadline: Not specified (early bird registration until 31 August 2026)"
+dates="Date: 26 - 28 October 2026"
+data-deadline-date="2026-10-26">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Data Analysis with R"
+description="R is one of the most popular tools for manipulating, visualizing and analysing data, but getting started can involve a steep learning curve. This introductory course equips learners with essential R skills, including data importing and exporting, data wrangling, working with real-life datasets, basic statistics, and creating publication-ready plots through hands-on teaching and exercises."
+link="https://csc.fi/en/training-calendar/data-analysis-with-r-7/"
+deadline="Registration deadline: 20 September 2026"
+dates="Date: 24 - 25 September 2026"
+data-deadline-date="2026-09-21">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Software Management Plans, Basic Training"
+description="Software has become an essential component of modern research and is increasingly recognized as a valuable research output. This webinar introduces Software Management Plans (SMPs), explaining why and when they matter and providing practical tips and tools to help data support professionals guide researchers in creating and using them."
+link="https://csc.fi/en/training-calendar/software-management-plans-basic-training/"
+dates="Date: 1 September 2026"
+data-deadline-date="2026-09-01">
+</text-tile>
+</div>
+
