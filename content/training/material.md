@@ -51,6 +51,7 @@ Useful sites:
 ## Data Management
 
 * Pilvar, D. (2026, June 15). __Crash Course in Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.13801447
+* Pilvar, D.& Arrak, M. (2026, June 6). __Training on FAIR Principles in Data Management.__ Zenodo. https://doi.org/10.5281/zenodo.20556552
 * Inno, H. (2026, April 10). __Andmehaldus Projektijuhtidele.__ Zenodo. https://doi.org/10.5281/zenodo.19492798
 * Pilvar, D. (2026, April 7). __Bring Your Own Data Management Plan.__ Zenodo. https://doi.org/10.5281/zenodo.19450095
 * Inno, H. (2026, February 16). __Grandimüks 2026 "Andmehalduse tugivõrgustik TÜs kui hea teadlase tagala".__ Zenodo. https://doi.org/10.5281/zenodo.18656745

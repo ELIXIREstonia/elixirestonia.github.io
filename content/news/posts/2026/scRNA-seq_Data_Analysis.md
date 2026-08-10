@@ -9,7 +9,7 @@ hide:
   - toc
 
 # Date of this blog post:
-date: 2026-09-07
+date: 2026-06-07
 authors:
   - Diana
 
