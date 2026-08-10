@@ -111,6 +111,16 @@ We are proud to share a recent publication by our team member, Marilin Moor, who
 
 <div class="tile-grid">
 <text-tile
+title="Material: Communities as Policy Instruments"
+description="This publication explains how communities can be used as effective policy instruments by the European Commission to bridge the gap between policy design and implementation through stakeholder-driven collaboration, structured dialogue, and peer learning. It argues that beyond traditional regulation or funding programmes, communities help close implementation gaps, encourage shared purpose among actors, and translate policy into practice in more adaptive, inclusive ways."
+materials="https://knowledge4policy.ec.europa.eu/publication/communities-policy-instruments_en"
+materialstext="Publication"
+data-added-date="2026-02-09">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
 title="Material: Open Science and FAIR"
 description="This lesson introduces the principles of Open Science and the FAIR data principles, helping learners reflect on why openness and transparency are becoming central in research. You’ll gain an understanding of the reasons for Open Science, what FAIR means for research data, and emerging expectations from the wider research ecosystem."
 materials="https://nbisweden.github.io/module-open-science-dm-practices/index.html"
@@ -542,3 +552,61 @@ data-deadline-date="2026-09-03">
 </text-tile>
 </div>
 
+<div class="tile-grid">
+<text-tile
+title="Online: LMU Open Science Summer School 2026"
+description="All lectures are opened for public registration. All times are CEST.
+  * Alexander Wuttke: Replicability crisis Monday - 7 September, 09:45-10:45
+  *  Malika Ihle: Credible research - Monday 7 September, 11:00-11:45
+  * Reema Gupta: Data sharing- Tuesday 8 September, 9:00-09:45
+  * Richard McElreath: A Guerilla approach to scientific workflows- Wednesday 9 September, 9:00-10:00
+  * Sarah von Grebmer: Open access, preprints, postprints - Wednesday 9 September, 10:15-11:45
+  * Jonas Hagenberg: Readable code- Thursday 10 September, 09:00-09:45
+  * Tim Errington: Assessing research repeatability- Thursday 10 September, 16:30-17:30
+  * Danny Maupin: Open Science: The tension between equity and exploitation- Friday 11 September, 09:00-10:00."
+link="https://lmu-osc.github.io/Open-Science-Summer-School-2026/public-lectures.html"
+dates="Date: 07- 11.09.2026 "
+data-deadline-date="2026-09-11">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: FAIR Research Data Management Train-the-Trainers Bootcamp for Data Stewards"
+description="This intensive four-day online programme is designed for intermediate and experienced data stewards, research support professionals, librarians, repository managers, and institutional RDM practitioners. Through practical exercises, institutional case studies, collaborative activities, and reusable teaching resources, participants will strengthen their practical and pedagogical skills for supporting FAIR Research Data Management and Open Science within their organisations."
+link="https://www.openaire.eu/save-the-date-fair-research-data-management-train-the-trainers-bootcamp-for-data-stewards"
+deadline="Registration deadline: Not yet announced (applications open in early September 2026)"
+dates="Date: 26 - 29 October 2026"
+data-deadline-date="2026-10-01">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: RDA 25th Plenary Meeting"
+description="Explore presentation slides and session recordings from the Research Data Alliance’s 25th Plenary Meeting, held as part of International Data Week 2025 in Brisbane. The programme brings together sessions on FAIR data, research data management, interoperability, data governance, AI, persistent identifiers, and other topics shaping the global research data community."
+materials="https://www.rd-alliance.org/plenaries/idw-2025-p25/programme-25/"
+materialstext="Presentation slides and recordings"
+data-added-date="2026-08-10">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: PLOS Open Science Indicators dashboard"
+description="Explore open science trends through PLOS’s interactive Open Science Indicators dashboard, which brings together data on research-sharing practices such as data and code sharing, preprints, protocols, and study registration. Use filters and comparisons to examine how open science practices vary over time and across countries, research organizations, funders, and research fields."
+materials="https://datastudio.google.com/u/0/reporting/2b34c431-c3dd-4eed-ac69-0c8856bd8af7/page/GAiiF"
+materialstext="Dashboard"
+data-added-date="2026-08-10">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: Data Papers: Getting Scholarly Recognition for Your Datasets"
+description="Learn how data papers provide scholarly recognition for the work involved in preparing, curating and describing biodiversity datasets. This GBIF resource explains what data papers are, why they are valuable for increasing the visibility and credibility of datasets, and introduces tools and journals that support their publication."
+materials="https://www.gbif.org/data-papers"
+materialstext="Link"
+data-added-date="2026-08-10">
+</text-tile>
+</div>
