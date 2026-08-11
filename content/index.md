@@ -111,16 +111,6 @@ We are proud to share a recent publication by our team member, Marilin Moor, who
 
 <div class="tile-grid">
 <text-tile
-title="Material: Communities as Policy Instruments"
-description="This publication explains how communities can be used as effective policy instruments by the European Commission to bridge the gap between policy design and implementation through stakeholder-driven collaboration, structured dialogue, and peer learning. It argues that beyond traditional regulation or funding programmes, communities help close implementation gaps, encourage shared purpose among actors, and translate policy into practice in more adaptive, inclusive ways."
-materials="https://knowledge4policy.ec.europa.eu/publication/communities-policy-instruments_en"
-materialstext="Publication"
-data-added-date="2026-02-09">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Open Science and FAIR"
 description="This lesson introduces the principles of Open Science and the FAIR data principles, helping learners reflect on why openness and transparency are becoming central in research. You’ll gain an understanding of the reasons for Open Science, what FAIR means for research data, and emerging expectations from the wider research ecosystem."
 materials="https://nbisweden.github.io/module-open-science-dm-practices/index.html"
