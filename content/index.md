@@ -298,29 +298,6 @@ data-deadline-date="2026-08-18">
 
 <div class="tile-grid">
 <text-tile
-title="Switzerland: Advanced Programming with R"
-description="This 3-day advanced course is designed for life scientists and bioinformaticians who already use R and want to deepen their programming skills. Through lectures and hands-on practical sessions, participants will learn advanced R concepts including data structures, object-oriented programming, reproducible analysis, code profiling, and programming best practices. The course emphasizes writing more efficient, maintainable, and reliable R code."
-link="https://www.sib.swiss/training/course/20260824_APRWR"
-deadline="Registration deadline: 10 August 2026"
-dates="Date: 24 - 26 August 2026"
-data-deadline-date="2026-08-11">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
-title="Online: Small molecules and their protein targets: interactions, function, and classification"
-description="This six-hour virtual workshop provides hands-on training in EMBL-EBI resources for exploring the biological interactions between small molecules and their protein targets. Using case studies, participants will investigate drug–target interactions with ChEMBL and PDBe, and learn how to standardise and classify these interactions using ChEBI and UniProt annotations."
-link="https://www.ebi.ac.uk/training/events/small-molecules-and-their-protein-targets-interactions-function-and-classification/"
-deadline="Registration deadline: 10 August 2026"
-dates="Date: 10 September 2026"
-data-deadline-date="2026-08-11">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Switzerland: Advanced Statistics: Statistical Modelling"
 description="This 4-day course introduces advanced statistical modelling techniques for life science researchers who already have experience with R and basic statistics. Participants will learn to apply generalized linear models, mixed-effects models, non-linear modelling approaches, and model evaluation techniques such as regularization and cross-validation using real-world biological and clinical datasets."
 link="https://www.sib.swiss/training/course/20260907_ADDMG"
