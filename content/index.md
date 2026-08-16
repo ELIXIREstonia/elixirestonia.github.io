@@ -111,26 +111,6 @@ We are proud to share a recent publication by our team member, Marilin Moor, who
 
 <div class="tile-grid">
 <text-tile
-title="Material: Open Science and FAIR"
-description="This lesson introduces the principles of Open Science and the FAIR data principles, helping learners reflect on why openness and transparency are becoming central in research. You’ll gain an understanding of the reasons for Open Science, what FAIR means for research data, and emerging expectations from the wider research ecosystem."
-materials="https://nbisweden.github.io/module-open-science-dm-practices/index.html"
-materialstext="Material"
-data-added-date="2026-02-16">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Material: Cleaning tabular data with OpenRefine"
-description="This lesson introduces OpenRefine, a powerful open-source tool for cleaning and transforming messy tabular data as part of a reproducible data workflow. You’ll learn how to import, clean, filter, sort, and export data as well as how to track and reuse your steps to save time and improve reproducibility."
-materials="https://nbisweden.github.io/module-openrefine-dm-practices/"
-materialstext="Material"
-data-added-date="2026-02-16">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Welcome to the Research Data Management Video Series"
 description="This introductory video presents a comprehensive video series on research data management, from planning and organizing data to sharing it ethically and effectively. It explains the recommended viewing order and highlights how the series supports students, early-career researchers, and data stewards in building good data practices across disciplines."
 materials="https://www.youtube.com/watch?v=GBrpv8ZzBZ0&list=PLCgtsnEJOw6zUBZv7lqWiWAcEbv5n41JK"
@@ -186,17 +166,6 @@ title="Material: The Communities of Practice Playbook"
 description="The Communities of Practice Playbook is a practical guide developed by the European Commission to help organisations build, manage, and grow communities of practice. It provides step-by-step guidance, good practices, and interactive tools to support collaboration, knowledge sharing, and community development. The playbook focuses on key success factors such as vision, governance, leadership, and engagement across the community lifecycle. Playbook includes:  [Your Community Roadmap](https://dx.doi.org/10.2760/5296677), [The Communities of Practice Checklist](https://dx.doi.org/10.2760/8175409), [The Communities of Practice Barometer](https://dx.doi.org/10.2760/0749239), [The Community Digital Compass](https://dx.doi.org/10.2760/7062939)"
 materials="https://op.europa.eu/webpub/jrc/communities-of-practice-playbook/en/index.html"
 data-added-date="2026-03-24">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Switzerland: European Conference on Computational Biology (ECCB) 2026"
-description="The European Conference on Computational Biology (ECCB) is a premier event bringing together researchers in computational biology, bioinformatics, and data-driven life sciences. It offers a platform to share ideas, explore new methods, and address global challenges through computational biology. The programme includes conference sessions, as well as dedicated tutorials and workshops providing hands-on training and discussions on emerging topics."
-link="https://eccb2026.org/"
-deadline="Registration deadline: 14 August 2026"
-dates="Date: 31 August - 4 September 2026"
-data-deadline-date="2026-08-15">
 </text-tile>
 </div>
 
