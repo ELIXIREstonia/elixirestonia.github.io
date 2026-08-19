@@ -244,17 +244,6 @@ data-added-date="2026-06-29">
 
 
 <div class="tile-grid">
-<text-tile
-title="Hybrid: Transcription and chromatin"
-description="The 17th EMBL Conference on Transcription and chromatin brings together leading experts to explore the latest advances in transcriptional regulation, chromatin biology, and genome organization. The programme covers topics including cis-regulatory function, RNA polymerase regulation, chromatin modifications, genome topology, epigenetic regulation, and quantitative approaches, with invited talks, selected abstracts, and extensive networking opportunities for researchers."
-link="https://www.embl.org/about/info/course-and-conference-office/events/trm26-01/"
-deadline="Registration deadline: 14 July 2026 (on-site); 18 Aug 2026 (virtual)"
-dates="Date: 25 - 28 August 2026"
-data-deadline-date="2026-08-18">
-</text-tile>
-</div>
-
-<div class="tile-grid">
   <text-tile
     title="Czech Republic: 3rd BioExcel Conference on Advances in Biomolecular Simulations"
     description="This four-day conference brings together the biomolecular research community to explore the latest advances in integrative modelling, free energy calculations, drug design, workflows, automation and data integration. The programme features keynote lectures, invited talks, selected presentations, poster sessions and networking opportunities for researchers working in biomolecular simulations."
