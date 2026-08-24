@@ -535,3 +535,145 @@ materialstext="Link"
 data-added-date="2026-08-10">
 </text-tile>
 </div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: Research Data Management Micro-Guides: Concise, practical guidance for researchers and students"
+description="This collection of concise micro-guides introduces key aspects of research data management, including planning, documentation, storage, preservation, sharing, and FAIR principles. Designed for researchers and students, the materials support good scientific practice and the preparation of Data Management Plans."
+materials="https://zenodo.org/records/19201601/files/Micro-guides%20for%20RDM%20by%20Fadwa%20Alshawaf.pdf?download=1"
+materialstext="Material"
+data-added-date="2026-08-24">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Online: Interpreting the effects of genetic variants on protein structure and function"
+description="This six-hour virtual workshop provides hands-on experience using EMBL-EBI tools and resources to assess the effects of genetic variants on protein structure and function. Participants will work through a common analysis workflow using Ensembl Variant Effect Predictor (VEP), UniProt, PDBe-KB, and AlphaFoldDB to explore and interpret variant information."
+link="https://www.ebi.ac.uk/training/events/interpreting-effects-genetic-variants-protein-structure-and-function-2026/"
+dates="Date: 26 November 2026"
+data-deadline-date="2026-11-26">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Belgium: Neuroimmunology"
+description="Neuroimmunology explores the dynamic interactions between the nervous and immune systems and how these shape function and disease. This conference brings together leading experts and rising voices to discuss innate and adaptive immunity in CNS health and disease, barrier systems and peripheral-CNS crosstalk, and new therapeutic approaches to modulate neuroimmunity."
+link="https://www.vibconferences.be/events/neuroimmunology"
+deadline="Registration deadline: 5 November 2026"
+dates="Date: 19 - 20 November 2026"
+data-deadline-date="2026-11-06">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: DNA replication and genome maintenance: from basic biology to human health"
+description="This EMBO | EMBL Symposium brings together experts in DNA replication and genome maintenance to explore advances in replication machinery, chromatin dynamics, genome stability and DNA repair. The programme also examines replication stress in development, ageing and cancer, connecting fundamental discoveries with their implications for human disease and potential therapies."
+link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-13/"
+deadline="Registration deadline: 8 September 2026 (on-site); 13 October 2026 (virtual)"
+dates="Date: 20 - 23 October 2026"
+data-deadline-date="2026-09-09">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Unlocking the functional diversity of gut microbiomes"
+description="This conference explores the functional diversity of the human gut microbiome and the molecular and ecological mechanisms linking microbial communities to human health. It will focus on approaches for mapping gene function, establishing new model gut microorganisms, and advancing the field from descriptive observations toward causal and mechanistic insights."
+link="https://www.embl.org/about/info/course-and-conference-office/events/gmd26-01/"
+deadline="Registration deadline: 27 October 2026 (on-site); 1 December 2026 (virtual)"
+dates="Date: 8 - 10 December 2026"
+data-deadline-date="2026-10-28">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Quantitative biology to molecular mechanisms"
+description="This EMBO Workshop explores how advances in genomics, proteomics, imaging and other quantitative technologies can deepen our understanding of biological systems. It brings together researchers across single-cell biology, quantitative imaging, synthetic biology and theory to connect data with mechanistic and predictive models."
+link="https://www.embl.org/about/info/course-and-conference-office/events/omx26-01/"
+deadline="Registration deadline: 6 October 2026 (on-site); 10 November 2026 (virtual)"
+dates="Date: 17 - 20 November 2026"
+data-deadline-date="2026-11-10">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Designing and Implementing a Good Data Management Plan | Practical Workshop"
+description="This hands-on workshop guides participants through the process of creating a Data Management Plan, using practical examples, common challenges, and useful tools to develop robust and FAIR-compliant DMPs. It is designed for researchers, data stewards, clinicians, students, and other stakeholders seeking practical experience in data stewardship, reproducibility, and compliance with funder and institutional requirements."
+link="https://hemafairproject.eu/event/designing-and-implementing-a-good-data-management-plan-practical-workshop/"
+dates="Date: 24 September 2026"
+data-deadline-date="2026-09-24">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: A Practical Introduction to NGS Data Analysis and Variant Calling"
+description="This beginner-friendly workshop provides a practical introduction to Next-Generation Sequencing (NGS), focusing on the bioinformatics steps needed to assess data quality, identify common problems, and perform reliable analyses. Participants will work hands-on with a real-life Illumina NGS dataset, covering quality control, preprocessing, read mapping, visualization, and DNA variant calling."
+link="https://www.ecseq.com/workshops/workshop_2026-07-NGS-Next-Generation-Sequencing-Data-Analysis-A-Practical-Introduction"
+deadline="Registration deadline: 7 September 2026"
+dates="Date: 9 - 11 September 2026"
+data-deadline-date="2026-09-08">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Introduction to Bulk RNA-Seq: From Quality Control to Pathway Analysis"
+description="This 2-day course presents the theory and bioinformatics tools required to analyse RNA-seq gene expression data, from raw data through to biological interpretation. Participants will cover quality control, mapping to genomes and transcriptomes, differential expression analysis, GO enrichment and pathway analysis."
+link="https://www.sib.swiss/training/course/20261008_IRNAS"
+deadline="Registration deadline: 29 September 2026"
+dates="Date: 8 - 9 October 2026"
+data-deadline-date="2026-09-30">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Computer-Aided Drug Design"
+description="This workshop introduces the basics of Computer-Aided Drug Design (CADD) using examples from different therapeutic areas and mostly freely accessible tools. Participants will gain hands-on experience with biomolecular visualization, ligand-protein docking and co-folding, virtual screening, protein target prediction, small-molecule property calculations, and bioisosteric design."
+link="https://www.sib.swiss/training/course/20261026_CADDS"
+deadline="Registration deadline: 28 September 2026"
+dates="Date: 26 - 28 October 2026"
+data-deadline-date="2026-09-29">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: Artificial intelligence for biology: Capabilities, readiness, and policy implications"
+description="This report provides an overview of the capabilities and trends of certain AI models with applications in molecular and cellular biology."
+materials="https://data.europa.eu/doi/10.2760/9397036"
+materialstext="Publication"
+data-added-date="2026-08-24">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Introduction to Machine Learning with Python"
+description="This 2-day course introduces participants to common machine learning algorithms and teaches how to apply them to omics data through extensive practical sessions using Python and the scikit-learn framework. Participants will gain an understanding of standard machine learning methods and processes while developing practical skills to apply them to real-world biological or medical datasets."
+link="https://www.sib.swiss/training/course/20261001_INMLP"
+deadline="Registration deadline: 22 September 2026"
+dates="Date: 1 - 2 October 2026"
+data-deadline-date="2026-09-23">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: R for data science"
+description="This intermediate-level course builds on prior R knowledge and covers topics ranging from programming concepts to an introduction to machine learning. Through theoretical introductions and practical exercises based on real-life research examples, participants will learn techniques for automating analyses, data normalisation, clustering, statistical modelling and functional enrichment."
+link="https://www.liverpool.ac.uk/computational-biology-facility/events/r-data-science/"
+dates="Date: 1 - 4 December 2026"
+data-deadline-date="2026-12-01">
+</text-tile>
+</div>
+
