@@ -31,7 +31,7 @@ hide:
   </div>
 
   <div class="elixir-main-image">
-    <img src="assets/images/ELIXIR-members-map_2026-01_White-01.png" alt="Map of Europe highlighting ELIXIR member countries in orange">
+    <img src="/assets/images/ELIXIR-members-map_August2026_White-01.png" alt="Map of Europe highlighting ELIXIR member countries in orange">
   </div>
 </div>
 ---
