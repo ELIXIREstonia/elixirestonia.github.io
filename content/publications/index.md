@@ -23,6 +23,10 @@ hide:
 Publications from ELIXIR Europe collaborations are printed in _cursive_.
 Tools and services are linked from the title of the corresponding paper.
 
+### 2026
+
+1. Ana I S Mendes, Hans Ienasescu, Christian A T Andersen, Erin Calhoun, Piotr J Chmura, Keiler Collier, Iosif Goga, Ove J R Gustafsson, Matúš Kalaš, Mads Kierkegaard, Niclas K Nielsen, Erik Jaaniso, Jennifer R B Jensen, Adriaan-Alexander Ludl, Hervé Ménager, Magnus Palmblad, Zsófia Magyar, Tomáš Raček, Adrián Rošinec, Filip Rusz, Mariia Steeghs-Turchina, Aleksandra Szmigiel, Radka Svobodová, Veit Schwämmle, *[**bio.tools: an expanded web service for research software in the life sciences**](https://bio.tools/), Nucleic Acids Research, Volume 54, Issue W1, 7 July 2026, Pages W4–W12,* https://doi.org/10.1093/nar/gkag420
+
 ### 2025
 
 1. Mladenovic, D., Brealey, J., Peacock, B., Koort, K., Zarovni, N. (2025) **Quantitative fluorescent nanoparticle tracking analysis and nano-flow cytometry enable advanced characterization of single extracellular vesicles.** J. Extracell. Biol., 4(1), e70031. [https://doi.org/10.1002/jex2.70031](https://doi.org/10.1002/jex2.70031)
