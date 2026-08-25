@@ -256,17 +256,6 @@ data-added-date="2026-06-29">
 
 <div class="tile-grid">
 <text-tile
-title="Switzerland: Advanced Statistics: Statistical Modelling"
-description="This 4-day course introduces advanced statistical modelling techniques for life science researchers who already have experience with R and basic statistics. Participants will learn to apply generalized linear models, mixed-effects models, non-linear modelling approaches, and model evaluation techniques such as regularization and cross-validation using real-world biological and clinical datasets."
-link="https://www.sib.swiss/training/course/20260907_ADDMG"
-deadline="Registration deadline: 23 August 2026"
-dates="Date: 07 - 10 September 2026"
-data-deadline-date="2026-08-24">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: The Drain of Scientific Publishing"
 description="This paper examines how the dominance of major commercial publishers in scientific publishing diverts financial resources, researcher time, and control away from the research community. It argues that current publishing incentives undermine science and proposes reforms led by researchers, universities, funders, and governments to reclaim scholarly publishing as a community-driven enterprise."
 materials="https://doi.org/10.48550/arXiv.2511.04820"
@@ -431,17 +420,6 @@ description="This one-hour online session helps participants prepare for confere
 link="https://training.vib.be/all-trainings/1-hour-pre-conference-online-poster-and-pitching-tips-0"
 dates="Date: 2 September 2026"
 data-deadline-date="2026-09-02">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Switzerland: Advanced Statistics: Statistical Modelling"
-description="This advanced course covers statistical models and techniques beyond classical linear modelling, including generalized and mixed-effects linear models, longitudinal data analysis, and extensions such as polynomial regression, splines and generalized additive models. Participants will also explore model performance, regularization and cross-validation, with an emphasis on practical applications using real-world clinical and biological data."
-link="https://www.sib.swiss/training/course/20260907_ADDMG"
-deadline="Registration deadline: 23 August 2026"
-dates="Date: 7 - 10 September 2026"
-data-deadline-date="2026-08-24">
 </text-tile>
 </div>
 
