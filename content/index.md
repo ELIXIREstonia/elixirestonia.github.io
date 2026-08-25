@@ -677,3 +677,43 @@ data-deadline-date="2026-12-01">
 </text-tile>
 </div>
 
+<div class="tile-grid">
+<text-tile
+title="Material: Guidebook: The CARE Principles and Data Ethics: A practical guide for SSH researchers in The Netherlands"
+description="This guidebook introduces the CARE Principles and explores their relevance for Indigenous data governance and other vulnerable communities. It provides early-career researchers with practical guiding questions, examples, and best practices to help them apply CARE and CARE-informed approaches when making decisions about research data sharing."
+materials="https://doi.org/10.5281/zenodo.17588886"
+materialstext="Guidebook"
+data-added-date="2026-08-25">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Kickstart Your Data Publication: A Hands-On Guide to Life Science Repositories"
+description="This interactive workshop helps participants improve their research data management workflows and prepare life science data for high-quality, FAIR-compliant publication. Participants will explore the FAIR data ecosystem, learn to use SearchHub, and gain hands-on insights into repositories including BONARES, PANGAEA, and e!DAL-PGP through demonstrations, use cases, and breakout sessions."
+link="https://www.denbi.de/training-courses-2026/2119-kickstart-your-data-publication-a-hands-on-guide-to-life-science-repositories"
+dates="Date: 30 September 2026"
+data-deadline-date="2026-09-30">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: OSF is Changing"
+description="The Center for Open Science is making substantial changes to the Open Science Framework (OSF), including phasing out OSF Projects as an active workspace while maintaining access to existing public projects. This resource explains what is changing, key transition dates, what OSF will continue to support, and where researchers can find guidance for moving ongoing work."
+materials="https://www.cos.io/osf-changes"
+materialstext="Material"
+data-added-date="2026-08-25">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: README prompt and checklist"
+description="This resource from the Review of Financial Studies Data Editors helps researchers review and improve the README accompanying a replication package. It provides an LLM-based review prompt and an interactive checklist, while directing authors to a standardized README template designed to make replication materials clearer and the review process more efficient."
+materials="https://review-of-financial-studies.github.io/readme.html"
+materialstext="README template"
+data-added-date="2026-08-25">
+</text-tile>
+</div>
+
