@@ -181,17 +181,6 @@ data-added-date="2026-03-24">
 
 <div class="tile-grid">
 <text-tile
-title="Germany: A new view of plankton in the global ocean: celebrating 10 years of Tara Oceans"
-description="This conference will explore how a decade of Tara Oceans research has transformed our understanding of plankton communities, ocean ecosystems, and their evolution. It brings together researchers from diverse disciplines to discuss cutting-edge advances in ocean genomics, imaging, modelling, and computational analysis while fostering new collaborations across aquatic and molecular sciences."
-link="https://www.embl.org/about/info/course-and-conference-office/events/pgo26-01/"
-deadline="Registration deadline: 21 July 2026 (on-site); 25 Aug (virtual)"
-dates="Date: 1 - 4 September 2026"
-data-deadline-date="2026-08-26">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Germany: Chemical biology 2026"
 description="This conference brings together researchers from academia and industry to showcase the latest advances across the rapidly evolving field of chemical biology. Participants will explore topics ranging from chemical technologies and synthetic biology to AI-driven design, RNA biology, and emerging therapeutic approaches, while benefiting from extensive opportunities for collaboration and networking."
 link="https://www.embl.org/about/info/course-and-conference-office/events/chb26-01/"
