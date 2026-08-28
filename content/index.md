@@ -83,26 +83,13 @@ hide:
 ## Latest news and announcements
 
 
-### ELIXIR Estonia’s July to December 2025 Highlights
+### ELEVATE-DM: Strengthening Data Stewardship Across Europe
 
-In the second half of 2025, ELIXIR Estonia continued to deepen its collaborations in research data management, both within Estonia and across Europe, while also expanding staff involvement in training activities and knowledge-sharing initiatives. Throughout the period, we placed a stronger focus on data management by participating in and organising events in partnership. A standout moment was co-organising a [Nordic Computational Biology Week Conference](https://www.nordic-compbio.org/ncb-week), an experience that will help us take on larger events in the future. Alongside these activities, our team contributed three new publications, reflecting our ongoing commitment to advancing research and supporting the broader scientific community.
+Estonia is one of Europe’s most digitally advanced countries. From X-Road to nationally coordinated digital services, we have built an ecosystem that makes sharing and using information remarkably efficient. But strong digital infrastructure alone does not create strong research data management.
 
-[More info](news/posts/2026/Newsletter_2025-02.md)
+As research becomes increasingly collaborative and data-intensive, researchers need more than technology - they need clear guidance, institutional support, professional expertise, and communities that help them manage data throughout its lifecycle. That is exactly what ELEVATE-DM aims to strengthen.
 
-
-### New Microchip Electrospinning Technology Paves the Way for Probiotic Wound Treatments
-
-We are proud to share a recent publication by our team member, Marilin Moor, who contributed to a study on advanced wound care. Published in Materials Today Bio, the article titled [“Living probiotics-loaded wound matrices prepared by microchip electrospinning”](https://doi.org/10.1016/j.mtbio.2025.102403) introduces a novel method for treating skin infections.
-
-[More info](news/posts/2025/Microchip_Electrospinning_article.md)
-
-
-### Review of An Intuitive Primer of Effective Genomics Study Design
-
-[“*An Intuitive Primer on Effective Functional Genomics Study Design*”](https://www.amazon.com/Intuitive-Primer-Effective-Functional-Genomics/dp/B0DT9JLT6S/ref=sr_1_1?crid=5BI8RC5JVU7G&dib=eyJ2IjoiMSJ9.H120vigtXK6rCO9fMttISA.selz7w3qgD8ZD-Ijrx993KubvqGOUcg6QLVgb0saoZw&dib_tag=se&keywords=An+Intuitive+Primer+on+Effective+Functional+Genomics+Study+Design&qid=1760528768&sprefix=an+intuitive+primer+on+effective+functional+genomics+study+design%2Caps%2C171&sr=8-1) by [Yoav Gilad](https://www.linkedin.com/in/yoav-gilad-3a5589130/) provides a clear and accessible guide to the principles of effective functional genomics study design. Instead of prescribing fixed protocols, it encourages readers to think critically about their choices. For students, teachers, and researchers entering the field, it is an insightful and practical resource that I highly recommend.
-
-[More info](news/posts/2025/Review_GenomicsStudyDesign.md)
-
+[More info](news/posts/2026/ELEVATE-DM_Announcement.md)
 
 ---
 ## External courses/materials
