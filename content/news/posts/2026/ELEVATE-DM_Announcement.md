@@ -26,7 +26,7 @@ As research becomes increasingly collaborative and data-intensive, researchers n
 
 <!-- more -->
 
-We’re announcing the official funding of “Elevating data management for excellence, evidence, and sustainable impact” (**ELEVATE-DM**). Led by [the University of Tartu](https://ut.ee/en), home of [ELIXIR Estonia](https://elixir.ut.ee/), ELEVATE-DM will build research data management capacity in Estonia while drawing on the expertise of our Finnish and Dutch [ELIXIR](https://elixir-europe.org/) partners to create lasting impact across Europe.
+We are happy to announce that “Elevating data management for excellence, evidence, and sustainable impact” (**ELEVATE-DM**) Twinning grant has been selected for funding. Led by [the University of Tartu](https://ut.ee/en), home of [ELIXIR Estonia](https://elixir.ut.ee/), ELEVATE-DM will build research data management capacity in Estonia while drawing on the expertise of our Finnish and Dutch [ELIXIR](https://elixir-europe.org/) partners to create lasting impact across Europe.
 
 **"Being part of ELIXIR Europe gave us the initial knowledge and the partners to develop data management in Estonia. Working on it daily has shown us how much more we have to do. With ELEVATE-DM and the experience our partners in Finland and the Netherlands bring, we can now reach the next level, one where good data management is something researchers can rely on, not something they have to solve alone."** Professor Hedi Peterson, the coordinator of ELEVATE-DM at the University of Tartu
 
