@@ -80,3 +80,4 @@ ELEVATE-DM officially begins in **January 2027**. Whether you are a researcher, 
 
 All news, event announcements, training registrations, and project outputs will be shared through our primary channels. Follow the project on the ELEVATE-DM website (*link coming soon*), in our [newsletter](https://lists.ut.ee/wws/subscribe/elixir.news?previous_action=edit_list_request), and on [LinkedIn](https://www.linkedin.com/company/elixir-estonia/) to stay up to date on news, events, and resources.
 
+*ELEVATE-DM will be funded under the Horizon Europe Twinning programme (HORIZON-WIDERA).*
