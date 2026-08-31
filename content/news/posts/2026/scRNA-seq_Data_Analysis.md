@@ -172,9 +172,10 @@ Day 3 – Wednesday 9th of September
 
 Day 4 - Thursday 10th of September
 
-    10:00 – 12:00  Group work
-    12:00 – 13:00  Lunch
-    14:00 – 15:00  Presentations
+    09:00 – 10:00  Group work
+    10:00-  11:00  Group presentations
+    11:00 – 11:30  Closing remarks
+
 
 
 ### Topics
