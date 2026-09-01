@@ -199,16 +199,6 @@ data-deadline-date="2026-09-08">
 </div>
 
 <div class="tile-grid">
-  <text-tile
-    title="Germany: GESIS Fall Seminar in Computational Social Science"
-    description="The GESIS Fall Seminar in Computational Social Science covers a wide range of methods for collecting, processing, and analysing digital data in the social sciences. Topics include web and mobile data collection, text and image analysis, machine learning, large language models, causal inference, agent-based modelling, and computational research workflows using R and Python. Courses are available both in Mannheim and online via Zoom. All courses can be taken independently, allowing participants to tailor the programme to their interests."
-    link="https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science"
-    dates="Date: 31 August – 29 September 2026"
-    data-deadline-date="2026-08-31">
-  </text-tile>
-</div>
-
-<div class="tile-grid">
 <text-tile
 title="Material: Ensembl transition webinars"
 description="This series will cover a range of topics including: What to train on if you include Ensembl as a topic in your own genomics modules, Resources for those who teach on Ensembl or who want to train on genome browsers, The transition plan for Ensembl platforms and what to expect from Ensembl resources ahead, The new ways of programmatically accessing Ensembl data as we move to more scalable and accessible architecture."
