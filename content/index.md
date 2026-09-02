@@ -179,16 +179,6 @@ data-deadline-date="2026-09-02">
 
 <div class="tile-grid">
 <text-tile
-title="Germany: Applied Metaproteomics Workshop Magdeburg 2026"
-description="This hands-on workshop provides comprehensive training in the complete metaproteomics workflow, from experimental design and sample preparation to high-resolution mass spectrometry and bioinformatics analysis. Participants will gain practical experience by working with leading experts and may bring their own samples to begin their own metaproteomics projects."
-link="https://www.denbi.de/training-courses-2026/2074-applied-metaproteomics-workshop-magdeburg-2026"
-dates="Date: 21 - 25 September 2026"
-data-deadline-date="2026-09-01">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Germany: Reconstructing the human past: using ancient and modern genomics"
 description="This EMBO | EMBL Symposium brings together researchers using ancient and modern genomics to investigate human history, evolution, migration, and adaptation. The programme highlights recent methodological advances and interdisciplinary approaches that connect archaeology, genetics, anthropology, and computational biology to reconstruct the human past."
 link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-10/"
@@ -208,17 +198,6 @@ data-added-date="2026-06-29">
 </text-tile>
 </div>
 
-
-<div class="tile-grid">
-  <text-tile
-    title="Czech Republic: 3rd BioExcel Conference on Advances in Biomolecular Simulations"
-    description="This four-day conference brings together the biomolecular research community to explore the latest advances in integrative modelling, free energy calculations, drug design, workflows, automation and data integration. The programme features keynote lectures, invited talks, selected presentations, poster sessions and networking opportunities for researchers working in biomolecular simulations."
-    link="https://bioexcel.eu/events/3rd-bioexcel-conference-on-advances-in-biomolecular-simulations/"
-    deadline="Registration deadline: 31 August 2026"
-    dates="Date: 27 - 30 September 2026"
-    data-deadline-date="2026-09-01">
-  </text-tile>
-</div>
 
 <div class="tile-grid">
 <text-tile
@@ -312,16 +291,6 @@ link="https://csc.fi/en/training-calendar/data-analysis-with-r-7/"
 deadline="Registration deadline: 20 September 2026"
 dates="Date: 24 - 25 September 2026"
 data-deadline-date="2026-09-21">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Software Management Plans, Basic Training"
-description="Software has become an essential component of modern research and is increasingly recognized as a valuable research output. This webinar introduces Software Management Plans (SMPs), explaining why and when they matter and providing practical tips and tools to help data support professionals guide researchers in creating and using them."
-link="https://csc.fi/en/training-calendar/software-management-plans-basic-training/"
-dates="Date: 1 September 2026"
-data-deadline-date="2026-09-01">
 </text-tile>
 </div>
 
