@@ -34,7 +34,7 @@ course:
 
   general:
     # If the course is open for registration, specify the sign-up form link here (otherwise, remove it):
-    register: https://forms.gle/GrVuE4RiR1YwxHp38
+    register:
 
     # If the course is invite-only, specify the details (plain-text) here (otherwise, remove it):
     invite:

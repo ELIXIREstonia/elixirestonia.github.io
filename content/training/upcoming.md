@@ -12,7 +12,7 @@ hands-on courses in the life science community on various topics.
 
 ## Free autumn courses 2026 by ELIXIR Estonia
 
-7-10.09.2026 - [scRNA-seq Data Analysis](../news/posts/2026/scRNA-seq_Data_Analysis.md) - Registration Open
+7-10.09.2026 - [scRNA-seq Data Analysis](../news/posts/2026/scRNA-seq_Data_Analysis.md)
 
 ## We are willing to train researchers on the following topics:
 

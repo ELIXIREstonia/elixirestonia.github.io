@@ -69,7 +69,7 @@ hide:
 
 ## Free autumn courses 2026 by ELIXIR Estonia
 
-7-10.09.2026 - [scRNA-seq Data Analysis](news/posts/2026/scRNA-seq_Data_Analysis.md) - Registration Open
+7-10.09.2026 - [scRNA-seq Data Analysis](news/posts/2026/scRNA-seq_Data_Analysis.md)
 
 
 !!! note ""
