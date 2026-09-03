@@ -168,17 +168,6 @@ data-added-date="2026-03-24">
 
 <div class="tile-grid">
 <text-tile
-title="Germany: Chemical biology 2026"
-description="This conference brings together researchers from academia and industry to showcase the latest advances across the rapidly evolving field of chemical biology. Participants will explore topics ranging from chemical technologies and synthetic biology to AI-driven design, RNA biology, and emerging therapeutic approaches, while benefiting from extensive opportunities for collaboration and networking."
-link="https://www.embl.org/about/info/course-and-conference-office/events/chb26-01/"
-deadline="Registration deadline: 28 July 2026 (on-site); 1 September 2026 (virtual)"
-dates="Date: 8 - 11 September 2026"
-data-deadline-date="2026-09-02">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Germany: Reconstructing the human past: using ancient and modern genomics"
 description="This EMBO | EMBL Symposium brings together researchers using ancient and modern genomics to investigate human history, evolution, migration, and adaptation. The programme highlights recent methodological advances and interdisciplinary approaches that connect archaeology, genetics, anthropology, and computational biology to reconstruct the human past."
 link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-10/"
@@ -347,26 +336,6 @@ data-deadline-date="2026-09-03">
 </text-tile>
 </div>
 
-
-<div class="tile-grid">
-<text-tile
-title="Online: 1-hour pre-conference online poster and pitching tips"
-description="This one-hour online session helps participants prepare for conferences by improving how they design and present scientific posters. It provides practical tips for creating an effective poster and delivering a clear, engaging pitch to communicate research successfully."
-link="https://training.vib.be/all-trainings/1-hour-pre-conference-online-poster-and-pitching-tips-0"
-dates="Date: 2 September 2026"
-data-deadline-date="2026-09-02">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Luxembourg: Statistical tests and statistical learning for omics data"
-description="This advanced statistics course covers feature selection in statistical tests, clustering and statistical learning methods for omics data. Participants will gain experience in data preprocessing, quality control, pathway and network analysis, as well as machine learning approaches for sample clustering and classification."
-link="https://elixir-luxembourg.org/events/2026-09-08-statisticallearning/"
-dates="Date: 2 - 3 September 2026"
-data-deadline-date="2026-09-02">
-</text-tile>
-</div>
 
 <div class="tile-grid">
 <text-tile
