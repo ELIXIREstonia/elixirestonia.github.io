@@ -328,34 +328,12 @@ data-deadline-date="2026-10-01">
 
 <div class="tile-grid">
 <text-tile
-title="Online: 1-hour pre-conference online presentation and public speaking tips"
-description="This one-hour online session is designed to help conference speakers strengthen their presentation and public speaking skills. Participants will receive practical tips to communicate their message clearly and deliver their presentation with greater confidence and impact."
-link="https://training.vib.be/all-trainings/1-hour-pre-conference-online-presentation-and-public-speaking-tips-0"
-dates="Date: 3 September 2026"
-data-deadline-date="2026-09-03">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: At the forefront of plant research (4th edition)"
 description="Understanding and harnessing plant life is essential for developing sustainable solutions that improve crop productivity and quality while supporting environmentally responsible agriculture. This conference brings together leading experts to explore future directions in plant life science, covering topics such as AI and machine learning, genome engineering, single-cell and omics technologies, evolution and development, cell signalling, and structural biology."
 link="https://www.vibconferences.be/events/at-the-forefront-of-plant-research-4th-edition"
 deadline="Registration deadline: 3 September 2026"
 dates="Date: 17 - 18 September 2026"
 data-deadline-date="2026-09-04">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Hybrid: High Performance R"
-description="This hybrid course is designed for R users who want to make their analyses more efficient and get more from available computing resources. Participants will learn to benchmark and profile R code, improve performance, and use parallel and distributed computing on both local and supercomputing resources."
-link="https://csc.fi/en/training-calendar/high-performance-r-3/"
-deadline="Registration deadline: 2 September 2026"
-dates="Date: 7 - 8 September 2026"
-data-deadline-date="2026-09-03">
 </text-tile>
 </div>
 
