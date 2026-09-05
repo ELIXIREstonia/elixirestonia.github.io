@@ -328,17 +328,6 @@ data-deadline-date="2026-10-01">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: At the forefront of plant research (4th edition)"
-description="Understanding and harnessing plant life is essential for developing sustainable solutions that improve crop productivity and quality while supporting environmentally responsible agriculture. This conference brings together leading experts to explore future directions in plant life science, covering topics such as AI and machine learning, genome engineering, single-cell and omics technologies, evolution and development, cell signalling, and structural biology."
-link="https://www.vibconferences.be/events/at-the-forefront-of-plant-research-4th-edition"
-deadline="Registration deadline: 3 September 2026"
-dates="Date: 17 - 18 September 2026"
-data-deadline-date="2026-09-04">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: LMU Open Science Summer School 2026"
 description="All lectures are opened for public registration. All times are CEST.
   * Alexander Wuttke: Replicability crisis Monday - 7 September, 09:45-10:45
