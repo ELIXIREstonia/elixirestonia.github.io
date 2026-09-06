@@ -98,57 +98,6 @@ As research becomes increasingly collaborative and data-intensive, researchers n
 
 <div class="tile-grid">
 <text-tile
-title="Material: Welcome to the Research Data Management Video Series"
-description="This introductory video presents a comprehensive video series on research data management, from planning and organizing data to sharing it ethically and effectively. It explains the recommended viewing order and highlights how the series supports students, early-career researchers, and data stewards in building good data practices across disciplines."
-materials="https://www.youtube.com/watch?v=GBrpv8ZzBZ0&list=PLCgtsnEJOw6zUBZv7lqWiWAcEbv5n41JK"
-materialstext="Video series"
-data-added-date="2026-03-06">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Material: RDA and National Open Science Policies"
-description="RDA’s interactive resource maps RDA groups, recommendations and outputs to European national Open Science policies, showing how RDA’s community-driven work supports strategic open science needs across Europe. This resource highlights areas of current support and opportunities to strengthen national and regional research data and open science policy alignment. Explore the mapping to see how RDA contributes to FAIR data and open science policy frameworks."
-materials="https://www.rd-alliance.org/rda-and-national-open-science-policies/"
-materialstext="Interactive resource"
-data-added-date="2026-03-06">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
-title="Material: A fast, accurate ‘sequence search engine’"
-description="The MetaGraph tool can rapidly search through millions of published DNA, RNA, and protein sequences, overcoming current limitations in analysing vast biological data. Developed by SIB scientists at ETH Zurich and published in Nature, this tool functions like a search engine for biological sequences, accelerating life-science research and biomedical discovery."
-materials="https://www.sib.swiss/news/a-fast-accurate-sequence-search-engine"
-materialstext="Webpage"
-data-added-date="2026-03-06">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Material: Fellows’ Complementary Skills Resources"
-description="The EMBL Fellows’ Career Service’s complementary skills resources page provides a curated collection of openly available tools and guides to help early-career life scientists strengthen key professional competencies. It includes resources covering communication, leadership, professionalism, career development, project management, and related transferable skills, with links to practical guides, checklists, webinars, and further materials to support career readiness."
-materials="https://www.embl.org/about/info/embl-fellows-career-service/info-resources/complementary-skills-resources/"
-materialstext="Webinar & resources page"
-data-added-date="2026-03-06">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Material: Data Management for Researchers"
-description="The Data Management for Researchers learning path is designed to support researchers in developing strong, practical skills across the entire data lifecycle. It introduces key elements of good data management practice — including FAIR principles, Data Management Plans (DMPs), metadata standards, data licensing, data publishing and sharing, and ethical considerations in responsible data handling — with materials from diverse institutions across Europe."
-materials="https://tess.elixir-europe.org/learning_paths/data-management-for-researchers"
-materialstext="Material link"
-data-added-date="2026-03-06">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: The Communities of Practice Playbook"
 description="The Communities of Practice Playbook is a practical guide developed by the European Commission to help organisations build, manage, and grow communities of practice. It provides step-by-step guidance, good practices, and interactive tools to support collaboration, knowledge sharing, and community development. The playbook focuses on key success factors such as vision, governance, leadership, and engagement across the community lifecycle. Playbook includes:  [Your Community Roadmap](https://dx.doi.org/10.2760/5296677), [The Communities of Practice Checklist](https://dx.doi.org/10.2760/8175409), [The Communities of Practice Barometer](https://dx.doi.org/10.2760/0749239), [The Community Digital Compass](https://dx.doi.org/10.2760/7062939)"
 materials="https://op.europa.eu/webpub/jrc/communities-of-practice-playbook/en/index.html"
