@@ -515,3 +515,196 @@ data-added-date="2026-08-25">
 </text-tile>
 </div>
 
+<div class="tile-grid">
+<text-tile
+title="Belgium: AI and Computational Biology"
+description="This conference explores how artificial intelligence is transforming life sciences research and advancing our understanding of complex biological systems. Internationally recognized speakers will present developments across four key themes: genome to function, cell to system, disease modeling, and innovation in machine learning."
+link="https://www.vibconferences.be/events/ai-and-computational-biology"
+deadline="Registration deadline: 25 November 2026"
+dates="Date: 9 - 10 December 2026"
+data-deadline-date="2026-11-26">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="The Netherlands: Dynamic Modeling in Systems Biology"
+description="Living organisms exhibit remarkable hierarchical complexity that cannot be understood through data collection alone. This course provides theoretical and hands-on training in building, simulating, and analyzing mathematical models of biological systems, with particular attention to numerical optimization and connecting model predictions with experimental data."
+link="https://www.dtls.nl/courses/dynamic-modeling-in-systems-biology-2026/"
+dates="Date: 7 - 11 December 2026"
+data-deadline-date="2026-12-07">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Netherlands: M4i Mass Spectrometry Imaging Workshop"
+description="This 5-day workshop introduces Mass Spectrometry Imaging fundamentals, including MALDI, DESI, REIMS and SIMS, as well as the latest developments in MALDI imaging, sample preparation and data analysis. Participants will take part in multiple practical sessions and gain hands-on experience using state-of-the-art mass spectrometry facilities at M4i."
+link="https://www.maastrichtuniversity.nl/events/m4i-mass-spectrometry-imaging-workshop"
+deadline="Registration deadline: 10 November 2026"
+dates="Date: 23 - 27 November 2026"
+data-deadline-date="2026-11-10">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: 2nd Berlin Winter School in RNA-Seq Data Analysis 2026"
+description="This workshop provides a deeper understanding of Next-Generation Sequencing (NGS), with a special focus on bioinformatics and RNA-Seq data analysis. Designed for beginners, participants will gain hands-on experience with NGS data formats, read alignment, differential expression analysis, diagnostic graphics, and other essential bioinformatics tools using real-life RNA-Seq data."
+link="https://www.ecseq.com/workshops/workshop_2026-08-2nd-Berlin-Winter-School-RNA-Seq-Data-Analysis"
+deadline="Registration deadline: 30 October 2026"
+dates="Date: 2 - 5 November 2026"
+data-deadline-date="2026-10-31">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Improving Science with Science: Open Research, Equity, and Contributor Recognition"
+description="This webinar explores how Open Science practices and meta-research can improve the reliability, transparency, and inclusivity of scientific research. Dr Malgorzata Lagisz will present examples of research on scientific culture, contributor recognition, and equity, highlighting how evidence can identify structural barriers and support more transparent, collaborative, and fair research systems."
+link="https://www.scilifelab.se/event/improving-science-with-science-open-research-equity-and-contributor-recognition/"
+dates="Date: 9 September 2026"
+data-deadline-date="2026-09-09">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Belgium: REcommended Metadata for Biological Imaging (REMBI): Essentials in bioimaging metadata"
+description="This workshop explores the REMBI metadata schema and how it can be applied to make biological imaging data more FAIR (Findable, Accessible, Interoperable and Reusable). Through an interactive, hands-on approach using participants’ own data examples, attendees will learn how to organize bioimaging metadata, apply REMBI recommendations and prepare datasets for deposition in the BioImage Archive."
+link="https://training.vib.be/all-trainings/recommended-metadata-biological-imaging-rembi-essentials-bioimaging-metadata"
+deadline="4 October 2026"
+dates="Date: 13 October 2026"
+data-deadline-date="2026-10-04">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Bioconductor Africa Seminar series: Single-cell RNA sequencing data analysis with Bioconductor"
+description="Join us for the next session in the Bioconductor Africa Seminar Series featuring Dr Jacques Serizay. This seminar series introduces biologists and bioinformaticians to single-cell RNA sequencing, covering software and analysis workflows from best practices in filtering scRNA-seq data through downstream analysis of cell clusters and temporal ordering. Participants will gain insights into the pre-processing, analysis and interpretation of scRNA-seq data, and the seminar is open to all career stages and regions."
+link="https://us06web.zoom.us/meeting/register/J8zlMhDfRuWCTBT0Fv7fNg#/registration"
+dates="Date: 16 and 23 September 2026"
+data-deadline-date="2026-09-16">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Finland: Quantum Machine Learning"
+description="This two-day course introduces how Machine Learning approaches can be combined with Quantum Technology, covering key concepts in statistics, probability, supervised and unsupervised learning, and quantum machine learning. The course focuses on gate-based quantum computing using Qiskit and includes hands-on sessions exploring both classical and quantum approaches."
+link="https://csc.fi/en/training-calendar/quantum-machine-learning-2/"
+dates="Date: 15 - 16 October 2026"
+data-deadline-date="2026-10-15">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Practical Deep Learning"
+description="This course gives a practical introduction to deep learning, covering common neural network architectures such as convolutional, recurrent, and transformer models. Through lectures and hands-on PyTorch exercises, participants will learn to train and apply deep neural networks for natural language processing, images, and other applications, including using GPU resources and the Roihu supercomputer."
+link="https://csc.fi/en/training-calendar/practical-deep-learning-8/"
+deadline="Registration deadline: 14 October 2026 (in-person) / 18 October 2026 (online)"
+dates="Date: 21 - 22 October 2026"
+data-deadline-date="2026-10-19">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Practical Data Wrangling"
+description="This workshop covers practical data wrangling techniques for numerical, categorical, time series, text, event/log, and image data. Participants will learn to identify and handle missing values, outliers, inconsistencies, duplicates, and formatting issues, while gaining hands-on experience building reproducible data wrangling pipelines for downstream analysis and machine learning."
+link="https://enccs.se/event/workshop-practical-data-wrangling/"
+dates="Date: 15 - 16 September 2026"
+data-deadline-date="2026-09-15">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Foundation Models for Atoms: Machine-Learned Interatomic Potentials in Practice"
+description="This webinar provides a conceptual and practical introduction to universal machine-learned interatomic potentials (MLIPs), which can deliver near-DFT accuracy at a fraction of the computational cost. Participants will learn about pre-training and fine-tuning workflows, GPU-accelerated simulation engines, model selection and validation, and emerging directions in AI-driven computational materials science, with examples relevant to European HPC resources."
+link="https://enccs.se/event/webinar-foundation-models-for-atoms-machine-learned-interatomic-potentials-in-practice/"
+dates="Date: 30 September 2026"
+data-deadline-date="2026-09-30">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: RDM4Mic Meeting 2026"
+description="The RDM4Mic Meeting brings together research data management practitioners, microscopy core facility staff, bioimage analysts, and researchers interested in data sharing, metadata, and FAIR principles. The first day features hybrid talks, while days two and three consist of on-site workshops covering topics such as OMERO, OME-NGFF, ELN integration, and FAIR data management."
+link="https://forum.image.sc/t/rdm4mic-2026-join-us-in-cologne-7-9-october/122379"
+deadline="Registration deadline: 2 October 2026"
+dates="Date: 7 - 9 October 2026"
+data-deadline-date="2026-10-03">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Luxembourg: Impact of Big Data & AI Analytics on Healthcare"
+description="This conference brings together experts in AI, machine learning and biomedicine to explore how data-driven innovation is transforming healthcare, from drug discovery to precision medicine and clinical applications. The programme covers big data and machine learning, target discovery and drug development, clinical decision support systems, and technological and industrial advances, while fostering interdisciplinary exchange and collaboration across the international bioinformatics community."
+link="https://bigdata.uni.lu/"
+deadline="Registration deadline: 5 November 2026"
+dates="Date: 19 - 20 November 2026"
+data-deadline-date="2026-11-06">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Constraint-based modeling of metabolic networks with CellNetAnalyzer and CNApy: Module 1 - Basics"
+description="This course introduces the principles and key methods of constraint-based modeling of metabolic networks, combined with live demonstrations and hands-on exercises using CellNetAnalyzer (CNA) and its Python variant CNApy. Participants will explore metabolic flux analysis, flux variability analysis and metabolic pathway analysis while practicing with small example and realistic metabolic models."
+link="https://www.denbi.de/training-courses-2026/2116-constraint-based-modeling-of-metabolic-networks-with-cellnetanalyzer-and-cnapy-module-1-basics"
+dates="Date: 5 November 2026"
+data-deadline-date="2026-11-05">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Constraint-based modeling of metabolic networks with CellNetAnalyzer and CNApy: Module 2 - Advanced topics"
+description="Building upon the CellNetAnalyzer/CNApy introductory course, this course covers advanced methods for constraint-based modeling of metabolic networks, including phase planes and yield spaces, minimal cut sets, enzyme-constrained models, and COBRA-k. Live demonstrations and hands-on exercises with CellNetAnalyzer and CNApy will help participants apply these advanced techniques in their own work."
+link="https://www.denbi.de/training-courses-2026/2117-constraint-based-modeling-of-metabolic-networks-with-cellnetanalyzer-and-cnapy-module-2-advanced-topics"
+dates="Date: 19 November 2026"
+data-deadline-date="2026-11-19">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: A Practical Introduction to NGS Data Analysis and Variant Calling"
+description="This online workshop provides a practical introduction to Next-Generation Sequencing (NGS), with a focus on bioinformatics and the advantages and limitations of current sequencing technologies. Participants will work with a real-life Illumina dataset to understand NGS data, identify potential problems and error sources, and perform a first downstream analysis for DNA variant calling. The course is designed for beginners with little or no background in NGS bioinformatics or computer science."
+link="https://www.ecseq.com/workshops/workshop_2026-09-A-Practical-Introduction-to-NGS-Data-Analysis-Online-Course"
+deadline="Registration deadline: 22 November 2026"
+dates="Date: 23 - 25 November 2026"
+data-deadline-date="2026-11-23">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Practical machine learning with spatial data"
+description="This course gives a practical introduction to machine learning with spatial data, covering both shallow and deep learning models, including convolutional neural networks (CNN). Through lectures and hands-on Python exercises, participants will learn to apply machine learning to spatial data analysis and use supercomputer GPU resources for model training and deployment."
+link="https://csc.fi/en/training-calendar/practical-machine-learning-with-spatial-data-3/"
+deadline="Registration deadline: 20 October 2026"
+dates="Date: 28 - 30 October 2026"
+data-deadline-date="2026-10-21">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: Working with hard-to-share data?"
+description="Researchers in the social sciences and humanities often work with data that cannot easily be shared due to ethical, cultural, commercial or practical constraints. Developed through the Beyond Personal Data project, these guidebooks and openly licensed training materials offer practical guidance for responsibly sharing sensitive data, including field notes, using secure environments, and applying the CARE principles."
+materials="https://dans.knaw.nl/en/news/working-with-hard-to-share-data/"
+materialstext="Materials"
+data-added-date="2026-09-07">
+</text-tile>
+</div>
+
