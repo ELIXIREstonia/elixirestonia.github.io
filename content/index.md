@@ -708,3 +708,57 @@ data-added-date="2026-09-07">
 </text-tile>
 </div>
 
+<div class="tile-grid">
+<text-tile
+title="Online: Metadata management in the real world webinar: Help shape the development of our metadata training"
+description="This webinar will showcase two new metadata management courses designed to improve metadata creation, research data management, and the effective use of research infrastructures and data services. Participants will hear findings from research on students’ understanding and use of metadata, tour the beta ‘Understanding metadata’ online courses, and have an opportunity to provide feedback to help shape their future development."
+link="https://closer.ac.uk/events/metadata-management-in-the-real-world-webinar-metadata-training/"
+dates="Date: 30 September 2026"
+data-deadline-date="2026-09-30">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Online: Data Stewards Interest Group – Meeting 55: Citizen Science and Open Science Infrastructure"
+description="This Data Stewards Interest Group meeting will focus on a presentation and discussion on Citizen Science and Open Science infrastructure. Margaret Gold (Citizen Science Netherlands) will present the work underway in the context of developing the EOSC Citizen Science Node and involve data stewards in a discussion around needs, experiences and future developments, as well as share other developments for Citizen Science Research Infrastructure."
+link="https://docs.google.com/forms/d/e/1FAIpQLSfq4jQxapOY68FY-BenTIiUV0-9fz4q71NkNgU0369zqGtU8A/viewform?usp=header"
+dates="Date: 21 September 2026"
+data-deadline-date="2026-09-21">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: OpenFest 2026"
+description="OpenFest is the annual flagship celebration and exploration of open research, co-delivered by the University of Sheffield and Sheffield Hallam University. With the 2026 theme “Open Research: People and Place”, the event explores how open research is shaped by communities, geographic contexts and organisational practices, with sessions highlighting inclusive methodologies, dissemination, participation and the social and political dimensions of openness."
+link="https://libguides.shu.ac.uk/openresearch/openfest"
+dates="Date: 15 - 18 September 2026"
+data-deadline-date="2026-09-15">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Spilling the ReproducibiliTea 2026 — A decade on & decades ahead"
+description="This one-day online conference reflects on ten years of progress in improving reproducibility in research and looks ahead to the challenges and opportunities of the next decade. Researchers, practitioners, and advocates from around the world will discuss persistent problems, solutions, and grassroots initiatives supporting open and reproducible research."
+link="https://reproducibilitea.org/conference2026"
+dates="Date: 25 September 2026"
+data-deadline-date="2026-09-25">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: The DCN CURATE(D) Steps"
+description="The Data Curation Network (DCN) developed the standardized CURATE(D) steps and checklists to help ensure datasets receive consistent and thorough curation. The workflow guides curators through checking and understanding data, requesting changes, augmenting metadata, transforming file formats, evaluating FAIRness, and documenting curation activities."
+materials="https://z.umn.edu/curate"
+materialstext="CURATE(D) Checklist"
+data-added-date="2026-09-07">
+</text-tile>
+</div>
+
+
+
+
