@@ -117,17 +117,6 @@ data-added-date="2026-03-24">
 
 <div class="tile-grid">
 <text-tile
-title="Germany: Reconstructing the human past: using ancient and modern genomics"
-description="This EMBO | EMBL Symposium brings together researchers using ancient and modern genomics to investigate human history, evolution, migration, and adaptation. The programme highlights recent methodological advances and interdisciplinary approaches that connect archaeology, genetics, anthropology, and computational biology to reconstruct the human past."
-link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-10/"
-deadline="Registration deadline: 4 August 2026 (On-site) / 8 September 2026 (Virtual)"
-dates="Date: 15 - 18 September 2026"
-data-deadline-date="2026-09-08">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Ensembl transition webinars"
 description="This series will cover a range of topics including: What to train on if you include Ensembl as a topic in your own genomics modules, Resources for those who teach on Ensembl or who want to train on genome browsers, The transition plan for Ensembl platforms and what to expect from Ensembl resources ahead, The new ways of programmatically accessing Ensembl data as we move to more scalable and accessible architecture."
 materials="https://www.ebi.ac.uk/training/events/ensembl-transition/"
@@ -407,17 +396,6 @@ description="This hands-on workshop guides participants through the process of c
 link="https://hemafairproject.eu/event/designing-and-implementing-a-good-data-management-plan-practical-workshop/"
 dates="Date: 24 September 2026"
 data-deadline-date="2026-09-24">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Germany: A Practical Introduction to NGS Data Analysis and Variant Calling"
-description="This beginner-friendly workshop provides a practical introduction to Next-Generation Sequencing (NGS), focusing on the bioinformatics steps needed to assess data quality, identify common problems, and perform reliable analyses. Participants will work hands-on with a real-life Illumina NGS dataset, covering quality control, preprocessing, read mapping, visualization, and DNA variant calling."
-link="https://www.ecseq.com/workshops/workshop_2026-07-NGS-Next-Generation-Sequencing-Data-Analysis-A-Practical-Introduction"
-deadline="Registration deadline: 7 September 2026"
-dates="Date: 9 - 11 September 2026"
-data-deadline-date="2026-09-08">
 </text-tile>
 </div>
 
