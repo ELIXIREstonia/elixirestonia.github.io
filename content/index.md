@@ -358,17 +358,6 @@ data-deadline-date="2026-11-06">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: DNA replication and genome maintenance: from basic biology to human health"
-description="This EMBO | EMBL Symposium brings together experts in DNA replication and genome maintenance to explore advances in replication machinery, chromatin dynamics, genome stability and DNA repair. The programme also examines replication stress in development, ageing and cancer, connecting fundamental discoveries with their implications for human disease and potential therapies."
-link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-13/"
-deadline="Registration deadline: 8 September 2026 (on-site); 13 October 2026 (virtual)"
-dates="Date: 20 - 23 October 2026"
-data-deadline-date="2026-09-09">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: Unlocking the functional diversity of gut microbiomes"
 description="This conference explores the functional diversity of the human gut microbiome and the molecular and ecological mechanisms linking microbial communities to human health. It will focus on approaches for mapping gene function, establishing new model gut microorganisms, and advancing the field from descriptive observations toward causal and mechanistic insights."
 link="https://www.embl.org/about/info/course-and-conference-office/events/gmd26-01/"
@@ -533,16 +522,6 @@ link="https://www.ecseq.com/workshops/workshop_2026-08-2nd-Berlin-Winter-School-
 deadline="Registration deadline: 30 October 2026"
 dates="Date: 2 - 5 November 2026"
 data-deadline-date="2026-10-31">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Improving Science with Science: Open Research, Equity, and Contributor Recognition"
-description="This webinar explores how Open Science practices and meta-research can improve the reliability, transparency, and inclusivity of scientific research. Dr Malgorzata Lagisz will present examples of research on scientific culture, contributor recognition, and equity, highlighting how evidence can identify structural barriers and support more transparent, collaborative, and fair research systems."
-link="https://www.scilifelab.se/event/improving-science-with-science-open-research-equity-and-contributor-recognition/"
-dates="Date: 9 September 2026"
-data-deadline-date="2026-09-09">
 </text-tile>
 </div>
 
