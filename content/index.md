@@ -245,17 +245,6 @@ data-deadline-date="2026-09-29">
 
 <div class="tile-grid">
 <text-tile
-title="Switzerland: Biology-informed Integration and Visualisation of Multiomics Data"
-description="This 3-day course focuses on the practical application of R to integrate and visualise multiomics data, including ATAC-seq, RNA-seq, ChIP-seq, and bisulphite-seq. Participants will learn to combine pre-processed datasets, perform functional analyses, and create effective visualisations, with hands-on exercises and group projects using published multiomics research data."
-link="https://www.sib.swiss/training/course/20260923_BIVMD"
-deadline="Registration deadline: 09 September 2026"
-dates="Date: 23 - 25 September 2026"
-data-deadline-date="2026-09-10">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: CodeRefinery Workshop"
 description="A free online workshop on research software development tools and best practices. The workshop covers version control with Git, collaborative development, reproducible research, software documentation, responsible use of generative AI, automated testing, and modular code development."
 link="https://coderefinery.github.io/2026-09-22-workshop/"
