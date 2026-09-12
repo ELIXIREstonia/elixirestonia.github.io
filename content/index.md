@@ -255,24 +255,6 @@ data-deadline-date="2026-10-01">
 
 <div class="tile-grid">
 <text-tile
-title="Online: LMU Open Science Summer School 2026"
-description="All lectures are opened for public registration. All times are CEST.
-  * Alexander Wuttke: Replicability crisis Monday - 7 September, 09:45-10:45
-  *  Malika Ihle: Credible research - Monday 7 September, 11:00-11:45
-  * Reema Gupta: Data sharing- Tuesday 8 September, 9:00-09:45
-  * Richard McElreath: A Guerilla approach to scientific workflows- Wednesday 9 September, 9:00-10:00
-  * Sarah von Grebmer: Open access, preprints, postprints - Wednesday 9 September, 10:15-11:45
-  * Jonas Hagenberg: Readable code- Thursday 10 September, 09:00-09:45
-  * Tim Errington: Assessing research repeatability- Thursday 10 September, 16:30-17:30
-  * Danny Maupin: Open Science: The tension between equity and exploitation- Friday 11 September, 09:00-10:00."
-link="https://lmu-osc.github.io/Open-Science-Summer-School-2026/public-lectures.html"
-dates="Date: 07- 11.09.2026 "
-data-deadline-date="2026-09-11">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: FAIR Research Data Management Train-the-Trainers Bootcamp for Data Stewards"
 description="This intensive four-day online programme is designed for intermediate and experienced data stewards, research support professionals, librarians, repository managers, and institutional RDM practitioners. Through practical exercises, institutional case studies, collaborative activities, and reusable teaching resources, participants will strengthen their practical and pedagogical skills for supporting FAIR Research Data Management and Open Science within their organisations."
 link="https://www.openaire.eu/save-the-date-fair-research-data-management-train-the-trainers-bootcamp-for-data-stewards"
