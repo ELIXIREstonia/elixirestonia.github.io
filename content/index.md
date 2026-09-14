@@ -91,6 +91,14 @@ As research becomes increasingly collaborative and data-intensive, researchers n
 
 [More info](news/posts/2026/ELEVATE-DM_Announcement.md)
 
+
+### Continued collaboration with ELIXIR-CZ
+
+Estonia and the Czech Republic work well together at every level; as ELIXIR Nodes, as universities and as countries, and this year has shown all three. This week, it was our turn to host: after two springs of Estonian trainers teaching in Prague, ELIXIR-CZ trainers came to Tartu.
+
+[More info](news/posts/2026/Collaboration_w_CZ.md)
+
+
 ---
 ## External courses/materials
 
