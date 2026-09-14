@@ -43,7 +43,7 @@ course:
     audience: This course is designed for life scientists and bioinformaticians with experience in next-generation sequencing who aspire to analyse scRNA-seq gene expression data.
 
     # Specify lecturers in plain-text in the language of the template:
-    lecturers: Jan Kubovčiak, Lucie Pfeiferová, Kateřina Večerková
+    lecturers: Jan Kubovčiak, Lucie Pfeiferová, Vojtěch Melichar
 
 
     # Specify "Key Topics" as a YAML list:
