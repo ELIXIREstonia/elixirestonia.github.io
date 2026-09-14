@@ -3,7 +3,7 @@
 template: training_en.html
 
 # You may use full custom title here. If omitted, it will be generated from course name.
-title: scRNA-seq Data Analysis - 07.-10.  Sept 2026 - Registration OPEN
+title: scRNA-seq Data Analysis - 07.-10.  Sept 2026 
 draft: false
 hide:
   - toc
@@ -96,7 +96,7 @@ course:
       instructors:
         - Jan Kubovčiak
         - Lucie Pfeiferová
-        - Kateřina Večerková
+        - Vojtěch Melichar
       onsite:
         building: DELTA
         room: 2029
