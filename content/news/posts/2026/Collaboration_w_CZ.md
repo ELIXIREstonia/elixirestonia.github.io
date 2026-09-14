@@ -30,7 +30,7 @@ This September, the direction reversed. From 7 to 10 September, Jan Kubovčiak, 
 
 > "The practical exercises were very well constructed, the step-by-step instructions were great." — Course participant
 
-![The picture of course participants with the trainers](../../../assets/images/events/026-09_CZ-in-Tartu.jpg)
+![The picture of course participants with the trainers](../../../assets/images/events/2026-09_CZ-in-Tartu.jpg)
 
 
 Exchanges like this are, for us, among the best things about belonging to a pan-European research infrastructure. ELIXIR connects people and expertise across borders, giving our community the chance to learn from and work with colleagues in other countries. It is also a reminder of why research infrastructures that provide open training and services need sustained support and funding.
