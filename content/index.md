@@ -69,7 +69,7 @@ hide:
 
 ## Free autumn courses 2026 by ELIXIR Estonia
 
-Updates will be added soon
+29.09.2026 [Data Visualization with AI Tools](news/posts/2026/padevuspaev_2909.md) during Competence day "AI at the university: skills, responsibility and critical choices"
 
 
 !!! note ""
