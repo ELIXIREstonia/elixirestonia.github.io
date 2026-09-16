@@ -550,16 +550,6 @@ data-deadline-date="2026-10-19">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Practical Data Wrangling"
-description="This workshop covers practical data wrangling techniques for numerical, categorical, time series, text, event/log, and image data. Participants will learn to identify and handle missing values, outliers, inconsistencies, duplicates, and formatting issues, while gaining hands-on experience building reproducible data wrangling pipelines for downstream analysis and machine learning."
-link="https://enccs.se/event/workshop-practical-data-wrangling/"
-dates="Date: 15 - 16 September 2026"
-data-deadline-date="2026-09-15">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Foundation Models for Atoms: Machine-Learned Interatomic Potentials in Practice"
 description="This webinar provides a conceptual and practical introduction to universal machine-learned interatomic potentials (MLIPs), which can deliver near-DFT accuracy at a fraction of the computational cost. Participants will learn about pre-training and fine-tuning workflows, GPU-accelerated simulation engines, model selection and validation, and emerging directions in AI-driven computational materials science, with examples relevant to European HPC resources."
 link="https://enccs.se/event/webinar-foundation-models-for-atoms-machine-learned-interatomic-potentials-in-practice/"
@@ -662,16 +652,6 @@ description="This Data Stewards Interest Group meeting will focus on a presentat
 link="https://docs.google.com/forms/d/e/1FAIpQLSfq4jQxapOY68FY-BenTIiUV0-9fz4q71NkNgU0369zqGtU8A/viewform?usp=header"
 dates="Date: 21 September 2026"
 data-deadline-date="2026-09-21">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: OpenFest 2026"
-description="OpenFest is the annual flagship celebration and exploration of open research, co-delivered by the University of Sheffield and Sheffield Hallam University. With the 2026 theme “Open Research: People and Place”, the event explores how open research is shaped by communities, geographic contexts and organisational practices, with sessions highlighting inclusive methodologies, dissemination, participation and the social and political dimensions of openness."
-link="https://libguides.shu.ac.uk/openresearch/openfest"
-dates="Date: 15 - 18 September 2026"
-data-deadline-date="2026-09-15">
 </text-tile>
 </div>
 
