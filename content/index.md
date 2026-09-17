@@ -517,17 +517,6 @@ data-deadline-date="2026-10-04">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Bioconductor Africa Seminar series: Single-cell RNA sequencing data analysis with Bioconductor"
-description="Join us for the next session in the Bioconductor Africa Seminar Series featuring Dr Jacques Serizay. This seminar series introduces biologists and bioinformaticians to single-cell RNA sequencing, covering software and analysis workflows from best practices in filtering scRNA-seq data through downstream analysis of cell clusters and temporal ordering. Participants will gain insights into the pre-processing, analysis and interpretation of scRNA-seq data, and the seminar is open to all career stages and regions."
-link="https://us06web.zoom.us/meeting/register/J8zlMhDfRuWCTBT0Fv7fNg#/registration"
-dates="Date: 16 and 23 September 2026"
-data-deadline-date="2026-09-16">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Finland: Quantum Machine Learning"
 description="This two-day course introduces how Machine Learning approaches can be combined with Quantum Technology, covering key concepts in statistics, probability, supervised and unsupervised learning, and quantum machine learning. The course focuses on gate-based quantum computing using Qiskit and includes hands-on sessions exploring both classical and quantum approaches."
 link="https://csc.fi/en/training-calendar/quantum-machine-learning-2/"
