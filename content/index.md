@@ -220,17 +220,6 @@ data-deadline-date="2026-10-26">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Data Analysis with R"
-description="R is one of the most popular tools for manipulating, visualizing and analysing data, but getting started can involve a steep learning curve. This introductory course equips learners with essential R skills, including data importing and exporting, data wrangling, working with real-life datasets, basic statistics, and creating publication-ready plots through hands-on teaching and exercises."
-link="https://csc.fi/en/training-calendar/data-analysis-with-r-7/"
-deadline="Registration deadline: 20 September 2026"
-dates="Date: 24 - 25 September 2026"
-data-deadline-date="2026-09-21">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: Workshop – Data and workflow management with LabID"
 description="This 1.5-day workshop introduces data management with LabID through hands-on tutorials and practical use cases covering concepts such as studies, assays, samples, and raw data registration. Participants will also explore LabID’s workflow integration for documenting the provenance of derived datasets, with examples involving sequencing and image-conversion workflows."
 link="https://bio-it.embl.de/events/workshop-data-and-workflow-management-with-labid/"
@@ -633,16 +622,6 @@ data-deadline-date="2026-09-30">
 </text-tile>
 </div>
 
-
-<div class="tile-grid">
-<text-tile
-title="Online: Data Stewards Interest Group – Meeting 55: Citizen Science and Open Science Infrastructure"
-description="This Data Stewards Interest Group meeting will focus on a presentation and discussion on Citizen Science and Open Science infrastructure. Margaret Gold (Citizen Science Netherlands) will present the work underway in the context of developing the EOSC Citizen Science Node and involve data stewards in a discussion around needs, experiences and future developments, as well as share other developments for Citizen Science Research Infrastructure."
-link="https://docs.google.com/forms/d/e/1FAIpQLSfq4jQxapOY68FY-BenTIiUV0-9fz4q71NkNgU0369zqGtU8A/viewform?usp=header"
-dates="Date: 21 September 2026"
-data-deadline-date="2026-09-21">
-</text-tile>
-</div>
 
 <div class="tile-grid">
 <text-tile
