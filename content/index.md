@@ -106,25 +106,6 @@ Estonia and the Czech Republic work well together at every level; as ELIXIR Node
 
 <div class="tile-grid">
 <text-tile
-title="Material: The Communities of Practice Playbook"
-description="The Communities of Practice Playbook is a practical guide developed by the European Commission to help organisations build, manage, and grow communities of practice. It provides step-by-step guidance, good practices, and interactive tools to support collaboration, knowledge sharing, and community development. The playbook focuses on key success factors such as vision, governance, leadership, and engagement across the community lifecycle. Playbook includes:  [Your Community Roadmap](https://dx.doi.org/10.2760/5296677), [The Communities of Practice Checklist](https://dx.doi.org/10.2760/8175409), [The Communities of Practice Barometer](https://dx.doi.org/10.2760/0749239), [The Community Digital Compass](https://dx.doi.org/10.2760/7062939)"
-materials="https://op.europa.eu/webpub/jrc/communities-of-practice-playbook/en/index.html"
-data-added-date="2026-03-24">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Material: An introduction to Nextflow"
-description="This webinar introduces workflow management systems and explains their importance in handling large-scale biological data in a reproducible and scalable way. Through a practical example, participants learn how to transform simple bash scripts into a portable Nextflow pipeline that can run across HPC and cloud environments. It is designed for beginners and provides a clear overview of Nextflow concepts, structure, and best practices."
-materials="https://www.ebi.ac.uk/training/events/introduction-nextflow/"
-materialstext="Webinar recording"
-data-added-date="2026-03-24">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Ensembl transition webinars"
 description="This series will cover a range of topics including: What to train on if you include Ensembl as a topic in your own genomics modules, Resources for those who teach on Ensembl or who want to train on genome browsers, The transition plan for Ensembl platforms and what to expect from Ensembl resources ahead, The new ways of programmatically accessing Ensembl data as we move to more scalable and accessible architecture."
 materials="https://www.ebi.ac.uk/training/events/ensembl-transition/"
@@ -386,17 +367,6 @@ description="This report provides an overview of the capabilities and trends of 
 materials="https://data.europa.eu/doi/10.2760/9397036"
 materialstext="Publication"
 data-added-date="2026-08-24">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Switzerland: Introduction to Machine Learning with Python"
-description="This 2-day course introduces participants to common machine learning algorithms and teaches how to apply them to omics data through extensive practical sessions using Python and the scikit-learn framework. Participants will gain an understanding of standard machine learning methods and processes while developing practical skills to apply them to real-world biological or medical datasets."
-link="https://www.sib.swiss/training/course/20261001_INMLP"
-deadline="Registration deadline: 22 September 2026"
-dates="Date: 1 - 2 October 2026"
-data-deadline-date="2026-09-23">
 </text-tile>
 </div>
 
