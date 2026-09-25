@@ -329,16 +329,6 @@ data-deadline-date="2026-11-10">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Designing and Implementing a Good Data Management Plan | Practical Workshop"
-description="This hands-on workshop guides participants through the process of creating a Data Management Plan, using practical examples, common challenges, and useful tools to develop robust and FAIR-compliant DMPs. It is designed for researchers, data stewards, clinicians, students, and other stakeholders seeking practical experience in data stewardship, reproducibility, and compliance with funder and institutional requirements."
-link="https://hemafairproject.eu/event/designing-and-implementing-a-good-data-management-plan-practical-workshop/"
-dates="Date: 24 September 2026"
-data-deadline-date="2026-09-24">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Switzerland: Introduction to Bulk RNA-Seq: From Quality Control to Pathway Analysis"
 description="This 2-day course presents the theory and bioinformatics tools required to analyse RNA-seq gene expression data, from raw data through to biological interpretation. Participants will cover quality control, mapping to genomes and transcriptomes, differential expression analysis, GO enrichment and pathway analysis."
 link="https://www.sib.swiss/training/course/20261008_IRNAS"
