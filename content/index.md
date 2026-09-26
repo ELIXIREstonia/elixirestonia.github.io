@@ -585,16 +585,6 @@ data-deadline-date="2026-09-30">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Spilling the ReproducibiliTea 2026 — A decade on & decades ahead"
-description="This one-day online conference reflects on ten years of progress in improving reproducibility in research and looks ahead to the challenges and opportunities of the next decade. Researchers, practitioners, and advocates from around the world will discuss persistent problems, solutions, and grassroots initiatives supporting open and reproducible research."
-link="https://reproducibilitea.org/conference2026"
-dates="Date: 25 September 2026"
-data-deadline-date="2026-09-25">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: The DCN CURATE(D) Steps"
 description="The Data Curation Network (DCN) developed the standardized CURATE(D) steps and checklists to help ensure datasets receive consistent and thorough curation. The workflow guides curators through checking and understanding data, requesting changes, augmenting metadata, transforming file formats, evaluating FAIRness, and documenting curation activities."
 materials="https://z.umn.edu/curate"
