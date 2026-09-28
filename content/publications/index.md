@@ -26,6 +26,7 @@ Tools and services are linked from the title of the corresponding paper.
 ### 2026
 
 1. Ana I S Mendes, Hans Ienasescu, Christian A T Andersen, Erin Calhoun, Piotr J Chmura, Keiler Collier, Iosif Goga, Ove J R Gustafsson, Matúš Kalaš, Mads Kierkegaard, Niclas K Nielsen, Erik Jaaniso, Jennifer R B Jensen, Adriaan-Alexander Ludl, Hervé Ménager, Magnus Palmblad, Zsófia Magyar, Tomáš Raček, Adrián Rošinec, Filip Rusz, Mariia Steeghs-Turchina, Aleksandra Szmigiel, Radka Svobodová, Veit Schwämmle, *[**bio.tools: an expanded web service for research software in the life sciences**](https://bio.tools/), Nucleic Acids Research, Volume 54, Issue W1, 7 July 2026, Pages W4–W12,* https://doi.org/10.1093/nar/gkag420
+2. Congmiao Xie, Priit Adler, Mait Rungi, João Paulo Silva Lehismets, Rando Tuvikene, Kristiina Mark, **Assessment of lichen classification using metabolic fingerprint of Fourier transform infrared spectra**, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, Volume 366, 5 February 2027, Article 128810, [https://doi.org/10.1016/j.saa.2026.128810](https://doi.org/10.1016/j.saa.2026.128810)
 
 ### 2025
 
