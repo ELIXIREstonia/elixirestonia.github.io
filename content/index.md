@@ -201,17 +201,6 @@ data-deadline-date="2026-10-26">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Workshop – Data and workflow management with LabID"
-description="This 1.5-day workshop introduces data management with LabID through hands-on tutorials and practical use cases covering concepts such as studies, assays, samples, and raw data registration. Participants will also explore LabID’s workflow integration for documenting the provenance of derived datasets, with examples involving sequencing and image-conversion workflows."
-link="https://bio-it.embl.de/events/workshop-data-and-workflow-management-with-labid/"
-deadline=""
-dates="Date: 28 - 29 September 2026"
-data-deadline-date="2026-09-28">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Switzerland: Introduction to Small RNA-seq Data Analysis with R"
 description="Small RNA sequencing enables researchers to investigate the expression and regulatory roles of short non-coding RNAs across diverse biological systems. This course provides a practical introduction to small RNA sequencing data analysis, combining essential theoretical background with hands-on exercises using primarily the R/Bioconductor ecosystem, including data preprocessing and differential expression analysis."
 link="https://www.sib.swiss/training/course/20261019_SMALR"
