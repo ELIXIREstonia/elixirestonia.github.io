@@ -149,17 +149,6 @@ data-deadline-date="2026-10-06">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Molecular mechanisms in evolution and ecology"
-description="This conference explores interspecies and cell-environment interactions across living organisms, highlighting technological advances, biodiversity, and the role of microbes in planetary ecosystems. It brings together researchers from diverse fields and microbial systems to investigate the molecular mechanisms driving ecological and evolutionary change and to showcase novel experimental and computational approaches."
-link="https://www.embl.org/about/info/course-and-conference-office/events/eae26-01/"
-deadline="Registration deadline:  25 August 2026 (on-site); 29 Sep 2026 (virtual)"
-dates="Date: 6 - 9 October 2026"
-data-deadline-date="2026-09-29">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Ten simple rules on how to write a standard operating procedure"
 description="This article provides a practical, step-by-step framework for creating clear and reliable standard operating procedures (SOPs) in research. It covers the full SOP lifecycle, from defining purpose and structure to testing, approval, regular review, and publication, with a focus on improving reproducibility, transparency, and research quality."
 materials="https://doi.org/10.1371/journal.pcbi.1008095"
@@ -196,17 +185,6 @@ link="https://www.dtls.nl/courses/computational-metagenomics-2026/"
 deadline="Registration deadline: Not specified (early bird registration until 31 August 2026)"
 dates="Date: 26 - 28 October 2026"
 data-deadline-date="2026-10-26">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Switzerland: Introduction to Small RNA-seq Data Analysis with R"
-description="Small RNA sequencing enables researchers to investigate the expression and regulatory roles of short non-coding RNAs across diverse biological systems. This course provides a practical introduction to small RNA sequencing data analysis, combining essential theoretical background with hands-on exercises using primarily the R/Bioconductor ecosystem, including data preprocessing and differential expression analysis."
-link="https://www.sib.swiss/training/course/20261019_SMALR"
-deadline="Registration deadline: 28 September 2026"
-dates="Date: 19 - 20 October 2026"
-data-deadline-date="2026-09-29">
 </text-tile>
 </div>
 
@@ -327,17 +305,6 @@ data-deadline-date="2026-09-30">
 </text-tile>
 </div>
 
-
-<div class="tile-grid">
-<text-tile
-title="Switzerland: Computer-Aided Drug Design"
-description="This workshop introduces the basics of Computer-Aided Drug Design (CADD) using examples from different therapeutic areas and mostly freely accessible tools. Participants will gain hands-on experience with biomolecular visualization, ligand-protein docking and co-folding, virtual screening, protein target prediction, small-molecule property calculations, and bioisosteric design."
-link="https://www.sib.swiss/training/course/20261026_CADDS"
-deadline="Registration deadline: 28 September 2026"
-dates="Date: 26 - 28 October 2026"
-data-deadline-date="2026-09-29">
-</text-tile>
-</div>
 
 <div class="tile-grid">
 <text-tile
