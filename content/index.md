@@ -82,6 +82,21 @@ hide:
 
 ## Latest news and announcements
 
+### Student thesis topics 2026
+
+ELIXIR Estonia builds and maintains web tools and other resources for life science research. We also provide training and consultations in research data management. Our goal is to create solutions that last and stay useful for years to come.
+
+We offer the following topics:
+
+* MSc level: Scalable k-mer and graph-based clustering of short peptide sequences under limited memory
+* BSc level: Kohalikul tehisintellektimudelil põhinev kakskeelne andmehalduse nõustaja Eesti teadlastele
+* MSc level: Can an open-weight LLM check metadata reliably in Estonian and English?
+* MSc level: Does good metadata get data reused? GEO as a test bed
+* MSc level: From prose to machine-actionable DMPs
+* BSc level: Kas automaatsed FAIR-hindajad on omavahel nõus?
+
+[More info](news/posts/2026/thesis_topics_2026.md)
+
 
 ### ELEVATE-DM: Strengthening Data Stewardship Across Europe
 

@@ -20,6 +20,7 @@ hide:
 * __26.05.2026- 04.06.2026__ - [Training on FAIR Principles in Data Management (for Kyiv School of Economics, BRIDGE project)](../news/posts/2026/FAIR_principles_data_Management_BRIDGE.md)
 * __15.06.2026- 18.06.2026__ - [Special course in bioinformatics  (TalTech)](../news/posts/2026/Taltech_special_course_bioinformatics.md)
 * __7.09.2026-10.09.2026__ - [scRNA-seq Data Analysis](../news/posts/2026/scRNA-seq_Data_Analysis.md)
+* __29.09.2026__ [Data Visualization with AI Tools](../news/posts/2026/padevuspaev_2909.md) during Competence day "AI at the university: skills, responsibility and critical choices"
 
 
 ## 2025
