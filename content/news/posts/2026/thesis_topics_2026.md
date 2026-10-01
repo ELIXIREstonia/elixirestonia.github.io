@@ -23,7 +23,8 @@ We offer the following topics:
 * MSc level: Does good metadata get data reused? GEO as a test bed
 * MSc level: From prose to machine-actionable DMPs
 * BSc level: Kas automaatsed FAIR-hindajad on omavahel nõus?
-
+* MSc level: Can AI Agents Reproduce Bioimage Analysis Papers? Evaluating and Improving Open Models and Specialised Agents 
+* BSc level: Eesti 10 km rahvajooksude osalus- ja tulemustrendid maakondade lõikes aastatel 2016–2026
 <!-- more -->
 
 ## Scalable k-mer and graph-based clustering of short peptide sequences under limited memory
@@ -141,3 +142,24 @@ Töö eesmärk on välja selgitada, kui hästi automaatsete hindajate tulemused�
  Eeldused: Python või R; huvi avatud teaduse ja andmehalduse vastu. Varasemaid teadmisi FAIR-põhimõtetest pole vaja.
 
 Lisainfo: Hedi Peterson hedi.peterson@ut.ee 
+
+
+## Can AI Agents Reproduce Bioimage Analysis Papers? Evaluating and Improving Open Models and Specialised Agents 
+
+MSc thesis
+
+LLM agents can now write and run image analysis code. It is still unclear whether they can reproduce the results of published bioimage analysis pipelines. The student with their supervisor  will pick a small set of published pipelines with open data and numeric results, such as segmentation, counting or tracking. They will turn these into reproduction tasks with automatic checks against known answers. 
+The tasks are run with general open-model agent harnesses, (mini-swe-agent, Hermes), and with open LLM models (such as DeepSeek, GLM-5.3-Flash) with/without specialised imaging solutions (Agentic-J, napari-mcp). The student analyses why reproductions fail and builds a taxonomy of failures, including whether the agent really applies the methods or takes values from the paper, the web or the model's own memory. The student then implements specific harness improvements, such as skills, verification steps or visual self-checks. Each improvement is tested separately against the baseline, and results where an improvement does not help are reported too.
+
+For more information, contact: Marilin Moor marilin.moor@ut.ee
+
+
+## Eesti 10 km rahvajooksude osalus- ja tulemustrendid maakondade lõikes aastatel 2016–2026
+
+Bakalaureusetöö
+
+Töö käigus kogub üliõpilane Eesti rahvajooksude 10 km distantsi tulemused viimase kümne aasta kohta ning ühtlustab need üheks järjepidevaks anonüümseks andmestikuks. Andmestiku põhjal analüüsitakse, kuidas on osalus ja tulemused ajas muutunud ning kuidas need maakonniti erinevad, arvestades rahvaarvu, sugu ja vanuserühmi. Võimalikud uurimisküsimused on näiteks, kas maakondade vahelised erinevused osaluses on vähenemas või suurenemas ning kuidas mõjutas osalust COVID-19 periood, kui palju mõjutab ilm jooksudel osalemist jne.
+
+P.S. Kas LLM ei saaks seda kõike teha? Esialgsete katsetuste valguses suutis see lahendada probleemi osaliselt, täielikuks lahenduseks oleks tegemist agendi ebamõistliku kasutusega. 
+
+Lisainfo: Marilin Moor marilin.moor@ut.ee
