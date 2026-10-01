@@ -94,6 +94,8 @@ We offer the following topics:
 * MSc level: Does good metadata get data reused? GEO as a test bed
 * MSc level: From prose to machine-actionable DMPs
 * BSc level: Kas automaatsed FAIR-hindajad on omavahel nõus?
+* MSc level: Can AI Agents Reproduce Bioimage Analysis Papers? Evaluating and Improving Open Models and Specialised Agents
+* BSc level: Eesti 10 km rahvajooksude osalus- ja tulemustrendid maakondade lõikes aastatel 2016–2026
 
 [More info](news/posts/2026/thesis_topics_2026.md)
 
