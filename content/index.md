@@ -207,27 +207,6 @@ data-deadline-date="2026-10-26">
 
 <div class="tile-grid">
 <text-tile
-title="Online: CodeRefinery Workshop"
-description="A free online workshop on research software development tools and best practices. The workshop covers version control with Git, collaborative development, reproducible research, software documentation, responsible use of generative AI, automated testing, and modular code development."
-link="https://coderefinery.github.io/2026-09-22-workshop/"
-dates="Date: 22 - 24 September and 29 September - 1 October 2026"
-data-deadline-date="2026-10-01">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: FAIR Research Data Management Train-the-Trainers Bootcamp for Data Stewards"
-description="This intensive four-day online programme is designed for intermediate and experienced data stewards, research support professionals, librarians, repository managers, and institutional RDM practitioners. Through practical exercises, institutional case studies, collaborative activities, and reusable teaching resources, participants will strengthen their practical and pedagogical skills for supporting FAIR Research Data Management and Open Science within their organisations."
-link="https://www.openaire.eu/save-the-date-fair-research-data-management-train-the-trainers-bootcamp-for-data-stewards"
-deadline="Registration deadline: Not yet announced (applications open in early September 2026)"
-dates="Date: 26 - 29 October 2026"
-data-deadline-date="2026-10-01">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: RDA 25th Plenary Meeting"
 description="Explore presentation slides and session recordings from the Research Data Alliance’s 25th Plenary Meeting, held as part of International Data Week 2025 in Brisbane. The programme brings together sessions on FAIR data, research data management, interoperability, data governance, AI, persistent identifiers, and other topics shaping the global research data community."
 materials="https://www.rd-alliance.org/plenaries/idw-2025-p25/programme-25/"
