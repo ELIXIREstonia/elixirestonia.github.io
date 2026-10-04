@@ -418,18 +418,6 @@ data-deadline-date="2026-10-19">
 
 <div class="tile-grid">
 <text-tile
-title="Germany: RDM4Mic Meeting 2026"
-description="The RDM4Mic Meeting brings together research data management practitioners, microscopy core facility staff, bioimage analysts, and researchers interested in data sharing, metadata, and FAIR principles. The first day features hybrid talks, while days two and three consist of on-site workshops covering topics such as OMERO, OME-NGFF, ELN integration, and FAIR data management."
-link="https://forum.image.sc/t/rdm4mic-2026-join-us-in-cologne-7-9-october/122379"
-deadline="Registration deadline: 2 October 2026"
-dates="Date: 7 - 9 October 2026"
-data-deadline-date="2026-10-03">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Luxembourg: Impact of Big Data & AI Analytics on Healthcare"
 description="This conference brings together experts in AI, machine learning and biomedicine to explore how data-driven innovation is transforming healthcare, from drug discovery to precision medicine and clinical applications. The programme covers big data and machine learning, target discovery and drug development, clinical decision support systems, and technological and industrial advances, while fostering interdisciplinary exchange and collaboration across the international bioinformatics community."
 link="https://bigdata.uni.lu/"
