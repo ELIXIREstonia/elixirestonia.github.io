@@ -103,6 +103,8 @@ We offer the following topics:
 * MSc level: Does good metadata get data reused? GEO as a test bed
 * MSc level: From prose to machine-actionable DMPs
 * BSc level: Kas automaatsed FAIR-hindajad on omavahel nõus?
+* MSc level: Can AI Agents Reproduce Bioimage Analysis Papers? Evaluating and Improving Open Models and Specialised Agents
+* BSc level: Eesti 10 km rahvajooksude osalus- ja tulemustrendid maakondade lõikes aastatel 2016–2026
 
 [More info](news/posts/2026/thesis_topics_2026.md)
 
@@ -214,27 +216,6 @@ data-deadline-date="2026-10-26">
 
 <div class="tile-grid">
 <text-tile
-title="Online: CodeRefinery Workshop"
-description="A free online workshop on research software development tools and best practices. The workshop covers version control with Git, collaborative development, reproducible research, software documentation, responsible use of generative AI, automated testing, and modular code development."
-link="https://coderefinery.github.io/2026-09-22-workshop/"
-dates="Date: 22 - 24 September and 29 September - 1 October 2026"
-data-deadline-date="2026-10-01">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: FAIR Research Data Management Train-the-Trainers Bootcamp for Data Stewards"
-description="This intensive four-day online programme is designed for intermediate and experienced data stewards, research support professionals, librarians, repository managers, and institutional RDM practitioners. Through practical exercises, institutional case studies, collaborative activities, and reusable teaching resources, participants will strengthen their practical and pedagogical skills for supporting FAIR Research Data Management and Open Science within their organisations."
-link="https://www.openaire.eu/save-the-date-fair-research-data-management-train-the-trainers-bootcamp-for-data-stewards"
-deadline="Registration deadline: Not yet announced (applications open in early September 2026)"
-dates="Date: 26 - 29 October 2026"
-data-deadline-date="2026-10-01">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: RDA 25th Plenary Meeting"
 description="Explore presentation slides and session recordings from the Research Data Alliance’s 25th Plenary Meeting, held as part of International Data Week 2025 in Brisbane. The programme brings together sessions on FAIR data, research data management, interoperability, data governance, AI, persistent identifiers, and other topics shaping the global research data community."
 materials="https://www.rd-alliance.org/plenaries/idw-2025-p25/programme-25/"
@@ -320,18 +301,6 @@ data-deadline-date="2026-11-10">
 
 <div class="tile-grid">
 <text-tile
-title="Switzerland: Introduction to Bulk RNA-Seq: From Quality Control to Pathway Analysis"
-description="This 2-day course presents the theory and bioinformatics tools required to analyse RNA-seq gene expression data, from raw data through to biological interpretation. Participants will cover quality control, mapping to genomes and transcriptomes, differential expression analysis, GO enrichment and pathway analysis."
-link="https://www.sib.swiss/training/course/20261008_IRNAS"
-deadline="Registration deadline: 29 September 2026"
-dates="Date: 8 - 9 October 2026"
-data-deadline-date="2026-09-30">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Material: Artificial intelligence for biology: Capabilities, readiness, and policy implications"
 description="This report provides an overview of the capabilities and trends of certain AI models with applications in molecular and cellular biology."
 materials="https://data.europa.eu/doi/10.2760/9397036"
@@ -357,16 +326,6 @@ description="This guidebook introduces the CARE Principles and explores their re
 materials="https://doi.org/10.5281/zenodo.17588886"
 materialstext="Guidebook"
 data-added-date="2026-08-25">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Kickstart Your Data Publication: A Hands-On Guide to Life Science Repositories"
-description="This interactive workshop helps participants improve their research data management workflows and prepare life science data for high-quality, FAIR-compliant publication. Participants will explore the FAIR data ecosystem, learn to use SearchHub, and gain hands-on insights into repositories including BONARES, PANGAEA, and e!DAL-PGP through demonstrations, use cases, and breakout sessions."
-link="https://www.denbi.de/training-courses-2026/2119-kickstart-your-data-publication-a-hands-on-guide-to-life-science-repositories"
-dates="Date: 30 September 2026"
-data-deadline-date="2026-09-30">
 </text-tile>
 </div>
 
@@ -468,28 +427,6 @@ data-deadline-date="2026-10-19">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Foundation Models for Atoms: Machine-Learned Interatomic Potentials in Practice"
-description="This webinar provides a conceptual and practical introduction to universal machine-learned interatomic potentials (MLIPs), which can deliver near-DFT accuracy at a fraction of the computational cost. Participants will learn about pre-training and fine-tuning workflows, GPU-accelerated simulation engines, model selection and validation, and emerging directions in AI-driven computational materials science, with examples relevant to European HPC resources."
-link="https://enccs.se/event/webinar-foundation-models-for-atoms-machine-learned-interatomic-potentials-in-practice/"
-dates="Date: 30 September 2026"
-data-deadline-date="2026-09-30">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Germany: RDM4Mic Meeting 2026"
-description="The RDM4Mic Meeting brings together research data management practitioners, microscopy core facility staff, bioimage analysts, and researchers interested in data sharing, metadata, and FAIR principles. The first day features hybrid talks, while days two and three consist of on-site workshops covering topics such as OMERO, OME-NGFF, ELN integration, and FAIR data management."
-link="https://forum.image.sc/t/rdm4mic-2026-join-us-in-cologne-7-9-october/122379"
-deadline="Registration deadline: 2 October 2026"
-dates="Date: 7 - 9 October 2026"
-data-deadline-date="2026-10-03">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Luxembourg: Impact of Big Data & AI Analytics on Healthcare"
 description="This conference brings together experts in AI, machine learning and biomedicine to explore how data-driven innovation is transforming healthcare, from drug discovery to precision medicine and clinical applications. The programme covers big data and machine learning, target discovery and drug development, clinical decision support systems, and technological and industrial advances, while fostering interdisciplinary exchange and collaboration across the international bioinformatics community."
 link="https://bigdata.uni.lu/"
@@ -551,17 +488,6 @@ materialstext="Materials"
 data-added-date="2026-09-07">
 </text-tile>
 </div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Metadata management in the real world webinar: Help shape the development of our metadata training"
-description="This webinar will showcase two new metadata management courses designed to improve metadata creation, research data management, and the effective use of research infrastructures and data services. Participants will hear findings from research on students’ understanding and use of metadata, tour the beta ‘Understanding metadata’ online courses, and have an opportunity to provide feedback to help shape their future development."
-link="https://closer.ac.uk/events/metadata-management-in-the-real-world-webinar-metadata-training/"
-dates="Date: 30 September 2026"
-data-deadline-date="2026-09-30">
-</text-tile>
-</div>
-
 
 <div class="tile-grid">
 <text-tile
