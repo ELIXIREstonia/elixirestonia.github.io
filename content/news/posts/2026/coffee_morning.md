@@ -19,11 +19,11 @@ __Every other Tuesday, 9:30–10:30 (EET/EEST) timed to fit between lectures__
 
 Sessions alternate between in-person sessions in Tartu and online sessions.
 
-Eesti keeles allpool
+*Eesti keeles allpool*
 
 <!-- more -->
 
-Whether you need help choosing a bioinformatics tool, getting started with an analysis workflow, troubleshooting R or Python code, managing your research data, or finding suitable training and resources, the ELIXIR Estonia team is happy to help. Our coffee mornings are informal drop-in sessions where you can bring a specific problem, discuss an idea, or simply ask where to start.
+Whether you need help choosing a bioinformatics tool, getting started with an analysis workflow, troubleshooting __R or Python code, managing your research data, or finding suitable training and resources__, the ELIXIR Estonia team is happy to help. Our coffee mornings are informal drop-in sessions where you can bring a specific problem, discuss an idea, or simply ask where to start.
 
 
 ### Who is it for?
@@ -64,7 +64,7 @@ https://ut-ee.zoom.us/j/97192364928?pwd=yCg95Kr2U9tSAbSbIXLCWsRe6zXgl2.1
 Meeting ID: 971 9236 4928
 Passcode: 395507
 
-### __Questions?__ 
+### __Questions:__ 
 
 elixir@ut.ee 
 
@@ -77,7 +77,7 @@ Kaks korda kuus, vaheldumisi Tartus kohapeal ja veebis.
 
 Jäid oma andmete, koodi, tööriista või koolitusmaterjaliga hätta? Ei tea, kust alustada R-i või Pythoniga, bioinformaatilise analüüsi, andmehalduse või FAIR-andmetega? Tule  oma küsimustega meie kohvihommikule.
 
-Kui vajad abi bioinformaatika tööriista valimisel, analüüsi töövoo alustamisel, R- või Pythoni koodi vigade leidmisel, uurimisandmete haldamisel või sobivate koolituste ja materjalide leidmisel – ELIXIR Eesti meeskond aitab hea meelega. Meie kohvihommikud on vabas vormis ja sinna võib lihtsalt sisse astuda: võta kaasa konkreetne probleem, aruta mõnda ideed või küsi lihtsalt, kust alustada.
+Kui vajad abi bioinformaatika tööriista valimisel, analüüsi töövoo alustamisel, __R- või Pythoni koodi vigade leidmisel, uurimisandmete haldamisel või sobivate koolituste ja materjalide leidmisel__ – ELIXIR Eesti meeskond aitab hea meelega. Meie kohvihommikud on vabas vormis ja sinna võib lihtsalt sisse astuda: võta kaasa konkreetne probleem, aruta mõnda ideed või küsi lihtsalt, kust alustada.
 
 
 ### Kellele?
