@@ -394,17 +394,6 @@ data-deadline-date="2026-10-31">
 
 <div class="tile-grid">
 <text-tile
-title="Belgium: REcommended Metadata for Biological Imaging (REMBI): Essentials in bioimaging metadata"
-description="This workshop explores the REMBI metadata schema and how it can be applied to make biological imaging data more FAIR (Findable, Accessible, Interoperable and Reusable). Through an interactive, hands-on approach using participants’ own data examples, attendees will learn how to organize bioimaging metadata, apply REMBI recommendations and prepare datasets for deposition in the BioImage Archive."
-link="https://training.vib.be/all-trainings/recommended-metadata-biological-imaging-rembi-essentials-bioimaging-metadata"
-deadline="4 October 2026"
-dates="Date: 13 October 2026"
-data-deadline-date="2026-10-04">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Finland: Quantum Machine Learning"
 description="This two-day course introduces how Machine Learning approaches can be combined with Quantum Technology, covering key concepts in statistics, probability, supervised and unsupervised learning, and quantum machine learning. The course focuses on gate-based quantum computing using Qiskit and includes hands-on sessions exploring both classical and quantum approaches."
 link="https://csc.fi/en/training-calendar/quantum-machine-learning-2/"
