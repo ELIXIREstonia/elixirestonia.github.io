@@ -788,3 +788,83 @@ data-deadline-date="2026-10-15">
 </text-tile>
 </div>
 
+<div class="tile-grid">
+<text-tile
+title="Material: Data Policies for Times of Crisis Facilitated by Open Science"
+description="UNESCO and CODATA's International Data Policy Committee have released three resources in the UNESCO Open Science Toolkit: a factsheet, a guidance document and a checklist. They help governments, UN agencies, institutions and other organizations build and manage data systems for crisis preparedness, response and recovery. The resources build on the 2021 UNESCO Recommendation on Open Science and show how to balance openness with responsible data stewardship using the FAIR, CARE and TRUST principles."
+materials="https://unesdoc.unesco.org/ark:/48223/pf0000393830"
+materialstext="Guidance document"
+data-added-date="2026-10-05">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: Community Weaving Framework"
+description="The Community Weaving Framework is an open-source tool that helps communities strengthen their health through five interconnected elements: shared possibility, relationships, rituals, roles, and individual and collective journeys. It offers a shared language for community weavers, network builders and anyone bringing people together around a shared purpose."
+materials="https://www.community-weaving.org/"
+materialstext="Website"
+data-added-date="2026-10-05">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Material: Guidebook: Sharing field notes"
+description="This guidebook gives practical guidance on sharing field notes, the written observations and research context used as primary or contextual data in qualitative research in fields such as archaeology, sociology and anthropology. It covers what field notes are and how they are used, how to decide whether to share them, the legal and ethical considerations, and how to prepare them for publication."
+materials="https://doi.org/10.5281/zenodo.17588823"
+materialstext="Guidebook"
+data-added-date="2026-10-05">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: Selected Readings on Indigenous Data Governance: 2026 Update"
+description="The GovLab's annotated reading list brings together writing from the last two years on Indigenous data sovereignty and governance, including frameworks, research articles and policy documents. Key themes include data sovereignty as self-determination, relational governance, the CARE principles, and the risks and opportunities of AI for Indigenous communities."
+materials="https://medium.com/data-stewards-network/selected-readings-on-indigenous-data-governance-2026-update-ab7e66fb579d"
+materialstext="Reading list"
+data-added-date="2026-10-05">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: OpenAIRE Strategy 2026-2028: Scaling Openness, Trust and Intelligence"
+description="OpenAIRE has published its strategy for 2026-2028, which sets out five connected priorities across three pillars: Infrastructure &amp; Services, Training &amp; Skills, and Policies. A central theme is preparing scholarly infrastructure for AI-enabled research workflows while keeping systems community-governed rather than relying on proprietary platforms."
+materials="https://zenodo.org/records/20407838"
+materialstext="Strategy document"
+data-added-date="2026-10-05">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: The Long Road to Trust: Why AI Needs Rigorous Validation"
+description="In this ReproducibiliTea seminar, Dr. Annika Reinke (German Cancer Research Center) discusses common pitfalls in validating AI models, especially performance metrics that are misused and give false confidence. She gives practical recommendations for more robust validation, to support the safe use of AI in real-world workflows."
+link="https://www.eventbrite.com/e/the-long-road-to-trust-why-ai-needs-rigorous-validation-tickets-1999788077974"
+dates="Date: 8 October 2026"
+data-deadline-date="2026-10-08">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: When every hypothesis is published: AI and the exploitation of Open Science Assets"
+description="This seminar examines how AI can generate, test and write up hypotheses from open science publications and datasets faster than research communities can evaluate them. Matt Spick and Danny Maupin (University of Surrey) will discuss what happens to open repositories when they become inputs to industrial-scale hypothesis generation, show case studies of outputs produced within an hour, and explore the effects on the literature, including restrictions on resources. The session ends with a Q&A."
+link="https://www.scilifelab.se/event/when-every-hypothesis-is-published-ai-and-the-exploitation-of-open-science-assets/"
+dates="Date: 27 October 2026"
+data-deadline-date="2026-10-27">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Best practices for documenting social sciences research data"
+description="This introductory workshop from the UK Data Service looks at why data documentation matters for research integrity and data sharing, and shows how to write thorough documentation for different types of data using practical examples and templates. It also gives an overview of metadata and the standards used to share data well, and ends with a Q&A session."
+link="https://ukdataservice.ac.uk/events/best-practices-for-documenting-social-sciences-research-data-2026-10-29/"
+dates="Date: 29 October 2026"
+data-deadline-date="2026-10-29">
+</text-tile>
+</div>
