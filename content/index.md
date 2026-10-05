@@ -499,6 +499,282 @@ data-added-date="2026-09-07">
 </text-tile>
 </div>
 
+<div class="tile-grid">
+<text-tile
+title="Belgium: Exploring protein structures: From analysis to prediction"
+description="This course introduces the fundamental principles of protein structure analysis and prediction for researchers new to the field. Through theory and hands-on practice, participants learn to explore, compare and visualize protein structures, gain insight into modern prediction methods such as AlphaFold, design protein variants and study protein-protein interactions."
+link="https://training.vib.be/all-trainings/exploring-protein-structures-analysis-prediction"
+deadline="Registration deadline: 15 November 2026"
+dates="Date: 25 - 26 November 2026"
+data-deadline-date="2026-11-16">
+</text-tile>
+</div>
 
 
+<div class="tile-grid">
+<text-tile
+title="Germany: Microbial metagenomics: a 360º approach"
+description="This hands-on course combines experimental and computational methods for studying microbial communities, from environmental sampling and DNA extraction from soil and water to sequencing and in silico data analysis. Participants will learn metabarcoding with third-generation sequencing (Nanopore/PacBio), phage genomics and single-cell approaches, along with bioinformatics covering genome assembly, MAG reconstruction, functional annotation and statistical analysis. The course is aimed at advanced PhD students and early postdoctoral researchers."
+link="https://www.embl.org/about/info/course-and-conference-office/events/met27-01/"
+deadline="Registration deadline: 30 November 2026"
+dates="Date: 5 - 12 April 2027"
+data-deadline-date="2026-12-01">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Quantitative proteomics: strategies and tools to probe biology"
+description="This hands-on course combines expert-led lectures with practical sessions on software-based analysis of proteomic data. It covers the principles of quantification, software tools for different data types, and applications in protein regulation, cellular interactions and post-translational modifications. A dedicated lecture covers AI applications in mass spectrometry."
+link="https://www.embl.org/about/info/course-and-conference-office/events/qpr27-01/"
+deadline="Registration deadline: 23 November 2026"
+dates="Date: 7 - 12 March 2027"
+data-deadline-date="2026-11-24">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: 3D cultures: spheroids, organoids, and explants"
+description="This EMBO Practical Course offers PhD students and postdocs theoretical and hands-on training in setting up and characterising 3D cell and tissue culture models, from disease modelling to functional precision medicine. It covers organoid and spheroid culture, viability and advanced imaging, sample preparation, functional readouts, image analysis and data processing. It also addresses key challenges such as standardisation, appropriate controls, minimum information guidelines and metadata sharing."
+link="https://www.embl.org/about/info/course-and-conference-office/events/tdc27-01/"
+deadline="Registration deadline: 23 November 2026"
+dates="Date: 14 - 19 March 2027"
+data-deadline-date="2026-11-24">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Moving your AI training jobs to LUMI: A Hands-On Workshop"
+description="This workshop shows participants how to use the LUMI supercomputer for AI applications, and attendees can bring their own AI training scripts to adapt to LUMI's GPU system. Topics include the LUMI-G architecture, SLURM, ROCm, file systems, PyTorch, containers and scaling to multiple GPUs. The workshop takes place at the University of Latvia in Riga, and remote participants can follow the lectures via livestream but cannot take part in the hands-on exercises."
+link="https://csc.fi/en/training-calendar/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop-2/"
+deadline="Registration deadline: 29 October 2026"
+dates="Date: 25 - 26 November 2026"
+data-deadline-date="2026-10-30">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Single-Cell Transcriptomics with R"
+description="This course explores single-cell RNA-seq (scRNA-seq) technologies and the main things to consider when designing an scRNA-seq experiment. It includes hands-on practical data analysis sessions using droplet-based methods. It is aimed at PhD students, postdocs and other life-science researchers from academia and industry who are already familiar with next-generation sequencing (NGS)."
+link="https://www.sib.swiss/training/course/20261111_ISCTR"
+deadline="Registration deadline: 4 November 2026"
+dates="Date: 11 - 13 November 2026"
+data-deadline-date="2026-11-05">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Introduction to Machine Learning with R"
+description="This course addresses the challenge of extracting predictive knowledge from ever-growing omics datasets by introducing common machine learning algorithms and how to apply them to biological data. Participants implement these algorithms in practical R sessions using the tidymodels framework, working through hands-on exercises and challenges with real-world datasets."
+link="https://www.sib.swiss/training/course/20261112_INMLR"
+deadline="Registration deadline: 29 October 2026"
+dates="Date: 12 - 13 November 2026"
+data-deadline-date="2026-10-30">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Sweden: Cryo-EM Sample Preparation and Data Collection Course"
+description="This course equips facility users with cryo-EM sample preparation techniques and data acquisition workflows, covering an overview of cryo-EM methods, microscope design, sample preparation, single particle analysis data collection and introductory image processing. It combines lectures, cryo lab work, demonstrations and practical exercises with hands-on microscope operation."
+link="https://training.scilifelab.se/events/cryo-em-sample-preparation-and-data-collection-course"
+deadline="Registration deadline: 1 November 2026"
+dates="Date: 1 - 3 December 2026"
+data-deadline-date="2026-11-02">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: In situ CLEM at room temperature and in cryo"
+description="This course equips participants with practical, hands-on skills in Correlative Light and Electron Microscopy (CLEM) at both room temperature and cryogenic conditions. It combines theory with practical sessions on high-precision localisation and cutting-edge sample preparation, such as high-pressure freezing, plunge freezing and ultramicrotomy. Participants will learn to build customised CLEM workflows for their own research questions, with close guidance from CLEM and EM experts."
+link="https://www.embl.org/about/info/course-and-conference-office/events/lem27-01"
+deadline="Registration deadline: 21 October 2026 (on-site); 25 November 2026 (virtual)"
+dates="Date: 31 January - 5 February 2027"
+data-deadline-date="2026-11-26">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Germany: Introduction to Deep Learning 2026"
+description="This three-day course gives an overview of deep learning with bioinformatics examples, covering exploratory data analysis and data preprocessing, model architectures and training procedures, and the evaluation and visualization of results. Participants learn to implement and train neural networks with Keras and get an introduction to Large Language Models and pre-trained models in biology. Good knowledge of Python and the Linux terminal is required."
+link="https://www.denbi.de/training-courses-2026/2153-introduction-to-deep-learning-2026"
+dates="Date: 30 November - 2 December 2026"
+data-deadline-date="2026-11-30">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Version Control with Git"
+description="Git is an open source version control system for tracking changes in code and other text documents, and is widely used both in software development and to make research reproducible. This 2-day course gives a full overview of Git and its most useful commands, and introduces collaborative workflows on GitHub through theory and practical exercises. It is aimed at life-science researchers who want to use version control for collaborative work or to keep track of changes to their scripts, files or code."
+link="https://www.sib.swiss/training/course/20261029_GITVC"
+deadline="Registration deadline: 21 October 2026"
+dates="Date: 5 - 6 November 2026"
+data-deadline-date="2026-10-22">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: ELIXIR IMPACT Webinar: Discover Agentic AI in Life Sciences"
+description="This introductory one-hour webinar explores how agentic AI can be applied in the life sciences, presented by the Czech-Swiss ELIXIR IMPACT project. Speakers from IMG, MUNI and SIB cover autonomous research agents, APIs and inference hosting, the secure handling of sensitive data, and biodata exploration, followed by a live Q&A."
+link="https://www.elixir-czech.cz/events/elixir-impact-webinar-discover-agentic-ai-in-life-sciences-2026"
+dates="Date: 12 October 2026"
+data-deadline-date="2026-10-12">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Online: AI-based structural modelling of host-pathogen protein interactions"
+description="This webinar explains how AlphaFold and related AI methods predict the structures of protein complexes, and why host-pathogen protein pairs are harder to predict. It looks at successful and failed predictions from large-scale studies and covers ways to improve them, such as extensive sampling, modified sequence alignments and adding experimental data, with influenza A virus as the example."
+link="https://www.ebi.ac.uk/training/events/ai-based-structural-modelling-host-pathogen-protein-interactions"
+dates="Date: 7 October 2026"
+data-deadline-date="2026-10-07">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: How do parasites evade immune clearance? A structural perspective"
+description="This webinar looks at how parasites such as African trypanosomes and malaria parasites survive constant exposure to the host immune system. It covers immune evasion strategies, including antigenic variation and surface proteins that suppress immune cells and effectors, and the methods used to study these mechanisms."
+link="https://www.ebi.ac.uk/training/events/how-do-parasites-evade-immune-clearance-structural-perspective"
+dates="Date: 14 October 2026"
+data-deadline-date="2026-10-14">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Using in situ cryoET to investigate intracellular host-pathogen interactions"
+description="This webinar introduces in situ cryo electron tomography (cryoET) for studying host-pathogen interactions inside the host cell, focusing on apicomplexan parasites and gram-negative bacteria. It walks through the whole workflow, from sample freezing and cryoFIB milling to tomogram reconstruction, segmentation and subtomogram averaging, and discusses when the technique is the right choice."
+link="https://www.ebi.ac.uk/training/events/using-situ-cryoet-investigate-intracellular-host-pathogen-interactions"
+dates="Date: 21 October 2026"
+data-deadline-date="2026-10-21">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Automated X-ray fragment and ligand screening for therapeutic innovation in infection biology"
+description="This webinar presents technologies developed at EMBL Grenoble for fully automated, large-scale fragment and ligand screening by X-ray crystallography. It shows how this screening and structure-based drug design help validate therapeutic targets and develop small-molecule inhibitors in infection biology."
+link="https://www.ebi.ac.uk/training/events/automated-x-ray-fragment-and-ligand-screening-therapeutic-discovery-infection-biology"
+dates="Date: 28 October 2026"
+data-deadline-date="2026-10-28">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Advanced search and protein analysis tools in UniProt"
+description="This webinar shows how to run advanced searches in UniProt to find proteins of interest, and explains how the database is organised using identifiers and ontologies. It also demonstrates UniProt's sequence analysis tools, including BLAST, multiple sequence alignments, peptide search and ID mapping."
+link="https://www.ebi.ac.uk/training/events/advanced-search-and-protein-analysis-tools-uniprot/"
+dates="Date: 15 October 2026"
+data-deadline-date="2026-10-15">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Reconstructing ocean life: metagenome-assembled genomes in marine research"
+description="This webinar introduces the Ocean Microbiomics Database as a standardised resource for genome-resolved data mining, covering MAG reconstruction, metadata contextualisation and links between marine ecological patterns and microbial genomes. It also explores the challenges of recovering eukaryotic MAGs, such as complex genomes, low abundance and limited reference data."
+link="https://www.ebi.ac.uk/training/events/reconstructing-ocean-life-metagenome-assembled-genomes-marine-research/"
+dates="Date: 9 October 2026"
+data-deadline-date="2026-10-09">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Harnessing enzymatic functions: comparison of activity-based and sequence-based approaches"
+description="This webinar compares sequence-based and activity-based methods for revealing enzymatic functions with green applications in industries like pharmaceuticals and agriculture. Topics include accessing MGnify Proteins for bioprospecting, identifying novel plastic-degrading enzymes, and using functional metagenomics to uncover complex biological mechanisms."
+link="https://www.ebi.ac.uk/training/events/harnessing-enzymatic-functions-comparison-activity-based-and-sequence-based-approaches/"
+dates="Date: 16 October 2026"
+data-deadline-date="2026-10-16">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Ocean function and value: marine ecosystem mapping and services"
+description="This webinar covers microbiome-based indicators of global ocean ecosystem functioning, from functional redundancy to community traits. It also presents a protocol for inclusive, society-focused approaches to the Do No Significant Harm (DNSH) principle and how funders, scientists, businesses and the public could adopt it."
+link="https://www.ebi.ac.uk/training/events/ocean-function-value-marine-ecosystem-mapping-and-services/"
+dates="Date: 23 October 2026"
+data-deadline-date="2026-10-23">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: High-throughput microbial discovery: interfacing droplet microfluidics with metagenomics"
+description="This webinar covers functional metagenomics and directed evolution in microfluidic droplets. It explains the different droplet formats used for high-throughput screening and how to adapt droplet screening for enzyme discovery at ultra-high throughput, with case studies of its applications."
+link="https://www.ebi.ac.uk/training/events/high-throughput-microbial-discovery-interfacing-droplet-microfluidics-metagenomics/"
+dates="Date: 30 October 2026"
+data-deadline-date="2026-10-30">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Cancer Variant Analysis"
+description="This course covers the concepts of calling somatic variants from next-generation sequencing data and the basics of cancer variant annotation. Participants learn how germline and somatic variants differ, analyse somatic variants in paired tumour-normal samples using GATK4 (Mutect2), and annotate variants with Ensembl's VEP to filter high-impact mutations."
+link="https://www.sib.swiss/training/course/20261029_CVANA"
+deadline="Registration deadline: 15 October 2026"
+dates="Date: 29 October - 3 November 2026"
+data-deadline-date="2026-10-16">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Generative AI for Life Science"
+description="Generative AI is rapidly transforming the life sciences, enabling new ways to understand biological systems, predict molecular structures and advance clinical diagnostics. Across four interactive sessions, participants get hands-on experience developing GenAI techniques. They train models, explore biological datasets and generate real outputs such as synthetic cell images, protein structure predictions and mRNA sequences for vaccines."
+link="https://swedenaifactory.se/event/generative-ai-for-life-science"
+deadline="Registration deadline: 6 October 2026"
+dates="Date: 7 - 8 October 2026"
+data-deadline-date="2026-10-07">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: BiG Talk: Pioneering chromatin landscapes in embryo development – epigenomic methods reveal how gene expression patterns are formed and maintained"
+description="In this BiG Talk, Professor Mattias Mannervik (Stockholm University) shows how studying chromatin biology with bulk and single-cell genomic methods tells us about embryo development. The talk covers pioneer factors such as Zelda in Drosophila, the histone modifications H3K27ac and H3K27me3, and the epigenetic landscapes that shape developmental gene expression."
+link="https://www.scilifelab.se/event/big-talk-pioneering-chromatin-landscapes-in-embryo-development-epigenomic-methods-reveal-how-gene-expression-patterns-are-formed-and-maintained/"
+dates="Date: 8 October 2026"
+data-deadline-date="2026-10-08">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Building Complex Apps with R Shiny"
+description="This course teaches participants to build more sophisticated R Shiny applications through practical hands-on work, examples and best practices. Topics include interactive reporting with R Markdown, dashboards, advanced UI customization, reactive programming, modules for complex apps, troubleshooting and using AI tools in development. Participants will learn to build, deploy and maintain complex Shiny apps."
+link="https://www.sib.swiss/training/course/20261102_BCSHY"
+deadline="Registration deadline: 12 October 2026"
+dates="Date: 2 November 2026"
+data-deadline-date="2026-10-13">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Programming in Python: Master your first project"
+description="This course introduces the foundations of Python programming through a blend of self-paced learning and interactive online sessions. Participants explore core concepts such as functions and values, analyse peer-written code, modify existing programs, write new ones and practise debugging. No prior programming experience is required."
+link="https://training.vib.be/all-trainings/programming-python-master-your-first-project-0"
+deadline="Registration deadline: 9 October 2026"
+dates="Date: 15 October - 5 November 2026"
+data-deadline-date="2026-10-10">
+</text-tile>
+</div>
 
