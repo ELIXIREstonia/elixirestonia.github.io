@@ -164,17 +164,6 @@ data-deadline-date="2026-11-03">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: The complex life of RNA"
-description="This EMBO | EMBL Symposium brings together leaders in the RNA field, postdocs and students to discuss the latest findings in RNA biology. The programme covers co-transcriptional RNA biology, RNA processing and modification, RNA transport, co-translational biology, RNA structure and regulation, and RNA pathogens and therapeutics."
-link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-12/"
-deadline="Registration deadline: 1 September 2026 (on-site); 6 October 2026 (virtual)"
-dates="Date: 13 - 16 October 2026"
-data-deadline-date="2026-10-06">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Ten simple rules on how to write a standard operating procedure"
 description="This article provides a practical, step-by-step framework for creating clear and reliable standard operating procedures (SOPs) in research. It covers the full SOP lifecycle, from defining purpose and structure to testing, approval, regular review, and publication, with a focus on improving reproducibility, transparency, and research quality."
 materials="https://doi.org/10.1371/journal.pcbi.1008095"
