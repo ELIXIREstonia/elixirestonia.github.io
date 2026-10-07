@@ -91,6 +91,12 @@ hide:
 
 ## Latest news and announcements
 
+### bio.tools: keeping up with the growing world of life-science software
+
+Finding the right research software can be challenging, especially as new tools and databases are continually being developed. [bio.tools](https://bio.tools) helps researchers navigate this growing landscape by bringing life-science software together in a single registry. It has grown to over 33,000 tools and databases, described using structured metadata and the EDAM ontology.
+
+[More info](news/posts/2026/bio.tools_article.md)
+
 ### Student thesis topics 2026
 
 ELIXIR Estonia builds and maintains web tools and other resources for life science research. We also provide training and consultations in research data management. Our goal is to create solutions that last and stay useful for years to come.
@@ -117,12 +123,6 @@ As research becomes increasingly collaborative and data-intensive, researchers n
 
 [More info](news/posts/2026/ELEVATE-DM_Announcement.md)
 
-
-### Continued collaboration with ELIXIR-CZ
-
-Estonia and the Czech Republic work well together at every level; as ELIXIR Nodes, as universities and as countries, and this year has shown all three. This week, it was our turn to host: after two springs of Estonian trainers teaching in Prague, ELIXIR-CZ trainers came to Tartu.
-
-[More info](news/posts/2026/Collaboration_w_CZ.md)
 
 
 ---
