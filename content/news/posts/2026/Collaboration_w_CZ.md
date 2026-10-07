@@ -42,3 +42,5 @@ Our partnership with the Laboratory of Genomics and Bioinformatics at the Instit
 > "These collaborations bring new expertise and opportunities to our research community, while strengthening ELIXIR Estonia's connections within the wider ELIXIR network. Sharing knowledge across Nodes helps us build lasting partnerships and offer expertise we could not develop alone." Professor Hedi Peterson, Head of Node, ELIXIR Estonia
 
 What began as a few courses in Prague has grown into a lasting partnership between our two Nodes, mirrored by close ties between our universities and our countries. That is exactly what ELIXIR makes possible: connections that grow into partnerships and benefit both communities. We look forward to welcoming a Czech colleague to Tartu again early next year.
+
+[TalTech news about our course](https://taltech.ee/en/news/new-single-cell-analysis-skills-support-taltech-ovarian-research)
