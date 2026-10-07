@@ -5,7 +5,14 @@ hide:
 ---
 # Publications
 
-## Other materials
+## In the Media
+
+### 2026
+
+1. [**"Tartu Ülikool asub teadusandmete haldamist teadlaste jaoks lihtsustama"**](https://goodnews.ee/tartu-ulikool-asub-teadusandmete-haldamist-teadlaste-jaoks-lihtsustama/) Marinne Liiv, Goodnews
+2. [**"New single-cell analysis skills support TalTech ovarian research"**](https://taltech.ee/en/news/new-single-cell-analysis-skills-support-taltech-ovarian-research) Katariina Johanna Saretok, TalTech News
+
+## Other Materials
 
 1. Inno, H., & Peterson, H. (2025). **ELIXIR Estonia: A Year of Growth, Progress, and Impact** (1.0). ELIXIR All Hands 2025 (AHM25), Thessaloniki, Greece. Zenodo. https://doi.org/10.5281/zenodo.15656761
 2. Inno, H., & Peterson, H. (2024). **Empowering Life Sciences Research: ELIXIR Estonia** poster. Zenodo. Available from: https://doi.org/10.5281/zenodo.13847963
@@ -18,15 +25,18 @@ hide:
 3. [Maturity Model of Research Data Management](https://registry.ds-wizard.org/knowledge-models/datarex:RDM-MM:0.1.2) (*in progress*)
 4. [Training SPLASH - Your companion for impactful training](https://elixir-europe-training.github.io/ELIXIR-Training-SPLASH/)
 
-## Peer reviewed publications
+## Peer-reviewed Publications
 
 Publications from ELIXIR Europe collaborations are printed in _cursive_.
 Tools and services are linked from the title of the corresponding paper.
 
+### 2027
+
+1. Congmiao Xie, Priit Adler, Mait Rungi, João Paulo Silva Lehismets, Rando Tuvikene, Kristiina Mark. (2027) **Assessment of lichen classification using metabolic fingerprint of Fourier transform infrared spectra.** Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, Volume 366, 5 February 2027, Article 128810. [https://doi.org/10.1016/j.saa.2026.128810](https://doi.org/10.1016/j.saa.2026.128810)
+
 ### 2026
 
-1. Ana I S Mendes, Hans Ienasescu, Christian A T Andersen, Erin Calhoun, Piotr J Chmura, Keiler Collier, Iosif Goga, Ove J R Gustafsson, Matúš Kalaš, Mads Kierkegaard, Niclas K Nielsen, Erik Jaaniso, Jennifer R B Jensen, Adriaan-Alexander Ludl, Hervé Ménager, Magnus Palmblad, Zsófia Magyar, Tomáš Raček, Adrián Rošinec, Filip Rusz, Mariia Steeghs-Turchina, Aleksandra Szmigiel, Radka Svobodová, Veit Schwämmle, *[**bio.tools: an expanded web service for research software in the life sciences**](https://bio.tools/), Nucleic Acids Research, Volume 54, Issue W1, 7 July 2026, Pages W4–W12,* https://doi.org/10.1093/nar/gkag420
-2. Congmiao Xie, Priit Adler, Mait Rungi, João Paulo Silva Lehismets, Rando Tuvikene, Kristiina Mark, **Assessment of lichen classification using metabolic fingerprint of Fourier transform infrared spectra**, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, Volume 366, 5 February 2027, Article 128810, [https://doi.org/10.1016/j.saa.2026.128810](https://doi.org/10.1016/j.saa.2026.128810)
+1. Ana I S Mendes, Hans Ienasescu, Christian A T Andersen, Erin Calhoun, Piotr J Chmura, Keiler Collier, Iosif Goga, Ove J R Gustafsson, Matúš Kalaš, Mads Kierkegaard, Niclas K Nielsen, Erik Jaaniso, Jennifer R B Jensen, Adriaan-Alexander Ludl, Hervé Ménager, Magnus Palmblad, Zsófia Magyar, Tomáš Raček, Adrián Rošinec, Filip Rusz, Mariia Steeghs-Turchina, Aleksandra Szmigiel, Radka Svobodová, Veit Schwämmle, *[**bio.tools: an expanded web service for research software in the life sciences**](https://bio.tools/), Nucleic Acids Research, Volume 54, Issue W1, 7 July 2026, Pages W4–W12,* https://doi.org/10.1093/nar/gkag420 
 
 ### 2025
 
