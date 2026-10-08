@@ -614,16 +614,6 @@ data-deadline-date="2026-10-12">
 
 <div class="tile-grid">
 <text-tile
-title="Online: AI-based structural modelling of host-pathogen protein interactions"
-description="This webinar explains how AlphaFold and related AI methods predict the structures of protein complexes, and why host-pathogen protein pairs are harder to predict. It looks at successful and failed predictions from large-scale studies and covers ways to improve them, such as extensive sampling, modified sequence alignments and adding experimental data, with influenza A virus as the example."
-link="https://www.ebi.ac.uk/training/events/ai-based-structural-modelling-host-pathogen-protein-interactions"
-dates="Date: 7 October 2026"
-data-deadline-date="2026-10-07">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: How do parasites evade immune clearance? A structural perspective"
 description="This webinar looks at how parasites such as African trypanosomes and malaria parasites survive constant exposure to the host immune system. It covers immune evasion strategies, including antigenic variation and surface proteins that suppress immune cells and effectors, and the methods used to study these mechanisms."
 link="https://www.ebi.ac.uk/training/events/how-do-parasites-evade-immune-clearance-structural-perspective"
@@ -710,17 +700,6 @@ link="https://www.sib.swiss/training/course/20261029_CVANA"
 deadline="Registration deadline: 15 October 2026"
 dates="Date: 29 October - 3 November 2026"
 data-deadline-date="2026-10-16">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Generative AI for Life Science"
-description="Generative AI is rapidly transforming the life sciences, enabling new ways to understand biological systems, predict molecular structures and advance clinical diagnostics. Across four interactive sessions, participants get hands-on experience developing GenAI techniques. They train models, explore biological datasets and generate real outputs such as synthetic cell images, protein structure predictions and mRNA sequences for vaccines."
-link="https://swedenaifactory.se/event/generative-ai-for-life-science"
-deadline="Registration deadline: 6 October 2026"
-dates="Date: 7 - 8 October 2026"
-data-deadline-date="2026-10-07">
 </text-tile>
 </div>
 
