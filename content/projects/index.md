@@ -32,6 +32,18 @@ Computing Infrastructure (ETAIS)](https://etais.ee/).
 01.01.2027-31.12.2029
 
 
+## Core Infrastructure / Tuumiktaristu
+
+The aim of the core research infrastructure grants is to ensure the openness of
+research infrastructures of national importance to the public, private and third
+sector users. Support is provided to cover the additional costs of research
+infrastructures related to the availability of research infrastructures outside
+the operator of the core infrastructure and the obligations arising from
+international cooperation.
+
+01.01.2025 – 31.12.2029
+
+
 ## [ELIXIR Node Support Commissioned Service (NSCS)](https://elixir-europe.org/internal-projects/commissioned-services/nodes) 
 
 [Node Support Commissioned Services (NSCS)](https://elixir-europe.org/internal-projects/commissioned-services/nodes) is an internal project of ELIXIR Europe, which aims to equip ELIXIR Nodes with tools and knowledge for successful long-term operations. To ensure their success, ELIXIR Nodes must be well-coordinated, professionally managed organisations that meet national stakeholders' needs by offering high-quality support, expertise, and services aligned with national and ELIXIR  research priorities. Long-term success for a research infrastructure involves an approach that goes beyond funding. It requires strategic planning, effective communications, community engagement, technological innovation, skilled personnel, adaptability, and a commitment to ethical and legal standards. Nodes often face similar problems, and this project provides the structure to share this extensive experience and institutional knowledge. It will provide tools and expertise to empower Nodes to measure their activities and environment better, streamline approaches and enable communication.
