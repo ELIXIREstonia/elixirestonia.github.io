@@ -10,9 +10,9 @@ hide:
 ELIXIR Estonia is collaborating with several Nodes from the ELIXIR network. Our
 most active partners have been over the years, [EMBL-EBI](https://www.ebi.ac.uk/)
 from UK, [CSC](https://www.csc.fi/) from Finland and [SIB](https://www.sib.swiss/)
-from Switzerland who have both trained our members, shared their long-term
+from Switzerland, who have both trained our members, shared their long-term
 technical and organisatorial expertise and are always open for scientific and
-technical collaborations. Our colleagues from Germany,
+technical collaborations. Since 2025, we have collaborated with our colleagues in the [Czech Republic](https://www.elixir-czech.cz/) on training. Our colleagues from Germany,
 [de.NBI](https://www.denbi.de/)  and Belgium, [VIB](https://vib.be/) have
 provided us tremendous help in setting up the Galaxy services for Estonian
 researchers and SARS-CoV-2 data analysis.
@@ -24,6 +24,13 @@ became an official member of NeIC. Estonian Node in NeIC is [Estonian Scientific
 Computing Infrastructure (ETAIS)](https://etais.ee/).
 
 ---
+
+## ELEVATING DATA MANAGEMENT FOR EXCELLENCE, EVIDENCE, AND SUSTAINABLE IMPACT (ELEVATE-DM) 
+
+*Info coming soon*
+
+01.01.2027-31.12.2029
+
 
 ## [ELIXIR Node Support Commissioned Service (NSCS)](https://elixir-europe.org/internal-projects/commissioned-services/nodes) 
 
