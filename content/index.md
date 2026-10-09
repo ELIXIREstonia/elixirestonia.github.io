@@ -705,16 +705,6 @@ data-deadline-date="2026-10-16">
 
 <div class="tile-grid">
 <text-tile
-title="Online: BiG Talk: Pioneering chromatin landscapes in embryo development – epigenomic methods reveal how gene expression patterns are formed and maintained"
-description="In this BiG Talk, Professor Mattias Mannervik (Stockholm University) shows how studying chromatin biology with bulk and single-cell genomic methods tells us about embryo development. The talk covers pioneer factors such as Zelda in Drosophila, the histone modifications H3K27ac and H3K27me3, and the epigenetic landscapes that shape developmental gene expression."
-link="https://www.scilifelab.se/event/big-talk-pioneering-chromatin-landscapes-in-embryo-development-epigenomic-methods-reveal-how-gene-expression-patterns-are-formed-and-maintained/"
-dates="Date: 8 October 2026"
-data-deadline-date="2026-10-08">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Building Complex Apps with R Shiny"
 description="This course teaches participants to build more sophisticated R Shiny applications through practical hands-on work, examples and best practices. Topics include interactive reporting with R Markdown, dashboards, advanced UI customization, reactive programming, modules for complex apps, troubleshooting and using AI tools in development. Participants will learn to build, deploy and maintain complex Shiny apps."
 link="https://www.sib.swiss/training/course/20261102_BCSHY"
@@ -793,16 +783,6 @@ description="OpenAIRE has published its strategy for 2026-2028, which sets out f
 materials="https://zenodo.org/records/20407838"
 materialstext="Strategy document"
 data-added-date="2026-10-05">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: The Long Road to Trust: Why AI Needs Rigorous Validation"
-description="In this ReproducibiliTea seminar, Dr. Annika Reinke (German Cancer Research Center) discusses common pitfalls in validating AI models, especially performance metrics that are misused and give false confidence. She gives practical recommendations for more robust validation, to support the safe use of AI in real-world workflows."
-link="https://www.eventbrite.com/e/the-long-road-to-trust-why-ai-needs-rigorous-validation-tickets-1999788077974"
-dates="Date: 8 October 2026"
-data-deadline-date="2026-10-08">
 </text-tile>
 </div>
 
