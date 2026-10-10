@@ -654,16 +654,6 @@ data-deadline-date="2026-10-15">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Reconstructing ocean life: metagenome-assembled genomes in marine research"
-description="This webinar introduces the Ocean Microbiomics Database as a standardised resource for genome-resolved data mining, covering MAG reconstruction, metadata contextualisation and links between marine ecological patterns and microbial genomes. It also explores the challenges of recovering eukaryotic MAGs, such as complex genomes, low abundance and limited reference data."
-link="https://www.ebi.ac.uk/training/events/reconstructing-ocean-life-metagenome-assembled-genomes-marine-research/"
-dates="Date: 9 October 2026"
-data-deadline-date="2026-10-09">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Harnessing enzymatic functions: comparison of activity-based and sequence-based approaches"
 description="This webinar compares sequence-based and activity-based methods for revealing enzymatic functions with green applications in industries like pharmaceuticals and agriculture. Topics include accessing MGnify Proteins for bioprospecting, identifying novel plastic-degrading enzymes, and using functional metagenomics to uncover complex biological mechanisms."
 link="https://www.ebi.ac.uk/training/events/harnessing-enzymatic-functions-comparison-activity-based-and-sequence-based-approaches/"
