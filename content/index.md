@@ -706,17 +706,6 @@ data-deadline-date="2026-10-13">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Programming in Python: Master your first project"
-description="This course introduces the foundations of Python programming through a blend of self-paced learning and interactive online sessions. Participants explore core concepts such as functions and values, analyse peer-written code, modify existing programs, write new ones and practise debugging. No prior programming experience is required."
-link="https://training.vib.be/all-trainings/programming-python-master-your-first-project-0"
-deadline="Registration deadline: 9 October 2026"
-dates="Date: 15 October - 5 November 2026"
-data-deadline-date="2026-10-10">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Boost your institutional strategy: strengthening research management capacity in Europe"
 description="This INSPIRING ERA event explores research management as a strategic capacity that supports institutional performance and research excellence. It examines how organisations can strengthen research management capacity through professionalisation, skills development, competence frameworks and career pathways. Speakers from funders, universities and research organisations share European, national and institutional perspectives on building research management into strategy and governance."
 link="https://www.inspiring-era.eu/event/boost-your-institutional-strategy-strengthening-research-management-capacity-in-europe/"
