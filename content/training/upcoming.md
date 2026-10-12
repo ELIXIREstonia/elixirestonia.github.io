@@ -12,7 +12,15 @@ hands-on courses in the life science community on various topics.
 
 ## Free autumn courses 2026 by ELIXIR Estonia
 
-29.09.2026 [Data Visualization with AI Tools](../news/posts/2026/padevuspaev_2909.md) during Competence day "AI at the university: skills, responsibility and critical choices"
+13.10.2026 [ELIXIR Estonia Coffee Morning: research support drop-in](../news/posts/2026/coffee_morning.md) online
+
+27.10.2026 [ELIXIR Estonia Coffee Morning: research support drop-in](../news/posts/2026/coffee_morning.md) in-person
+
+10.11.2026 [ELIXIR Estonia Coffee Morning: research support drop-in](../news/posts/2026/coffee_morning.md) online
+
+24.11.2026 [ELIXIR Estonia Coffee Morning: research support drop-in](../news/posts/2026/coffee_morning.md) in-person
+
+8.12.2026 [ELIXIR Estonia Coffee Morning: research support drop-in](../news/posts/2026/coffee_morning.md) online
 
 ## We are willing to train researchers on the following topics:
 
