@@ -16,9 +16,13 @@ hands-on courses in the life science community on various topics.
 
 27.10.2026 [ELIXIR Estonia Coffee Morning: research support drop-in](../news/posts/2026/coffee_morning.md) in-person
 
+4.11.2026 [Data Management Plan Consultation](../news/posts/2026/DMP_consult_04-11.md) online
+
 10.11.2026 [ELIXIR Estonia Coffee Morning: research support drop-in](../news/posts/2026/coffee_morning.md) online
 
 24.11.2026 [ELIXIR Estonia Coffee Morning: research support drop-in](../news/posts/2026/coffee_morning.md) in-person
+
+1.12.2026 [Data Management Plan Consultation](../news/posts/2026/DMP_consult_01-12.md) in-person
 
 8.12.2026 [ELIXIR Estonia Coffee Morning: research support drop-in](../news/posts/2026/coffee_morning.md) online
 
