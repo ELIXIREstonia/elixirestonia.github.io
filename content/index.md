@@ -607,17 +607,6 @@ data-deadline-date="2026-10-22">
 
 <div class="tile-grid">
 <text-tile
-title="Online: ELIXIR IMPACT Webinar: Discover Agentic AI in Life Sciences"
-description="This introductory one-hour webinar explores how agentic AI can be applied in the life sciences, presented by the Czech-Swiss ELIXIR IMPACT project. Speakers from IMG, MUNI and SIB cover autonomous research agents, APIs and inference hosting, the secure handling of sensitive data, and biodata exploration, followed by a live Q&A."
-link="https://www.elixir-czech.cz/events/elixir-impact-webinar-discover-agentic-ai-in-life-sciences-2026"
-dates="Date: 12 October 2026"
-data-deadline-date="2026-10-12">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Online: How do parasites evade immune clearance? A structural perspective"
 description="This webinar looks at how parasites such as African trypanosomes and malaria parasites survive constant exposure to the host immune system. It covers immune evasion strategies, including antigenic variation and surface proteins that suppress immune cells and effectors, and the methods used to study these mechanisms."
 link="https://www.ebi.ac.uk/training/events/how-do-parasites-evade-immune-clearance-structural-perspective"
