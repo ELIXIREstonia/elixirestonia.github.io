@@ -83,7 +83,7 @@ hide:
 
 8.12.2026 [ELIXIR Estonia Coffee Morning: research support drop-in](news/posts/2026/coffee_morning.md) online
 
-
+25.11.2026 [Crash Course in Data Management](news/posts/2026/Crash_course_DM_25-11.md) online
 
 !!! note ""
     If you would like to be notified about the events, trainings and workshops
