@@ -688,17 +688,6 @@ data-deadline-date="2026-10-16">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Building Complex Apps with R Shiny"
-description="This course teaches participants to build more sophisticated R Shiny applications through practical hands-on work, examples and best practices. Topics include interactive reporting with R Markdown, dashboards, advanced UI customization, reactive programming, modules for complex apps, troubleshooting and using AI tools in development. Participants will learn to build, deploy and maintain complex Shiny apps."
-link="https://www.sib.swiss/training/course/20261102_BCSHY"
-deadline="Registration deadline: 12 October 2026"
-dates="Date: 2 November 2026"
-data-deadline-date="2026-10-13">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Boost your institutional strategy: strengthening research management capacity in Europe"
 description="This INSPIRING ERA event explores research management as a strategic capacity that supports institutional performance and research excellence. It examines how organisations can strengthen research management capacity through professionalisation, skills development, competence frameworks and career pathways. Speakers from funders, universities and research organisations share European, national and institutional perspectives on building research management into strategy and governance."
 link="https://www.inspiring-era.eu/event/boost-your-institutional-strategy-strengthening-research-management-capacity-in-europe/"
