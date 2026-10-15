@@ -607,16 +607,6 @@ data-deadline-date="2026-10-22">
 
 <div class="tile-grid">
 <text-tile
-title="Online: How do parasites evade immune clearance? A structural perspective"
-description="This webinar looks at how parasites such as African trypanosomes and malaria parasites survive constant exposure to the host immune system. It covers immune evasion strategies, including antigenic variation and surface proteins that suppress immune cells and effectors, and the methods used to study these mechanisms."
-link="https://www.ebi.ac.uk/training/events/how-do-parasites-evade-immune-clearance-structural-perspective"
-dates="Date: 14 October 2026"
-data-deadline-date="2026-10-14">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Using in situ cryoET to investigate intracellular host-pathogen interactions"
 description="This webinar introduces in situ cryo electron tomography (cryoET) for studying host-pathogen interactions inside the host cell, focusing on apicomplexan parasites and gram-negative bacteria. It walks through the whole workflow, from sample freezing and cryoFIB milling to tomogram reconstruction, segmentation and subtomogram averaging, and discusses when the technique is the right choice."
 link="https://www.ebi.ac.uk/training/events/using-situ-cryoet-investigate-intracellular-host-pathogen-interactions"
