@@ -387,17 +387,6 @@ data-deadline-date="2026-10-31">
 
 <div class="tile-grid">
 <text-tile
-title="Finland: Quantum Machine Learning"
-description="This two-day course introduces how Machine Learning approaches can be combined with Quantum Technology, covering key concepts in statistics, probability, supervised and unsupervised learning, and quantum machine learning. The course focuses on gate-based quantum computing using Qiskit and includes hands-on sessions exploring both classical and quantum approaches."
-link="https://csc.fi/en/training-calendar/quantum-machine-learning-2/"
-dates="Date: 15 - 16 October 2026"
-data-deadline-date="2026-10-15">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: Practical Deep Learning"
 description="This course gives a practical introduction to deep learning, covering common neural network architectures such as convolutional, recurrent, and transformer models. Through lectures and hands-on PyTorch exercises, participants will learn to train and apply deep neural networks for natural language processing, images, and other applications, including using GPU resources and the Roihu supercomputer."
 link="https://csc.fi/en/training-calendar/practical-deep-learning-8/"
@@ -627,16 +616,6 @@ data-deadline-date="2026-10-28">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Advanced search and protein analysis tools in UniProt"
-description="This webinar shows how to run advanced searches in UniProt to find proteins of interest, and explains how the database is organised using identifiers and ontologies. It also demonstrates UniProt's sequence analysis tools, including BLAST, multiple sequence alignments, peptide search and ID mapping."
-link="https://www.ebi.ac.uk/training/events/advanced-search-and-protein-analysis-tools-uniprot/"
-dates="Date: 15 October 2026"
-data-deadline-date="2026-10-15">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Harnessing enzymatic functions: comparison of activity-based and sequence-based approaches"
 description="This webinar compares sequence-based and activity-based methods for revealing enzymatic functions with green applications in industries like pharmaceuticals and agriculture. Topics include accessing MGnify Proteins for bioprospecting, identifying novel plastic-degrading enzymes, and using functional metagenomics to uncover complex biological mechanisms."
 link="https://www.ebi.ac.uk/training/events/harnessing-enzymatic-functions-comparison-activity-based-and-sequence-based-approaches/"
@@ -673,16 +652,6 @@ link="https://www.sib.swiss/training/course/20261029_CVANA"
 deadline="Registration deadline: 15 October 2026"
 dates="Date: 29 October - 3 November 2026"
 data-deadline-date="2026-10-16">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Boost your institutional strategy: strengthening research management capacity in Europe"
-description="This INSPIRING ERA event explores research management as a strategic capacity that supports institutional performance and research excellence. It examines how organisations can strengthen research management capacity through professionalisation, skills development, competence frameworks and career pathways. Speakers from funders, universities and research organisations share European, national and institutional perspectives on building research management into strategy and governance."
-link="https://www.inspiring-era.eu/event/boost-your-institutional-strategy-strengthening-research-management-capacity-in-europe/"
-dates="Date: 15 October 2026"
-data-deadline-date="2026-10-15">
 </text-tile>
 </div>
 
