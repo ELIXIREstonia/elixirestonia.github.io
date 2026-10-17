@@ -616,16 +616,6 @@ data-deadline-date="2026-10-28">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Harnessing enzymatic functions: comparison of activity-based and sequence-based approaches"
-description="This webinar compares sequence-based and activity-based methods for revealing enzymatic functions with green applications in industries like pharmaceuticals and agriculture. Topics include accessing MGnify Proteins for bioprospecting, identifying novel plastic-degrading enzymes, and using functional metagenomics to uncover complex biological mechanisms."
-link="https://www.ebi.ac.uk/training/events/harnessing-enzymatic-functions-comparison-activity-based-and-sequence-based-approaches/"
-dates="Date: 16 October 2026"
-data-deadline-date="2026-10-16">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Ocean function and value: marine ecosystem mapping and services"
 description="This webinar covers microbiome-based indicators of global ocean ecosystem functioning, from functional redundancy to community traits. It also presents a protocol for inclusive, society-focused approaches to the Do No Significant Harm (DNSH) principle and how funders, scientists, businesses and the public could adopt it."
 link="https://www.ebi.ac.uk/training/events/ocean-function-value-marine-ecosystem-mapping-and-services/"
@@ -641,17 +631,6 @@ description="This webinar covers functional metagenomics and directed evolution 
 link="https://www.ebi.ac.uk/training/events/high-throughput-microbial-discovery-interfacing-droplet-microfluidics-metagenomics/"
 dates="Date: 30 October 2026"
 data-deadline-date="2026-10-30">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Cancer Variant Analysis"
-description="This course covers the concepts of calling somatic variants from next-generation sequencing data and the basics of cancer variant annotation. Participants learn how germline and somatic variants differ, analyse somatic variants in paired tumour-normal samples using GATK4 (Mutect2), and annotate variants with Ensembl's VEP to filter high-impact mutations."
-link="https://www.sib.swiss/training/course/20261029_CVANA"
-deadline="Registration deadline: 15 October 2026"
-dates="Date: 29 October - 3 November 2026"
-data-deadline-date="2026-10-16">
 </text-tile>
 </div>
 
