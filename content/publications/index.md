@@ -14,9 +14,10 @@ hide:
 
 ## Other Materials
 
-1. Inno, H., & Peterson, H. (2025). **ELIXIR Estonia: A Year of Growth, Progress, and Impact** (1.0). ELIXIR All Hands 2025 (AHM25), Thessaloniki, Greece. Zenodo. https://doi.org/10.5281/zenodo.15656761
-2. Inno, H., & Peterson, H. (2024). **Empowering Life Sciences Research: ELIXIR Estonia** poster. Zenodo. Available from: https://doi.org/10.5281/zenodo.13847963
-3. Neves A, Willassen NP, Hjerde E et al. **A survey into the contribution of regional/national pathogen data platforms and on the resources needed to develop and maintain them [version 1; peer review: awaiting peer review].** F1000Research 2023, 12(ELIXIR):1590 [https://doi.org/10.12688/f1000research.142165.1](https://doi.org/10.12688/f1000research.142165.1)
+1. Kuzmin, I., Adler, P., & Peterson, H. (2026). **Reviving Professorware: An Agentic Approach** (Version 1.0) [Graphic]. Zenodo. ELIXIR All Hands 2026 (AHM26), Lyon, France. https://doi.org/10.5281/zenodo.23473552
+2. Inno, H., & Peterson, H. (2025). **ELIXIR Estonia: A Year of Growth, Progress, and Impact** (1.0). ELIXIR All Hands 2025 (AHM25), Thessaloniki, Greece. Zenodo. https://doi.org/10.5281/zenodo.15656761
+3. Inno, H., & Peterson, H. (2024). **Empowering Life Sciences Research: ELIXIR Estonia** poster. Zenodo. Available from: https://doi.org/10.5281/zenodo.13847963
+4. Neves A, Willassen NP, Hjerde E et al. **A survey into the contribution of regional/national pathogen data platforms and on the resources needed to develop and maintain them [version 1; peer review: awaiting peer review].** F1000Research 2023, 12(ELIXIR):1590 [https://doi.org/10.12688/f1000research.142165.1](https://doi.org/10.12688/f1000research.142165.1)
 
 ## Other Resources
 
