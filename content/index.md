@@ -702,3 +702,271 @@ dates="Date: 29 October 2026"
 data-deadline-date="2026-10-29">
 </text-tile>
 </div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: Statistics with R"
+description="This self-paced online course from the Innovation Scholars Programme, run by King's College London, gives practical examples of the most widely used statistical tests in R. It explains the core idea behind applying a test so you can use the same approach for other tests. The course has 8 sessions with theory refreshers and hands-on practicals, and it requires basic knowledge of statistics, R and RStudio."
+materials="https://learninghub.kingshealthpartners.org/course/statistics-with-r"
+materialstext="Course material"
+data-added-date="2026-10-19">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="United Kingdom: Statistics with R"
+description="This in-person workshop gives practical examples of how to run the most widely used statistical tests in R, and explains the core idea behind each test so you can apply the same approach to others. It is aimed at health-sector staff (clinical, administrative or academic) who need to run statistical tests on large datasets. You need basic statistics and basic R/RStudio skills, and you must complete the online module Statistics with R before attending."
+link="https://estore.kcl.ac.uk/conferences-and-events/academic-faculties/faculty-of-life-sciences-medicine/school-of-basic-and-medical-biosciences/centre-for-gene-therapy-regenerative-medicine/part-2-statistics-with-r-december-2026"
+deadline="Registration deadline: 4 December 2026"
+dates="Date: 8 December 2026"
+data-deadline-date="2026-12-05">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: AI in Research Work"
+description="This one-day training introduces researchers to AI tools and workflows, and covers ethics, research integrity, risks and legal considerations of using AI in research. The morning lectures can be followed on-site or online. The afternoon, on-site only, includes a group workshop where participants share how they use AI, plus a session on advanced workflows such as image synthesis and coding with AI agents."
+link="https://www.aalto.fi/en/events/ai-in-research-work-oct-22-2026"
+deadline="Registration deadline: 21 October 2026"
+dates="Date: 22 October 2026"
+data-deadline-date="2026-10-22">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Open science and model cards in machine learning"
+description="This session explains how to read and write machine learning model cards, the standardized documents that describe a model's benchmarks, limitations and intended uses. It also covers reproducibility in ML research and best practices for sharing models. It is a shorter, more general version of the May 2026 event on reproducibility and open science practices in machine learning, organized by Aalto Scientific Computing and LUMI AI Factory."
+link="https://www.aalto.fi/en/events/open-science-and-model-cards-in-machine-learning-nov-3-2026"
+deadline="Registration deadline: 2 November 2026"
+dates="Date: 3 November 2026"
+data-deadline-date="2026-11-03">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Switzerland: Introduction to Spatial Transcriptomics Data Analysis"
+description="This course introduces the analysis of sequencing-based and imaging-based spatially resolved transcriptomics data, combining theoretical background with hands-on exercises, mostly in R/Bioconductor. It covers experimental design, data preprocessing and downstream analysis, so participants can run their own analyses and interpret the results biologically."
+link="https://www.sib.swiss/training/course/20261208_ISTDA"
+deadline="Registration deadline: 1 December 2026"
+dates="Date: 8 - 10 December 2026"
+data-deadline-date="2026-12-02">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: FAIR Pathogen Data: From Research Data Management Basics and Standards to ENA Submission"
+description="This two-session online workshop covers research data management for non-human pathogen data, from the data life cycle and pathogen-specific challenges to ENA metadata standards and the Webin Submission System. The second day is practical, with a live Webin demo, piloting of a harmonised metadata template, a data retrieval exercise and breakout rooms where participants map datasets to a shared template. It is aimed at researchers, data stewards and bioinformaticians with basic knowledge of genomics or molecular biology."
+link="https://www.denbi.de/training-courses-2026/2110-fair-pathogen-data-from-research-data-management-basics-and-standards-to-ena-submission"
+dates="Date: 10 - 11 November 2026"
+data-deadline-date="2026-11-10">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: In situ structural biology: bridging molecular mechanisms with system-wide approaches"
+description="This conference covers in situ structural biology, which studies the structure and function of macromolecular complexes inside intact cells and multicellular systems. It brings together cryo-electron tomography, fluorescence microscopy, mass spectrometry and computational modelling, with a particular focus this year on system-wide approaches and how they combine with other methods. It is open to experts and early-career researchers across the life sciences."
+link="https://www.embl.org/about/info/course-and-conference-office/events/iss27-01/"
+deadline="Registration deadline: 5 January 2027 (on-site); 2 February 2027 (virtual)"
+dates="Date: 9 - 12 February 2027"
+data-deadline-date="2027-02-03">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Strategies for computational vaccine design: from prefusion stabilisation to epitope focussing"
+description="This webinar gives an overview of current computational and structure-based approaches to vaccine design. It covers two strategies, stabilising a vaccine antigen in its prefusion conformation with a few mutations and grafting epitopes onto non-antigen protein scaffolds, and compares their advantages and limitations. No background in computational protein design is needed, though basic knowledge of vaccine antigens and viral glycoproteins helps."
+link="https://www.ebi.ac.uk/training/events/strategies-computational-vaccine-design-prefusion-stabilisation-epitope-focussing/"
+dates="Date: 4 November 2026"
+data-deadline-date="2026-11-04">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Exploring proteins in infection biology with EMBL-EBI resources"
+description="This webinar shows how to find and connect protein functional and structural data across UniProt, EMDB, PDBe and the AlphaFold Database (AFDB), using influenza haemagglutinin as a case study. It covers sequence and functional annotation, cryo-EM maps, and experimental and predicted structures. It ends with a discussion of open biological data in infection research and pandemic preparedness."
+link="https://www.ebi.ac.uk/training/events/exploring-proteins-infection-biology-embl-ebi-resources/"
+dates="Date: 11 November 2026"
+data-deadline-date="2026-11-11">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: ELIXIR-GOBLET Train-the-Trainer"
+description="This course introduces life-science trainers to the principles of learning, training techniques, and how to design lessons, sessions, courses and materials, including assessment and feedback. It is aimed at trainers in bioinformatics and higher education and is part of the ELIXIR-GOBLET Train-the-Trainer programme. The course runs online but is built around interaction between participants."
+link="https://www.sib.swiss/training/course/20261123_TTTCH"
+deadline="Registration deadline: 2 November 2026"
+dates="Date: 23 - 26 November 2026"
+data-deadline-date="2026-11-03">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Material: From hard drive to archive: submitting your data to make it findable and reusable"
+description="This webinar introduces European data infrastructures and why metadata standards matter, then covers EMBL-EBI submission and curation tools such as ENA, BioSamples and checklists, with best practices for submitting marine sample and sequence data. It also looks at the challenges of heterogeneous metadata and third-party curation, using the Metalog database of contextual data for over 150,000 metagenomic samples as an example."
+materials="https://www.ebi.ac.uk/training/events/hard-drive-archive-submitting-your-data-make-it-findable-and-reusable/"
+materialstext="Webinar recording"
+data-added-date="2026-10-19">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Designing sustainable systems: sustainability assessment of bio-based products and processes"
+description="This webinar covers how the microbiome of microalgae cultures changes between lab-scale and pilot-scale cultivation, and how bacterial communities differ across strains, growth conditions and production scales. It also introduces the Safe and Sustainable by Design (SSbD) framework and NORCE's work on building sustainability assessment into bio-based innovation. It is part of the series &quot;Exploring and harnessing marine microbiomes for a sustainable blue bioeconomy&quot;."
+link="https://www.ebi.ac.uk/training/events/designing-sustainable-systems-sustainability-assessment-bio-based-products-and-processes/"
+dates="Date: 6 November 2026"
+data-deadline-date="2026-11-06">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Online: Science communication: dissemination of scientific results to a variety of audiences"
+description="This webinar covers how to communicate scientific results and report them to funding bodies such as the EU, and how to measure and report key performance indicators (KPIs). It is aimed at academic and industry researchers in aquaculture, agriculture and pharmaceuticals, and at research infrastructure staff who work with marine sampling, scientific data or discovery platforms."
+link="https://www.ebi.ac.uk/training/events/science-communication-dissemination-scientific-results-variety-audiences/"
+dates="Date: 13 November 2026"
+data-deadline-date="2026-11-13">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics"
+description="This course covers best practices and advanced machine learning techniques for building more accurate, generalisable and transparent models, including Bayesian hyper-parameter optimisation, nested cross-validation and explaining feature contributions in &quot;black-box&quot; models. It is aimed at researchers who already know machine learning basics and Python, and combines theory, demonstrations, micro-exercises and group work on a project."
+link="https://www.sib.swiss/training/course/20261117__INTML"
+deadline="Registration deadline: 3 November 2026"
+dates="Date: 17 November 2026"
+data-deadline-date="2026-11-04">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: From molecules to the future of predictive biology: memorial symposium for Peer Bork"
+description="This four-day memorial symposium honours Peer Bork, EMBL's interim Director General, who died in January 2026. It brings together international scientists for invited talks, short talks selected from abstracts, poster sessions and networking. Themes include protein biology, molecular evolution, systems biology, the human microbiome, planetary biology and the future of predictive biology."
+link="https://www.embl.org/about/info/course-and-conference-office/events/pbs27-01/"
+deadline="Registration deadline: 12 January 2027 (on-site); 9 February 2027 (virtual)"
+dates="Date: 16 - 19 February 2027"
+data-deadline-date="2027-02-10">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Nextflow in Action: Build Smarter, Faster, Reproducible Pipelines"
+description="This course teaches participants how to wrap their bioinformatics analyses in the Nextflow workflow orchestrator using hands-on strategies. Participants will learn to build modular, plug-and-play pipelines, choose suitable software management tools and run their pipelines on different executors, from local machines to HPC clusters."
+link="https://www.sib.swiss/training/course/20261118_NEXAC"
+deadline="Registration deadline: 4 November 2026"
+dates="Date: 18 - 19 November 2026"
+data-deadline-date="2026-11-05">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Bioconductor Africa Seminar series: How to develop and submit a package to Bioconductor"
+description="This session shows biologists and bioinformaticians how to develop a Bioconductor package and submit it. It covers structuring and documenting R code, testing and checking the package, and preparing it for submission. The seminar is open to participants at all career stages and from all regions."
+link="https://us06web.zoom.us/meeting/register/HXnVPaMwT4qbtiydBDyR-w"
+dates="Date: 28 October 2026"
+data-deadline-date="2026-10-28">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Getting started with secondary analysis"
+description="This introductory UK Data Service workshop covers the pros and cons of reusing data and why it matters to know where your data came from. It looks at quantitative and qualitative secondary analysis, including context, sampling and ethics. The practical part focuses on exploring documentation and finding suitable data."
+link="https://ukdataservice.ac.uk/events/getting-started-with-secondary-analysis-2026-10-22/"
+dates="Date: 22 October 2026"
+data-deadline-date="2026-10-22">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Hybrid: AI agents unveiled – How AI agents work behind the scenes"
+description="This 1.5-hour webinar with a live Q&A is for staff and students who want to strengthen computational and data-based research. It explains recent developments in AI tools, clarifies terms such as tool usage, AI agent, AI harness and AI systems, and covers best practices for getting useful results. It also introduces AI systems that Aalto provides for researchers."
+link="https://www.aalto.fi/en/events/ai-agents-unveiled-how-ai-agents-work-behind-the-scenes-oct-27-2026"
+deadline="Registration deadline: 26 October 2026"
+dates="Date: 27 October 2026"
+data-deadline-date="2026-10-27">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Horizon Europe Open Science requirements in practice"
+description="This webinar answers questions Horizon Europe grant holders may have about Open Access to publications and Research Data Management. It covers mandatory and recommended Open Science requirements, how to comply with the Open Access mandate, how to manage and share research data, and how to deliver Data Management Plans and report outputs, as well as OpenAIRE tools for Horizon Europe projects. It is aimed at project coordinators, researchers, research managers, librarians and data stewards, and ends with a Q&A with experts."
+link="https://www.openaire.eu/component/jevents/eventdetail/1600/horizon-europe-open-science-requirements-in-practice"
+dates="Date: 6 November 2026"
+data-deadline-date="2026-11-06">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: AI &amp; Scientific Writing"
+description="Generative AI can make it easier to communicate research, but how can the quality and integrity of science be maintained? In this webinar with Dr. Niki Scaplehorn (Director, Content Innovation, Springer Nature), learn how to use large language models safely in scientific writing and where the red lines are. Topics include using AI tools to create content, to analyse and write up results, and as a reviewer."
+link="https://register.gotowebinar.com/register/3027896051412592988"
+dates="Date: 28 October 2026"
+data-deadline-date="2026-10-28">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: 1-hour pre conference online poster and pitching tips"
+description="This one-hour online session gives quick, practical tips for designing a clear conference poster and delivering a confident pitch. It covers poster design basics such as layout, typography and colour, how to turn your core message into a short pitch, and verbal and non-verbal delivery, with time for Q&A at the end. The session is free and only open to researchers who have been selected to present a talk or poster at the conference."
+link="https://training.vib.be/all-trainings/1-hour-pre-conference-online-poster-and-pitching-tips-1"
+deadline="Registration deadline: 27 October 2026"
+dates="Date: 3 November 2026"
+data-deadline-date="2026-10-28">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Using SN Link to find journals for your research"
+description="This webinar shows how to use Springer Nature Link and its Journal Finder to pick suitable Springer Nature journals for your research. You'll learn how to check impact factors, turnaround times and other journal metrics, follow the impact of your research once it's published, and find content to support your work. The session is led by Stephen Burridge, Senior Account Development Manager, and includes time for questions."
+link="https://register.gotowebinar.com/register/3070468041313061215"
+dates="Date: 11 November 2026"
+data-deadline-date="2026-11-11">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Enrichment Analysis"
+description="This course introduces Gene Set Enrichment Analysis (GSEA) and other enrichment methods for interpreting lists of differentially expressed genes, together with functional annotation databases such as Gene Ontology. Participants learn to apply overrepresentation and GSEA methods in R. It is aimed at life science researchers from academia and industry."
+link="https://www.sib.swiss/training/course/20261127_ENRIC"
+deadline="Registration deadline: 12 November 2026"
+dates="Date: 27 November 2026"
+data-deadline-date="2026-11-13">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Explainable AI for Life Science"
+description="This online workshop introduces explainable AI (xAI) and why it matters in the life sciences, where it helps you understand why a model made a prediction and whether that prediction can be trusted. In hands-on notebooks, participants apply methods such as SHAP, feature importance, saliency maps and Grad-CAM to medical datasets, including stroke prediction from tabular data and chest X-ray classification. You should know basic Python. Machine learning experience helps but isn't required."
+link="https://swedenaifactory.se/event/explainable-ai-for-life-science/"
+deadline="Registration deadline: 21 October 2026"
+dates="Date: 23 October 2026"
+data-deadline-date="2026-10-22">
+</text-tile>
+</div>
+
+
+
