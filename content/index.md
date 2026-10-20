@@ -106,11 +106,11 @@ ELIXIR Estonia builds and maintains web tools and other resources for life scien
 We offer the following topics:
 
 * MSc level: Scalable k-mer and graph-based clustering of short peptide sequences under limited memory
-* BSc level: Kohalikul tehisintellektimudelil põhinev kakskeelne andmehalduse nõustaja Eesti teadlastele
+* Võetud - BSc level: Kohalikul tehisintellektimudelil põhinev kakskeelne andmehalduse nõustaja Eesti teadlastele
 * MSc level: Can an open-weight LLM check metadata reliably in Estonian and English?
 * MSc level: Does good metadata get data reused? GEO as a test bed
 * MSc level: From prose to machine-actionable DMPs
-* BSc level: Kas automaatsed FAIR-hindajad on omavahel nõus?
+* Võetud - BSc level: Kas automaatsed FAIR-hindajad on omavahel nõus?
 * MSc level: Can AI Agents Reproduce Bioimage Analysis Papers? Evaluating and Improving Open Models and Specialised Agents
 * BSc level: Eesti 10 km rahvajooksude osalus- ja tulemustrendid maakondade lõikes aastatel 2016–2026
 
