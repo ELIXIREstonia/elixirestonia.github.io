@@ -958,4 +958,78 @@ data-deadline-date="2026-10-22">
 </div>
 
 
+<div class="tile-grid">
+<text-tile
+title="Hybrid: Doing qualitative research in conversation with AI"
+description="This one-day workshop introduces qualitative researchers to AI tools such as generative AI and Large Language Models, covering best practices, how conversations shape outputs, and where those outputs come from. It also addresses ethical issues, data security and research integrity, and includes an in-person group workshop on tools, techniques and prompts."
+link="https://www.aalto.fi/en/events/doing-qualitative-research-in-conversation-with-ai-nov-10-2026"
+deadline="Registration deadline: 10 November 2026"
+dates="Date: 10 November 2026"
+data-deadline-date="2026-11-11">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Connect and Make datasets easier to (re)use"
+description="This one-hour session looks at how rich dataset documentation can help researchers find, understand and reuse datasets. Mari Wigham (Huygens Instituut) will present tools and formats and share real-life examples. Open questions such as bias, positionality, barriers to creating documentation and gaps between disciplines will be covered, followed by time for questions and informal discussion."
+link="https://www.library.universiteitleiden.nl/events/2026/11/connect--reuse"
+dates="Date: 16 November 2026"
+data-deadline-date="2026-11-16">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Introduction to anonymisation techniques for social sciences research data"
+description="This free 90-minute introductory workshop covers the basic principles of anonymising social science research data, both quantitative survey data and qualitative transcripts, with brief notes on audio and visual material. Topics include definitions of personal data, identifiability, how de-identification differs from anonymisation, direct versus indirect identifiers, and special category data. It is aimed at researchers, data managers and other data professionals."
+link="https://ukdataservice.ac.uk/events/introduction-to-anonymisation-techniques-for-social-sciences-research-data-2026-11-24/"
+dates="Date: 24 November 2026"
+data-deadline-date="2026-11-24">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Online: Research Integrity"
+description="Understanding research integrity is key to keeping your work credible and protecting your career. In this webinar, Laura Whitehead, Research Integrity Manager at Springer Nature, explains why research integrity matters, what can go wrong and how to avoid it in your own work. You will also learn what publishers do to correct and maintain the scientific record."
+link="https://register.gotowebinar.com/register/2913182903074089817"
+dates="Date: 25 November 2026"
+data-deadline-date="2026-11-25">
+</text-tile>
+</div>
+
+
+<div class="tile-grid">
+<text-tile
+title="Online: OpenAIRE Content Providers Community Call"
+description="This community call covers how OpenAIRE Broker integrates with DSpace repositories, so that repository records can be enriched automatically with metadata from the OpenAIRE Graph. The session introduces OpenAIRE Broker and explains how it works with DSpace. It ends with a live demonstration from a repository that already uses the service."
+link="https://www.openaire.eu/component/jevents/eventdetail/1660/openaire-content-providers-community-call"
+dates="Date: 4 November 2026"
+data-deadline-date="2026-11-04">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: OpenFest 2026: People and Place"
+description="OpenFest is an annual week of online talks, panels and discussions on open education, open research and open practice, run jointly by the University of Sheffield and Sheffield Hallam University. The 2026 theme was People and Place. Sessions covered citizen science and co-production, feminist and creative ways of making knowledge, building capacity for open research, research communities and inclusive research, with a keynote by Dr Madeleine Pownall."
+materials="https://libguides.shu.ac.uk/openresearch/openfest"
+materialstext="Session recordings"
+data-added-date="2026-10-20">
+</text-tile>
+</div>
+
+<div class="tile-grid">
+<text-tile
+title="Material: Essential Aspects of Tools for Developing Scientific Data Management Plans"
+description="This peer-reviewed article in the Data Science Journal compares five tools for writing data management plans: DMPTool, DMPonline, PGD-BR, DS-Wizard and OpenDMP. Each tool is scored on criteria such as repository integration, machine-actionable output and customization. The authors also give a decision matrix, application scenarios and recommendations for developers, institutions and funders."
+materials="https://doi.org/10.5334/dsj-2026-005"
+materialstext="Research article"
+data-added-date="2026-10-20">
+</text-tile>
+</div>
+
+
+
 
