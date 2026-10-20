@@ -385,17 +385,6 @@ data-deadline-date="2026-10-31">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Practical Deep Learning"
-description="This course gives a practical introduction to deep learning, covering common neural network architectures such as convolutional, recurrent, and transformer models. Through lectures and hands-on PyTorch exercises, participants will learn to train and apply deep neural networks for natural language processing, images, and other applications, including using GPU resources and the Roihu supercomputer."
-link="https://csc.fi/en/training-calendar/practical-deep-learning-8/"
-deadline="Registration deadline: 14 October 2026 (in-person) / 18 October 2026 (online)"
-dates="Date: 21 - 22 October 2026"
-data-deadline-date="2026-10-19">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Luxembourg: Impact of Big Data & AI Analytics on Healthcare"
 description="This conference brings together experts in AI, machine learning and biomedicine to explore how data-driven innovation is transforming healthcare, from drug discovery to precision medicine and clinical applications. The programme covers big data and machine learning, target discovery and drug development, clinical decision support systems, and technological and industrial advances, while fostering interdisciplinary exchange and collaboration across the international bioinformatics community."
 link="https://bigdata.uni.lu/"
