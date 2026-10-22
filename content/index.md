@@ -428,17 +428,6 @@ data-deadline-date="2026-11-23">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Practical machine learning with spatial data"
-description="This course gives a practical introduction to machine learning with spatial data, covering both shallow and deep learning models, including convolutional neural networks (CNN). Through lectures and hands-on Python exercises, participants will learn to apply machine learning to spatial data analysis and use supercomputer GPU resources for model training and deployment."
-link="https://csc.fi/en/training-calendar/practical-machine-learning-with-spatial-data-3/"
-deadline="Registration deadline: 20 October 2026"
-dates="Date: 28 - 30 October 2026"
-data-deadline-date="2026-10-21">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Working with hard-to-share data?"
 description="Researchers in the social sciences and humanities often work with data that cannot easily be shared due to ethical, cultural, commercial or practical constraints. Developed through the Beyond Personal Data project, these guidebooks and openly licensed training materials offer practical guidance for responsibly sharing sensitive data, including field notes, using secure environments, and applying the CARE principles."
 materials="https://dans.knaw.nl/en/news/working-with-hard-to-share-data/"
@@ -578,16 +567,6 @@ link="https://www.sib.swiss/training/course/20261029_GITVC"
 deadline="Registration deadline: 21 October 2026"
 dates="Date: 5 - 6 November 2026"
 data-deadline-date="2026-10-22">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Using in situ cryoET to investigate intracellular host-pathogen interactions"
-description="This webinar introduces in situ cryo electron tomography (cryoET) for studying host-pathogen interactions inside the host cell, focusing on apicomplexan parasites and gram-negative bacteria. It walks through the whole workflow, from sample freezing and cryoFIB milling to tomogram reconstruction, segmentation and subtomogram averaging, and discusses when the technique is the right choice."
-link="https://www.ebi.ac.uk/training/events/using-situ-cryoet-investigate-intracellular-host-pathogen-interactions"
-dates="Date: 21 October 2026"
-data-deadline-date="2026-10-21">
 </text-tile>
 </div>
 
