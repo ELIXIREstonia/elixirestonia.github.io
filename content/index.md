@@ -561,17 +561,6 @@ data-deadline-date="2026-11-30">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Version Control with Git"
-description="Git is an open source version control system for tracking changes in code and other text documents, and is widely used both in software development and to make research reproducible. This 2-day course gives a full overview of Git and its most useful commands, and introduces collaborative workflows on GitHub through theory and practical exercises. It is aimed at life-science researchers who want to use version control for collaborative work or to keep track of changes to their scripts, files or code."
-link="https://www.sib.swiss/training/course/20261029_GITVC"
-deadline="Registration deadline: 21 October 2026"
-dates="Date: 5 - 6 November 2026"
-data-deadline-date="2026-10-22">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Automated X-ray fragment and ligand screening for therapeutic innovation in infection biology"
 description="This webinar presents technologies developed at EMBL Grenoble for fully automated, large-scale fragment and ligand screening by X-ray crystallography. It shows how this screening and structure-based drug design help validate therapeutic targets and develop small-molecule inhibitors in infection biology."
 link="https://www.ebi.ac.uk/training/events/automated-x-ray-fragment-and-ligand-screening-therapeutic-discovery-infection-biology"
@@ -689,17 +678,6 @@ link="https://estore.kcl.ac.uk/conferences-and-events/academic-faculties/faculty
 deadline="Registration deadline: 4 December 2026"
 dates="Date: 8 December 2026"
 data-deadline-date="2026-12-05">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Hybrid: AI in Research Work"
-description="This one-day training introduces researchers to AI tools and workflows, and covers ethics, research integrity, risks and legal considerations of using AI in research. The morning lectures can be followed on-site or online. The afternoon, on-site only, includes a group workshop where participants share how they use AI, plus a session on advanced workflows such as image synthesis and coding with AI agents."
-link="https://www.aalto.fi/en/events/ai-in-research-work-oct-22-2026"
-deadline="Registration deadline: 21 October 2026"
-dates="Date: 22 October 2026"
-data-deadline-date="2026-10-22">
 </text-tile>
 </div>
 
@@ -854,16 +832,6 @@ data-deadline-date="2026-10-28">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Getting started with secondary analysis"
-description="This introductory UK Data Service workshop covers the pros and cons of reusing data and why it matters to know where your data came from. It looks at quantitative and qualitative secondary analysis, including context, sampling and ethics. The practical part focuses on exploring documentation and finding suitable data."
-link="https://ukdataservice.ac.uk/events/getting-started-with-secondary-analysis-2026-10-22/"
-dates="Date: 22 October 2026"
-data-deadline-date="2026-10-22">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: AI agents unveiled – How AI agents work behind the scenes"
 description="This 1.5-hour webinar with a live Q&A is for staff and students who want to strengthen computational and data-based research. It explains recent developments in AI tools, clarifies terms such as tool usage, AI agent, AI harness and AI systems, and covers best practices for getting useful results. It also introduces AI systems that Aalto provides for researchers."
 link="https://www.aalto.fi/en/events/ai-agents-unveiled-how-ai-agents-work-behind-the-scenes-oct-27-2026"
@@ -924,18 +892,6 @@ dates="Date: 27 November 2026"
 data-deadline-date="2026-11-13">
 </text-tile>
 </div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Explainable AI for Life Science"
-description="This online workshop introduces explainable AI (xAI) and why it matters in the life sciences, where it helps you understand why a model made a prediction and whether that prediction can be trusted. In hands-on notebooks, participants apply methods such as SHAP, feature importance, saliency maps and Grad-CAM to medical datasets, including stroke prediction from tabular data and chest X-ray classification. You should know basic Python. Machine learning experience helps but isn't required."
-link="https://swedenaifactory.se/event/explainable-ai-for-life-science/"
-deadline="Registration deadline: 21 October 2026"
-dates="Date: 23 October 2026"
-data-deadline-date="2026-10-22">
-</text-tile>
-</div>
-
 
 <div class="tile-grid">
 <text-tile
