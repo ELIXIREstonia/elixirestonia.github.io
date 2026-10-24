@@ -571,16 +571,6 @@ data-deadline-date="2026-10-28">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Ocean function and value: marine ecosystem mapping and services"
-description="This webinar covers microbiome-based indicators of global ocean ecosystem functioning, from functional redundancy to community traits. It also presents a protocol for inclusive, society-focused approaches to the Do No Significant Harm (DNSH) principle and how funders, scientists, businesses and the public could adopt it."
-link="https://www.ebi.ac.uk/training/events/ocean-function-value-marine-ecosystem-mapping-and-services/"
-dates="Date: 23 October 2026"
-data-deadline-date="2026-10-23">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: High-throughput microbial discovery: interfacing droplet microfluidics with metagenomics"
 description="This webinar covers functional metagenomics and directed evolution in microfluidic droplets. It explains the different droplet formats used for high-throughput screening and how to adapt droplet screening for enzyme discovery at ultra-high throughput, with case studies of its applications."
 link="https://www.ebi.ac.uk/training/events/high-throughput-microbial-discovery-interfacing-droplet-microfluidics-metagenomics/"
