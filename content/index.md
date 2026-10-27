@@ -196,17 +196,6 @@ data-added-date="2026-08-07">
 
 <div class="tile-grid">
 <text-tile
-title="Netherlands: Computational Metagenomics (2026)"
-description="This course teaches state-of-the-art computational methods for analysing metagenomic and metatranscriptomic data, combining lectures with hands-on sessions using real data. Participants will cover experimental design, sequencing technologies, quality control, assembly, taxonomic analysis, statistical techniques and functional annotation of microbiomes."
-link="https://www.dtls.nl/courses/computational-metagenomics-2026/"
-deadline="Registration deadline: Not specified (early bird registration until 31 August 2026)"
-dates="Date: 26 - 28 October 2026"
-data-deadline-date="2026-10-26">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: RDA 25th Plenary Meeting"
 description="Explore presentation slides and session recordings from the Research Data Alliance’s 25th Plenary Meeting, held as part of International Data Week 2025 in Brisbane. The programme brings together sessions on FAIR data, research data management, interoperability, data governance, AI, persistent identifiers, and other topics shaping the global research data community."
 materials="https://www.rd-alliance.org/plenaries/idw-2025-p25/programme-25/"
