@@ -69,8 +69,6 @@ hide:
 
 ## Free autumn courses 2026 by ELIXIR Estonia
 
-27.10.2026 [ELIXIR Estonia Coffee Morning: research support drop-in](news/posts/2026/coffee_morning.md) in-person
-
 4.11.2026 [Data Management Plan Consultation](news/posts/2026/DMP_consult_04-11.md) online
 
 10.11.2026 [ELIXIR Estonia Coffee Morning: research support drop-in](news/posts/2026/coffee_morning.md) online
@@ -105,14 +103,15 @@ ELIXIR Estonia builds and maintains web tools and other resources for life scien
 
 We offer the following topics:
 
-* MSc level: Scalable k-mer and graph-based clustering of short peptide sequences under limited memory
+* Broneeritud - MSc level: Scalable k-mer and graph-based clustering of short peptide sequences under limited memory
 * Võetud - BSc level: Kohalikul tehisintellektimudelil põhinev kakskeelne andmehalduse nõustaja Eesti teadlastele
 * MSc level: Can an open-weight LLM check metadata reliably in Estonian and English?
-* MSc level: Does good metadata get data reused? GEO as a test bed
+* Broneeritud - MSc level: Does good metadata get data reused? GEO as a test bed
 * MSc level: From prose to machine-actionable DMPs
 * Võetud - BSc level: Kas automaatsed FAIR-hindajad on omavahel nõus?
+* Broneeritud - BSc level: Kas kadunud veebiteenuse saab teadusartikli põhjal taaselustada?
 * MSc level: Can AI Agents Reproduce Bioimage Analysis Papers? Evaluating and Improving Open Models and Specialised Agents
-* BSc level: Eesti 10 km rahvajooksude osalus- ja tulemustrendid maakondade lõikes aastatel 2016–2026
+* Võetud - BSc level: Eesti 10 km rahvajooksude osalus- ja tulemustrendid maakondade lõikes aastatel 2016–2026
 
 [More info](news/posts/2026/thesis_topics_2026.md)
 

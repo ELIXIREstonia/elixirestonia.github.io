@@ -22,6 +22,7 @@ hide:
 * __7.09.2026-10.09.2026__ - [scRNA-seq Data Analysis](../news/posts/2026/scRNA-seq_Data_Analysis.md)
 * __29.09.2026__ - [Data Visualization with AI Tools](../news/posts/2026/padevuspaev_2909.md) during Competence day "AI at the university: skills, responsibility and critical choices"
 * __13.10.2026__ - [ELIXIR Estonia Coffee Morning: research support drop-in](../news/posts/2026/coffee_morning.md) online
+* __27.10.2026__ [ELIXIR Estonia Coffee Morning: research support drop-in](../news/posts/2026/coffee_morning.md) in-person
 
 
 ## 2025
