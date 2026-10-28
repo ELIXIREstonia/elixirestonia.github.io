@@ -620,16 +620,6 @@ data-added-date="2026-10-05">
 
 <div class="tile-grid">
 <text-tile
-title="Online: When every hypothesis is published: AI and the exploitation of Open Science Assets"
-description="This seminar examines how AI can generate, test and write up hypotheses from open science publications and datasets faster than research communities can evaluate them. Matt Spick and Danny Maupin (University of Surrey) will discuss what happens to open repositories when they become inputs to industrial-scale hypothesis generation, show case studies of outputs produced within an hour, and explore the effects on the literature, including restrictions on resources. The session ends with a Q&A."
-link="https://www.scilifelab.se/event/when-every-hypothesis-is-published-ai-and-the-exploitation-of-open-science-assets/"
-dates="Date: 27 October 2026"
-data-deadline-date="2026-10-27">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Best practices for documenting social sciences research data"
 description="This introductory workshop from the UK Data Service looks at why data documentation matters for research integrity and data sharing, and shows how to write thorough documentation for different types of data using practical examples and templates. It also gives an overview of metadata and the standards used to share data well, and ends with a Q&A session."
 link="https://ukdataservice.ac.uk/events/best-practices-for-documenting-social-sciences-research-data-2026-10-29/"
@@ -805,17 +795,6 @@ description="This session shows biologists and bioinformaticians how to develop 
 link="https://us06web.zoom.us/meeting/register/HXnVPaMwT4qbtiydBDyR-w"
 dates="Date: 28 October 2026"
 data-deadline-date="2026-10-28">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Hybrid: AI agents unveiled – How AI agents work behind the scenes"
-description="This 1.5-hour webinar with a live Q&A is for staff and students who want to strengthen computational and data-based research. It explains recent developments in AI tools, clarifies terms such as tool usage, AI agent, AI harness and AI systems, and covers best practices for getting useful results. It also introduces AI systems that Aalto provides for researchers."
-link="https://www.aalto.fi/en/events/ai-agents-unveiled-how-ai-agents-work-behind-the-scenes-oct-27-2026"
-deadline="Registration deadline: 26 October 2026"
-dates="Date: 27 October 2026"
-data-deadline-date="2026-10-27">
 </text-tile>
 </div>
 
