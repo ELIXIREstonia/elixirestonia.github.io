@@ -258,17 +258,6 @@ data-deadline-date="2026-11-06">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Unlocking the functional diversity of gut microbiomes"
-description="This conference explores the functional diversity of the human gut microbiome and the molecular and ecological mechanisms linking microbial communities to human health. It will focus on approaches for mapping gene function, establishing new model gut microorganisms, and advancing the field from descriptive observations toward causal and mechanistic insights."
-link="https://www.embl.org/about/info/course-and-conference-office/events/gmd26-01/"
-deadline="Registration deadline: 27 October 2026 (on-site); 1 December 2026 (virtual)"
-dates="Date: 8 - 10 December 2026"
-data-deadline-date="2026-10-28">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: Quantitative biology to molecular mechanisms"
 description="This EMBO Workshop explores how advances in genomics, proteomics, imaging and other quantitative technologies can deepen our understanding of biological systems. It brings together researchers across single-cell biology, quantitative imaging, synthetic biology and theory to connect data with mechanistic and predictive models."
 link="https://www.embl.org/about/info/course-and-conference-office/events/omx26-01/"
@@ -549,16 +538,6 @@ data-deadline-date="2026-11-30">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Automated X-ray fragment and ligand screening for therapeutic innovation in infection biology"
-description="This webinar presents technologies developed at EMBL Grenoble for fully automated, large-scale fragment and ligand screening by X-ray crystallography. It shows how this screening and structure-based drug design help validate therapeutic targets and develop small-molecule inhibitors in infection biology."
-link="https://www.ebi.ac.uk/training/events/automated-x-ray-fragment-and-ligand-screening-therapeutic-discovery-infection-biology"
-dates="Date: 28 October 2026"
-data-deadline-date="2026-10-28">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: High-throughput microbial discovery: interfacing droplet microfluidics with metagenomics"
 description="This webinar covers functional metagenomics and directed evolution in microfluidic droplets. It explains the different droplet formats used for high-throughput screening and how to adapt droplet screening for enzyme discovery at ultra-high throughput, with case studies of its applications."
 link="https://www.ebi.ac.uk/training/events/high-throughput-microbial-discovery-interfacing-droplet-microfluidics-metagenomics/"
@@ -790,42 +769,11 @@ data-deadline-date="2026-11-05">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Bioconductor Africa Seminar series: How to develop and submit a package to Bioconductor"
-description="This session shows biologists and bioinformaticians how to develop a Bioconductor package and submit it. It covers structuring and documenting R code, testing and checking the package, and preparing it for submission. The seminar is open to participants at all career stages and from all regions."
-link="https://us06web.zoom.us/meeting/register/HXnVPaMwT4qbtiydBDyR-w"
-dates="Date: 28 October 2026"
-data-deadline-date="2026-10-28">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Horizon Europe Open Science requirements in practice"
 description="This webinar answers questions Horizon Europe grant holders may have about Open Access to publications and Research Data Management. It covers mandatory and recommended Open Science requirements, how to comply with the Open Access mandate, how to manage and share research data, and how to deliver Data Management Plans and report outputs, as well as OpenAIRE tools for Horizon Europe projects. It is aimed at project coordinators, researchers, research managers, librarians and data stewards, and ends with a Q&A with experts."
 link="https://www.openaire.eu/component/jevents/eventdetail/1600/horizon-europe-open-science-requirements-in-practice"
 dates="Date: 6 November 2026"
 data-deadline-date="2026-11-06">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: AI &amp; Scientific Writing"
-description="Generative AI can make it easier to communicate research, but how can the quality and integrity of science be maintained? In this webinar with Dr. Niki Scaplehorn (Director, Content Innovation, Springer Nature), learn how to use large language models safely in scientific writing and where the red lines are. Topics include using AI tools to create content, to analyse and write up results, and as a reviewer."
-link="https://register.gotowebinar.com/register/3027896051412592988"
-dates="Date: 28 October 2026"
-data-deadline-date="2026-10-28">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: 1-hour pre conference online poster and pitching tips"
-description="This one-hour online session gives quick, practical tips for designing a clear conference poster and delivering a confident pitch. It covers poster design basics such as layout, typography and colour, how to turn your core message into a short pitch, and verbal and non-verbal delivery, with time for Q&A at the end. The session is free and only open to researchers who have been selected to present a talk or poster at the conference."
-link="https://training.vib.be/all-trainings/1-hour-pre-conference-online-poster-and-pitching-tips-1"
-deadline="Registration deadline: 27 October 2026"
-dates="Date: 3 November 2026"
-data-deadline-date="2026-10-28">
 </text-tile>
 </div>
 
