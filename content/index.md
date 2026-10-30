@@ -599,16 +599,6 @@ data-added-date="2026-10-05">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Best practices for documenting social sciences research data"
-description="This introductory workshop from the UK Data Service looks at why data documentation matters for research integrity and data sharing, and shows how to write thorough documentation for different types of data using practical examples and templates. It also gives an overview of metadata and the standards used to share data well, and ends with a Q&A session."
-link="https://ukdataservice.ac.uk/events/best-practices-for-documenting-social-sciences-research-data-2026-10-29/"
-dates="Date: 29 October 2026"
-data-deadline-date="2026-10-29">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Statistics with R"
 description="This self-paced online course from the Innovation Scholars Programme, run by King's College London, gives practical examples of the most widely used statistical tests in R. It explains the core idea behind applying a test so you can use the same approach for other tests. The course has 8 sessions with theory refreshers and hands-on practicals, and it requires basic knowledge of statistics, R and RStudio."
 materials="https://learninghub.kingshealthpartners.org/course/statistics-with-r"
