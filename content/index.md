@@ -472,17 +472,6 @@ data-deadline-date="2026-11-24">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Moving your AI training jobs to LUMI: A Hands-On Workshop"
-description="This workshop shows participants how to use the LUMI supercomputer for AI applications, and attendees can bring their own AI training scripts to adapt to LUMI's GPU system. Topics include the LUMI-G architecture, SLURM, ROCm, file systems, PyTorch, containers and scaling to multiple GPUs. The workshop takes place at the University of Latvia in Riga, and remote participants can follow the lectures via livestream but cannot take part in the hands-on exercises."
-link="https://csc.fi/en/training-calendar/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop-2/"
-deadline="Registration deadline: 29 October 2026"
-dates="Date: 25 - 26 November 2026"
-data-deadline-date="2026-10-30">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Switzerland: Single-Cell Transcriptomics with R"
 description="This course explores single-cell RNA-seq (scRNA-seq) technologies and the main things to consider when designing an scRNA-seq experiment. It includes hands-on practical data analysis sessions using droplet-based methods. It is aimed at PhD students, postdocs and other life-science researchers from academia and industry who are already familiar with next-generation sequencing (NGS)."
 link="https://www.sib.swiss/training/course/20261111_ISCTR"
@@ -492,17 +481,6 @@ data-deadline-date="2026-11-05">
 </text-tile>
 </div>
 
-
-<div class="tile-grid">
-<text-tile
-title="Switzerland: Introduction to Machine Learning with R"
-description="This course addresses the challenge of extracting predictive knowledge from ever-growing omics datasets by introducing common machine learning algorithms and how to apply them to biological data. Participants implement these algorithms in practical R sessions using the tidymodels framework, working through hands-on exercises and challenges with real-world datasets."
-link="https://www.sib.swiss/training/course/20261112_INMLR"
-deadline="Registration deadline: 29 October 2026"
-dates="Date: 12 - 13 November 2026"
-data-deadline-date="2026-10-30">
-</text-tile>
-</div>
 
 <div class="tile-grid">
 <text-tile
@@ -533,16 +511,6 @@ description="This three-day course gives an overview of deep learning with bioin
 link="https://www.denbi.de/training-courses-2026/2153-introduction-to-deep-learning-2026"
 dates="Date: 30 November - 2 December 2026"
 data-deadline-date="2026-11-30">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: High-throughput microbial discovery: interfacing droplet microfluidics with metagenomics"
-description="This webinar covers functional metagenomics and directed evolution in microfluidic droplets. It explains the different droplet formats used for high-throughput screening and how to adapt droplet screening for enzyme discovery at ultra-high throughput, with case studies of its applications."
-link="https://www.ebi.ac.uk/training/events/high-throughput-microbial-discovery-interfacing-droplet-microfluidics-metagenomics/"
-dates="Date: 30 October 2026"
-data-deadline-date="2026-10-30">
 </text-tile>
 </div>
 
