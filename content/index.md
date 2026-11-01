@@ -351,17 +351,6 @@ data-deadline-date="2026-11-10">
 
 <div class="tile-grid">
 <text-tile
-title="Germany: 2nd Berlin Winter School in RNA-Seq Data Analysis 2026"
-description="This workshop provides a deeper understanding of Next-Generation Sequencing (NGS), with a special focus on bioinformatics and RNA-Seq data analysis. Designed for beginners, participants will gain hands-on experience with NGS data formats, read alignment, differential expression analysis, diagnostic graphics, and other essential bioinformatics tools using real-life RNA-Seq data."
-link="https://www.ecseq.com/workshops/workshop_2026-08-2nd-Berlin-Winter-School-RNA-Seq-Data-Analysis"
-deadline="Registration deadline: 30 October 2026"
-dates="Date: 2 - 5 November 2026"
-data-deadline-date="2026-10-31">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Luxembourg: Impact of Big Data & AI Analytics on Healthcare"
 description="This conference brings together experts in AI, machine learning and biomedicine to explore how data-driven innovation is transforming healthcare, from drug discovery to precision medicine and clinical applications. The programme covers big data and machine learning, target discovery and drug development, clinical decision support systems, and technological and industrial advances, while fostering interdisciplinary exchange and collaboration across the international bioinformatics community."
 link="https://bigdata.uni.lu/"
