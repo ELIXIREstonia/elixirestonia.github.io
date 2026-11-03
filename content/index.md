@@ -473,17 +473,6 @@ data-deadline-date="2026-11-05">
 
 <div class="tile-grid">
 <text-tile
-title="Sweden: Cryo-EM Sample Preparation and Data Collection Course"
-description="This course equips facility users with cryo-EM sample preparation techniques and data acquisition workflows, covering an overview of cryo-EM methods, microscope design, sample preparation, single particle analysis data collection and introductory image processing. It combines lectures, cryo lab work, demonstrations and practical exercises with hands-on microscope operation."
-link="https://training.scilifelab.se/events/cryo-em-sample-preparation-and-data-collection-course"
-deadline="Registration deadline: 1 November 2026"
-dates="Date: 1 - 3 December 2026"
-data-deadline-date="2026-11-02">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Germany: In situ CLEM at room temperature and in cryo"
 description="This course equips participants with practical, hands-on skills in Correlative Light and Electron Microscopy (CLEM) at both room temperature and cryogenic conditions. It combines theory with practical sessions on high-precision localisation and cutting-edge sample preparation, such as high-pressure freezing, plunge freezing and ultramicrotomy. Participants will learn to build customised CLEM workflows for their own research questions, with close guidance from CLEM and EM experts."
 link="https://www.embl.org/about/info/course-and-conference-office/events/lem27-01"
