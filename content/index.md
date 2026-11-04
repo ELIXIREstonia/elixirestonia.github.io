@@ -154,17 +154,6 @@ data-added-date="2026-06-29">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Defining and defeating metastasis: from plasticity to immune evasion to therapy resistance"
-description="This symposium explores emerging concepts in metastasis research, including tumour cell dissemination, metastatic heterogeneity, EMT and plasticity, immune evasion, metabolic adaptations, and transcriptional and epigenetic control. It brings together interdisciplinary approaches such as intravital imaging, single-cell and spatial transcriptomics, genomics, tissue modelling, and machine learning to advance understanding of metastasis and its therapeutic challenges."
-link="https://www.embl.org/about/info/course-and-conference-office/events/ees26-05/"
-deadline="Registration deadline: 29 September 2026 (on-site); 3 November 2026 (virtual)"
-dates="Date: 10 - 13 November 2026"
-data-deadline-date="2026-11-03">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Ten simple rules on how to write a standard operating procedure"
 description="This article provides a practical, step-by-step framework for creating clear and reliable standard operating procedures (SOPs) in research. It covers the full SOP lifecycle, from defining purpose and structure to testing, approval, regular review, and publication, with a focus on improving reproducibility, transparency, and research quality."
 materials="https://doi.org/10.1371/journal.pcbi.1008095"
@@ -566,17 +555,6 @@ data-deadline-date="2026-12-05">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Open science and model cards in machine learning"
-description="This session explains how to read and write machine learning model cards, the standardized documents that describe a model's benchmarks, limitations and intended uses. It also covers reproducibility in ML research and best practices for sharing models. It is a shorter, more general version of the May 2026 event on reproducibility and open science practices in machine learning, organized by Aalto Scientific Computing and LUMI AI Factory."
-link="https://www.aalto.fi/en/events/open-science-and-model-cards-in-machine-learning-nov-3-2026"
-deadline="Registration deadline: 2 November 2026"
-dates="Date: 3 November 2026"
-data-deadline-date="2026-11-03">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Switzerland: Introduction to Spatial Transcriptomics Data Analysis"
 description="This course introduces the analysis of sequencing-based and imaging-based spatially resolved transcriptomics data, combining theoretical background with hands-on exercises, mostly in R/Bioconductor. It covers experimental design, data preprocessing and downstream analysis, so participants can run their own analyses and interpret the results biologically."
 link="https://www.sib.swiss/training/course/20261208_ISTDA"
@@ -626,18 +604,6 @@ dates="Date: 11 November 2026"
 data-deadline-date="2026-11-11">
 </text-tile>
 </div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: ELIXIR-GOBLET Train-the-Trainer"
-description="This course introduces life-science trainers to the principles of learning, training techniques, and how to design lessons, sessions, courses and materials, including assessment and feedback. It is aimed at trainers in bioinformatics and higher education and is part of the ELIXIR-GOBLET Train-the-Trainer programme. The course runs online but is built around interaction between participants."
-link="https://www.sib.swiss/training/course/20261123_TTTCH"
-deadline="Registration deadline: 2 November 2026"
-dates="Date: 23 - 26 November 2026"
-data-deadline-date="2026-11-03">
-</text-tile>
-</div>
-
 
 <div class="tile-grid">
 <text-tile
