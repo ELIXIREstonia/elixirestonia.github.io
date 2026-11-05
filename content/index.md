@@ -578,16 +578,6 @@ data-deadline-date="2027-02-03">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Strategies for computational vaccine design: from prefusion stabilisation to epitope focussing"
-description="This webinar gives an overview of current computational and structure-based approaches to vaccine design. It covers two strategies, stabilising a vaccine antigen in its prefusion conformation with a few mutations and grafting epitopes onto non-antigen protein scaffolds, and compares their advantages and limitations. No background in computational protein design is needed, though basic knowledge of vaccine antigens and viral glycoproteins helps."
-link="https://www.ebi.ac.uk/training/events/strategies-computational-vaccine-design-prefusion-stabilisation-epitope-focussing/"
-dates="Date: 4 November 2026"
-data-deadline-date="2026-11-04">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Exploring proteins in infection biology with EMBL-EBI resources"
 description="This webinar shows how to find and connect protein functional and structural data across UniProt, EMDB, PDBe and the AlphaFold Database (AFDB), using influenza haemagglutinin as a case study. It covers sequence and functional annotation, cryo-EM maps, and experimental and predicted structures. It ends with a discussion of open biological data in infection research and pandemic preparedness."
 link="https://www.ebi.ac.uk/training/events/exploring-proteins-infection-biology-embl-ebi-resources/"
@@ -624,17 +614,6 @@ description="This webinar covers how to communicate scientific results and repor
 link="https://www.ebi.ac.uk/training/events/science-communication-dissemination-scientific-results-variety-audiences/"
 dates="Date: 13 November 2026"
 data-deadline-date="2026-11-13">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics"
-description="This course covers best practices and advanced machine learning techniques for building more accurate, generalisable and transparent models, including Bayesian hyper-parameter optimisation, nested cross-validation and explaining feature contributions in &quot;black-box&quot; models. It is aimed at researchers who already know machine learning basics and Python, and combines theory, demonstrations, micro-exercises and group work on a project."
-link="https://www.sib.swiss/training/course/20261117__INTML"
-deadline="Registration deadline: 3 November 2026"
-dates="Date: 17 November 2026"
-data-deadline-date="2026-11-04">
 </text-tile>
 </div>
 
@@ -732,16 +711,6 @@ data-deadline-date="2026-11-25">
 </text-tile>
 </div>
 
-
-<div class="tile-grid">
-<text-tile
-title="Online: OpenAIRE Content Providers Community Call"
-description="This community call covers how OpenAIRE Broker integrates with DSpace repositories, so that repository records can be enriched automatically with metadata from the OpenAIRE Graph. The session introduces OpenAIRE Broker and explains how it works with DSpace. It ends with a live demonstration from a repository that already uses the service."
-link="https://www.openaire.eu/component/jevents/eventdetail/1660/openaire-content-providers-community-call"
-dates="Date: 4 November 2026"
-data-deadline-date="2026-11-04">
-</text-tile>
-</div>
 
 <div class="tile-grid">
 <text-tile
