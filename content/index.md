@@ -91,29 +91,20 @@ hide:
 
 ## Latest news and announcements
 
+### Reviving Professorware: An Agentic Approach
+
+Research software often follows a familiar path: a student develops a tool as part of their research, the tool gains real users, and eventually the student moves on. The software, however, remains at the institute, lacking the time, resources, or expertise needed for further development and maintenance. Over time, useful research tools can become static, even as researchers continue to rely on them. **Could AI help bring some of these tools back to life?**
+
+[More info](news/posts/2026/AHM2026_Poster_KEGGanim.md)
+
+
+
 ### bio.tools: keeping up with the growing world of life-science software
 
 Finding the right research software can be challenging, especially as new tools and databases are continually being developed. [bio.tools](https://bio.tools) helps researchers navigate this growing landscape by bringing life-science software together in a single registry. It has grown to over 33,000 tools and databases, described using structured metadata and the EDAM ontology.
 
 [More info](news/posts/2026/bio.tools_article.md)
 
-### Student thesis topics 2026
-
-ELIXIR Estonia builds and maintains web tools and other resources for life science research. We also provide training and consultations in research data management. Our goal is to create solutions that last and stay useful for years to come.
-
-We offer the following topics:
-
-* Broneeritud - MSc level: Scalable k-mer and graph-based clustering of short peptide sequences under limited memory
-* Võetud - BSc level: Kohalikul tehisintellektimudelil põhinev kakskeelne andmehalduse nõustaja Eesti teadlastele
-* MSc level: Can an open-weight LLM check metadata reliably in Estonian and English?
-* Broneeritud - MSc level: Does good metadata get data reused? GEO as a test bed
-* MSc level: From prose to machine-actionable DMPs
-* Võetud - BSc level: Kas automaatsed FAIR-hindajad on omavahel nõus?
-* Broneeritud - BSc level: Kas kadunud veebiteenuse saab teadusartikli põhjal taaselustada?
-* MSc level: Can AI Agents Reproduce Bioimage Analysis Papers? Evaluating and Improving Open Models and Specialised Agents
-* Võetud - BSc level: Eesti 10 km rahvajooksude osalus- ja tulemustrendid maakondade lõikes aastatel 2016–2026
-
-[More info](news/posts/2026/thesis_topics_2026.md)
 
 
 ### ELEVATE-DM: Strengthening Data Stewardship Across Europe
