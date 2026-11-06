@@ -342,16 +342,6 @@ data-deadline-date="2026-11-06">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Constraint-based modeling of metabolic networks with CellNetAnalyzer and CNApy: Module 1 - Basics"
-description="This course introduces the principles and key methods of constraint-based modeling of metabolic networks, combined with live demonstrations and hands-on exercises using CellNetAnalyzer (CNA) and its Python variant CNApy. Participants will explore metabolic flux analysis, flux variability analysis and metabolic pathway analysis while practicing with small example and realistic metabolic models."
-link="https://www.denbi.de/training-courses-2026/2116-constraint-based-modeling-of-metabolic-networks-with-cellnetanalyzer-and-cnapy-module-1-basics"
-dates="Date: 5 November 2026"
-data-deadline-date="2026-11-05">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Constraint-based modeling of metabolic networks with CellNetAnalyzer and CNApy: Module 2 - Advanced topics"
 description="Building upon the CellNetAnalyzer/CNApy introductory course, this course covers advanced methods for constraint-based modeling of metabolic networks, including phase planes and yield spaces, minimal cut sets, enzyme-constrained models, and COBRA-k. Live demonstrations and hands-on exercises with CellNetAnalyzer and CNApy will help participants apply these advanced techniques in their own work."
 link="https://www.denbi.de/training-courses-2026/2117-constraint-based-modeling-of-metabolic-networks-with-cellnetanalyzer-and-cnapy-module-2-advanced-topics"
@@ -435,18 +425,6 @@ link="https://www.embl.org/about/info/course-and-conference-office/events/tdc27-
 deadline="Registration deadline: 23 November 2026"
 dates="Date: 14 - 19 March 2027"
 data-deadline-date="2026-11-24">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
-title="Switzerland: Single-Cell Transcriptomics with R"
-description="This course explores single-cell RNA-seq (scRNA-seq) technologies and the main things to consider when designing an scRNA-seq experiment. It includes hands-on practical data analysis sessions using droplet-based methods. It is aimed at PhD students, postdocs and other life-science researchers from academia and industry who are already familiar with next-generation sequencing (NGS)."
-link="https://www.sib.swiss/training/course/20261111_ISCTR"
-deadline="Registration deadline: 4 November 2026"
-dates="Date: 11 - 13 November 2026"
-data-deadline-date="2026-11-05">
 </text-tile>
 </div>
 
@@ -625,17 +603,6 @@ link="https://www.embl.org/about/info/course-and-conference-office/events/pbs27-
 deadline="Registration deadline: 12 January 2027 (on-site); 9 February 2027 (virtual)"
 dates="Date: 16 - 19 February 2027"
 data-deadline-date="2027-02-10">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Nextflow in Action: Build Smarter, Faster, Reproducible Pipelines"
-description="This course teaches participants how to wrap their bioinformatics analyses in the Nextflow workflow orchestrator using hands-on strategies. Participants will learn to build modular, plug-and-play pipelines, choose suitable software management tools and run their pipelines on different executors, from local machines to HPC clusters."
-link="https://www.sib.swiss/training/course/20261118_NEXAC"
-deadline="Registration deadline: 4 November 2026"
-dates="Date: 18 - 19 November 2026"
-data-deadline-date="2026-11-05">
 </text-tile>
 </div>
 
