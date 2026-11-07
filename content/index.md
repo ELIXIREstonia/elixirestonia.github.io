@@ -226,18 +226,6 @@ data-deadline-date="2026-11-26">
 
 <div class="tile-grid">
 <text-tile
-title="Belgium: Neuroimmunology"
-description="Neuroimmunology explores the dynamic interactions between the nervous and immune systems and how these shape function and disease. This conference brings together leading experts and rising voices to discuss innate and adaptive immunity in CNS health and disease, barrier systems and peripheral-CNS crosstalk, and new therapeutic approaches to modulate neuroimmunity."
-link="https://www.vibconferences.be/events/neuroimmunology"
-deadline="Registration deadline: 5 November 2026"
-dates="Date: 19 - 20 November 2026"
-data-deadline-date="2026-11-06">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: Quantitative biology to molecular mechanisms"
 description="This EMBO Workshop explores how advances in genomics, proteomics, imaging and other quantitative technologies can deepen our understanding of biological systems. It brings together researchers across single-cell biology, quantitative imaging, synthetic biology and theory to connect data with mechanistic and predictive models."
 link="https://www.embl.org/about/info/course-and-conference-office/events/omx26-01/"
@@ -326,17 +314,6 @@ link="https://www.maastrichtuniversity.nl/events/m4i-mass-spectrometry-imaging-w
 deadline="Registration deadline: 10 November 2026"
 dates="Date: 23 - 27 November 2026"
 data-deadline-date="2026-11-10">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Luxembourg: Impact of Big Data & AI Analytics on Healthcare"
-description="This conference brings together experts in AI, machine learning and biomedicine to explore how data-driven innovation is transforming healthcare, from drug discovery to precision medicine and clinical applications. The programme covers big data and machine learning, target discovery and drug development, clinical decision support systems, and technological and industrial advances, while fostering interdisciplinary exchange and collaboration across the international bioinformatics community."
-link="https://bigdata.uni.lu/"
-deadline="Registration deadline: 5 November 2026"
-dates="Date: 19 - 20 November 2026"
-data-deadline-date="2026-11-06">
 </text-tile>
 </div>
 
@@ -576,17 +553,6 @@ data-added-date="2026-10-19">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Designing sustainable systems: sustainability assessment of bio-based products and processes"
-description="This webinar covers how the microbiome of microalgae cultures changes between lab-scale and pilot-scale cultivation, and how bacterial communities differ across strains, growth conditions and production scales. It also introduces the Safe and Sustainable by Design (SSbD) framework and NORCE's work on building sustainability assessment into bio-based innovation. It is part of the series &quot;Exploring and harnessing marine microbiomes for a sustainable blue bioeconomy&quot;."
-link="https://www.ebi.ac.uk/training/events/designing-sustainable-systems-sustainability-assessment-bio-based-products-and-processes/"
-dates="Date: 6 November 2026"
-data-deadline-date="2026-11-06">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Online: Science communication: dissemination of scientific results to a variety of audiences"
 description="This webinar covers how to communicate scientific results and report them to funding bodies such as the EU, and how to measure and report key performance indicators (KPIs). It is aimed at academic and industry researchers in aquaculture, agriculture and pharmaceuticals, and at research infrastructure staff who work with marine sampling, scientific data or discovery platforms."
 link="https://www.ebi.ac.uk/training/events/science-communication-dissemination-scientific-results-variety-audiences/"
@@ -603,16 +569,6 @@ link="https://www.embl.org/about/info/course-and-conference-office/events/pbs27-
 deadline="Registration deadline: 12 January 2027 (on-site); 9 February 2027 (virtual)"
 dates="Date: 16 - 19 February 2027"
 data-deadline-date="2027-02-10">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Horizon Europe Open Science requirements in practice"
-description="This webinar answers questions Horizon Europe grant holders may have about Open Access to publications and Research Data Management. It covers mandatory and recommended Open Science requirements, how to comply with the Open Access mandate, how to manage and share research data, and how to deliver Data Management Plans and report outputs, as well as OpenAIRE tools for Horizon Europe projects. It is aimed at project coordinators, researchers, research managers, librarians and data stewards, and ends with a Q&A with experts."
-link="https://www.openaire.eu/component/jevents/eventdetail/1600/horizon-europe-open-science-requirements-in-practice"
-dates="Date: 6 November 2026"
-data-deadline-date="2026-11-06">
 </text-tile>
 </div>
 
