@@ -226,17 +226,6 @@ data-deadline-date="2026-11-26">
 
 <div class="tile-grid">
 <text-tile
-title="Hybrid: Quantitative biology to molecular mechanisms"
-description="This EMBO Workshop explores how advances in genomics, proteomics, imaging and other quantitative technologies can deepen our understanding of biological systems. It brings together researchers across single-cell biology, quantitative imaging, synthetic biology and theory to connect data with mechanistic and predictive models."
-link="https://www.embl.org/about/info/course-and-conference-office/events/omx26-01/"
-deadline="Registration deadline: 6 October 2026 (on-site); 10 November 2026 (virtual)"
-dates="Date: 17 - 20 November 2026"
-data-deadline-date="2026-11-10">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Artificial intelligence for biology: Capabilities, readiness, and policy implications"
 description="This report provides an overview of the capabilities and trends of certain AI models with applications in molecular and cellular biology."
 materials="https://data.europa.eu/doi/10.2760/9397036"
@@ -303,17 +292,6 @@ description="Living organisms exhibit remarkable hierarchical complexity that ca
 link="https://www.dtls.nl/courses/dynamic-modeling-in-systems-biology-2026/"
 dates="Date: 7 - 11 December 2026"
 data-deadline-date="2026-12-07">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Netherlands: M4i Mass Spectrometry Imaging Workshop"
-description="This 5-day workshop introduces Mass Spectrometry Imaging fundamentals, including MALDI, DESI, REIMS and SIMS, as well as the latest developments in MALDI imaging, sample preparation and data analysis. Participants will take part in multiple practical sessions and gain hands-on experience using state-of-the-art mass spectrometry facilities at M4i."
-link="https://www.maastrichtuniversity.nl/events/m4i-mass-spectrometry-imaging-workshop"
-deadline="Registration deadline: 10 November 2026"
-dates="Date: 23 - 27 November 2026"
-data-deadline-date="2026-11-10">
 </text-tile>
 </div>
 
@@ -507,16 +485,6 @@ link="https://www.sib.swiss/training/course/20261208_ISTDA"
 deadline="Registration deadline: 1 December 2026"
 dates="Date: 8 - 10 December 2026"
 data-deadline-date="2026-12-02">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: FAIR Pathogen Data: From Research Data Management Basics and Standards to ENA Submission"
-description="This two-session online workshop covers research data management for non-human pathogen data, from the data life cycle and pathogen-specific challenges to ENA metadata standards and the Webin Submission System. The second day is practical, with a live Webin demo, piloting of a harmonised metadata template, a data retrieval exercise and breakout rooms where participants map datasets to a shared template. It is aimed at researchers, data stewards and bioinformaticians with basic knowledge of genomics or molecular biology."
-link="https://www.denbi.de/training-courses-2026/2110-fair-pathogen-data-from-research-data-management-basics-and-standards-to-ena-submission"
-dates="Date: 10 - 11 November 2026"
-data-deadline-date="2026-11-10">
 </text-tile>
 </div>
 
