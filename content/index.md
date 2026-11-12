@@ -501,16 +501,6 @@ data-deadline-date="2027-02-03">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Exploring proteins in infection biology with EMBL-EBI resources"
-description="This webinar shows how to find and connect protein functional and structural data across UniProt, EMDB, PDBe and the AlphaFold Database (AFDB), using influenza haemagglutinin as a case study. It covers sequence and functional annotation, cryo-EM maps, and experimental and predicted structures. It ends with a discussion of open biological data in infection research and pandemic preparedness."
-link="https://www.ebi.ac.uk/training/events/exploring-proteins-infection-biology-embl-ebi-resources/"
-dates="Date: 11 November 2026"
-data-deadline-date="2026-11-11">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: From hard drive to archive: submitting your data to make it findable and reusable"
 description="This webinar introduces European data infrastructures and why metadata standards matter, then covers EMBL-EBI submission and curation tools such as ENA, BioSamples and checklists, with best practices for submitting marine sample and sequence data. It also looks at the challenges of heterogeneous metadata and third-party curation, using the Metalog database of contextual data for over 150,000 metagenomic samples as an example."
 materials="https://www.ebi.ac.uk/training/events/hard-drive-archive-submitting-your-data-make-it-findable-and-reusable/"
@@ -542,33 +532,12 @@ data-deadline-date="2027-02-10">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Using SN Link to find journals for your research"
-description="This webinar shows how to use Springer Nature Link and its Journal Finder to pick suitable Springer Nature journals for your research. You'll learn how to check impact factors, turnaround times and other journal metrics, follow the impact of your research once it's published, and find content to support your work. The session is led by Stephen Burridge, Senior Account Development Manager, and includes time for questions."
-link="https://register.gotowebinar.com/register/3070468041313061215"
-dates="Date: 11 November 2026"
-data-deadline-date="2026-11-11">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: Enrichment Analysis"
 description="This course introduces Gene Set Enrichment Analysis (GSEA) and other enrichment methods for interpreting lists of differentially expressed genes, together with functional annotation databases such as Gene Ontology. Participants learn to apply overrepresentation and GSEA methods in R. It is aimed at life science researchers from academia and industry."
 link="https://www.sib.swiss/training/course/20261127_ENRIC"
 deadline="Registration deadline: 12 November 2026"
 dates="Date: 27 November 2026"
 data-deadline-date="2026-11-13">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Hybrid: Doing qualitative research in conversation with AI"
-description="This one-day workshop introduces qualitative researchers to AI tools such as generative AI and Large Language Models, covering best practices, how conversations shape outputs, and where those outputs come from. It also addresses ethical issues, data security and research integrity, and includes an in-person group workshop on tools, techniques and prompts."
-link="https://www.aalto.fi/en/events/doing-qualitative-research-in-conversation-with-ai-nov-10-2026"
-deadline="Registration deadline: 10 November 2026"
-dates="Date: 10 November 2026"
-data-deadline-date="2026-11-11">
 </text-tile>
 </div>
 
