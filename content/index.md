@@ -511,33 +511,12 @@ data-added-date="2026-10-19">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Science communication: dissemination of scientific results to a variety of audiences"
-description="This webinar covers how to communicate scientific results and report them to funding bodies such as the EU, and how to measure and report key performance indicators (KPIs). It is aimed at academic and industry researchers in aquaculture, agriculture and pharmaceuticals, and at research infrastructure staff who work with marine sampling, scientific data or discovery platforms."
-link="https://www.ebi.ac.uk/training/events/science-communication-dissemination-scientific-results-variety-audiences/"
-dates="Date: 13 November 2026"
-data-deadline-date="2026-11-13">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Hybrid: From molecules to the future of predictive biology: memorial symposium for Peer Bork"
 description="This four-day memorial symposium honours Peer Bork, EMBL's interim Director General, who died in January 2026. It brings together international scientists for invited talks, short talks selected from abstracts, poster sessions and networking. Themes include protein biology, molecular evolution, systems biology, the human microbiome, planetary biology and the future of predictive biology."
 link="https://www.embl.org/about/info/course-and-conference-office/events/pbs27-01/"
 deadline="Registration deadline: 12 January 2027 (on-site); 9 February 2027 (virtual)"
 dates="Date: 16 - 19 February 2027"
 data-deadline-date="2027-02-10">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Enrichment Analysis"
-description="This course introduces Gene Set Enrichment Analysis (GSEA) and other enrichment methods for interpreting lists of differentially expressed genes, together with functional annotation databases such as Gene Ontology. Participants learn to apply overrepresentation and GSEA methods in R. It is aimed at life science researchers from academia and industry."
-link="https://www.sib.swiss/training/course/20261127_ENRIC"
-deadline="Registration deadline: 12 November 2026"
-dates="Date: 27 November 2026"
-data-deadline-date="2026-11-13">
 </text-tile>
 </div>
 
