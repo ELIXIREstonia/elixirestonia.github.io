@@ -91,19 +91,20 @@ hide:
 
 ## Latest news and announcements
 
+### ELIXIR Estonia’s January to June 2026 Highlights
+
+The first half of 2026 was one of our busiest periods yet. We worked with colleagues across the University of Tartu, other ELIXIR Nodes and partner institutions in neighbouring countries. Our collaborations ranged from contributing to shared resources and speaking at seminars to running workshops and working together on projects. Research data management and training were especially active areas for us.
+
+[More info](news/posts/2026/Newsletter_2026-01.md)
+
+
+
+
 ### Reviving Professorware: An Agentic Approach
 
 Research software often follows a familiar path: a student develops a tool as part of their research, the tool gains real users, and eventually the student moves on. The software, however, remains at the institute, lacking the time, resources, or expertise needed for further development and maintenance. Over time, useful research tools can become static, even as researchers continue to rely on them. **Could AI help bring some of these tools back to life?**
 
 [More info](news/posts/2026/AHM2026_Poster_KEGGanim.md)
-
-
-
-### bio.tools: keeping up with the growing world of life-science software
-
-Finding the right research software can be challenging, especially as new tools and databases are continually being developed. [bio.tools](https://bio.tools) helps researchers navigate this growing landscape by bringing life-science software together in a single registry. It has grown to over 33,000 tools and databases, described using structured metadata and the EDAM ontology.
-
-[More info](news/posts/2026/bio.tools_article.md)
 
 
 
