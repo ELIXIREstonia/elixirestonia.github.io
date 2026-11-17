@@ -340,18 +340,6 @@ data-added-date="2026-09-07">
 
 <div class="tile-grid">
 <text-tile
-title="Belgium: Exploring protein structures: From analysis to prediction"
-description="This course introduces the fundamental principles of protein structure analysis and prediction for researchers new to the field. Through theory and hands-on practice, participants learn to explore, compare and visualize protein structures, gain insight into modern prediction methods such as AlphaFold, design protein variants and study protein-protein interactions."
-link="https://training.vib.be/all-trainings/exploring-protein-structures-analysis-prediction"
-deadline="Registration deadline: 15 November 2026"
-dates="Date: 25 - 26 November 2026"
-data-deadline-date="2026-11-16">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Germany: Microbial metagenomics: a 360º approach"
 description="This hands-on course combines experimental and computational methods for studying microbial communities, from environmental sampling and DNA extraction from soil and water to sequencing and in silico data analysis. Participants will learn metabarcoding with third-generation sequencing (Nanopore/PacBio), phage genomics and single-cell approaches, along with bioinformatics covering genome assembly, MAG reconstruction, functional annotation and statistical analysis. The course is aimed at advanced PhD students and early postdoctoral researchers."
 link="https://www.embl.org/about/info/course-and-conference-office/events/met27-01/"
@@ -518,16 +506,6 @@ link="https://www.embl.org/about/info/course-and-conference-office/events/pbs27-
 deadline="Registration deadline: 12 January 2027 (on-site); 9 February 2027 (virtual)"
 dates="Date: 16 - 19 February 2027"
 data-deadline-date="2027-02-10">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Connect and Make datasets easier to (re)use"
-description="This one-hour session looks at how rich dataset documentation can help researchers find, understand and reuse datasets. Mari Wigham (Huygens Instituut) will present tools and formats and share real-life examples. Open questions such as bias, positionality, barriers to creating documentation and gaps between disciplines will be covered, followed by time for questions and informal discussion."
-link="https://www.library.universiteitleiden.nl/events/2026/11/connect--reuse"
-dates="Date: 16 November 2026"
-data-deadline-date="2026-11-16">
 </text-tile>
 </div>
 
