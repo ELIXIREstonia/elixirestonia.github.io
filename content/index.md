@@ -298,16 +298,6 @@ data-deadline-date="2026-12-07">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Constraint-based modeling of metabolic networks with CellNetAnalyzer and CNApy: Module 2 - Advanced topics"
-description="Building upon the CellNetAnalyzer/CNApy introductory course, this course covers advanced methods for constraint-based modeling of metabolic networks, including phase planes and yield spaces, minimal cut sets, enzyme-constrained models, and COBRA-k. Live demonstrations and hands-on exercises with CellNetAnalyzer and CNApy will help participants apply these advanced techniques in their own work."
-link="https://www.denbi.de/training-courses-2026/2117-constraint-based-modeling-of-metabolic-networks-with-cellnetanalyzer-and-cnapy-module-2-advanced-topics"
-dates="Date: 19 November 2026"
-data-deadline-date="2026-11-19">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Online: A Practical Introduction to NGS Data Analysis and Variant Calling"
 description="This online workshop provides a practical introduction to Next-Generation Sequencing (NGS), with a focus on bioinformatics and the advantages and limitations of current sequencing technologies. Participants will work with a real-life Illumina dataset to understand NGS data, identify potential problems and error sources, and perform a first downstream analysis for DNA variant calling. The course is designed for beginners with little or no background in NGS bioinformatics or computer science."
 link="https://www.ecseq.com/workshops/workshop_2026-09-A-Practical-Introduction-to-NGS-Data-Analysis-Online-Course"
