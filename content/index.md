@@ -298,18 +298,6 @@ data-deadline-date="2026-12-07">
 
 <div class="tile-grid">
 <text-tile
-title="Online: A Practical Introduction to NGS Data Analysis and Variant Calling"
-description="This online workshop provides a practical introduction to Next-Generation Sequencing (NGS), with a focus on bioinformatics and the advantages and limitations of current sequencing technologies. Participants will work with a real-life Illumina dataset to understand NGS data, identify potential problems and error sources, and perform a first downstream analysis for DNA variant calling. The course is designed for beginners with little or no background in NGS bioinformatics or computer science."
-link="https://www.ecseq.com/workshops/workshop_2026-09-A-Practical-Introduction-to-NGS-Data-Analysis-Online-Course"
-deadline="Registration deadline: 22 November 2026"
-dates="Date: 23 - 25 November 2026"
-data-deadline-date="2026-11-23">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Material: Working with hard-to-share data?"
 description="Researchers in the social sciences and humanities often work with data that cannot easily be shared due to ethical, cultural, commercial or practical constraints. Developed through the Beyond Personal Data project, these guidebooks and openly licensed training materials offer practical guidance for responsibly sharing sensitive data, including field notes, using secure environments, and applying the CARE principles."
 materials="https://dans.knaw.nl/en/news/working-with-hard-to-share-data/"
