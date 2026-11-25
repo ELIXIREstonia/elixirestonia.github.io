@@ -330,29 +330,6 @@ data-deadline-date="2026-12-01">
 
 <div class="tile-grid">
 <text-tile
-title="Germany: Quantitative proteomics: strategies and tools to probe biology"
-description="This hands-on course combines expert-led lectures with practical sessions on software-based analysis of proteomic data. It covers the principles of quantification, software tools for different data types, and applications in protein regulation, cellular interactions and post-translational modifications. A dedicated lecture covers AI applications in mass spectrometry."
-link="https://www.embl.org/about/info/course-and-conference-office/events/qpr27-01/"
-deadline="Registration deadline: 23 November 2026"
-dates="Date: 7 - 12 March 2027"
-data-deadline-date="2026-11-24">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Germany: 3D cultures: spheroids, organoids, and explants"
-description="This EMBO Practical Course offers PhD students and postdocs theoretical and hands-on training in setting up and characterising 3D cell and tissue culture models, from disease modelling to functional precision medicine. It covers organoid and spheroid culture, viability and advanced imaging, sample preparation, functional readouts, image analysis and data processing. It also addresses key challenges such as standardisation, appropriate controls, minimum information guidelines and metadata sharing."
-link="https://www.embl.org/about/info/course-and-conference-office/events/tdc27-01/"
-deadline="Registration deadline: 23 November 2026"
-dates="Date: 14 - 19 March 2027"
-data-deadline-date="2026-11-24">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Germany: In situ CLEM at room temperature and in cryo"
 description="This course equips participants with practical, hands-on skills in Correlative Light and Electron Microscopy (CLEM) at both room temperature and cryogenic conditions. It combines theory with practical sessions on high-precision localisation and cutting-edge sample preparation, such as high-pressure freezing, plunge freezing and ultramicrotomy. Participants will learn to build customised CLEM workflows for their own research questions, with close guidance from CLEM and EM experts."
 link="https://www.embl.org/about/info/course-and-conference-office/events/lem27-01"
@@ -484,16 +461,6 @@ link="https://www.embl.org/about/info/course-and-conference-office/events/pbs27-
 deadline="Registration deadline: 12 January 2027 (on-site); 9 February 2027 (virtual)"
 dates="Date: 16 - 19 February 2027"
 data-deadline-date="2027-02-10">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
-title="Online: Introduction to anonymisation techniques for social sciences research data"
-description="This free 90-minute introductory workshop covers the basic principles of anonymising social science research data, both quantitative survey data and qualitative transcripts, with brief notes on audio and visual material. Topics include definitions of personal data, identifiability, how de-identification differs from anonymisation, direct versus indirect identifiers, and special category data. It is aimed at researchers, data managers and other data professionals."
-link="https://ukdataservice.ac.uk/events/introduction-to-anonymisation-techniques-for-social-sciences-research-data-2026-11-24/"
-dates="Date: 24 November 2026"
-data-deadline-date="2026-11-24">
 </text-tile>
 </div>
 
