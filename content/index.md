@@ -466,17 +466,6 @@ data-deadline-date="2027-02-10">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Research Integrity"
-description="Understanding research integrity is key to keeping your work credible and protecting your career. In this webinar, Laura Whitehead, Research Integrity Manager at Springer Nature, explains why research integrity matters, what can go wrong and how to avoid it in your own work. You will also learn what publishers do to correct and maintain the scientific record."
-link="https://register.gotowebinar.com/register/2913182903074089817"
-dates="Date: 25 November 2026"
-data-deadline-date="2026-11-25">
-</text-tile>
-</div>
-
-
-<div class="tile-grid">
-<text-tile
 title="Material: OpenFest 2026: People and Place"
 description="OpenFest is an annual week of online talks, panels and discussions on open education, open research and open practice, run jointly by the University of Sheffield and Sheffield Hallam University. The 2026 theme was People and Place. Sessions covered citizen science and co-production, feminist and creative ways of making knowledge, building capacity for open research, research communities and inclusive research, with a keynote by Dr Madeleine Pownall."
 materials="https://libguides.shu.ac.uk/openresearch/openfest"
