@@ -213,15 +213,15 @@
     Coordinator of Research Projects
     <br>University of Tartu
 
-- title: Marko Arrak
-  image: ../assets/images/people/marko.jpg
-  content: |
-    Principal Analyst (GDI)
-    <br>University of Tartu
-    <br>
-    <span class="social">
-    <a target="_blank" href="https://www.linkedin.com/in/marko-arrak/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
-    </span>
+#- title: Marko Arrak
+  #image: ../assets/images/people/marko.jpg
+  #content: |
+    #Principal Analyst (GDI)
+    #<br>University of Tartu
+    #<br>
+    #<span class="social">
+    #<a target="_blank" href="https://www.linkedin.com/in/marko-arrak/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+    #</span>
 
 - title: Kersti Jääger, PhD
   image: ../assets/images/people/kersti.png
@@ -234,18 +234,18 @@
     <a target="_blank" href="https://orcid.org/0000-0002-0503-9292"><img src="/assets/images/social/orcid.png" width="20" height="20" alt="ORCID" title="ORCID"/></a>
     </span>
 
-- title: Markus Marandi
-  image: ../assets/images/people/markus.png
-  content: |
-    DevOps Engineer (GDI)
-    <br>University of Tartu
+#- title: Markus Marandi
+  #image: ../assets/images/people/markus.png
+  #content: |
+    #DevOps Engineer (GDI)
+    #<br>University of Tartu
 
-- title: Karl-Martin Voovere
-  image: ../assets/images/people/user.png
-  content: |
-    Software Analyst (GDI)
-    <br>University of Tartu
-    <br>
-    <span class="social">
-    <a target="_blank" href="https://www.linkedin.com/in/kmvoovere/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
-    </span>
+#- title: Karl-Martin Voovere
+  #image: ../assets/images/people/user.png
+  #content: |
+    #Software Analyst (GDI)
+   # <br>University of Tartu
+    #<br>
+    #<span class="social">
+    #<a target="_blank" href="https://www.linkedin.com/in/kmvoovere/"><img src="/assets/images/social/linkedin.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
+   # </span>
