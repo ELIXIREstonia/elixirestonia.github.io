@@ -217,16 +217,6 @@ data-added-date="2026-08-24">
 
 <div class="tile-grid">
 <text-tile
-title="Online: Interpreting the effects of genetic variants on protein structure and function"
-description="This six-hour virtual workshop provides hands-on experience using EMBL-EBI tools and resources to assess the effects of genetic variants on protein structure and function. Participants will work through a common analysis workflow using Ensembl Variant Effect Predictor (VEP), UniProt, PDBe-KB, and AlphaFoldDB to explore and interpret variant information."
-link="https://www.ebi.ac.uk/training/events/interpreting-effects-genetic-variants-protein-structure-and-function-2026/"
-dates="Date: 26 November 2026"
-data-deadline-date="2026-11-26">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="Material: Artificial intelligence for biology: Capabilities, readiness, and policy implications"
 description="This report provides an overview of the capabilities and trends of certain AI models with applications in molecular and cellular biology."
 materials="https://data.europa.eu/doi/10.2760/9397036"
@@ -277,17 +267,6 @@ data-added-date="2026-08-25">
 
 <div class="tile-grid">
 <text-tile
-title="Belgium: AI and Computational Biology"
-description="This conference explores how artificial intelligence is transforming life sciences research and advancing our understanding of complex biological systems. Internationally recognized speakers will present developments across four key themes: genome to function, cell to system, disease modeling, and innovation in machine learning."
-link="https://www.vibconferences.be/events/ai-and-computational-biology"
-deadline="Registration deadline: 25 November 2026"
-dates="Date: 9 - 10 December 2026"
-data-deadline-date="2026-11-26">
-</text-tile>
-</div>
-
-<div class="tile-grid">
-<text-tile
 title="The Netherlands: Dynamic Modeling in Systems Biology"
 description="Living organisms exhibit remarkable hierarchical complexity that cannot be understood through data collection alone. This course provides theoretical and hands-on training in building, simulating, and analyzing mathematical models of biological systems, with particular attention to numerical optimization and connecting model predictions with experimental data."
 link="https://www.dtls.nl/courses/dynamic-modeling-in-systems-biology-2026/"
@@ -327,17 +306,6 @@ data-deadline-date="2026-12-01">
 </text-tile>
 </div>
 
-
-<div class="tile-grid">
-<text-tile
-title="Germany: In situ CLEM at room temperature and in cryo"
-description="This course equips participants with practical, hands-on skills in Correlative Light and Electron Microscopy (CLEM) at both room temperature and cryogenic conditions. It combines theory with practical sessions on high-precision localisation and cutting-edge sample preparation, such as high-pressure freezing, plunge freezing and ultramicrotomy. Participants will learn to build customised CLEM workflows for their own research questions, with close guidance from CLEM and EM experts."
-link="https://www.embl.org/about/info/course-and-conference-office/events/lem27-01"
-deadline="Registration deadline: 21 October 2026 (on-site); 25 November 2026 (virtual)"
-dates="Date: 31 January - 5 February 2027"
-data-deadline-date="2026-11-26">
-</text-tile>
-</div>
 
 <div class="tile-grid">
 <text-tile
